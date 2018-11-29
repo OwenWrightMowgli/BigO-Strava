@@ -1,0 +1,39 @@
+---
+title: "Project Stuff"
+author: "Owen Wright"
+date: "11/15/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+```{r}
+Elliot_run<-activities%>% #Elliot's data messing
+  filter(type=="Run")%>%
+  mutate(miles=distance/1609,
+         minutes=elapsed_time/60,
+         pace=minutes/miles)%>%
+  select(-type)
+Justin_run<-activities%>% #Justin's data messing
+  filter(type=="Run")%>%
+  mutate(miles=distance/1609,
+         minutes=elapsed_time/60,
+         pace=minutes/miles)%>%
+  select(-type)
+Mowgli_act<-activities
+Mowgli_run<-activities%>% 
+  filter(type=="Run")%>%
+  mutate(miles=distance/1609,
+         minutes=elapsed_time/60,
+         pace=minutes/miles)%>%
+  select(-type)
+Birdo_run<-activities%>%
+  filter(type=="Run")%>%
+  mutate(miles=distance/1609,
+         minutes=elapsed_time/60,
+         pace=minutes/miles)%>%
+  select(-type)
+```
