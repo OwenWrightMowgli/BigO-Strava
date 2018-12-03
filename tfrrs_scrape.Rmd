@@ -1,0 +1,65 @@
+---
+title: "ignore"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(rvest)
+library(stringr)
+```
+Justin  !
+Jackson !
+Owen    !
+Mike Finn !
+Plumb   !
+Elliot - Just have activities file ! 
+Alec - Just have activities file   !
+Bill - 
+Turtle
+Calvin
+Chris Brenk
+Byver 
+Ruben 
+Ben
+Cian
+Meatsauce
+Freshmen 
+
+
+```{r}
+url <- "https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html" 
+data <- html_nodes(web, ".xc .panel-heading-normal-text , .xc .panel-heading-text")
+data_strp <- str_replace_all(html_text(data), '\n','') 
+data_strp <- str_replace_all(data_strp, '\t','') 
+# 1 = meet + date, 2 = distance, 3 = time, 4 = place 
+meet_name = list() 
+distance = list() 
+time = list() 
+place = list() 
+k <- 1
+for(i in seq(1, 40, by=4)){
+  meet_name[k] = data_strp[i]
+  distance[k] = data_strp[i+1]
+  time[k] = data_strp[i+2]
+  place[k] = data_strp[i+3]
+k <- k + 1  
+}
+
+
+justin <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+#https://www.tfrrs.org/athletes/5492056/St_Olaf/Justin_Furcich.html
+mowg <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place)) #https://www.tfrrs.org/athletes/5990269/St_Olaf/Owen_Wright.html
+milk <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+#https://www.tfrrs.org/athletes/5990267/St_Olaf/Jackson_Simon.html
+finn <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+#https://www.tfrrs.org/athletes/6430274/St_Olaf/Michael_Finn.html
+plum <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+  #https://xc.tfrrs.org/athletes/5492067.html
+iron_dog <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+  #https://www.tfrrs.org/athletes/5990262/St_Olaf/Elliot_Kadrofske.html
+birdo <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+  #https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html
+billiam <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+  #https://www.tfrrs.org/athletes/5492052.html
+```
+
