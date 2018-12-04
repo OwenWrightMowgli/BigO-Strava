@@ -3,6 +3,9 @@ title: "ignore"
 output: html_document
 ---
 
+#final product - index.rmd - md_document output
+# _config.yml theme: "" title: ""
+
 ```{r setup, include=FALSE}
 library(rvest)
 library(stringr)
@@ -14,8 +17,8 @@ Mike Finn !
 Plumb   !
 Elliot - Just have activities file ! 
 Alec - Just have activities file   !
-Bill - 
-Turtle
+Bill - !
+Turtle 
 Calvin
 Chris Brenk
 Byver 
@@ -25,9 +28,11 @@ Cian
 Meatsauce
 Freshmen 
 
-
+https://maxcandocia.com/article/2017/Sep/22/converting-garmin-fit-to-csv/
 ```{r}
-url <- "https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html" 
+url <- "https://www.tfrrs.org/athletes/5492052.html" 
+
+web <- read_html(url)
 data <- html_nodes(web, ".xc .panel-heading-normal-text , .xc .panel-heading-text")
 data_strp <- str_replace_all(html_text(data), '\n','') 
 data_strp <- str_replace_all(data_strp, '\t','') 
@@ -37,7 +42,7 @@ distance = list()
 time = list() 
 place = list() 
 k <- 1
-for(i in seq(1, 40, by=4)){
+for(i in seq(1, 42, by=4)){
   meet_name[k] = data_strp[i]
   distance[k] = data_strp[i+1]
   time[k] = data_strp[i+2]
@@ -61,5 +66,7 @@ birdo <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(pl
   #https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html
 billiam <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
   #https://www.tfrrs.org/athletes/5492052.html
+
+billiam
 ```
 
