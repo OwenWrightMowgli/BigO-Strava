@@ -1,0 +1,730 @@
+id,date,name,type,description,elapsed_time,distance,commute,gear,filename
+898288431,2017-03-12 20:30:19,8 ball,Run,,3206,13029.2,false,,
+899279848,2017-03-13 20:36:39,Bryce,Run,"",3403,12055.6,false,,activities/998110969.fit.gz
+899279860,2017-03-13 21:34:58,Finished inside,Run,"",168,789.7,false,,activities/998111022.fit.gz
+899415083,2017-03-01 22:13:34,Afternoon Run,Run,,203,765.7,false,,activities/998255910.fit.gz
+899415084,2017-02-12 22:44:26,Afternoon Run,Run,,269,1085.5,false,,activities/998255919.fit.gz
+899415090,2017-02-21 22:07:32,Afternoon Run,Run,,502,1730.0,false,,activities/998255917.fit.gz
+899415091,2017-02-21 22:20:56,Afternoon Run,Run,,929,2987.8,false,,activities/998255911.fit.gz
+899415092,2017-02-15 23:30:23,Afternoon Run,Run,,400,1577.3,false,,activities/998255916.fit.gz
+899415093,2017-02-23 22:04:15,Afternoon Run,Run,,1684,4832.4,false,,activities/998255921.fit.gz
+899415095,2017-02-28 22:26:41,Afternoon Run,Run,,502,1760.8,false,,activities/998255922.fit.gz
+899415097,2017-02-15 23:43:28,Afternoon Run,Run,,571,2055.7,false,,activities/998255926.fit.gz
+899415098,2017-02-15 22:53:51,Afternoon Run,Run,,1225,4728.0,false,,activities/998255929.fit.gz
+899415099,2017-03-12 20:35:12,Afternoon Run,Run,,3435,12954.5,false,,activities/998255946.fit.gz
+899415101,2017-02-25 19:39:27,Afternoon Run,Run,,894,3232.0,false,,activities/998255920.fit.gz
+899415103,2017-02-21 21:53:31,Afternoon Run,Run,,424,1631.8,false,,activities/998255923.fit.gz
+899415105,2017-02-25 00:40:26,Evening Run,Run,,1340,4887.0,false,,activities/998255914.fit.gz
+899415106,2017-02-10 23:43:41,Afternoon Run,Run,,1691,4988.1,false,,activities/998255924.fit.gz
+899415107,2017-02-13 23:26:22,Afternoon Run,Run,,810,2758.1,false,,activities/998255930.fit.gz
+899415109,2017-02-17 21:34:03,Afternoon Run,Run,,2260,7436.2,false,,activities/998255936.fit.gz
+899415110,2017-02-14 21:34:50,Afternoon Run,Run,,3151,11275.3,false,,activities/998255934.fit.gz
+899415111,2017-02-16 22:08:07,Afternoon Run,Run,,2843,9870.5,false,,activities/998255931.fit.gz
+899415113,2017-02-13 22:54:12,Afternoon Run,Run,,840,3242.0,false,,activities/998255918.fit.gz
+899415114,2017-03-05 21:34:55,Afternoon Run,Run,,3273,11274.7,false,,activities/998255935.fit.gz
+899415115,2017-02-28 21:32:38,Afternoon Run,Run,,874,3315.2,false,,activities/998255928.fit.gz
+899415118,2017-02-24 23:18:25,Afternoon Run,Run,,733,2700.3,false,,activities/998255927.fit.gz
+899415119,2017-02-20 23:05:50,Afternoon Run,Run,,1204,0.0,false,,activities/998255940.fit.gz
+899415121,2017-02-28 22:02:37,Afternoon Run,Run,,1020,1824.0,false,,activities/998255913.fit.gz
+899415122,2017-02-10 22:36:40,Afternoon Run,Run,,851,3142.8,false,,activities/998255915.fit.gz
+899415123,2017-02-11 21:34:36,Afternoon Run,Run,,3428,12037.3,false,,activities/998255932.fit.gz
+899415124,2017-03-10 21:34:24,Afternoon Run,Run,,2172,8108.2,false,,activities/998255941.fit.gz
+899415128,2017-02-12 21:35:08,Afternoon Run,Run,,4096,15522.9,false,,activities/998255938.fit.gz
+899415130,2017-02-11 22:32:45,Afternoon Run,Run,,209,851.7,false,,activities/998255925.fit.gz
+899415131,2017-02-27 21:32:44,Afternoon Run,Run,,4161,9872.6,false,,activities/998255939.fit.gz
+899415135,2017-02-13 23:51:04,Afternoon Run,Run,,906,3231.0,false,,activities/998255942.fit.gz
+899415136,2017-03-02 22:07:26,Afternoon Run,Run,,1679,5421.9,false,,activities/998255944.fit.gz
+899415139,2017-03-03 23:34:28,Afternoon Run,Run,,855,3123.0,false,,activities/998255912.fit.gz
+899415141,2017-02-18 17:17:08,Lunch Run,Run,,910,3334.0,false,,activities/998255943.fit.gz
+899415143,2017-02-22 21:33:13,Afternoon Run,Run,,2495,9668.7,false,,activities/998255937.fit.gz
+899415144,2017-03-01 21:34:52,Afternoon Run,Run,,2090,7094.0,false,,activities/998255950.fit.gz
+899415145,2017-02-19 21:33:26,Afternoon Run,Run,,2628,9674.0,false,,activities/998255947.fit.gz
+899415147,2017-02-18 18:13:17,Lunch Run,Run,,5678,6442.3,false,,activities/998255948.fit.gz
+899415149,2017-02-26 21:34:46,Afternoon Run,Run,,2147,7052.2,false,,activities/998255951.fit.gz
+900572689,2017-03-14 20:46:47,Pi Day 5k,Run,"",1067,4696.7,false,,activities/999474396.fit.gz
+900572711,2017-03-14 21:21:37,Afternoon Run,Run,,82,284.4,false,,activities/999474422.fit.gz
+900572740,2017-03-14 21:28:06,Afternoon Run,Run,,856,3227.7,false,,activities/999474459.fit.gz
+901905638,2017-03-15 20:59:39,NW Roads,Run,"",2610,9670.1,false,,activities/1000889592.fit.gz
+904947878,2017-03-17 20:32:38,Bryce ,Run,"",3441,12056.6,false,,activities/1004117112.fit.gz
+904947931,2017-03-17 21:30:58,Finished inside ,Run,"",226,859.5,false,,activities/1004117199.fit.gz
+904948371,2017-03-18 13:12:16,Midwest Tour Day 1: Upper Arb + finish on track,Run,"8 @ 8:00, woke up and hobbled to Carleton. Ran the big loop of their cross course. Frozen grass and hard surfaces, fun.",3666,12896.0,false,,activities/1004117567.fit.gz
+906682502,2017-03-19 15:31:02,Midwest Tour Day 2: Oak leaf trail ,Run,"",4330,16113.7,false,,activities/1005940578.fit.gz
+908278259,2017-03-20 20:23:09,Midwest Tour Day 3:To Deerfield HS,Run,"",457,1605.5,false,,activities/1007642715.fit.gz
+908278311,2017-03-20 20:37:18,Deerfield Warm Up,Run,"",927,3338.5,false,,activities/1007642763.fit.gz
+908278430,2017-03-20 21:07:32,Workout,Run,"",2039,6960.7,false,,activities/1007642885.fit.gz
+908278479,2017-03-20 21:47:48,Cool down ,Run,"",881,2655.4,false,,activities/1007642940.fit.gz
+908980741,2017-03-21 16:07:53,Midwest Tour Day 4: Green Bay Trail,Run,"",3653,12891.2,false,,activities/1008386934.fit.gz
+911382688,2017-03-22 22:46:56,Midwest Tour Day 5: Westmont Run,Run,"",3611,12891.5,false,,activities/1010866795.fit.gz
+911745531,2017-03-23 18:30:14,Midwest Tour Day 6: Met Meat's pony,Run,"",6428,20147.8,false,,activities/1011235760.fit.gz
+912469227,2017-03-24 12:55:08,Midwest Tour Day 7: Argonne loop ,Run,"",4334,15123.9,false,,activities/1011984974.fit.gz
+914124304,2017-03-25 14:48:35,Midwest Tour Day 8: To Turtle's house we go,Run,"",3646,12804.3,false,,activities/1013698130.fit.gz
+916123415,2017-03-26 20:44:04,Mohn to Guam to Porter,Run,"",4402,17718.2,false,,activities/1015772316.fit.gz
+917295950,2017-03-27 20:32:17,Iron Bridge,Run,"",3321,13001.9,false,,activities/1016980652.fit.gz
+918775808,2017-03-28 20:32:49,Berner ,Run,"",930,3710.8,false,,activities/1018487718.fit.gz
+918775938,2017-03-28 21:02:04,Workout ,Run,"",1681,5723.6,false,,activities/1018487850.fit.gz
+918776020,2017-03-28 21:33:49,Natural Lands Cooldown,Run,"",1078,3541.1,false,,activities/1018487937.fit.gz
+920082631,2017-03-29 20:37:38,Iron Bridge,Run,"",3708,13038.7,false,,activities/1019817630.fit.gz
+937603932,2017-03-30 21:52:34,Afternoon Run,Run,,970,3363.7,false,,activities/1037860170.fit.gz
+937603934,2017-03-30 21:23:29,Afternoon Run,Run,,1319,4839.5,false,,activities/1037860165.fit.gz
+937603943,2017-03-30 22:20:11,Afternoon Run,Run,,919,3236.7,false,,activities/1037860178.fit.gz
+937604008,2017-03-31 20:32:45,Afternoon Run,Run,,2651,9665.4,false,,activities/1037860248.fit.gz
+937604050,2017-04-01 15:22:51,Morning Run,Run,,924,3424.4,false,,activities/1037860286.fit.gz
+937604072,2017-04-01 16:36:29,Lunch Run,Run,,1988,5742.1,false,,activities/1037860307.fit.gz
+937604091,2017-04-03 20:36:56,Afternoon Run,Run,,1015,3983.9,false,,activities/1037860322.fit.gz
+937604109,2017-04-03 21:08:46,Afternoon Run,Run,"",1293,5347.8,false,,activities/1037860337.fit.gz
+937604120,2017-04-03 21:44:38,Afternoon Run,Run,,2323,5571.6,false,,activities/1037860352.fit.gz
+937604135,2017-04-04 20:33:05,Afternoon Run,Run,,3399,12897.5,false,,activities/1037860366.fit.gz
+937604136,2017-04-05 20:32:45,Afternoon Run,Run,,1068,4022.0,false,,activities/1037860377.fit.gz
+937604145,2017-04-05 21:03:57,Afternoon Run,Run,"",1255,4696.2,false,,activities/1037860390.fit.gz
+937604153,2017-04-05 21:34:32,Afternoon Run,Run,,1814,6080.1,false,,activities/1037860402.fit.gz
+937604175,2017-04-06 20:54:46,Afternoon Run,Run,,3774,13640.8,false,,activities/1037860426.fit.gz
+937604205,2017-04-07 20:33:28,Afternoon Run,Run,,2685,9668.1,false,,activities/1037860455.fit.gz
+937604206,2017-04-08 19:01:51,Afternoon Run,Run,,324,19.3,false,,activities/1037860467.fit.gz
+937604232,2017-04-08 19:53:33,Afternoon Run,Run,,883,3413.4,false,,activities/1037860490.fit.gz
+937604240,2017-04-08 21:20:26,Afternoon Run,Run,,667,1615.7,false,,activities/1037860498.fit.gz
+937604257,2017-04-08 22:43:19,Afternoon Run,Run,,249,825.8,false,,activities/1037860509.fit.gz
+937604266,2017-04-08 23:31:35,Evening Run,Run,,447,1495.0,false,,activities/1037860521.fit.gz
+937604290,2017-04-09 22:28:44,Afternoon Run,Run,,2183,8049.4,false,,activities/1037860534.fit.gz
+937604317,2017-04-10 20:33:12,Afternoon Run,Run,,3278,12794.0,false,,activities/1037860558.fit.gz
+938573247,2017-04-11 20:36:32,Afternoon Run,Run,,1024,3956.3,false,,activities/1038850341.fit.gz
+938573311,2017-04-11 21:10:58,Afternoon Run,Run,"",2913,9860.8,false,,activities/1038850408.fit.gz
+938573342,2017-04-11 22:02:49,Afternoon Run,Run,,1189,4181.9,false,,activities/1038850444.fit.gz
+970096529,2017-04-12 20:33:01,Afternoon Run,Run,,3889,12989.5,false,,activities/1071250404.fit.gz
+970096593,2017-04-14 21:35:47,Afternoon Run,Run,,3269,10513.8,false,,activities/1071250553.fit.gz
+970096604,2017-04-15 17:19:33,Lunch Run,Run,,1073,3695.8,false,,activities/1071250594.fit.gz
+970096614,2017-04-15 17:43:23,Lunch Run,Run,"",1311,3092.6,false,,activities/1071250643.fit.gz
+970096616,2017-04-15 18:14:41,Afternoon Run,Run,,1025,3228.9,false,,activities/1071250686.fit.gz
+970096623,2017-04-16 15:21:15,Morning Run,Run,,485,1931.3,false,,activities/1071250708.fit.gz
+970096654,2017-04-16 15:39:11,Morning Run,Run,,2481,8367.2,false,,activities/1071250767.fit.gz
+970096657,2017-04-16 16:35:01,Lunch Run,Run,,601,2285.2,false,,activities/1071250793.fit.gz
+970096675,2017-04-17 20:33:49,Afternoon Run,Run,,892,2636.9,false,,activities/1071250840.fit.gz
+970096691,2017-04-17 21:11:12,Afternoon Run,Run,"",1981,5756.2,false,,activities/1071250915.fit.gz
+970096702,2017-04-17 21:44:47,Afternoon Run,Run,,1386,4831.7,false,,activities/1071250983.fit.gz
+970096729,2017-04-18 20:33:22,Afternoon Run,Run,,3332,12882.4,false,,activities/1071251048.fit.gz
+970096735,2017-04-19 20:30:44,Afternoon Run,Run,,1019,4093.0,false,,activities/1071251083.fit.gz
+970096738,2017-04-19 21:02:41,Afternoon Run,Run,"",1292,4496.0,false,,activities/1071251122.fit.gz
+970096758,2017-04-19 21:29:06,Afternoon Run,Run,,1138,4031.7,false,,activities/1071251153.fit.gz
+971322099,2017-05-03 21:35:14,Afternoon Run,Run,,708,2418.5,false,,activities/1072522260.fit.gz
+971322198,2017-05-03 22:49:25,Afternoon Run,Run,,690,2491.2,false,,activities/1072522496.fit.gz
+971322473,2017-05-04 20:57:55,Afternoon Run,Run,,2176,7543.4,false,,activities/1072522758.fit.gz
+971378639,2017-04-21 20:32:35,Afternoon Run,Run,,1834,6439.4,false,,activities/1072521504.fit.gz
+971378687,2017-04-22 16:42:57,Lunch Run,Run,,944,3499.6,false,,activities/1072521564.fit.gz
+971378857,2017-04-23 20:35:17,Afternoon Run,Run,,4199,16104.3,false,,activities/1072521798.fit.gz
+971378932,2017-04-24 20:32:08,Afternoon Run,Run,,966,3868.0,false,,activities/1072521884.fit.gz
+971378933,2017-04-24 21:07:36,Afternoon Run,Run,"",761,2950.6,false,,activities/1072521948.fit.gz
+971378989,2017-04-24 21:28:41,Afternoon Run,Run,,1120,3675.7,false,,activities/1072522023.fit.gz
+971379077,2017-04-25 20:32:19,Afternoon Run,Run,,2945,10487.8,false,,activities/1072522189.fit.gz
+975784321,2017-05-05 20:39:37,Afternoon Run,Run,,1380,4794.0,false,,activities/1077158460.fit.gz
+975784487,2017-05-06 16:37:07,Lunch Run,Run,,865,3123.7,false,,activities/1077158672.fit.gz
+975784822,2017-05-06 17:48:45,Lunch Run,Run,,3432,9445.1,false,,activities/1077159072.fit.gz
+1007971181,2017-05-08 20:32:33,Afternoon Run,Run,,2631,9545.6,false,,activities/1110420114.fit.gz
+1007971302,2017-05-09 21:10:07,Afternoon Run,Run,,537,1733.6,false,,activities/1110420247.fit.gz
+1007971462,2017-05-09 21:23:11,Afternoon Run,Run,,566,2129.4,false,,activities/1110420402.fit.gz
+1007971577,2017-05-09 21:49:30,Afternoon Run,Run,,546,1478.2,false,,activities/1110420525.fit.gz
+1007971943,2017-05-10 21:48:34,Afternoon Run,Run,,2259,8056.1,false,,activities/1110420904.fit.gz
+1007972259,2017-05-11 20:53:36,Afternoon Run,Run,,1270,4299.8,false,,activities/1110421144.fit.gz
+1007972341,2017-05-12 18:06:18,Afternoon Run,Run,,886,3360.6,false,,activities/1110421322.fit.gz
+1007972421,2017-05-12 19:21:37,Afternoon Run,Run,,474,1627.5,false,,activities/1110421415.fit.gz
+1007972606,2017-05-13 20:15:31,Afternoon Run,Run,,744,2293.0,false,,activities/1110421579.fit.gz
+1007972824,2017-05-13 22:18:53,Afternoon Run,Run,,1075,3541.6,false,,activities/1110421799.fit.gz
+1007972998,2017-05-15 20:37:52,Afternoon Run,Run,,601,2160.6,false,,activities/1110421948.fit.gz
+1007973156,2017-05-15 21:17:50,Afternoon Run,Run,,347,1915.9,false,,activities/1110422107.fit.gz
+1007973661,2017-05-22 21:29:27,"Northwest Roads, post fat week",Run,"",2539,9689.1,false,,activities/1110422492.fit.gz
+1007973990,2017-05-23 13:58:15,Good bye Northfield,Run,"",2254,8051.2,false,,activities/1110422895.fit.gz
+1007974362,2017-05-25 15:08:20,Back in the 414,Run,"",3050,11335.3,false,,activities/1110423331.fit.gz
+1007974616,2017-05-26 20:59:46,I'm outta shape already,Run,"",1786,6878.5,false,,activities/1110423640.fit.gz
+1011309673,2017-05-28 01:46:06,Joy Ride,Ride,"",1319,5811.0,false,,activities/1113877044.fit.gz
+1011309812,2017-05-28 21:18:04,With Ryan,Run,"",3056,6640.9,false,,activities/1113877192.fit.gz
+1011310036,2017-05-29 12:52:19,Is Round a shape?,Run,"",1647,6463.3,false,,activities/1113877414.fit.gz
+1015844198,2017-05-31 22:02:07,I am so lost,Run,"",2371,8066.3,false,,activities/1118541504.fit.gz
+1015844443,2017-06-01 10:39:48,The suns out this early?!,Run,"",2908,11052.6,false,,activities/1118541738.fit.gz
+1017443480,2017-06-02 10:44:35,I've yet to meet a hill I like,Run,"",2706,9671.5,false,,activities/1120178011.fit.gz
+1019511359,2017-06-03 15:52:59,"I am a giant from the frozen north, today my face melted",Run,"",5425,14524.1,false,,activities/1122307992.fit.gz
+1021004097,2017-06-04 14:24:10,Morning Run,Run,,2887,9672.2,false,,activities/1123851232.fit.gz
+1023083410,2017-06-05 10:34:38,Hello there,Run,"",3109,11269.4,false,,activities/1125986807.fit.gz
+1023654963,2017-06-06 10:21:18,So this early morning grind is becoming a thing,Run,"",4153,14491.5,false,,activities/1126569884.fit.gz
+1027618506,2017-06-08 10:47:17,So sleepy,Run,"",2813,9664.6,false,,activities/1130578202.fit.gz
+1027618641,2017-06-08 22:57:14,When you can't get out of bed early enough...,Run,"",1658,6453.5,false,,activities/1130578331.fit.gz
+1028970733,2017-06-09 21:51:56,Afternoon Run,Run,,3791,13333.5,false,,activities/1131943003.fit.gz
+1029692435,2017-06-10 13:06:01,Jog about,Run,"",2421,8057.2,false,,activities/1132673917.fit.gz
+1030633841,2017-06-10 23:57:47,Warm up,Run,"",326,1245.7,false,,activities/1133630972.fit.gz
+1030633886,2017-06-11 00:41:14,Wisco mile 4:34(?),Run,"",469,1740.9,false,,activities/1133631016.fit.gz
+1030633979,2017-06-11 01:08:57,Cool down,Run,"",1374,5263.6,false,,activities/1133631125.fit.gz
+1031461791,2017-06-11 11:57:30,Meeeeeeeeerhhhhhhhhh,Run,"",3174,11238.6,false,,activities/1134476255.fit.gz
+1033014982,2017-06-12 10:18:51,Pea soup,Run,"",2854,9669.2,false,,activities/1136083187.fit.gz
+1036659699,2017-06-13 10:47:40,Morning Run,Run,,2618,7552.0,false,,activities/1139805030.fit.gz
+1036660332,2017-06-14 10:31:55,Morning Run,Run,,3477,11293.6,false,,activities/1139805632.fit.gz
+1037729141,2017-06-15 10:20:39,Monotony ,Run,"",3810,12884.5,false,,activities/1140896825.fit.gz
+1041565217,2017-06-17 20:39:08,And back,Ride,"",1423,7961.0,false,,activities/1144853183.fit.gz
+1041569060,2017-06-17 21:10:08,Out,Ride,,1200,8046.74,false,,
+1043524593,2017-06-18 22:24:55,Christening of Columbus ,Ride,"",3745,25615.2,false,,activities/1146886281.fit.gz
+1054890829,2017-06-24 13:59:53,16:54 community 5k,Run,"",2318,5232.1,false,,activities/1158561451.fit.gz
+1054891084,2017-06-26 10:21:21,Rip dead deer,Run,"",3280,11299.3,false,,activities/1158561709.fit.gz
+1054893658,2017-06-24 11:39:26,Found 5k setting up,Ride,"",2487,10859.3,false,,activities/1158561297.fit.gz
+1054901870,2017-06-24 13:00:10,Busy day,Ride,,5460,30577.6,true,,
+1057394706,2017-06-27 22:48:17,Um ya ya,Run,"",3698,12883.8,false,,activities/1161106736.fit.gz
+1059486060,2017-06-29 10:30:32,"Old lady called me a tv star, can't even make it on the big screen",Run,"",4187,14494.4,false,,activities/1163217012.fit.gz
+1060825977,2017-06-30 10:35:51,Rutabaga ,Run,"",3817,12958.1,false,,activities/1164568169.fit.gz
+1062742082,2017-07-01 12:00:03,RAC marathon group,Run,"",7030,21314.8,false,,activities/1166518921.fit.gz
+1064909144,2017-07-02 14:59:33,Mullberries are ripening,Run,"",2326,8054.7,false,,activities/1168725817.fit.gz
+1064909282,2017-07-02 21:11:50,"With Ryan and Jacob, just like high school ",Run,"",3993,9940.4,false,,activities/1168725935.fit.gz
+1066515136,2017-07-03 19:11:23,Ryan and Taylor,Run,"",4140,11612.6,false,,activities/1170350712.fit.gz
+1068138629,2017-07-04 12:09:01,W/ Anna & cool down w/ kittens ,Run,"",3735,12490.9,false,,activities/1171992091.fit.gz
+1070308515,2017-07-05 23:58:58,Had to poo,Run,"",3651,10329.0,false,,activities/1174188135.fit.gz
+1071366724,2017-07-07 01:04:19,Evening Run,Run,,3448,12887.9,false,,activities/1175253897.fit.gz
+1072608744,2017-07-07 23:17:29,The married couple hEard my fart,Run,"",4319,14799.4,false,,activities/1176509527.fit.gz
+1073976385,2017-07-08 13:29:54,Mediocre 5k with pizza baby #allpizzasarepersonalpizzas,Run,"",1024,5111.6,false,,activities/1177901066.fit.gz
+1073976870,2017-07-08 16:33:39,Found Nordic trails for work out,Run,"",3976,12898.3,false,,activities/1177901536.fit.gz
+1073976976,2017-07-08 18:41:17,Afternoon Ride,Ride,,2026,6196.7,false,,activities/1177901645.fit.gz
+1076691801,2017-07-09 14:59:50,Too tired ,Run,"",4626,10221.4,false,,activities/1180660754.fit.gz
+1076692245,2017-07-10 10:28:33,Geese smell,Run,"",3966,14486.1,false,,activities/1180661178.fit.gz
+1079746978,2017-07-12 10:12:25,Mr. Noodle,Run,"",4670,16103.5,false,,activities/1183797469.fit.gz
+1081343072,2017-07-13 10:21:24,Dooky ,Run,"",3986,12888.4,false,,activities/1185400470.fit.gz
+1083453930,2017-07-14 10:46:39,Geese are pansies,Run,"",3740,12878.2,false,,activities/1187534180.fit.gz
+1083645874,2017-07-14 22:45:39,Afternoon Run,Run,,1794,6748.1,false,,activities/1187728401.fit.gz
+1084632459,2017-07-15 11:38:24,Ride 2 run,Ride,"",1142,7730.3,false,,activities/1188735828.fit.gz
+1084633639,2017-07-15 12:05:46,Marathon group run,Run,"",7553,24347.9,false,,activities/1188736999.fit.gz
+1084633824,2017-07-15 14:22:29,Stopped at Brugers,Ride,"",2768,6081.2,false,,activities/1188737262.fit.gz
+1086318742,2017-07-16 12:57:32,Ran with Zeke ,Run,"",4653,12882.2,false,,activities/1190468522.fit.gz
+1095177972,2017-07-17 22:53:12,Afternoon Run,Run,,3523,9683.5,false,greenies,activities/1199464984.fit.gz
+1095177994,2017-07-18 10:15:33,Morning Run,Run,,4575,16129.1,false,greenies,activities/1199465000.fit.gz
+1096589601,2017-07-22 13:34:20,Morning Ride,Ride,,20380,79740.2,false,Columbus,activities/1200899574.fit.gz
+1097693027,2017-07-23 12:48:49,Morning Run,Run,,3677,12223.7,false,greenies,activities/1202027717.fit.gz
+1100060314,2017-07-24 10:23:54,Morning Run,Run,,4304,14499.9,false,greenies,activities/1204426207.fit.gz
+1101283755,2017-07-25 10:39:21,Morning Run,Run,,3665,12973.9,false,greenies,activities/1205658141.fit.gz
+1107194397,2017-07-28 12:17:00,Morning Ride,Ride,,1221,6120.0,false,Columbus,activities/1211647534.fit.gz
+1107194588,2017-07-28 22:23:25,Afternoon Ride,Ride,,1571,7599.6,false,Columbus,activities/1211647702.fit.gz
+1107194758,2017-07-29 11:41:59,Morning Ride,Ride,,1195,7695.2,false,Columbus,activities/1211647860.fit.gz
+1107195765,2017-07-29 12:03:47,Morning Run,Run,,8054,25388.8,false,greenies,activities/1211648691.fit.gz
+1107195836,2017-07-29 14:22:17,Morning Ride,Ride,"",2230,7619.4,true,Columbus,activities/1211648848.fit.gz
+1107197435,2017-07-26 10:26:07,Morning Run,Run,,3068,10052.8,false,greenies,activities/1211647400.fit.gz
+1112031840,2017-07-30 14:19:25,Morning Run,Run,,5811,15828.5,false,greenies,activities/1216567478.fit.gz
+1112032002,2017-07-31 10:27:16,Morning Run,Run,,3572,12883.2,false,greenies,activities/1216567752.fit.gz
+1112032116,2017-07-31 12:26:57,Morning Ride,Ride,"",1153,6528.4,true,Columbus,activities/1216567870.fit.gz
+1112032223,2017-07-31 22:21:49,Afternoon Ride,Ride,"",1734,7948.3,true,Columbus,activities/1216567998.fit.gz
+1112032694,2017-08-01 10:30:41,Morning Run,Run,,4989,16115.1,false,greenies,activities/1216568369.fit.gz
+1112032731,2017-08-01 12:43:21,Morning Ride,Ride,"",1156,6307.8,true,Columbus,activities/1216568516.fit.gz
+1113804801,2017-08-02 10:22:20,Morning Run,Run,,4770,16735.7,false,greenies,activities/1218368266.fit.gz
+1113804872,2017-08-02 12:30:15,Morning Ride,Ride,"",1499,7151.4,true,Columbus,activities/1218368365.fit.gz
+1115901325,2017-08-03 10:40:59,Morning Run,Run,,2191,8034.8,false,greenies,activities/1220489273.fit.gz
+1116825074,2017-08-04 10:41:08,Morning Run,Run,,3618,12891.6,false,greenies,activities/1221428135.fit.gz
+1118685698,2017-08-05 13:01:38,Reggie Orltjen Douglass Trail Race,Run,"",3839,17716.5,false,greenies,activities/1223319797.fit.gz
+1118685779,2017-08-05 14:25:38,Morning Run,Run,,898,3252.6,false,greenies,activities/1223319926.fit.gz
+1126574554,2017-08-09 10:39:27,Morning Run,Run,,3090,9677.5,false,greenies,activities/1231353473.fit.gz
+1126574867,2017-08-10 10:42:10,Morning Run,Run,,3406,12468.6,false,greenies,activities/1231353754.fit.gz
+1126575482,2017-08-08 10:35:45,Morning Run,Run,,3282,12182.3,false,greenies,activities/1231353259.fit.gz
+1138128887,2017-08-12 11:44:25,Morning Ride,Ride,,1155,6780.0,false,Columbus,activities/1243129179.fit.gz
+1138129359,2017-08-12 12:05:36,Morning Run,Run,,5656,16582.2,false,greenies,activities/1243129616.fit.gz
+1138129483,2017-08-14 02:30:03,Night Run,Run,,1378,4816.9,false,greenies,activities/1243129760.fit.gz
+1138129984,2017-08-14 21:32:29,Afternoon Run,Run,,8867,13021.7,false,greenies,activities/1243130262.fit.gz
+1138130161,2017-08-15 12:10:37,Morning Run,Run,,1705,5950.6,false,greenies,activities/1243130472.fit.gz
+1138130572,2017-08-15 21:35:20,Afternoon Run,Run,,6231,12873.7,false,greenies,activities/1243130883.fit.gz
+1138130803,2017-08-16 16:14:06,Lunch Run,Run,,2253,6470.9,false,greenies,activities/1243131116.fit.gz
+1140274386,2017-08-17 21:18:14,Afternoon Run,Run,,3461,6900.3,false,greenies,activities/1245308080.fit.gz
+1140274671,2017-08-17 23:30:07,Evening Run,Run,,4673,12267.0,false,greenies,activities/1245308377.fit.gz
+1140274922,2017-08-18 20:03:18,Afternoon Run,Run,,4035,14504.2,false,greenies,activities/1245308640.fit.gz
+1147174308,2017-08-19 13:34:41,Morning Run,Run,,3479,11711.6,false,greenies,activities/1252331071.fit.gz
+1147174610,2017-08-21 13:54:58,Morning Run,Run,,3670,13531.6,false,greenies,activities/1252331398.fit.gz
+1147175118,2017-08-22 20:56:51,Afternoon Run,Run,,6451,16760.6,false,greenies,activities/1252331907.fit.gz
+1154929560,2017-08-26 13:00:41,Morning Run,Run,,2953,9663.3,false,greenies,activities/1260194382.fit.gz
+1154930259,2017-08-23 21:00:30,Afternoon Run,Run,,2485,9440.9,false,greenies,activities/1260192682.fit.gz
+1154930412,2017-08-26 21:10:27,Afternoon Run,Run,,7360,12602.6,false,greenies,activities/1260195192.fit.gz
+1154931554,2017-08-25 12:53:02,Morning Run,Run,,4254,12887.0,false,greenies,activities/1260193744.fit.gz
+1155819434,2017-08-27 22:46:58,Afternoon Run,Run,,3393,12877.6,false,greenies,activities/1261096846.fit.gz
+1156643907,2017-08-28 14:16:49,Morning Run,Run,,3982,14671.1,false,greenies,activities/1261930683.fit.gz
+1158232858,2017-08-28 20:38:28,Afternoon Run,Run,,1731,6450.4,false,greenies,activities/1263531539.fit.gz
+1158233463,2017-08-29 13:10:35,Morning Run,Run,,4224,16129.2,false,greenies,activities/1263532109.fit.gz
+1160305398,2017-08-29 20:38:13,Afternoon Activity,Workout,,2633,1802.9,false,,activities/1265618600.fit.gz
+1160305999,2017-08-30 13:05:52,Morning Run,Run,,5023,16094.1,false,greenies,activities/1265619170.fit.gz
+1163388689,2017-08-31 13:04:00,Morning Run,Run,,3414,12901.6,false,greenies,activities/1268724362.fit.gz
+1163388998,2017-09-01 13:07:53,Morning Run,Run,,4119,16140.7,false,greenies,activities/1268724693.fit.gz
+1164913887,2017-09-02 13:11:38,Morning Run,Run,,5656,22543.8,false,greenies,activities/1270271023.fit.gz
+1167038958,2017-09-03 13:15:07,Morning Run,Run,,2700,9672.5,false,greenies,activities/1272431576.fit.gz
+1172716718,2017-09-04 13:38:07,Morning Run,Run,,4079,14728.0,false,greenies,activities/1278177946.fit.gz
+1172716886,2017-09-04 20:33:26,Afternoon Run,Run,,1415,5151.7,false,greenies,activities/1278178110.fit.gz
+1172717599,2017-09-05 14:21:15,Morning Run,Run,,3584,11597.6,false,greenies,activities/1278178635.fit.gz
+1172718172,2017-09-06 13:38:12,Morning Run,Run,"",5586,19577.3,false,greenies,activities/1278179447.fit.gz
+1173529972,2017-09-07 20:56:35,Afternoon Run,Run,,2432,9031.3,false,greenies,activities/1279001269.fit.gz
+1174830316,2017-09-08 20:40:15,Afternoon Run,Run,,2539,8056.9,false,greenies,activities/1280318788.fit.gz
+1176626758,2017-09-09 14:13:17,Morning Run,Run,,894,3228.4,false,greenies,activities/1282150822.fit.gz
+1176626873,2017-09-09 15:03:15,Morning Run,Run,,999,5058.9,false,greenies,activities/1282150890.fit.gz
+1176626936,2017-09-09 15:38:26,Morning Run,Run,,929,3229.8,false,greenies,activities/1282150930.fit.gz
+1179069835,2017-09-10 14:09:03,Morning Run,Run,,3104,11272.5,false,greenies,activities/1284639314.fit.gz
+1181536806,2017-09-11 20:32:13,Afternoon Run,Run,,942,3479.4,false,greenies,activities/1287128486.fit.gz
+1181536911,2017-09-11 20:53:44,Afternoon Run,Run,,2641,8757.2,false,greenies,activities/1287128595.fit.gz
+1181536942,2017-09-11 21:47:41,Afternoon Run,Run,,672,2124.3,false,greenies,activities/1287128629.fit.gz
+1181537086,2017-09-12 20:38:01,Afternoon Run,Run,,3476,11276.6,false,greenies,activities/1287128769.fit.gz
+1183515163,2017-09-13 21:09:33,Afternoon Run,Run,,2389,6563.4,false,greenies,activities/1289127856.fit.gz
+1183515485,2017-09-14 11:40:56,Morning Run,Run,,3269,11701.8,false,greenies,activities/1289128181.fit.gz
+1195468080,2017-09-15 20:35:16,Afternoon Run,Run,,2456,7284.4,false,greenies,activities/1301259695.fit.gz
+1195468189,2017-09-16 14:16:19,Morning Run,Run,,905,3243.7,false,greenies,activities/1301259786.fit.gz
+1195468217,2017-09-16 15:47:37,Morning Run,Run,,661,2125.8,false,greenies,activities/1301259836.fit.gz
+1195468443,2017-09-17 14:31:02,Morning Run,Run,,4158,15080.6,false,greenies,activities/1301260050.fit.gz
+1195468822,2017-09-18 21:42:51,Afternoon Run,Run,,3982,13181.0,false,greenies,activities/1301260323.fit.gz
+1195469151,2017-09-19 20:27:03,Afternoon Run,Run,,941,3476.7,false,greenies,activities/1301260441.fit.gz
+1195469268,2017-09-20 21:20:58,Afternoon Run,Run,,2948,11274.2,false,greenies,activities/1301260969.fit.gz
+1195469396,2017-09-21 20:59:13,Afternoon Run,Run,,2986,10112.9,false,greenies,activities/1301261120.fit.gz
+1195469953,2017-09-19 20:52:07,Afternoon Run,Run,,3537,12360.4,false,greenies,activities/1301260724.fit.gz
+1195469990,2017-09-19 21:56:16,Afternoon Run,Run,,931,3228.6,false,greenies,activities/1301260810.fit.gz
+1201926502,2017-09-22 11:07:59,Morning Run,Run,,5348,17369.0,false,greenies,activities/1307824032.fit.gz
+1201926531,2017-09-23 13:03:51,Morning Run,Run,,3299,7999.7,false,greenies,activities/1307824109.fit.gz
+1201926542,2017-09-25 20:23:38,Afternoon Run,Run,,6430,21464.6,false,greenies,activities/1307824304.fit.gz
+1215813683,2017-09-26 20:35:32,Afternoon Run,Run,,2696,9705.2,false,greenies,activities/1321870617.fit.gz
+1215813847,2017-09-27 21:17:53,Afternoon Run,Run,,2575,9668.6,false,greenies,activities/1321870743.fit.gz
+1215813857,2017-09-28 20:57:33,Afternoon Run,Run,,1263,4819.7,false,greenies,activities/1321870798.fit.gz
+1215813887,2017-09-29 20:25:56,Afternoon Run,Run,,889,3203.2,false,greenies,activities/1321870834.fit.gz
+1215813948,2017-09-29 22:00:39,Afternoon Run,Run,,1864,3329.5,false,greenies,activities/1321870911.fit.gz
+1215814017,2017-09-30 14:35:02,Morning Ride,Ride,,2903,15129.7,false,Columbus,activities/1321870977.fit.gz
+1215814114,2017-10-01 14:19:52,Morning Run,Run,,2682,9005.8,false,greenies,activities/1321871064.fit.gz
+1215814214,2017-10-02 20:37:57,Afternoon Run,Run,,2978,9934.2,false,greenies,activities/1321871160.fit.gz
+1215814425,2017-10-03 20:24:18,Afternoon Run,Run,,5653,18495.1,false,greenies,activities/1321871334.fit.gz
+1215814450,2017-10-04 21:19:20,Afternoon Run,Run,,777,2925.8,false,greenies,activities/1321871360.fit.gz
+1215814486,2017-10-04 21:38:41,Afternoon Ride,Ride,,1632,6699.5,false,Columbus,activities/1321871409.fit.gz
+1225701727,2017-10-09 20:33:54,Afternoon Run,Run,,2227,8066.4,false,greenies,activities/1331881026.fit.gz
+1225701748,2017-10-10 20:28:27,Afternoon Ride,Ride,,4112,26867.0,false,Columbus,activities/1331881056.fit.gz
+1225702181,2017-10-06 20:24:24,Afternoon Activity,Workout,,2045,0.0,false,,activities/1331880913.fit.gz
+1225702251,2017-10-07 15:55:58,Morning Activity,Workout,,2107,0.0,false,,activities/1331880921.fit.gz
+1225702304,2017-10-08 13:05:30,Morning Ride,Ride,,4595,31782.7,false,Columbus,activities/1331880962.fit.gz
+1225702325,2017-10-08 17:35:14,Lunch Activity,Workout,,2824,2303.6,false,,activities/1331880981.fit.gz
+1233874897,2017-10-11 21:19:33,Afternoon Activity,Workout,,1911,0.0,false,,activities/1340174753.fit.gz
+1233874929,2017-10-11 21:54:45,Afternoon Run,Run,,436,1622.1,false,greenies,activities/1340174792.fit.gz
+1233874958,2017-10-12 20:56:33,Afternoon Run,Run,,895,3593.2,false,greenies,activities/1340174844.fit.gz
+1233875016,2017-10-12 21:17:23,Afternoon Run,Run,,1362,5007.5,false,greenies,activities/1340174918.fit.gz
+1233875130,2017-10-13 20:38:28,Afternoon Run,Run,,3179,6554.0,false,greenies,activities/1340175043.fit.gz
+1233875266,2017-10-14 14:44:19,Morning Run,Run,,1006,3541.5,false,greenies,activities/1340175145.fit.gz
+1233875326,2017-10-14 16:16:08,Lunch Run,Run,,825,2702.3,false,greenies,activities/1340175226.fit.gz
+1233875509,2017-10-15 19:59:13,Afternoon Run,Run,,2770,9066.1,false,greenies,activities/1340175410.fit.gz
+1233875686,2017-10-16 20:40:12,Afternoon Run,Run,,3312,11178.9,false,greenies,activities/1340175590.fit.gz
+1246355681,2017-10-17 20:34:28,Afternoon Run,Run,,921,3477.9,false,greenies,activities/1352796849.fit.gz
+1246355717,2017-10-17 21:00:21,Afternoon Run,Run,,2161,7782.8,false,greenies,activities/1352796874.fit.gz
+1246355734,2017-10-17 21:39:55,Afternoon Run,Run,,465,1510.4,false,greenies,activities/1352796922.fit.gz
+1246355759,2017-10-18 21:01:06,Afternoon Run,Run,,2325,8055.1,false,greenies,activities/1352796959.fit.gz
+1246355788,2017-10-19 20:55:41,Afternoon Run,Run,,2128,8065.0,false,greenies,activities/1352796982.fit.gz
+1246355839,2017-10-20 20:31:33,Afternoon Run,Run,,946,3464.5,false,greenies,activities/1352797012.fit.gz
+1246355862,2017-10-20 20:51:26,Afternoon Run,Run,,1702,6952.8,false,greenies,activities/1352797060.fit.gz
+1246355877,2017-10-21 15:10:05,Morning Run,Run,,2086,7630.0,false,greenies,activities/1352797094.fit.gz
+1246355885,2017-10-20 21:32:36,Afternoon Run,Run,,992,3493.6,false,greenies,activities/1352797087.fit.gz
+1246355945,2017-10-23 20:34:25,Afternoon Run,Run,,3110,10333.2,false,greenies,activities/1352797116.fit.gz
+1246355947,2017-10-24 20:34:54,Afternoon Run,Run,,948,3556.0,false,greenies,activities/1352797141.fit.gz
+1246355962,2017-10-24 21:02:13,Afternoon Run,Run,,1015,4342.3,false,greenies,activities/1352797164.fit.gz
+1246355981,2017-10-24 21:28:47,Afternoon Run,Run,,832,2859.3,false,greenies,activities/1352797185.fit.gz
+1254306861,2017-10-30 20:30:00,"To the arb and back, +2 inside watch died :,(",Run,Felt good no worse for ware after conference. My toe does hurt still from the race but it seems to be getting better.,3300,11265.4,false,greenies,
+1254310227,2017-10-28 15:00:00,MIAC CC Championships,Run,11th overall,1575,8000.0,false,1,
+1274445877,2017-10-25 21:50:14,Afternoon Run,Run,,1248,4552.3,false,greenies,activities/1381119053.fit.gz
+1274445915,2017-10-26 20:56:13,Afternoon Run,Run,,941,3216.4,false,greenies,activities/1381119100.fit.gz
+1274445967,2017-10-26 21:19:04,Afternoon Run,Run,,778,2964.4,false,greenies,activities/1381119159.fit.gz
+1274446015,2017-10-26 21:36:13,Afternoon Run,Run,,481,1673.8,false,greenies,activities/1381119209.fit.gz
+1274446085,2017-10-27 20:37:40,Afternoon Run,Run,,2102,6872.3,false,greenies,activities/1381119266.fit.gz
+1274446117,2017-10-28 15:11:04,Morning Run,Run,,766,2728.9,false,greenies,activities/1381119306.fit.gz
+1274446160,2017-10-28 16:51:31,Lunch Run,Run,,921,2707.8,false,greenies,activities/1381119346.fit.gz
+1274446208,2017-11-01 21:10:53,Afternoon Run,Run,,2413,8174.8,false,greenies,activities/1381119404.fit.gz
+1274446338,2017-11-02 20:57:18,Afternoon Run,Run,,4743,12189.3,false,greenies,activities/1381119510.fit.gz
+1274446346,2017-11-02 22:17:31,Afternoon Run,Run,,246,870.3,false,greenies,activities/1381119532.fit.gz
+1274446471,2017-11-03 20:48:13,Afternoon Run,Run,,5356,14932.0,false,greenies,activities/1381119651.fit.gz
+1274446541,2017-11-05 21:35:11,Afternoon Run,Run,,2436,6328.2,false,greenies,activities/1381119733.fit.gz
+1274446568,2017-11-05 22:21:02,Afternoon Run,Run,,472,1629.6,false,greenies,activities/1381119763.fit.gz
+1274446610,2017-11-06 21:37:04,Afternoon Run,Run,,746,2798.4,false,greenies,activities/1381119793.fit.gz
+1274446670,2017-11-06 22:02:56,Afternoon Run,Run,,1125,5059.1,false,greenies,activities/1381119854.fit.gz
+1274446707,2017-11-06 22:30:08,Afternoon Run,Run,,790,2752.8,false,greenies,activities/1381119892.fit.gz
+1274446768,2017-11-07 21:33:18,Afternoon Run,Run,,1041,3793.8,false,greenies,activities/1381119943.fit.gz
+1274446792,2017-11-07 21:53:00,Afternoon Run,Run,,448,1501.4,false,greenies,activities/1381119976.fit.gz
+1274446905,2017-11-09 22:15:36,Afternoon Run,Run,,2143,8031.0,false,greenies,activities/1381120080.fit.gz
+1274446975,2017-11-10 21:38:25,Afternoon Run,Run,,2197,7172.4,false,greenies,activities/1381120160.fit.gz
+1274447010,2017-11-11 16:09:08,Morning Run,Run,,967,3479.7,false,greenies,activities/1381120197.fit.gz
+1274447117,2017-11-11 17:53:46,Lunch Run,Run,,1130,3295.9,false,greenies,activities/1381120269.fit.gz
+1298133785,2017-11-15 22:54:28,Afternoon Run,Run,,205,720.6,false,greenies,activities/1405008274.fit.gz
+1298133840,2017-11-16 22:01:04,Afternoon Run,Run,,815,3254.8,false,greenies,activities/1405008330.fit.gz
+1298133941,2017-11-24 16:18:16,Morning Run,Run,,1403,4562.4,false,greenies,activities/1405008428.fit.gz
+1298134012,2017-11-26 23:36:44,Afternoon Run,Run,,777,3103.3,false,greenies,activities/1405008497.fit.gz
+1298134184,2017-11-27 21:37:29,Afternoon Run,Run,,2280,7732.0,false,greenies,activities/1405008662.fit.gz
+1298134210,2017-11-27 22:25:19,Afternoon Run,Run,,271,602.0,false,greenies,activities/1405008703.fit.gz
+1298134458,2017-11-28 21:38:07,Afternoon Run,Run,,3302,11271.7,false,greenies,activities/1405008937.fit.gz
+1298134612,2017-11-29 21:58:00,Afternoon Run,Run,,1721,6311.7,false,greenies,activities/1405009090.fit.gz
+1298134714,2017-11-30 22:10:05,Afternoon Run,Run,,927,3225.0,false,greenies,activities/1405009191.fit.gz
+1298134794,2017-11-30 22:39:52,Workout ,Run,"2x(4x200)
+29,30,31,31,27,31,30,28",930,3575.6,false,greenies,activities/1405009290.fit.gz
+1298142260,2017-11-30 22:12:00,Cool down ,Run,,904,3218.69,false,greenies,
+1298463583,2017-12-01 21:34:07,Bun easy day,Run,"",1333,4956.7,false,greenies,activities/1405349110.fit.gz
+1301825705,2017-12-03 21:35:01,Prairie dog days,Run,"",2945,11278.6,false,greenies,activities/1408830074.fit.gz
+1302397449,2017-12-04 21:34:45,Bill’s special,Run,"",2675,9679.3,false,greenies,activities/1409409233.fit.gz
+1303742383,2017-12-05 21:37:24,Warm up train encounter,Run,"",2368,7346.8,false,greenies,activities/1410789330.fit.gz
+1303742389,2017-12-05 22:18:30,Warm up finished inside,Run,"",230,830.7,false,greenies,activities/1410789375.fit.gz
+1303742436,2017-12-05 22:30:49,Short work out,Run,"4x200 
+29,31,30,30
+200m active recovery ",337,1485.0,false,greenies,activities/1410789418.fit.gz
+1303742467,2017-12-05 22:41:40,Cool down,Run,Upstairs track,481,1617.9,false,greenies,activities/1410789458.fit.gz
+1305938186,2017-12-06 23:23:00,"Missed ole rolvaag run, suffered alone inside",Run,"Shoulder has been feeling funky since climbing on train, should see trainer",2216,8063.2,false,greenies,activities/1413030596.fit.gz
+1306361493,2017-12-08 04:10:00,DKM2KCR,Run,"",341,2000.0,false,greenies,
+1306361764,2017-12-07 21:49:10,Warm up,Run,"",319,1128.1,false,greenies,activities/1413462350.fit.gz
+1306361784,2017-12-07 22:40:04,Cool down,Run,"",1479,5465.8,false,greenies,activities/1413462367.fit.gz
+1308424237,2017-12-08 21:34:58,Afternoon Run,Run,,3903,12933.8,false,greenies,activities/1415577232.fit.gz
+1308424248,2017-12-09 02:35:32,Evening Activity 😉,Workout,"",427,0.0,,,activities/1415577273.fit.gz
+1308621978,2017-12-09 21:44:57,"Slow run, my body hurts",Run,"",1755,6443.2,false,greenies,activities/1415784186.fit.gz
+1313844474,2017-12-10 21:36:53,Afternoon Run,Run,,1697,6439.8,false,greenies,activities/1421147513.fit.gz
+1313844515,2017-12-11 23:14:25,Afternoon Run,Run,,873,3227.6,false,greenies,activities/1421147558.fit.gz
+1313846070,2017-12-12 21:37:10,Afternoon Run,Run,,3016,10372.5,false,greenies,activities/1421147740.fit.gz
+1313846086,2017-12-12 22:28:35,Afternoon Run,Run,,373,1395.3,false,greenies,activities/1421147780.fit.gz
+1313846224,2017-12-13 21:39:22,Afternoon Run,Run,,2106,7347.9,false,greenies,activities/1421147902.fit.gz
+1313846255,2017-12-13 22:15:29,Afternoon Run,Run,,633,2428.8,false,greenies,activities/1421147937.fit.gz
+1314234942,2017-12-14 21:44:30,Afternoon Run,Run,,1289,4835.5,false,greenies,activities/1421537333.fit.gz
+1314235052,2017-12-14 22:19:21,Afternoon Run,Run,,1211,4701.6,false,greenies,activities/1421537447.fit.gz
+1314302580,2017-12-14 22:52:23,Afternoon Run,Run,,697,2515.3,false,greenies,activities/1421605940.fit.gz
+1315254402,2017-12-15 21:34:35,Afternoon Run,Run,,1693,6442.6,false,greenies,activities/1422574019.fit.gz
+1316529507,2017-12-16 21:31:17,Afternoon Run,Run,,4882,19281.4,false,greenies,activities/1423884548.fit.gz
+1317933329,2017-12-17 21:38:43,Afternoon Run,Run,,1678,6451.6,false,greenies,activities/1425336083.fit.gz
+1319926228,2017-12-19 17:47:45,Snipe snipe snape,Run,"",2499,8835.7,false,greenies,activities/1427388591.fit.gz
+1319926248,2017-12-19 18:32:32,Finished inside ,Run,"",211,869.4,false,greenies,activities/1427388643.fit.gz
+1324513775,2017-12-21 20:40:41,Boy is back in town,Run,"",2246,8267.2,false,greenies,activities/1432095706.fit.gz
+1324513845,2017-12-23 00:21:49,Warm up ,Run,"",1919,3238.8,false,greenies,activities/1432095804.fit.gz
+1324514095,2017-12-23 01:18:07,The grind: Grind Fest 2017,Run,"",2565,10719.8,false,greenies,activities/1432096070.fit.gz
+1324514161,2017-12-23 02:23:52,Post grind: most everything hurts,Run,"",246,942.0,false,greenies,activities/1432096130.fit.gz
+1324514464,2017-12-23 14:06:41,Yukon boys: the saga begins,Run,"",3419,9668.5,false,greenies,activities/1432096421.fit.gz
+1331961937,2017-12-28 18:46:37,Wild ferns and wind burns,Run,"",4426,15052.2,false,greenies,activities/1439851736.fit.gz
+1331962747,2017-12-24 18:00:22,Lunch Run,Run,,4130,13169.7,false,greenies,activities/1439851347.fit.gz
+1331962845,2017-12-26 22:08:37,Run with Ryan ,Run,"",2384,8059.6,false,greenies,activities/1439851451.fit.gz
+1334975049,2017-12-29 19:11:02,Blaah,Run,"",2290,8063.6,false,greenies,activities/1442989798.fit.gz
+1334975178,2017-12-30 19:38:24,Treadmill stare down ,Run,"",2141,8067.6,false,greenies,activities/1442989930.fit.gz
+1336755699,2018-01-02 01:16:47,-8 and dark,Run,"",3817,12995.7,false,greenies,activities/1444853647.fit.gz
+1339333642,2018-01-02 17:29:59,Warm up inside ,Run,"",914,3295.5,false,greenies,activities/1447497848.fit.gz
+1339333844,2018-01-02 17:55:08,Work out indoor track,Run,"4X400, 4X300, 4X200
+65, 48, 31 goal pace
+",1785,6891.3,false,greenies,activities/1447498069.fit.gz
+1339333955,2018-01-02 18:37:47,Lunch Run,Run,,897,3314.3,false,greenies,activities/1447498186.fit.gz
+1339334103,2018-01-03 14:14:14,Fiterim day 1: joggy jog,Run,"",563,2102.9,false,greenies,activities/1447498327.fit.gz
+1339334221,2018-01-03 14:33:30,Fiterim day 1: 2500m row,WaterSport,"",706,0.0,,,activities/1447498435.fit.gz
+1340561666,2018-01-03 21:45:05,Jog upstairs,Run,"",1766,6606.2,false,greenies,activities/1448756149.fit.gz
+1341288526,2018-01-04 21:55:04,Afternoon Run,Run,,3398,10706.0,false,greenies,activities/1449497642.fit.gz
+1341288533,2018-01-04 22:52:22,Afternoon Run,Run,,324,1157.7,false,greenies,activities/1449497666.fit.gz
+1342823716,2018-01-05 22:13:06,Easy and slow indoor trot,Run,"",1790,6471.0,false,greenies,activities/1451094006.fit.gz
+1344258879,2018-01-06 19:00:16,WU,Run,"",641,2156.2,false,greenies,activities/1452572707.fit.gz
+1344259050,2018-01-06 20:16:52,Cool Down 😢,Run,"",1911,6391.0,false,greenies,activities/1452572908.fit.gz
+1344265126,2018-01-06 21:57:02,Season Opener shake out,Run,"",273,1609.35,false,greenies,
+1369169784,2018-01-07 22:24:17,Afternoon Run,Run,,429,1616.9,false,greenies,activities/1478538763.fit.gz
+1369169799,2018-01-07 22:34:30,Afternoon Activity,Workout,,1845,0.0,false,,activities/1478538776.fit.gz
+1369169896,2018-01-09 21:22:36,Afternoon Activity,Workout,,3659,0.0,false,,activities/1478538855.fit.gz
+1369169897,2018-01-10 22:25:12,Afternoon Activity,Workout,,3205,0.0,false,,activities/1478538872.fit.gz
+1369169900,2018-01-08 21:54:01,Afternoon Run,Run,,2072,6457.9,false,greenies,activities/1478538850.fit.gz
+1369169904,2018-01-13 21:38:49,Afternoon Activity,Workout,,2669,0.0,false,,activities/1478538887.fit.gz
+1369169909,2018-01-13 22:26:21,Afternoon Activity,Workout,,1804,0.0,false,,activities/1478538895.fit.gz
+1369169930,2018-01-16 22:10:36,Afternoon Run,Run,,925,3249.5,false,greenies,activities/1478538915.fit.gz
+1369169944,2018-01-16 22:51:52,Elliptical,Workout,"",2033,0.0,false,,activities/1478538928.fit.gz
+1369169955,2018-01-17 21:39:41,🏃‍♂️,Run,"",947,3294.6,false,greenies,activities/1478538950.fit.gz
+1369169983,2018-01-17 22:05:39,Bub jogging it,Run,"",676,2432.1,false,greenies,activities/1478538967.fit.gz
+1369169990,2018-01-17 22:34:55,Elliptical = mad glutes ,Workout,"",1268,0.0,false,,activities/1478538978.fit.gz
+1369170006,2018-01-18 20:41:56,Run run run,Run,"",1153,4027.5,false,greenies,activities/1478538993.fit.gz
+1369170021,2018-01-19 23:20:36,Running,Run,"",1799,6476.9,false,greenies,activities/1478539015.fit.gz
+1369170043,2018-01-20 22:04:42,Treadmill = boredom,Run,"",1700,6041.1,false,greenies,activities/1478539033.fit.gz
+1371195787,2018-01-22 21:41:10,Upstairs for days,Run,"",1421,4951.8,false,greenies,activities/1480629830.fit.gz
+1371195850,2018-01-22 22:06:16,Treadmilly ,Run,"",999,3303.3,false,greenies,activities/1480629907.fit.gz
+1375002417,2018-01-23 21:58:13,Warmup upstairs,Run,"",887,3073.7,false,greenies,activities/1484506348.fit.gz
+1375002532,2018-01-23 22:21:16,Work out time,Run,2X4X200,1025,3731.6,false,greenies,activities/1484506483.fit.gz
+1375002626,2018-01-23 22:45:52,Cool down treadmill,Run,"",518,1757.7,false,greenies,activities/1484506555.fit.gz
+1375002674,2018-01-24 20:42:09,Stationary workout bike machine warmup,Workout,"",602,0.0,false,,activities/1484506603.fit.gz
+1375002781,2018-01-24 20:53:56,Treadmill jogging,Run,"",969,3358.1,false,greenies,activities/1484506699.fit.gz
+1375002874,2018-01-24 21:11:39,Inside jog,Run,"",906,3133.4,false,greenies,activities/1484506795.fit.gz
+1378635223,2018-01-26 23:52:58,Afternoon Run,Run,,500,1721.4,false,greenies,activities/1488235071.fit.gz
+1378635229,2018-01-25 21:08:53,Afternoon Run,Run,,1882,6459.3,false,greenies,activities/1488235031.fit.gz
+1378635276,2018-01-27 00:43:48,Evening Run,Run,,890,3259.2,false,greenies,activities/1488235119.fit.gz
+1378635309,2018-01-27 00:59:08,Evening Run,Run,,670,2053.4,false,greenies,activities/1488235146.fit.gz
+1378635494,2018-01-27 21:32:40,Birdo is non-migratory,Run,"",3109,10663.9,false,greenies,activities/1488235331.fit.gz
+1386985032,2018-01-30 03:05:44,My body is poop,Run,"",917,3238.4,false,greenies,activities/1496908017.fit.gz
+1386985105,2018-01-30 21:32:52,WU,Run,"",871,3144.0,false,greenies,activities/1496908094.fit.gz
+1386985218,2018-01-30 21:54:49,Run faster,Run,"2X800
+3X400
+Pulled the plug on Phil’s orders
+Way over pace... sick?
+",1090,4401.2,false,greenies,activities/1496908181.fit.gz
+1386985294,2018-01-30 22:20:12,CD with pack,Run,"",1009,3557.9,false,greenies,activities/1496908257.fit.gz
+1386985540,2018-01-31 22:02:15,Pt crushed me,Run,"",2699,9876.5,false,greenies,activities/1496908514.fit.gz
+1386985605,2018-02-01 16:38:59,Run in circles,Run,"",1207,4794.8,false,greenies,activities/1496908609.fit.gz
+1386985705,2018-02-01 17:00:18,Run in place,Run,"",1531,4952.9,false,greenies,activities/1496908730.fit.gz
+1388272053,2018-02-02 16:37:54,Mills farm and fleet,Run,"",1712,6537.3,false,greenies,activities/1498241288.fit.gz
+1388272102,2018-02-02 17:16:05,Post strides pedestrian dodge,Run,"",391,1525.9,false,greenies,activities/1498241336.fit.gz
+1389848880,2018-02-03 18:16:17,Lunch Run,Run,,469,1807.5,false,greenies,activities/1499863445.fit.gz
+1389929810,2018-02-03 19:12:21,Afternoon Run,Run,,649,1320.3,false,greenies,activities/1499947802.fit.gz
+1395310730,2018-02-05 16:33:48,Bryce is so short,Run,"",2883,10322.2,false,greenies,activities/1505518123.fit.gz
+1395310751,2018-02-05 17:23:23,Finished inside,Run,"",240,878.5,false,greenies,activities/1505518164.fit.gz
+1395310801,2018-02-06 16:04:06,WU track,Run,"",450,1691.6,false,greenies,activities/1505518226.fit.gz
+1395310850,2018-02-06 16:17:29,WU treadmill,Run,"",467,1630.5,false,greenies,activities/1505518269.fit.gz
+1395310949,2018-02-06 16:41:55,WORKOUT,Run,"",1238,4875.3,false,greenies,activities/1505518353.fit.gz
+1399316302,2018-02-07 21:30:27,Upstairs,Run,"",840,3309.3,false,greenies,activities/1509834735.fit.gz
+1399316358,2018-02-07 21:45:47,Ellipticals aren’t fun,Workout,"",1235,0.0,false,,activities/1509834775.fit.gz
+1399316420,2018-02-08 21:53:32,Afternoon Yog,Run,"",483,1737.5,false,greenies,activities/1509834844.fit.gz
+1399316471,2018-02-08 22:05:48,Elliptical fun,Workout,"",1808,0.0,false,,activities/1509834889.fit.gz
+1400772442,2018-02-09 22:00:00,...,Workout,"1015 cal
+188 avg spm",3600,0.0,false,,
+1407666041,2018-02-13 22:00:59,I am machine,Workout,"",1200,0.0,false,,
+1407668371,2018-02-12 22:00:00,Man vs. machine,Workout,,3600,0.0,false,,
+1407834069,2018-02-14 21:31:45,Road work(out),Run,"6X1:00
+2:00 recovery",2903,9838.5,false,greenies,activities/1519505947.fit.gz
+1408031165,2018-02-13 22:46:07,Afternoon Run,Run,,1521,5072.1,false,greenies,activities/1519725272.fit.gz
+1408031310,2018-02-13 23:25:51,Afternoon Activity,Workout,,606,0.0,false,,activities/1519725393.fit.gz
+1409645408,2018-02-15 22:27:39,Afternoon Activity,Workout,,3627,1755.5,false,,activities/1521500941.fit.gz
+1410858172,2018-02-16 21:45:24,Afternoon Activity,Workout,,2387,1561.8,false,,activities/1522811661.fit.gz
+1448785318,2018-02-18 21:25:09,Afternoon Activity,Workout,,3921,0.0,false,,activities/1562312861.fit.gz
+1448785336,2018-02-19 22:26:41,Afternoon Run,Run,,344,1251.6,false,greenies,activities/1562312881.fit.gz
+1448785372,2018-02-20 22:03:19,Afternoon Run,Run,,814,2507.2,false,greenies,activities/1562312926.fit.gz
+1448785431,2018-02-20 22:23:03,Afternoon Activity,Workout,,1872,0.0,false,,activities/1562312995.fit.gz
+1448785454,2018-02-21 22:05:32,Afternoon Run,Run,,641,2169.6,false,greenies,activities/1562313052.fit.gz
+1448785481,2018-02-23 23:20:29,Afternoon Activity,Workout,,1029,0.0,false,,activities/1562313074.fit.gz
+1448785508,2018-02-27 22:38:38,Afternoon Run,Run,,499,1690.4,false,greenies,activities/1562313103.fit.gz
+1448785513,2018-02-27 22:59:03,Afternoon Activity,Workout,,983,0.0,false,,activities/1562313123.fit.gz
+1448785544,2018-02-28 21:35:31,Afternoon Run,Run,,905,3334.5,false,greenies,activities/1562313166.fit.gz
+1448785561,2018-02-28 22:03:54,Afternoon Activity,Workout,,1578,0.0,false,,activities/1562313189.fit.gz
+1448785634,2018-03-01 21:38:09,Afternoon Run,Run,,1858,6466.3,false,greenies,activities/1562313272.fit.gz
+1448785677,2018-03-02 21:37:26,Afternoon Run,Run,,1068,2885.5,false,greenies,activities/1562313332.fit.gz
+1448785737,2018-03-05 21:38:13,Afternoon Run,Run,,2295,8058.9,false,greenies,activities/1562313396.fit.gz
+1448785767,2018-03-06 21:33:48,Afternoon Run,Run,,1470,5256.3,false,greenies,activities/1562313438.fit.gz
+1448785853,2018-03-07 21:35:33,Afternoon Run,Run,,2823,9917.2,false,greenies,activities/1562313537.fit.gz
+1448785857,2018-03-07 22:26:26,Afternoon Run,Run,,371,1364.3,false,greenies,activities/1562313553.fit.gz
+1448785955,2018-03-08 21:33:51,Afternoon Run,Run,,1347,4855.8,false,greenies,activities/1562313631.fit.gz
+1449983560,2018-03-12 21:02:43,Afternoon Run,Run,,2921,9922.1,false,greenies,activities/1563544702.fit.gz
+1452591027,2018-03-13 20:37:25,Afternoon Run,Run,,1897,6443.5,false,greenies,activities/1566221679.fit.gz
+1466579251,2018-03-22 20:30:00,Grundy grinder,Run,,3062,11748.2,false,greenies,
+1468098824,2018-03-14 20:35:03,Uh oh,Run,"",2442,8754.0,false,greenies,activities/1582279064.fit.gz
+1468098849,2018-03-14 21:24:58,Finish him,Run,"",176,649.8,false,greenies,activities/1582279096.fit.gz
+1468098971,2018-03-16 20:35:43,Afternoon Run,Run,,2907,9853.2,false,greenies,activities/1582279256.fit.gz
+1468099099,2018-03-18 20:41:50,Afternoon Run,Run,,1594,4829.0,false,greenies,activities/1582279365.fit.gz
+1468099232,2018-03-19 20:37:38,Afternoon Run,Run,,3807,11695.1,false,greenies,activities/1582279533.fit.gz
+1468099453,2018-03-20 20:39:35,Xcampus ,Run,"",2389,8045.9,false,greenies,activities/1582279732.fit.gz
+1468099512,2018-03-21 21:01:18,🤢,Run,"",1726,4829.4,false,greenies,activities/1582279811.fit.gz
+1468099623,2018-03-23 20:36:29,Half a cornhole,Run,"",2393,8858.3,false,greenies,activities/1582279926.fit.gz
+1470091742,2018-03-24 23:29:17,Pace: grueling Rations: meager DAY1,Run,"",3316,11276.2,false,greenies,activities/1584345843.fit.gz
+1471730567,2018-03-25 15:44:32,"Rations: meager, Pace: grueling DAY2",Run,"",3179,11274.2,false,greenies,activities/1586085211.fit.gz
+1473352249,2018-03-26 16:12:50,Rations: moderate Pace: medium DAY 3,Run,"",3524,11268.4,false,greenies,activities/1587795939.fit.gz
+1473828846,2018-03-26 21:48:51,Green Mt. hike (Meager and grueling),Hike,"",6254,5204.5,false,greenies,activities/1588284927.fit.gz
+1477096926,2018-03-27 21:16:39,WU,Run,"",1348,4846.2,false,greenies,activities/1591658855.fit.gz
+1477097139,2018-03-27 21:55:58,WO,Run,"",3196,9671.8,false,greenies,activities/1591659101.fit.gz
+1477097325,2018-03-28 17:30:57,Reservoir run,Run,"",3004,10068.8,false,greenies,activities/1591659286.fit.gz
+1479896357,2018-03-29 19:30:50,Jogging dayz ,Run,"",4117,11884.2,false,greenies,activities/1594567164.fit.gz
+1480292398,2018-03-30 16:22:50,Magnolia Road,Run,"",3069,9678.3,false,greenies,activities/1594978898.fit.gz
+1480691072,2018-03-30 22:36:03,Flatirons bat cave hike,Hike,"",6683,4393.6,false,greenies,activities/1595403464.fit.gz
+1486252952,2018-04-02 20:30:29,Beep beep meme creep,Run,"",4235,14506.8,false,greenies,activities/1601236738.fit.gz
+1486252977,2018-04-02 21:45:59,Stationary bike,Ride,"",453,81.5,false,Columbus,activities/1601236785.fit.gz
+1488226577,2018-04-03 20:34:29,Snowy ice falls ,Run,"",4083,14495.4,false,greenies,activities/1603271860.fit.gz
+1490670898,2018-04-04 20:45:19,Back on Track?,Run,"",4669,12936.3,false,greenies,activities/1605786977.fit.gz
+1491665971,2018-04-05 20:11:53,Stationary pedaling,Ride,"",3101,0.0,false,Columbus,activities/1606810351.fit.gz
+1496914876,2018-04-07 15:42:37,Morning Run,Run,,2041,6435.3,false,greenies,activities/1612266540.fit.gz
+1502118595,2018-04-08 20:41:05,Afternoon Run,Run,,2739,8044.8,false,greenies,activities/1617721365.fit.gz
+1502118597,2018-04-09 21:42:34,Afternoon Run,Run,,2568,8387.1,false,greenies,activities/1617721582.fit.gz
+1502118629,2018-04-09 22:33:32,Afternoon Run,Run,,380,1390.3,false,greenies,activities/1617721640.fit.gz
+1508782907,2018-04-11 21:17:13,Afternoon Run,Run,,3816,12548.7,false,greenies,activities/1624629870.fit.gz
+1508783103,2018-04-12 20:52:08,Afternoon Run,Run,,3188,10205.8,false,greenies,activities/1624630074.fit.gz
+1508783327,2018-04-13 20:35:49,Afternoon Run,Run,,2810,10398.9,false,greenies,activities/1624630294.fit.gz
+1513737028,2018-04-15 22:14:36,Afternoon Run,Run,,837,3047.2,false,greenies,activities/1629791762.fit.gz
+1513737132,2018-04-15 22:30:51,Afternoon Run,Run,,1265,4716.7,false,greenies,activities/1629791887.fit.gz
+1513737515,2018-04-16 20:43:02,Afternoon Run,Run,,3244,12002.5,false,greenies,activities/1629792193.fit.gz
+1520181427,2018-04-17 21:17:51,Afternoon Run,Run,,1046,3766.2,false,greenies,activities/1636467608.fit.gz
+1520181732,2018-04-17 22:29:16,Afternoon Activity,Workout,,503,162.4,false,,activities/1636467940.fit.gz
+1520181822,2018-04-17 22:04:33,Afternoon Run,Run,,1091,4196.0,false,greenies,activities/1636467863.fit.gz
+1520181984,2018-04-18 20:36:02,Afternoon Run,Run,,3601,9682.4,false,greenies,activities/1636468192.fit.gz
+1520182018,2018-04-19 18:20:08,Warm up stationary ride,Ride,"",614,0.0,false,Columbus,activities/1636468241.fit.gz
+1520182195,2018-04-19 20:35:05,WU ,Run,"",1107,4024.8,false,greenies,activities/1636468412.fit.gz
+1520182393,2018-04-19 21:07:46,Circles,Run,"",765,2861.7,false,greenies,activities/1636468607.fit.gz
+1520182693,2018-04-19 21:26:19,Room draw panic,Run,"",3276,6448.3,false,greenies,activities/1636468878.fit.gz
+1520933335,2018-04-20 20:32:54,Jeff Jeff ,Run,"",4057,14495.0,false,greenies,activities/1637246004.fit.gz
+1522846998,2018-04-21 16:52:03,Lunch Run,Run,,1887,6732.3,false,greenies,activities/1639251059.fit.gz
+1525902446,2018-04-22 20:32:38,Afternoon Run,Run,,2646,9673.2,false,greenies,activities/1642459683.fit.gz
+1527636950,2018-04-23 20:37:02,Afternoon Run,Run,,999,3739.9,false,greenies,activities/1644278372.fit.gz
+1527747701,2018-04-23 21:12:54,Afternoon Run,Run,,1412,4829.4,false,greenies,activities/1644396075.fit.gz
+1527788311,2018-04-23 21:47:32,Afternoon Run,Run,,1448,4836.6,false,greenies,activities/1644438570.fit.gz
+1553746756,2018-04-24 16:31:56,Lunch Activity,Workout,,604,0.0,false,,activities/1671194489.fit.gz
+1553747269,2018-04-24 20:37:49,Afternoon Run,Run,,2970,10066.2,false,greenies,activities/1671194953.fit.gz
+1553747639,2018-04-25 20:33:32,Afternoon Run,Run,,1821,6081.1,false,greenies,activities/1671195308.fit.gz
+1553747833,2018-04-26 22:23:59,Afternoon Run,Run,,928,3234.1,false,greenies,activities/1671195558.fit.gz
+1553748102,2018-04-26 23:31:23,Evening Run,Run,,961,3228.8,false,greenies,activities/1671195832.fit.gz
+1553748531,2018-04-27 20:29:55,Afternoon Run,Run,,2334,8054.2,false,greenies,activities/1671196250.fit.gz
+1553748988,2018-04-30 20:34:21,Cross campus + Berner,Run,"",3276,9213.1,false,greenies,activities/1671196691.fit.gz
+1553749310,2018-05-01 16:15:22,Premeet ,Run,"",1775,6447.0,false,greenies,activities/1671197028.fit.gz
+1553749469,2018-05-02 22:08:24,WU,Run,"",761,2701.7,false,greenies,activities/1671197224.fit.gz
+1553749580,2018-05-02 23:37:24,RIP season,Workout,"",214,135.2,false,,activities/1671197329.fit.gz
+1553749876,2018-05-06 12:42:15,Bike dayz ,Ride,"",2725,16677.6,false,Columbus,activities/1671197619.fit.gz
+1603517874,2018-05-29 11:55:04,I’m sweaty,Run,"",1221,4387.3,false,greenies,activities/1723360792.fit.gz
+1603519286,2018-05-26 14:33:30,Fried Catfish- this is Kentucky ,Run,"",623,2296.8,false,greenies,activities/1723360647.fit.gz
+1609848522,2018-06-01 11:45:30,Morning Run,Run,,1810,6412.4,false,greenies,activities/1730106671.fit.gz
+1619234685,2018-06-05 12:14:14,Reverse Sherman’s ,Run,"",1839,6446.1,false,greenies,activities/1740140758.fit.gz
+1619237184,2018-06-03 14:40:35,Beep,Run,"",2250,8044.8,false,greenies,activities/1740140369.fit.gz
+1624954385,2018-06-07 12:11:11,Corn fields have begun growing,Run,"",2349,8055.6,false,greenies,activities/1746380621.fit.gz
+1632960193,2018-06-11 12:35:35,6,Run,"",2663,9659.4,false,greenies,activities/1754816547.fit.gz
+1632960352,2018-06-09 12:40:48,G0òdD boÿē,Run,"",2139,7802.8,false,greenies,activities/1754816424.fit.gz
+1635865209,2018-06-13 12:12:51,Morning Run,Run,,2711,9494.0,false,greenies,activities/1757855133.fit.gz
+1646332801,2018-06-18 12:04:38,Drizzle drizzle,Run,"",3147,9703.7,false,greenies,activities/1768834993.fit.gz
+1646333719,2018-06-16 12:01:03,Worm reunion ,Run,"",2264,7375.1,false,greenies,activities/1768834742.fit.gz
+1648323629,2018-06-19 11:59:31,Morning Run,Run,,2955,9663.6,false,greenies,activities/1770908607.fit.gz
+1654879426,2018-06-22 11:43:14,"Jurassic Park shirt today. Not because I’m going to see the movie, just b/c Dino’s are cool",Run,"",2864,10034.2,false,greenies,activities/1777756587.fit.gz
+1656879305,2018-06-23 11:34:09,I saw three randos come running by on nw roads in the morning,Run,"",2679,9666.6,false,greenies,activities/1779845675.fit.gz
+1663258613,2018-06-26 12:31:45,Time to push a bit,Run,"",2694,9672.3,false,greenies,activities/1786524214.fit.gz
+1669718684,2018-06-29 11:46:10,The sun had other ideas,Run,"",2857,9529.8,false,greenies,activities/1793206365.fit.gz
+1669718717,2018-06-29 12:47:28,The crest fallen trudge home,Run,"",337,1151.1,false,greenies,activities/1793206433.fit.gz
+1669741556,2018-06-27 11:48:23,Morning Run,Run,,3521,11273.7,false,greenies,activities/1793206074.fit.gz
+1674583340,2018-07-01 13:01:06,Feel the rain on your skin no one else can feel it for you only you can let it in,Run,"",3586,12889.1,false,greenies,activities/1798262650.fit.gz
+1675967044,2018-07-02 11:52:52,Sunnie bois,Run,"",2289,8103.8,false,greenies,activities/1799705128.fit.gz
+1678470621,2018-07-03 11:49:44,Ouchie,Run,"",3718,11274.9,false,greenies,activities/1802287227.fit.gz
+1686707564,2018-07-06 12:01:18,Morning Run,Run,,1866,6440.3,false,greenies,activities/1810798524.fit.gz
+1686708168,2018-07-07 12:16:02,Morning Run,Run,,3298,11275.7,false,greenies,activities/1810799112.fit.gz
+1686791257,2018-07-06 12:30:00,Watch dooted... last bit of 8tay course,Run,,910,3218.69,false,greenies,
+1691099851,2018-07-08 19:50:09,☀️🔥💩,Run,"",2521,8049.0,false,greenies,activities/1815401016.fit.gz
+1691100134,2018-07-09 12:55:14,Def gonna be late ,Run,"",2368,8057.5,false,greenies,activities/1815401284.fit.gz
+1694340087,2018-07-10 12:33:38,Morning Run,Run,,4267,12883.9,false,greenies,activities/1818772853.fit.gz
+1695636861,2018-07-11 12:17:33,Dusty boyz trucking company,Run,"",3909,14485.6,false,greenies,activities/1820116530.fit.gz
+1699758142,2018-07-13 11:34:00,Cloudy boiz runningCo.,Run,"",3657,12884.7,false,greenies,activities/1824389054.fit.gz
+1702656735,2018-07-14 17:33:51,Lunch Run,Run,,2374,6435.9,false,greenies,activities/1827408970.fit.gz
+1704610343,2018-07-15 12:43:48,Morning Run,Run,,5531,19606.9,false,greenies,activities/1829445037.fit.gz
+1706297279,2018-07-16 11:45:15,Hey those are my cashews,Run,"",3696,11269.4,false,greenies,activities/1831205850.fit.gz
+1708397986,2018-07-17 11:49:36,Finally not too hot,Run,"",3417,12879.9,false,greenies,activities/1833372611.fit.gz
+1710795268,2018-07-18 11:42:46,Morning Run,Run,,3299,11276.6,false,greenies,activities/1835856062.fit.gz
+1713024309,2018-07-19 11:36:32,🎱 🐢,Run,"",4017,14507.5,false,greenies,activities/1838155804.fit.gz
+1718887849,2018-07-21 13:25:56,Ankle didn’t like trail,Run,"",3879,13677.1,false,greenies,activities/1844891423.fit.gz
+1718888133,2018-07-20 23:41:13,Blah,Run,"",2015,6451.3,false,greenies,activities/1844891705.fit.gz
+1722205643,2018-07-22 15:34:49,Back to some miles,Run,"",3112,10482.8,false,greenies,activities/1848411483.fit.gz
+1722206115,2018-07-23 11:21:13,"Lungs hurt, probably inhaled too much dust",Run,"",4267,14495.6,false,greenies,activities/1848411935.fit.gz
+1724453743,2018-07-24 12:02:37,Dead birdos ⚰️🐥,Run,"Felt to flow for the first time in a long time.
+2 grass strides in trainers at the end",3908,12883.1,false,greenies,activities/1850739107.fit.gz
+1726815739,2018-07-25 11:54:49,8ball-time on feet,Run,Felt tired today so just went out for distance. Happy with the run and enjoyed it,4367,14499.9,false,greenies,activities/1853190466.fit.gz
+1728982204,2018-07-26 11:57:40,Hi Rachael!,Run,Felt tired today so went shorter. Was able to locate a gear that has been missing for a while. Seemed to put less strain on things. 4X stridaroonis,3100,11278.8,false,greenies,activities/1855445586.fit.gz
+1733888431,2018-07-28 16:59:02,Met some puppers in the natty lands,Run,Slow start today after staying up late. Just trying to enjoy being out there today and get some more miles under my belt. ,4152,12874.8,false,greenies,activities/1860523818.fit.gz
+1736123383,2018-07-29 14:47:40,Joey and Liam ,Run,"Sunny but not too hot, nice to be out on the roads",3970,14494.8,false,greenies,activities/1862858658.fit.gz
+1739050845,2018-07-30 21:19:24,Sunny day,Run,"",3202,11279.6,false,greenies,activities/1865896929.fit.gz
+1740131924,2018-07-31 11:55:14,Sore quads ,Run,"",3581,12886.1,false,greenies,activities/1867013689.fit.gz
+1744828079,2018-08-02 11:59:52,Run morning,Run,"",4758,14508.4,false,greenies,activities/1872073051.fit.gz
+1757151091,2018-08-05 13:51:05,Sanity shuffle,Run,Conference has left me busier than I anticipated. Early mornings and late nights. Sneaking in mikes today to keep some semblance of momentum,1502,5066.2,false,Heather the 2nd,activities/1886681308.fit.gz
+1757151505,2018-08-07 15:35:59,"Conference over, back at it",Run,"Little warm out, felt good to have time to put in a real run after my unexpected hiatus ",4428,16102.6,false,Heather the 2nd,activities/1886681776.fit.gz
+1759141422,2018-08-08 15:54:59,Morning Run,Run,,4195,13075.8,false,Heather the 2nd,activities/1888721797.fit.gz
+1761273695,2018-08-08 23:01:06,Evening Run,Run,,1339,4836.6,false,Heather the 2nd,activities/1891130675.fit.gz
+1761274267,2018-08-09 14:19:41,Morning Run,Run,,4122,12889.0,false,Heather the 2nd,activities/1891131276.fit.gz
+1763446656,2018-08-10 16:27:09,Lunch Run,Run,,5222,16137.8,false,Heather the 2nd,activities/1893378543.fit.gz
+1770418282,2018-08-11 23:16:52,Plodding along ,Run,"",2392,8051.9,false,Heather the 2nd,activities/1900625643.fit.gz
+1770418708,2018-08-13 12:53:11,+4 by stridaroonis ,Run,"",4089,14497.0,false,Heather the 2nd,activities/1900626085.fit.gz
+1772808202,2018-08-14 12:53:59,Pushing the pace,Run,"",3089,10512.4,false,Heather the 2nd,activities/1903089919.fit.gz
+1772808428,2018-08-14 23:20:39,Running w/ Ryan. We got lost,Run,"Went off down the parkway and turned right on Honey Creek instead of the usually left. Explored some new trails. Ended up running in a dried up paved river bed for a while. Definitely slow, but good to catch up, get some easy miles, and happy with how my ankle handles the 7 miles of uneven surfaces.",6536,11886.8,false,Heather the 2nd,activities/1903090294.fit.gz
+1774004471,2018-08-15 13:23:48,High school XC teams out and about,Run,"Good effort on the way out to Doyne Park, but the heat got to me on the way back and slowed me way down. Felt good about the days effort over all.",4123,12869.0,false,Heather the 2nd,activities/1904324281.fit.gz
+1777133239,2018-08-16 20:20:37,Bit of speed work in the heat,Run,First bit of speed work in a long time. Was expectedly rough. Interval pace was a bit slow due to the heat. Kept it short just to be prudent with my ankle. To the future.,4013,12875.7,false,Heather the 2nd,activities/1907548216.fit.gz
+1783019363,2018-08-18 15:16:23,Single track madness,Run,"Ran with Ryan on some rough single track. Heavy canopy cover, so I’m not sure how accurate gps was. Felt good to move relaxed and start retraining ankle on uneven terrain.",5421,14455.2,false,Heather the 2nd,activities/1913627272.fit.gz
+1783985967,2018-08-19 16:03:32,Lunch Run,Run,,2331,8040.0,false,Heather the 2nd,activities/1914629028.fit.gz
+1803303522,2018-08-26 20:24:27,Afternoon Run,Run,,3305,11449.4,false,Heather the 2nd,activities/1934483275.fit.gz
+1803304304,2018-08-27 14:23:15,Morning Run,Run,,3652,12986.4,false,Heather the 2nd,activities/1934484133.fit.gz
+1803304908,2018-08-28 13:20:06,Morning Run,Run,,2992,10646.5,false,Heather the 2nd,activities/1934484816.fit.gz
+1803332214,2018-08-22 21:54:58,Afternoon Run,Run,,2057,8055.8,false,Heather the 2nd,activities/1934481076.fit.gz
+1803333634,2018-08-23 14:04:26,Morning Run,Run,,3888,11261.7,false,Heather the 2nd,activities/1934481678.fit.gz
+1803335960,2018-08-24 15:09:53,Morning Run,Run,,4227,14500.3,false,Heather the 2nd,activities/1934482369.fit.gz
+1803336211,2018-08-25 14:13:55,Morning Run,Run,,2274,5903.0,false,Heather the 2nd,activities/1934482757.fit.gz
+1803465299,2018-08-27 15:00:00,Watch died,Run,,522,1931.22,false,Heather the 2nd,
+1803972119,2018-08-28 20:10:52,Putting wet shoes on is not too fun,Run,"",2084,8060.7,false,Heather the 2nd,activities/1935164406.fit.gz
+1806321844,2018-08-29 14:37:45,Tempo,Run,"Beautiful rail trail. 2 warm up, 2 tempo, 2 cool down. Felt good, maybe should’ve gone farther.",3000,9675.3,false,Heather the 2nd,activities/1937572463.fit.gz
+1807725415,2018-08-30 14:30:33,Itchy plants,Run,Super nice out and pretty farms around. Stiff legs at the beginning but felt fine by the end. No where really to go though. ,4654,16102.7,false,Heather the 2nd,activities/1939014908.fit.gz
+1810068466,2018-08-31 14:12:40,Itchy plants round 2,Run,"RHR 51 bpm. Wanted to do 11, but looping around on these roads for a second day started to feel endless. Will settle for 10. ",5003,16102.5,false,Heather the 2nd,activities/1941410098.fit.gz
+1812189225,2018-09-01 13:23:27,Morning Run,Run,,5479,19317.4,false,Heather the 2nd,activities/1943588208.fit.gz
+1816654872,2018-09-03 13:36:08,Guam grind,Run,Nice day out. Foggy and humid but felt good on the run. Ankle cooperated for the run grew a nice blister.,4168,15027.5,false,Heather the 2nd,activities/1948200970.fit.gz
+1817004944,2018-09-03 17:32:51,Forgot to start watch at turn around,Run,,287,1126.54,false,Heather the 2nd,
+1818877195,2018-09-04 13:37:40,8 ball,Run,"",3630,12940.3,false,Gray Guys ,activities/1950479951.fit.gz
+1826114416,2018-09-07 20:34:46,Afternoon Run,Run,,2542,8211.9,false,Heather the 2nd,activities/1957898123.fit.gz
+1827915637,2018-09-08 14:11:50,Morning Run,Run,,964,3598.5,false,Heather the 2nd,activities/1959757432.fit.gz
+1827937253,2018-09-08 14:58:12,Morning Run,Run,,1268,5067.2,false,Heather the 2nd,activities/1959779802.fit.gz
+1827937525,2018-09-08 15:46:11,Morning Run,Run,,1169,3514.5,false,Heather the 2nd,activities/1959780103.fit.gz
+1831212372,2018-09-09 20:33:55,Afternoon Run,Run,,3765,12964.9,false,Heather the 2nd,activities/1963194965.fit.gz
+1831213989,2018-09-06 20:29:00,Of course,Run,"",2210,8046.7,false,Gray Guys ,
+1833186309,2018-09-10 20:38:32,Afternoon Run,Run,,977,3568.4,false,Heather the 2nd,activities/1965224133.fit.gz
+1833186598,2018-09-10 21:01:04,Afternoon Run,Run,,2807,10686.5,false,Heather the 2nd,activities/1965224404.fit.gz
+1833186644,2018-09-10 22:01:21,Afternoon Run,Run,,720,2334.9,false,Heather the 2nd,activities/1965224467.fit.gz
+1835485283,2018-09-11 20:35:32,Afternoon Run,Run,,2296,8187.5,false,Heather the 2nd,activities/1967589620.fit.gz
+1835485311,2018-09-11 21:20:02,"Stationary bike, hr on the day",Workout,"",1517,0.0,false,,activities/1967589665.fit.gz
+1837718627,2018-09-12 20:36:33,WU,Run,"",923,3469.4,false,Heather the 2nd,activities/1969881222.fit.gz
+1837719234,2018-09-12 21:01:23,WO,Run,"",2636,10026.7,false,Heather the 2nd,activities/1969881862.fit.gz
+1837719422,2018-09-12 21:53:50,CD,Run,"",1222,3230.6,false,Heather the 2nd,activities/1969882077.fit.gz
+1839050259,2018-09-05 14:47:47,Workout day,Run,"
+10x 200m
+2x k",4180,15288.8,false,Heather the 2nd,
+1839875183,2018-09-13 21:11:03,Afternoon Run,Run,,3153,11274.9,false,Heather the 2nd,activities/1972095761.fit.gz
+1843145369,2018-09-15 14:45:52,Morning Run,Run,,552,1653.7,false,Heather the 2nd,activities/1975459710.fit.gz
+1848699627,2018-09-17 20:33:14,Afternoon Run,Run,,1966,7464.3,false,Heather the 2nd,activities/1981209403.fit.gz
+1848699813,2018-09-17 21:06:34,Afternoon Run,Run,,1909,7194.0,false,Heather the 2nd,activities/1981209580.fit.gz
+1850933425,2018-09-18 20:39:06,Afternoon Run,Run,,933,3480.8,false,Heather the 2nd,activities/1983498739.fit.gz
+1850934010,2018-09-18 21:03:35,Afternoon Run,Run,,3328,13061.9,false,Heather the 2nd,activities/1983499289.fit.gz
+1850934119,2018-09-18 22:03:11,Afternoon Run,Run,,987,3372.5,false,Heather the 2nd,activities/1983499427.fit.gz
+1862909154,2018-09-22 17:23:22,Bike cool down ,Workout,"",919,0.0,false,,activities/1996002185.fit.gz
+1862909660,2018-09-23 20:34:48,Woods run,Run,"",2949,9650.0,false,Heather the 2nd,activities/1996002705.fit.gz
+1862909964,2018-09-23 21:31:27,Always forget tailwinds are a thing until I turn around,Ride,"",1990,14546.5,false,Columbus,activities/1996003025.fit.gz
+1862915772,2018-09-19 20:36:22,Easy recovery,Run,"",2737,9791.2,false,Heather the 2nd,activities/1996001103.fit.gz
+1862915886,2018-09-20 20:54:55,Afternoon Run,Run,,975,3453.8,false,Heather the 2nd,activities/1996001228.fit.gz
+1862916496,2018-09-20 21:19:10,Work out,Run,"",2038,7933.1,false,Heather the 2nd,activities/1996001574.fit.gz
+1862916694,2018-09-20 22:00:16,Cool down,Run,"",760,2350.1,false,Heather the 2nd,activities/1996001706.fit.gz
+1862916893,2018-09-21 20:32:43,Afternoon Run,Run,,2484,8318.7,false,Heather the 2nd,activities/1996001967.fit.gz
+1862916954,2018-09-22 15:17:44,Morning Run,Run,,860,3217.2,false,Heather the 2nd,activities/1996002128.fit.gz
+1863614978,2018-09-24 20:37:27,8 ball,Run,"",3567,12870.4,false,Heather the 2nd,activities/1996716379.fit.gz
+1864948829,2018-09-22 16:00:00,Ole invite,Run,Rip,1800,8046.74,false,Heather the 2nd,
+1869958855,2018-09-26 20:36:27,Afternoon Activity,Workout,,1201,0.0,false,,activities/2003226742.fit.gz
+1869959134,2018-09-27 21:25:14,Sort of the course,Run,Much less sick today,2538,8057.4,false,Heather the 2nd,activities/2003226980.fit.gz
+1876596809,2018-09-28 22:56:41,Too rip to cool down ,Run,"",644,1049.9,false,Gray Guys ,activities/2010156815.fit.gz
+1876598912,2018-09-28 22:15:51,Afternoon Run,Run,,1740,8046.74,false,Heather the 2nd,
+1876605437,2018-09-28 21:25:14,WU,Run,"",929,3224.3,false,Gray Guys ,activities/2010156757.fit.gz
+1876677075,2018-09-30 22:36:42,My bub lungs still tight,Run,"",2185,8058.7,false,Heather the 2nd,activities/2010238898.fit.gz
+1878382749,2018-10-01 20:38:27,"Ran on pine loop until my sense of reality warped, then eloped to other natty land places",Run,"",3754,10396.1,false,Heather the 2nd,activities/2011996701.fit.gz
+1880393324,2018-10-02 20:30:04,Afternoon Run,Run,,2783,9013.6,false,Heather the 2nd,activities/2014058203.fit.gz
+1880393389,2018-10-02 21:33:13,Afternoon Run,Run,,745,2692.1,false,Heather the 2nd,activities/2014058323.fit.gz
+1888514621,2018-10-04 21:52:47,Afternoon Run,Run,,2644,8058.9,false,Heather the 2nd,activities/2022404084.fit.gz
+1888514727,2018-10-05 20:36:45,Afternoon Run,Run,,933,3487.3,false,Heather the 2nd,activities/2022404182.fit.gz
+1888514737,2018-10-03 20:34:54,Afternoon Run,Run,,2258,8040.9,false,Heather the 2nd,activities/2022403883.fit.gz
+1888515129,2018-10-05 21:03:35,Afternoon Run,Run,,2554,10002.7,false,Heather the 2nd,activities/2022404583.fit.gz
+1888515216,2018-10-05 21:58:26,Afternoon Run,Run,,431,1514.4,false,Heather the 2nd,activities/2022404676.fit.gz
+1892858159,2018-10-08 20:36:41,Afternoon Run,Run,"",3656,12960.7,false,Bouncy Bois,activities/2027019154.fit.gz
+1894932968,2018-10-09 20:35:05,Afternoon Run,Run,,951,3540.1,false,Heather the 2nd,activities/2029148480.fit.gz
+1894933275,2018-10-09 21:00:33,Big boi,Run,"10
+6
+4
+4x2
+4x:30",2580,10688.1,false,"",activities/2029148813.fit.gz
+1894986273,2018-10-09 21:57:10,Warm up,Run,"",919,3251.9,false,Heather the 2nd,activities/2029202979.fit.gz
+1897088044,2018-10-10 20:39:57,Sharb ,Run,"",3455,11263.7,false,Heather the 2nd,activities/2031366456.fit.gz
+1898976082,2018-10-11 20:56:13,NW roads with pick ups,Run,8X :30 on off,3129,11259.0,false,Bouncy Bois,activities/2033313138.fit.gz
+1902746575,2018-10-12 20:26:47,Premeet ,Run,"",3229,8373.5,false,Heather the 2nd,activities/2037208559.fit.gz
+1902746705,2018-10-13 15:50:04,Warm up,Run,"",907,3194.1,false,Heather the 2nd,activities/2037208716.fit.gz
+1902746883,2018-10-13 17:21:05,Cool down,Run,"",960,3202.7,false,Heather the 2nd,activities/2037208907.fit.gz
+1902750466,2018-10-13 16:40:44,💩,Run,"",1800,8046.7,false,Heather the 2nd,
+1905797064,2018-10-14 20:46:27,Afternoon Run,Run,,3771,12946.6,false,Heather the 2nd,activities/2040431089.fit.gz
+1907389071,2018-10-15 21:06:06,Afternoon Run,Run,,3660,12191.1,false,Heather the 2nd,activities/2042081742.fit.gz
+1909316909,2018-10-16 20:40:29,Afternoon Run,Run,,915,3468.2,false,Heather the 2nd,activities/2044064214.fit.gz
+1909317273,2018-10-16 21:12:46,Afternoon Run,Run,,2944,11697.4,false,Heather the 2nd,activities/2044064604.fit.gz
+1909317389,2018-10-16 22:08:27,Afternoon Run,Run,,806,2738.9,false,Heather the 2nd,activities/2044064733.fit.gz
+1912523561,2018-10-17 20:45:55,Afternoon Run,Run,,3303,11266.0,false,Heather the 2nd,activities/2047366735.fit.gz
+1914304703,2018-10-18 20:57:41,Are you running to turtle pond?,Run,"",4175,14492.4,false,Heather the 2nd,activities/2049201471.fit.gz
+1921897987,2018-10-21 20:36:03,Radio tower,Run,"",4575,16108.8,false,Heather the 2nd,activities/2057107489.fit.gz
+1921898019,2018-10-22 20:35:00,Course till 7,Run,"",2974,11270.2,false,Bouncy Bois,activities/2057107641.fit.gz
+1925860701,2018-10-23 20:38:12,Afternoon Run,Run,,933,3475.1,false,Heather the 2nd,activities/2061184823.fit.gz
+1925860836,2018-10-23 21:01:15,Afternoon Run,Run,,1432,5931.2,false,Heather the 2nd,activities/2061184916.fit.gz
+1925860874,2018-10-23 21:34:18,Afternoon Run,Run,,1032,3687.1,false,Heather the 2nd,activities/2061184969.fit.gz
+1925861010,2018-10-24 20:34:17,Afternoon Run,Run,,2666,9652.2,false,Heather the 2nd,activities/2061185073.fit.gz
+1926755065,2018-10-25 15:08:02,Morning Run,Run,,943,3488.8,false,Heather the 2nd,activities/2062103244.fit.gz
+1926755245,2018-10-25 15:27:15,Morning Run,Run,,761,2975.7,false,Heather the 2nd,activities/2062103461.fit.gz
+1926755364,2018-10-25 15:45:31,Morning Run,Run,,480,1668.3,false,Heather the 2nd,activities/2062103603.fit.gz
+1928982019,2018-10-26 20:35:35,Afternoon Run,Run,,2605,8325.4,false,Heather the 2nd,activities/2064381771.fit.gz
+1933223947,2018-10-28 20:53:16,Afternoon Activity,Workout,,3009,3751.9,false,,activities/2068779585.fit.gz
+1934771274,2018-10-29 20:39:00,Afternoon Run,Run,,3579,12913.8,false,Heather the 2nd,activities/2070381762.fit.gz
+1936564093,2018-10-30 20:34:59,Afternoon Run,Run,,2478,6351.2,false,Heather the 2nd,activities/2072227178.fit.gz
+1938455454,2018-10-31 20:40:36,Afternoon Run,Run,,2679,8054.9,false,Heather the 2nd,activities/2074166153.fit.gz
+1940225213,2018-11-01 21:01:43,Afternoon Run,Run,,873,3222.2,false,Heather the 2nd,activities/2075987630.fit.gz
+1940302544,2018-11-01 21:43:48,Afternoon Run,Run,,1737,8123.4,false,Heather the 2nd,activities/2076066031.fit.gz
+1940329646,2018-11-01 22:24:27,Afternoon Run,Run,,687,1656.6,false,Heather the 2nd,activities/2076093439.fit.gz
+1959812226,2018-11-07 21:36:49,Afternoon Run,Run,,807,3203.0,false,Heather the 2nd,activities/2096209545.fit.gz
+1959812275,2018-11-07 21:53:18,Afternoon Activity,Workout,,803,0.0,false,,activities/2096209601.fit.gz
+1959812382,2018-11-08 21:56:57,Afternoon Run,Run,,2223,8059.0,false,Heather the 2nd,activities/2096209692.fit.gz
+1959812661,2018-11-10 21:51:38,Afternoon Run,Run,,2959,10621.6,false,Heather the 2nd,activities/2096209848.fit.gz
+1959812678,2018-11-10 22:42:09,Afternoon Run,Run,,227,852.0,false,Heather the 2nd,activities/2096209880.fit.gz
+1959812782,2018-11-11 22:35:17,Afternoon Run,Run,,233,878.0,false,Heather the 2nd,activities/2096210018.fit.gz
+1959812788,2018-11-11 21:40:43,Afternoon Run,Run,,3103,10400.2,false,Heather the 2nd,activities/2096209996.fit.gz
+1973730842,2018-11-12 21:32:17,Afternoon Run,Run,,1288,4819.7,false,Heather the 2nd,activities/2110544165.fit.gz
+1973730932,2018-11-12 22:03:14,Afternoon Run,Run,,821,3368.5,false,Heather the 2nd,activities/2110544254.fit.gz
+1973730986,2018-11-12 22:34:17,Afternoon Run,Run,,865,3133.7,false,Heather the 2nd,activities/2110544315.fit.gz
+1973731161,2018-11-14 21:37:17,Afternoon Activity,Workout,,1949,0.0,false,,activities/2110544495.fit.gz
+1973731268,2018-11-14 22:12:24,Afternoon Run,Run,,962,3143.5,false,Heather the 2nd,activities/2110544600.fit.gz
+1973731481,2018-11-15 21:58:03,Afternoon Run,Run,,3184,10339.8,false,Heather the 2nd,activities/2110544823.fit.gz
+1973731569,2018-11-16 06:40:19,Night Run,Run,,146,534.7,false,Heather the 2nd,activities/2110544868.fit.gz
+1973731661,2018-11-16 23:47:13,Afternoon Run,Run,,1842,6451.0,false,Heather the 2nd,activities/2110544966.fit.gz
+1974523707,2018-11-19 22:30:00,Poor-mans alterg tempo,Run,,900,4429.38,false,Bouncy Bois,
+1974529323,2018-11-19 21:34:52,Warm up,Run,"",925,3400.0,false,Heather the 2nd,activities/2111355330.fit.gz
+1974529333,2018-11-19 22:21:33,Cool down inside,Run,"",953,3113.6,false,Heather the 2nd,activities/2111355396.fit.gz
+1975931474,2018-11-20 19:32:55,8-Tay + ToT,Run,"Beautiful day. Felt pretty good, a lot on my mind today but a run in the ever gorgeous natty lands really helped me sort it out. Pace was pretty good today too considering half an inch of snow.",2888,10640.3,false,Heather the 2nd,activities/2112798776.fit.gz
+1977910171,2018-11-21 21:20:00,Afternoon Run,Run,"3 miles warm up
+1x60” @~5:00/mile with 90” between
+~ 2miles cool down",3968,13913.4,false,Heather the 2nd,activities/2114860917.fit.gz
+1979028438,2018-11-22 15:29:29,Morning Run,Run,"Nice day out, felt good after yesterday’s pick ups. Gotta earn the turkey today.",3602,12887.3,false,Heather the 2nd,activities/2116037783.fit.gz
+1980689916,2018-11-23 16:07:55,Morning Run,Run,,2074,8044.2,false,Heather the 2nd,activities/2117755057.fit.gz

@@ -1,0 +1,958 @@
+id,date,name,type,description,elapsed_time,distance,commute,gear,filename
+901903113,2017-03-15 20:30:00,Afternoon Ride,Ride,"Legs still quite sore from running on monday, however still did a hard effort today.  First 25 min hard with a down tempo of 5 min with 15 more hard finishing with 5 min easy and 5 min spin.  Leg is feeling better and will be hopeful for running tomorrow on my own for at least some distance without pain.  ",3300,0.0,false,,
+916124505,2016-12-28 17:33:24,Lunch Run,Run,,867,3340.9,false,,activities/1015773489.fit.gz
+916124634,2016-12-30 15:53:28,Morning Run,Run,,2674,8923.7,false,,activities/1015773619.fit.gz
+916124726,2017-01-01 17:38:03,Lunch Run,Run,,2230,9084.4,false,,activities/1015773724.fit.gz
+916124752,2017-01-03 14:05:12,Morning Run,Run,,896,3312.5,false,,activities/1015773744.fit.gz
+916124791,2017-01-03 21:27:05,Afternoon Run,Run,,869,3299.2,false,,activities/1015773780.fit.gz
+916124910,2017-01-03 21:57:08,Afternoon Run,Run,,2631,9995.3,false,,activities/1015773899.fit.gz
+916124944,2017-01-03 22:44:40,Afternoon Run,Run,,963,3504.3,false,,activities/1015773938.fit.gz
+916125105,2017-01-04 21:34:50,Afternoon Run,Run,,3325,12090.6,false,,activities/1015774087.fit.gz
+916125123,2017-01-04 22:32:45,Afternoon Run,Run,,312,861.5,false,,activities/1015774114.fit.gz
+916125142,2017-01-05 21:34:04,Afternoon Run,Run,,836,3117.1,false,,activities/1015774139.fit.gz
+916125201,2017-01-05 22:10:05,Afternoon Run,Run,,1397,5870.0,false,,activities/1015774202.fit.gz
+916125252,2017-01-05 22:40:15,Afternoon Run,Run,,888,2795.0,false,,activities/1015774261.fit.gz
+916125293,2017-01-06 14:07:28,Morning Run,Run,,853,3127.7,false,,activities/1015774311.fit.gz
+916125484,2017-01-06 21:36:30,Afternoon Run,Run,,4257,15464.4,false,,activities/1015774479.fit.gz
+916125505,2017-01-06 22:49:42,Afternoon Run,Run,,275,1073.8,false,,activities/1015774510.fit.gz
+916125677,2017-01-07 21:34:10,Afternoon Run,Run,,4121,15415.7,false,,activities/1015774682.fit.gz
+916125705,2017-01-07 22:45:07,Afternoon Run,Run,,302,1055.1,false,,activities/1015774714.fit.gz
+916125787,2017-01-08 21:35:17,Afternoon Run,Run,,2673,9220.5,false,,activities/1015774802.fit.gz
+916125806,2017-01-08 22:22:12,Afternoon Run,Run,,132,274.5,false,,activities/1015774824.fit.gz
+916125851,2017-01-09 14:13:58,Morning Run,Run,,853,2456.8,false,,activities/1015774876.fit.gz
+916125890,2017-01-09 21:29:28,Afternoon Run,Run,,867,3061.2,false,,activities/1015774913.fit.gz
+916125967,2017-01-09 21:57:27,Afternoon Run,Run,,2201,8289.1,false,,activities/1015774998.fit.gz
+916126005,2017-01-09 22:35:02,Afternoon Run,Run,,898,3073.2,false,,activities/1015775033.fit.gz
+916126127,2017-01-10 21:36:41,Afternoon Run,Run,,3569,11873.5,false,,activities/1015775150.fit.gz
+916126164,2017-01-10 22:39:38,Afternoon Run,Run,,1130,2518.3,false,,activities/1015775201.fit.gz
+916126200,2017-01-11 21:31:52,Afternoon Run,Run,,866,2952.3,false,,activities/1015775237.fit.gz
+916126250,2017-01-11 22:01:22,Afternoon Run,Run,,1231,5157.4,false,,activities/1015775281.fit.gz
+916126281,2017-01-11 22:27:34,Afternoon Run,Run,,1261,4267.1,false,,activities/1015775314.fit.gz
+916126433,2017-01-12 21:37:55,Afternoon Run,Run,,2377,7605.9,false,,activities/1015775456.fit.gz
+916126453,2017-01-12 22:19:05,Afternoon Run,Run,,158,437.1,false,,activities/1015775484.fit.gz
+916126490,2017-01-13 22:06:19,Afternoon Run,Run,,939,3240.4,false,,activities/1015775534.fit.gz
+916126648,2017-01-14 21:39:03,Afternoon Run,Run,,4278,14996.9,false,,activities/1015775667.fit.gz
+916126780,2017-01-16 21:33:36,Afternoon Run,Run,,4176,14984.6,false,,activities/1015775797.fit.gz
+916126829,2017-01-17 21:31:57,Afternoon Run,Run,,850,3090.4,false,,activities/1015775858.fit.gz
+916126892,2017-01-17 21:57:46,Afternoon Run,Run,,1745,7148.0,false,,activities/1015775924.fit.gz
+916126904,2017-01-17 22:29:16,Afternoon Run,Run,,674,2297.2,false,,activities/1015775969.fit.gz
+916127028,2017-01-18 21:35:14,Afternoon Run,Run,,2752,10785.8,false,,activities/1015776079.fit.gz
+916127105,2017-01-19 21:38:03,Afternoon Run,Run,,2270,7216.3,false,,activities/1015776173.fit.gz
+916127147,2017-01-21 01:17:23,Evening Run,Run,,1092,3671.3,false,,activities/1015776223.fit.gz
+916127224,2017-01-21 03:13:42,Night Run,Run,,1814,5624.3,false,,activities/1015776302.fit.gz
+916127372,2017-01-21 21:34:20,Afternoon Run,Run,,3567,12878.6,false,,activities/1015776462.fit.gz
+916127401,2017-01-23 21:30:39,Afternoon Run,Run,,891,3168.1,false,,activities/1015776498.fit.gz
+916127458,2017-01-23 21:58:36,Afternoon Run,Run,,2062,7751.6,false,,activities/1015776561.fit.gz
+916127487,2017-01-23 22:41:45,Afternoon Run,Run,,691,2464.7,false,,activities/1015776589.fit.gz
+916127504,2017-01-30 22:22:55,Afternoon Run,Run,,296,1028.8,false,,activities/1015776601.fit.gz
+916127531,2017-01-31 19:41:01,Afternoon Run,Run,,1768,6605.7,false,,activities/1015776645.fit.gz
+916127569,2017-02-06 21:30:38,Afternoon Run,Run,,1523,5281.2,false,,activities/1015776687.fit.gz
+916127622,2017-02-16 21:31:30,Afternoon Run,Run,,1558,4483.4,false,,activities/1015776739.fit.gz
+916127653,2017-02-27 21:35:11,Afternoon Run,Run,,1750,4913.0,false,,activities/1015776780.fit.gz
+916127691,2017-03-01 21:33:56,Afternoon Run,Run,,1096,3645.1,false,,activities/1015776821.fit.gz
+916127721,2017-03-16 19:43:09,Afternoon Run,Run,,813,2974.6,false,,activities/1015776855.fit.gz
+916127769,2017-03-16 20:35:56,Afternoon Run,Run,,484,1846.6,false,,activities/1015776898.fit.gz
+916127847,2017-03-19 14:34:08,Morning Run,Run,,1215,4925.9,false,,activities/1015776974.fit.gz
+916127906,2017-03-20 14:13:01,Morning Run,Run,,1859,3785.0,false,,activities/1015777034.fit.gz
+916127952,2017-03-20 15:06:29,Morning Run,Run,,1347,2740.5,false,,activities/1015777074.fit.gz
+916127982,2017-03-20 15:57:56,Morning Run,Run,,258,707.5,false,,activities/1015777123.fit.gz
+916128122,2017-03-24 18:44:38,Capitol run,Run,"",3337,11308.8,false,,activities/1015777257.fit.gz
+916128213,2017-03-26 20:44:05,Roads with the boys,Run,"",2791,9674.7,false,,activities/1015777355.fit.gz
+917273250,2017-03-27 20:32:19,Iron bridge,Run,"",3387,12989.7,false,,activities/1016957583.fit.gz
+918835560,2017-03-28 20:30:00,Porter bikes,Ride,,3600,0.0,false,,
+920041366,2017-03-29 20:37:27,Iron bridge,Run,"",3480,12880.8,false,,activities/1019775694.fit.gz
+922571385,2017-03-30 20:34:36,Long Arb,Run,"",3641,12971.0,false,,activities/1022380065.fit.gz
+922571518,2017-03-31 20:32:49,Short Arb,Run,"",2798,9554.2,false,,activities/1022380222.fit.gz
+925814336,2017-04-02 20:33:30,I can't believe it's not radio tower?,Run,Gps didn't start on time. 10.50 at 6:49 avg pace 71:33 min,4455,15834.1,false,,activities/1025730639.fit.gz
+927043517,2017-04-03 20:32:25,Warm up ,Run,"",1033,3624.4,false,,activities/1026992600.fit.gz
+927043742,2017-04-03 21:05:21,8x800,Run,"2:35, 2:37, 2:31, 2:33, 2:31, 2:32, 2:28, 2:31
+Pushed last two and dooted last 120 of last rep",2343,9480.3,false,,activities/1026992817.fit.gz
+927043851,2017-04-03 21:51:25,Cooldown,Run,"",742,2399.2,false,,activities/1026992912.fit.gz
+928441238,2017-04-04 20:33:04,Easy bridge,Run,"",3558,12987.2,false,,activities/1028422379.fit.gz
+931113371,2017-04-05 20:32:48,Easy long Arb ,Run,"",3525,12976.3,false,,activities/1031160191.fit.gz
+931113553,2017-04-06 20:33:10,Iron bridge workout,Run,3x4' @5:40 4 min rest ,3437,12979.8,false,,activities/1031160372.fit.gz
+932323264,2017-04-07 20:33:30,Beaches ,Run,"",2017,7111.9,false,,activities/1032397967.fit.gz
+933698031,2017-04-08 17:49:31,Warm up,Run,"",867,3136.8,false,,activities/1033818461.fit.gz
+933698251,2017-04-08 19:08:08,Big ass hill run,Run,"",3497,10531.9,false,,activities/1033818679.fit.gz
+936942187,2017-04-10 20:15:36,Warm up,Run,"",1010,3716.8,false,,activities/1037181223.fit.gz
+936942276,2017-04-10 20:40:09,Natural lands run,Run,"",1384,4805.9,false,,activities/1037181311.fit.gz
+938316643,2017-04-11 20:36:31,Short Arb,Run,"",2624,9353.6,false,,activities/1038585396.fit.gz
+947686582,2017-04-16 19:18:23,Afternoon Run,Run,,2604,10266.5,false,,activities/1048254598.fit.gz
+947686707,2017-04-17 17:14:51,Lunch Run,Run,,958,3638.6,false,,activities/1048254743.fit.gz
+947704154,2017-04-14 21:33:06,Afternoon Run,Run,,2253,8982.9,false,,activities/1048254276.fit.gz
+948224582,2017-04-18 20:33:20,Quick iron bridge,Run,"",3327,12882.1,false,,activities/1048798864.fit.gz
+949648087,2017-04-19 20:30:26,Warm up,Run,"",1068,4065.7,false,,activities/1050265195.fit.gz
+949648214,2017-04-19 20:55:26,4 year old with a crayon,Run,"2x4,2x3, 2x2, 2x1
+75, 76, 58, 56, 37, 36, 17, 17",925,3664.6,false,,activities/1050265312.fit.gz
+949648286,2017-04-19 21:23:00,Cool down,Run,"",999,3742.1,false,,activities/1050265388.fit.gz
+951113461,2017-04-20 20:32:25,Afternoon Run,Run,,2706,9327.1,false,,activities/1051761246.fit.gz
+952307386,2017-04-21 20:32:35,Cross campus,Run,"",1760,6126.8,false,,activities/1052991905.fit.gz
+953771473,2017-04-22 16:56:58,Warm up,Run,"",894,3083.5,false,,activities/1054513965.fit.gz
+953771528,2017-04-22 18:08:43,Cool down,Run,"",1234,3906.2,false,,activities/1054514022.fit.gz
+956890245,2017-04-24 20:30:52,Warm up,Run,"",1095,3868.9,false,,activities/1057729520.fit.gz
+956890563,2017-04-24 20:59:54,Workout,Run,"4x3', 4x2' 2x1'
+Hard",3193,12229.2,false,,activities/1057729819.fit.gz
+958243005,2017-04-25 20:32:21,Short Bryce,Run,"",2764,8901.6,false,,activities/1059110177.fit.gz
+960946515,2017-04-26 20:35:38,X campus,Run,"",1767,6231.0,false,,activities/1061851737.fit.gz
+960946587,2017-04-28 00:31:26,Warm up,Run,"",978,3300.9,false,,activities/1061851788.fit.gz
+960946661,2017-04-28 01:19:55,Mac twilight 5k,Run,"",968,5014.3,false,,activities/1061851849.fit.gz
+960946717,2017-04-28 01:48:02,Cooldown,Run,"",973,2745.3,false,,activities/1061851896.fit.gz
+963469419,2017-04-28 20:32:26,Fe bridge,Run,"",3616,13050.5,false,,activities/1064457752.fit.gz
+963469474,2017-04-29 19:11:44,Warm up,Run,"",832,3195.3,false,,activities/1064457825.fit.gz
+963469677,2017-04-29 19:33:44,Workout,Run,"6x broken k, 600 100 300
+1:55-58, 56-58",1808,7995.9,false,,activities/1064458035.fit.gz
+963469840,2017-04-29 20:09:05,Cooldown,Run,"",1374,5031.0,false,,activities/1064458190.fit.gz
+968313947,2017-05-01 11:14:26,Early run,Run,"",2609,9513.0,false,,activities/1069480172.fit.gz
+968314124,2017-05-02 20:33:46,Cross campus,Run,"",1662,6075.2,false,,activities/1069480325.fit.gz
+968559171,2017-04-30 20:37:19,Short Arb,Run,"",2662,9594.0,false,,activities/1069479984.fit.gz
+974252819,2017-05-05 20:39:43,Grndr day,Run,"",1375,4660.0,false,,activities/1075548993.fit.gz
+974252884,2017-05-06 18:11:52,Warm up,Run,"",848,3201.9,false,,activities/1075549048.fit.gz
+974252965,2017-05-06 19:23:42,Meet of saints 5k,Run,"",1008,5055.3,false,,activities/1075549146.fit.gz
+974253022,2017-05-06 19:52:19,Cool down,Run,"",905,3101.5,false,,activities/1075549208.fit.gz
+974356504,2017-05-04 20:33:57,Short Arb,Run,"",2608,9562.0,false,,activities/1075548905.fit.gz
+979066267,2017-05-08 20:32:37,Short Arb,Run,"",2533,9327.1,false,,activities/1080566633.fit.gz
+979066468,2017-05-09 20:33:41,Short Arb,Run,"",2748,9554.7,false,,activities/1080566821.fit.gz
+979068652,2017-05-07 20:30:00,Natty Lands,Run,"",2520,9656.06,false,,
+982827792,2017-05-10 20:34:50,Iron bridge,Run,"",3638,13069.9,false,,activities/1085030009.fit.gz
+982828003,2017-05-11 20:35:23,Short Arb,Run,"",2522,9588.4,false,,activities/1085030334.fit.gz
+984590928,2017-05-13 15:27:34,Natty lands to around campus,Run,"",3095,12278.0,false,,activities/1087120588.fit.gz
+986747904,2017-05-14 19:59:52,1xTrack Workout (Fat week day 1),Run,"",422,1618.4,false,,activities/1089675636.fit.gz
+995775588,2017-05-15 20:37:55,Dilly bar there,Run,"",609,2216.9,false,,activities/1097888440.fit.gz
+995775680,2017-05-15 21:17:51,Dilly bar back,Run,"",366,1876.4,false,,activities/1097888535.fit.gz
+995775770,2017-05-16 21:05:30,1x1,Run,"",438,1701.0,false,,activities/1097888637.fit.gz
+995775876,2017-05-17 20:49:24,1x1,Run,"",417,1611.9,false,,activities/1097888779.fit.gz
+995775988,2017-05-18 20:30:19,1x1,Run,"",435,1733.8,false,,activities/1097888891.fit.gz
+1001805024,2017-05-21 21:14:18,Cross campus,Run,"",1646,6140.2,false,,activities/1104086890.fit.gz
+1001805133,2017-05-22 02:06:15,Carelton track,Run,"",697,2551.6,false,,activities/1104087002.fit.gz
+1001805382,2017-05-19 21:36:43,1x1,Run,"",406,1708.6,false,,activities/1104086622.fit.gz
+1001805470,2017-05-22 21:29:27,North west roads,Run,"",2544,9682.1,false,,activities/1104087306.fit.gz
+1002806056,2017-05-23 20:40:56,Iron bridge,Run,"",3240,12881.3,false,,activities/1105114281.fit.gz
+1006630804,2017-05-25 14:21:09,Basic loop,Run,"",2300,9002.5,false,,activities/1109041180.fit.gz
+1006631184,2017-05-26 14:30:30,Basic +,Run,Little ambitious for first mile. Way more hills than I'm used to,3334,12885.5,false,,activities/1109041555.fit.gz
+1008570840,2017-05-27 15:04:39,Pope farm park,Run,"",2884,11273.0,false,,activities/1111037761.fit.gz
+1012042815,2017-05-28 13:49:16,Doggie run,Run,Met bills new puppy,3022,10749.0,false,,activities/1114633030.fit.gz
+1012043047,2017-05-29 21:26:26,Rainy,Run,"",2677,10767.3,false,,activities/1114633266.fit.gz
+1012801938,2017-05-30 12:49:52,Zip zap flipity flap,Run,"",2879,11454.3,false,,activities/1115410565.fit.gz
+1016732870,2017-05-31 14:11:00,4 Big ol bowls of beans,Run,Just a big ol bowl of beans,3268,12211.1,false,,activities/1119451735.fit.gz
+1016733125,2017-06-01 20:45:46,Toasty tootsies,Run,"",3074,11459.6,false,,activities/1119451968.fit.gz
+1017909431,2017-06-02 14:46:39,Roast,Run,Was hot,3475,12048.2,false,,activities/1120658556.fit.gz
+1019235850,2017-06-03 13:44:59,"""Bear claw?""",Run,Bear-ly even know her,3452,13459.3,false,,activities/1122023718.fit.gz
+1020660674,2017-06-04 11:34:51,Gimme those worms,Run,Early bird gets 'em,3014,12213.4,false,,activities/1123495421.fit.gz
+1022907094,2017-06-05 14:25:08,Slow run,Run,Calluses making toes hurt and exhausted ,3355,11325.1,false,,activities/1125805445.fit.gz
+1024572545,2017-06-06 11:28:09,Doot doot ankle,Run,Ankle got twisted/pinched. Difficult to walk. :(,2784,10114.8,false,,activities/1127502537.fit.gz
+1050251253,2017-06-11 12:53:42,Morning Run,Run,,2729,10124.4,false,,activities/1153770915.fit.gz
+1050251445,2017-06-14 01:51:34,Evening Run,Run,,2018,8080.8,false,,activities/1153771119.fit.gz
+1050251770,2017-06-15 01:41:57,Evening Run,Run,,2627,10317.5,false,,activities/1153771370.fit.gz
+1050251943,2017-06-19 22:09:42,Afternoon Run,Run,,2806,10257.3,false,,activities/1153771619.fit.gz
+1050252193,2017-06-20 19:37:04,Afternoon Run,Run,,2969,9871.5,false,,activities/1153771862.fit.gz
+1050252480,2017-06-21 13:46:51,Morning Run,Run,,3877,13561.0,false,,activities/1153772154.fit.gz
+1050252570,2017-06-22 21:22:55,Afternoon Run,Run,,975,3685.4,false,,activities/1153772263.fit.gz
+1050252725,2017-06-23 00:56:36,BBQ bacon burger bites back,Run,"",1593,5016.7,false,,activities/1153772411.fit.gz
+1066129711,2017-06-23 13:40:03,Morning Run,Run,,2969,11230.0,false,,activities/1169960248.fit.gz
+1066129858,2017-06-25 12:08:49,Morning Run,Run,,823,2846.3,false,,activities/1169960408.fit.gz
+1066129995,2017-06-25 13:39:14,Morning Run,Run,,530,1991.6,false,,activities/1169960560.fit.gz
+1066130193,2017-06-25 14:13:38,Morning Run,Run,,896,2995.4,false,,activities/1169960754.fit.gz
+1066130812,2017-06-26 22:41:38,Longer run with 3.5 tempo,Run,"3.5 tempo, felt pretty good. Felt tired at the end but not overly so, won't go out so fast next time and will extend the distance",4348,16101.3,false,,activities/1169961355.fit.gz
+1066130923,2017-06-28 20:40:13,Afternoon Run,Run,,725,1595.5,false,,activities/1169961501.fit.gz
+1066131031,2017-06-28 21:09:45,Afternoon Run,Run,,846,3315.7,false,,activities/1169961604.fit.gz
+1066131549,2017-06-30 18:26:34,Gettin back on the 'ol horse,Run,"",3575,13530.9,false,,activities/1169962094.fit.gz
+1066132052,2017-07-01 21:53:13,Popin in pope farm park,Run,"",3878,14580.9,false,,activities/1169962598.fit.gz
+1066132548,2017-07-02 16:13:07,Lol the hard hill is its own segment,Run,It's steep,3587,12910.1,false,,activities/1169963070.fit.gz
+1066133010,2017-07-03 14:03:11,with quicker bit,Run,Ran the devils number 6.66 hardish but not that hard.  Felt good after 2 miles,3330,13611.3,false,,activities/1169963580.fit.gz
+1067117743,2017-07-04 14:01:29,Shorty,Run,"",2232,8551.0,false,,activities/1170960522.fit.gz
+1069641112,2017-07-05 13:47:41,3 mile too hot for tempo,Run,"Too hot for tempo, did 3 out of 4 miles quick, too hot to continue. ",4057,14933.4,false,,activities/1173510313.fit.gz
+1077543676,2017-07-09 12:34:45,Morning Run,Run,,3341,13602.2,false,,activities/1181522246.fit.gz
+1077543970,2017-07-10 13:40:56,Work,Run,Run b4 work. Was good,4526,16419.8,false,,activities/1181522568.fit.gz
+1078458615,2017-07-11 14:06:40,Not all the way,Run,"",3223,12647.0,false,,activities/1182486085.fit.gz
+1080795302,2017-07-12 18:00:40,SLO ,Run,"EZ, 85 and very humid. Probably should get new shoes at some point... another hot one tomorrow my guess as well. I guess heat training is okay?",3729,13522.9,false,,activities/1184852046.fit.gz
+1083052061,2017-07-14 02:11:58,Jogging in place,Run,Tour de run in place. Treadmills have no idea what pace you are going. Something is better than nothing,1973,8060.1,false,,activities/1187126767.fit.gz
+1083052479,2017-07-14 13:52:02,Lettin loose,Run,Finally a cool day that I can push a little harder without overheating. Felt really good after 2 miles. Tried to always feel a little more pushed on the pace and tried out a quicker tempo. ,3980,16661.9,false,,activities/1187127149.fit.gz
+1084802012,2017-07-15 13:38:26,Inadequate WU,Run,"",904,1690.3,false,,activities/1188910531.fit.gz
+1084802320,2017-07-15 14:06:25,LeRoy Fest 5k,Run,"Decided to do the 5k 30 mins before it started. Had a very rushed warm up. Lots of little kids and blew them out of the water. Started a bit slower so I didn't pull anything and didn't ever really get into a racing groove. Course wasn't marked well at all and almost went off course. I got 1st and dad got 2nd even with him going off course. 17:15, goal was around 17 so a tad slow but I'm fine with it. ",1038,4951.6,false,,activities/1188910814.fit.gz
+1084802758,2017-07-15 14:24:57,Cool down run,Run,Cool down after the race. First mile with dad and the rest I tried to keep it chill with the pace but I zoned out a few times and found my self a bit quicker. Ordered the grab bag and got boned by no free shipping. 27 bucks for random spikes still isn't bad I guess,4039,10849.3,false,,activities/1188911265.fit.gz
+1086615350,2017-07-16 16:43:56,Do you eccentric excercises!,Kitesurf,"Tendon is painful after yesterday, similar to what I had at precamp last year, went away with eccentric excercise several times a day. No more skipping the post run strength!  So far looking like a day off as to not make things worse. 
+
+PSAs going out to the boyz to not forget the eccentrics",1,0.0,false,,
+1091542641,2017-07-17 13:49:00,"""I have no memory of this place"" -Gandalf",Run,I don't remember this run. It looks like a run,3688,13434.5,false,,activities/1195778086.fit.gz
+1091543208,2017-07-18 13:59:05,Go big red,Run,Wore my red shorts and got flashed the W a few times.  Not quite fast enough to be a Badger but I'll take it. Just doing some distance so when I add workouts I don't get torn up,3464,13651.7,false,,activities/1195778652.fit.gz
+1091543793,2017-07-19 14:03:30,EZ,Run,So muggy the muggers got mugged. Went easy and short. Might do a super slow double tonight. Still working on eccentrics to prevent flare ups of the tendon,3014,11116.3,false,,activities/1195779262.fit.gz
+1093698584,2017-07-20 23:43:40,Quad killer,Run,"45 min elliptical. Work at 6am means either run at 4:40am or run when it's 92 and sunny. Decided to try out the treadmill, but it was broken so elliptical was all that was left. Did 10 mins hard, around 190 watts and the rest was between 150-170. I will feel it in my calves and quads tomorrow.   ",2700,11265.4,false,,
+1094506197,2017-07-21 13:47:18,Snakes 'n rabid animals,Run,"Saw a rabid muskrat that had no idea I was there and had flies all over it.  Then later I saw a snake which was pretty slick. Wanted to go 11-12 but ran out of time. Felt pretty good, seems like 6:40-50 has become my cruising pace which is fine. Looking forward to running with someone else to have company. ",4346,16705.6,false,,activities/1198783287.fit.gz
+1100829127,2017-07-25 14:00:25,(Hopefully) No more days off,Run,Did my last 14 hour day yesterday so hopefully no more days that I can't run in the morning.  ,3313,13714.6,false,,activities/1205201652.fit.gz
+1100829338,2017-07-22 13:04:51,Anticipated a second run,Run,Was going to double later today but didn't happen. Was going to run the run portion of dads tri but got there too late,2995,11403.6,false,,activities/1205200683.fit.gz
+1100829444,2017-07-23 13:20:33,Run with bob,Run,"I met bob while dad was in the ride of his tri, was going for an easy jog and decided to chat with him. Real easy",2177,6255.6,false,,activities/1205200909.fit.gz
+1100829526,2017-07-23 14:27:00,Picture man,Run,Ran leapfrog with my dad while he did he's run part of the Olympic tri. Pacing was interesting. I got cheered on lots. Dad got 8th out of 220 for the run,2698,9806.4,false,,activities/1205201211.fit.gz
+1102355902,2017-07-26 01:26:15,Does this even count as a double????,Run,"",558,1622.7,false,,activities/1206744562.fit.gz
+1102356247,2017-07-26 11:53:36,Workout Wednesday,Run,"5 mile tempo. This one was a tough one for me, wanted 5:40-50 for all 5 miles but didn't happen. Was tough after about 1.5 but stuck with it. Worked on mental toughness and was pretty focused for the first 4 miles and got distracted a few times in mile 5. Happy with the effort. Apparently set a 10k record with the warm up",2637,11272.7,false,,activities/1206744901.fit.gz
+1102356412,2017-07-26 12:38:12,Trying not to shit cooldown,Run,I think the title sums it up,2381,7340.4,false,,activities/1206745151.fit.gz
+1105581634,2017-07-27 13:30:39,Why does swim team swim at 6am,Run,"Early wake up to work today but only a few hours. Was an average run, went easy to shake out from the workout. ",3592,13538.6,false,,activities/1210007446.fit.gz
+1105581899,2017-07-28 13:57:59,Headless chicken,Run,"Felt like a headless chicken, dizzy and completely disconnected from my body. Not a good feeling and cut the run short. Will double later today to make up for this short run. ",2495,8591.4,false,,activities/1210007682.fit.gz
+1109292939,2017-07-29 01:27:33,Double,Run,"",2155,8484.9,false,,activities/1213789863.fit.gz
+1109293923,2017-07-30 15:50:07,Long run,Run,Felt great for my long run. It felt great to just go. A little sunny and warm but not too bad. Took it real easy at the beginning then went into it a bit more. Felt relaxed for all but the last two miles which took a bit of effort. Happy overall and looking forward to getting to run with the boyz,5599,22534.3,false,,activities/1213790877.fit.gz
+1110249090,2017-07-29 21:30:12,6 and more than a quarter pounder ,Run,"Had five guys for the first time, was quite the experience. Ran in the neighborhood without a watch, wasn't fast. I can't run there anymore because it messes with my ankles too much. ",2646,10138.9,false,,
+1122617665,2017-07-31 13:46:11,Morning Run,Run,,3867,13545.4,false,,activities/1227336762.fit.gz
+1122617686,2017-08-01 14:22:00,Morning Run,Run,,340,1208.5,false,,activities/1227336820.fit.gz
+1122617819,2017-08-06 13:56:21,Morning Run,Run,,5587,21280.3,false,,activities/1227338162.fit.gz
+1122617828,2017-08-01 14:29:13,Morning Run,Run,,1923,7060.1,false,,activities/1227336970.fit.gz
+1122617982,2017-08-02 13:50:16,Morning Run,Run,,3632,13489.4,false,,activities/1227337309.fit.gz
+1122618220,2017-08-04 17:46:57,Lunch Run,Run,,2322,8570.6,false,,activities/1227337499.fit.gz
+1122618497,2017-08-05 16:15:52,Lunch Run,Run,,3391,13685.0,false,,activities/1227337766.fit.gz
+1137033419,2017-08-08 13:58:39,Morning Run,Run,,3023,11595.9,false,,activities/1242018290.fit.gz
+1137036719,2017-08-09 14:08:24,Morning Run,Run,,2893,11768.2,false,,activities/1242022299.fit.gz
+1137037414,2017-08-10 13:57:02,Morning Run,Run,,3331,13608.7,false,,activities/1242022974.fit.gz
+1137038091,2017-08-11 14:01:41,Morning Run,Run,,3393,13637.6,false,,activities/1242023668.fit.gz
+1137038746,2017-08-12 12:25:22,Morning Run,Run,,2886,10293.0,false,,activities/1242024340.fit.gz
+1137044379,2017-08-15 14:03:26,Morning Run,Run,,3370,13530.6,false,,activities/1242029859.fit.gz
+1137044745,2017-08-16 14:00:38,Short run against ian la mere,Run,"Short before work, was planning on a double however left outer ankle is being problematic again. Probably more prudent to rest it and lower mileage. Unfortunate setback. Ian la mere has a segment record for part of this run",1536,6465.9,false,,activities/1242030238.fit.gz
+1140184394,2017-08-17 13:53:06,You shouldn't eat that,Run,"Ran by the highschool girls tennis team all packed around a rabid possum. It had no idea what was going on and was content chompin down on its leg in the middle of the path, not too smart. Continued the run and came back 50 min later to a dead possum. Moral of the story: don't eat yourself",3479,13596.7,false,,activities/1245217170.fit.gz
+1140184637,2017-08-18 14:08:06,Turkey,Run,"Turkey in pheasant branch, the ankle isn't being bothersome and I will continue to minimize time on my feet outside of running to minimize any potential issues without sacrificing too many miles in the process. Overall felt good and am planning on a bigger week for mileage",3254,12769.8,false,,activities/1245217509.fit.gz
+1143011053,2017-08-20 01:23:00,Elliptical ,Run,Night elliptical ,1500,6437.39,false,,
+1148375454,2017-08-22 17:10:19,Moon shoes,Run,Felt like I had moon shoes on and I was not in my body. Probably had to do with it eating since the day before and had to cut it short ,2169,8510.3,false,,activities/1253551138.fit.gz
+1148376212,2017-08-23 16:49:32,Workout Wednesday,Run,"3 mile tempo followed by 2x3' hard. Tempo pace was around 5:45 and hard was 5:20. Felt quite hard for the 3' parts especially the first which was up hill into the wind, second one felt much more relaxed as it was flat and not as windy. Get good overall and looking to keep increasing mileage after yesterday's short comings. ",3683,14818.4,false,,activities/1253551907.fit.gz
+1148378168,2017-08-20 17:42:18,Long run for me but not a long run,Run,Long run compared to what I was doing last week but disappointed that this was a long run. Felt good for it and never felt really pushed or exhausted. Will be doing higher miles next week ,5338,19980.3,false,,activities/1253549983.fit.gz
+1148378786,2017-08-21 16:29:45,Craning the cranium to catch a glimpse of cranes ,Run,"Couldn't think of a synonym for ""see"" that started with the letter ""c"". Basically saw a duo of sand hill cranes on both of my loops in pheasant branch. Was pretty cool. Felt good to do a longer run after my long run yesterday. Starting the week off strong",4301,16721.3,false,,activities/1253550688.fit.gz
+1150434383,2017-08-24 16:14:39,U of M bub,Run,"Found a stray gopher in pheasant branch along with the two cranes and a snake. Bub was runnin fast. Felt really good and a perfect day to run: little cloudy, 69 degrees, not too windy. Looking forward to pre camp",3699,14877.3,false,,activities/1255631529.fit.gz
+1152029350,2017-08-25 21:34:49,Let's ride our bikes up this runners butt to see if he likes it,Run,"Was going a nice pace and felt super good, passed some bikers who then proceeded to ride up my butt, hence the much faster mile in the middle. It felt pretty good actually, I guess I did like it ;) Not too hard and overall the run felt good. Went to the good neighbor festival after and picked up some mini doughnuts. Looking forward to tomorrow's devils lake run!",3322,13626.9,false,,activities/1257244404.fit.gz
+1154563426,2017-08-26 19:17:25,Devils lake,Run,Note to future self: don't ever try to run at Devils lake. It was a nightmare of people. Best part was in the second mile when we weren't on a trail and was running on the rocks of the lake shore. Then the rest was on crushed shale along the railroad tracks or stop and go for passing people. Looking forward to the boys tomorrow. ,3240,7812.4,false,,activities/1259821958.fit.gz
+1154563569,2017-08-26 21:06:12,Devils lake pt 2,Run,"",518,1478.8,false,,activities/1259822135.fit.gz
+1154563712,2017-08-26 21:16:24,Devils lake pt 3,Run,"",195,844.6,false,,activities/1259822258.fit.gz
+1156762927,2017-08-27 15:16:28,Crumple in defeat,Run,Had to stop with a quarter mile to go. Crumpled into a thorn bush. No more mini doughnuts ,3802,14581.1,false,,activities/1262050319.fit.gz
+1156763430,2017-08-28 14:16:45,Lake harriet,Run,First run of precamp. Felt good to be with the boys. Felt chill and no bathroom emergencies,4117,15611.1,false,,activities/1262050793.fit.gz
+1158898974,2017-08-28 20:38:29,Second effort,Run,Felt woozy and overall not fantastic in terms of how it felt. Legs were fine for the double. Just was dehydrated my guess. ,1750,6443.0,false,,activities/1264202935.fit.gz
+1158899318,2017-08-29 13:10:33,Shit again,Run,Nice and easy with the boys. Felt good but got stuck between groups maintaining a pace that felt good so slowed down to not overextend for the tempo tomorrow. Had to shit on the side of the road with two miles left. Felt good after that. ,4319,16119.1,false,,activities/1264203289.fit.gz
+1158899444,2017-08-29 20:32:25,Second effort,Run,"Shorter second effort today, no stiffness in the legs and did plenty of stretching afterwards. Good to be with the boys. ",1337,4878.8,false,,activities/1264203436.fit.gz
+1161907761,2017-08-30 13:05:52,Wu ,Run,"",1290,4836.6,false,,activities/1267229632.fit.gz
+1161908034,2017-08-30 13:37:05,Workout Wednesday ,Run,"",1386,6452.6,false,,activities/1267229900.fit.gz
+1161908254,2017-08-30 14:06:33,Cd,Run,"",1376,4837.8,false,,activities/1267230110.fit.gz
+1161908703,2017-08-31 13:04:01,Recovery run,Run,"",3428,12683.9,false,,activities/1267230573.fit.gz
+1162960035,2017-09-01 13:07:55,Sore 8,Run,"",3461,12931.2,false,,activities/1268290663.fit.gz
+1164833347,2017-09-02 13:12:03,Long run,Run,"Long run with bakken and Derek. Felt pretty bad until 8, then felt good. Picked up last 3. Still a little sick but still got the run in",5876,22596.8,false,,activities/1270188891.fit.gz
+1166347901,2017-09-03 13:15:07,Ez 8,Run,"",3817,12902.7,false,,activities/1271734569.fit.gz
+1169765859,2017-09-04 13:38:07,Sign and back,Run,Easy recovery run to the sign. Felt nice and easy on the legs,4081,14736.1,false,,activities/1275190910.fit.gz
+1169766081,2017-09-04 20:33:26,Coarse of courts,Run,Of course!,1414,5193.2,false,,activities/1275191193.fit.gz
+1169766786,2017-09-05 14:19:48,We're not in cansas anymore,Run,This is whey hillyer than canses ,4348,15663.1,false,,activities/1275191878.fit.gz
+1171541184,2017-09-06 13:33:44,Warm up,Run,"",1046,3808.0,false,,activities/1276989607.fit.gz
+1171541945,2017-09-06 13:52:33,Work out Wednesday,Run,"Felt really nice, not overextended. 6x200 in 39-40, 1k in 3:21, 3x3' 3x2' 3x1' all hitting about 40 per 200, 4x200 in 38-39. Felt controlled and hard through the whole workout. Didn't feel the need to pick it up at the end. ",3230,13433.5,false,,activities/1276990427.fit.gz
+1171542227,2017-09-06 14:46:55,Cooldown,Run,"",1427,3961.0,false,,activities/1276990752.fit.gz
+1174765612,2017-09-07 20:58:43,Iron bridge,Run,"",4095,14202.0,false,,activities/1280252973.fit.gz
+1174765739,2017-09-08 20:40:17,Cross campus,Run,"",2327,7370.9,false,,activities/1280253115.fit.gz
+1176039556,2017-09-09 14:13:18,Wu,Run,"",1149,4102.0,false,,activities/1281549293.fit.gz
+1176039814,2017-09-09 15:03:15,Alumni 5k,Run,"Alumni 5k. I raced it well, staying with pt and dem at the first mile then pt and justin the rest of the way. I got gapped at 800 to go and lost contact. Got passed in the chute by primo. Need to work on extended endurance to work on maintain pace rather than dropping 15 sec a mile. Felt good overall. 9th overall 7th on the team. Bill and Chris brenk didn't run. Will continue to workout where I was last week and maybe increase later in the season. ",992,5042.2,false,,activities/1281549602.fit.gz
+1176040178,2017-09-09 15:39:01,Cool down cross campus,Run,"",2431,7939.2,false,,activities/1281549955.fit.gz
+1177706799,2017-09-10 14:09:03,Great 13.1 WR attempt,Run,Long run with turtle justin and saucy. Lost saucy at 9. Felt good besides a melted toe. ,5813,21207.9,false,,activities/1283250178.fit.gz
+1185706705,2017-09-11 20:59:34,Wu,Run,"",950,3476.6,false,,activities/1291346476.fit.gz
+1185706967,2017-09-11 21:19:21,Workout?,Run,"",2386,9506.8,false,,activities/1291346735.fit.gz
+1185707013,2017-09-11 22:03:32,Cool down,Run,"",390,1343.7,false,,activities/1291346785.fit.gz
+1185707086,2017-09-11 22:13:53,Walk down,Run,"",735,1026.5,false,,activities/1291346854.fit.gz
+1185707381,2017-09-12 20:38:02,8 in the Arb,Run,"",3985,12981.6,false,,activities/1291347092.fit.gz
+1185707412,2017-09-13 20:34:03,Wu,Run,"",1066,3816.4,false,,activities/1291347177.fit.gz
+1185707598,2017-09-13 21:00:35,Workout,Run,"1x1600, 2x3, 2x2, 2x1, 4x30",2018,8012.2,false,,activities/1291347364.fit.gz
+1185707640,2017-09-13 21:35:45,Cd,Run,"",615,1824.1,false,,activities/1291347416.fit.gz
+1185707845,2017-09-14 20:54:03,Course 8,Run,"",3627,12882.9,false,,activities/1291347647.fit.gz
+1185707967,2017-09-15 20:35:19,Cross campus,Run,"",2491,7326.7,false,,activities/1291347777.fit.gz
+1188686745,2017-09-16 14:12:29,Wu,Run,"",1060,3702.7,false,,activities/1294378693.fit.gz
+1188687258,2017-09-16 15:00:09,Ole invite,Run,"",1641,8091.8,false,,activities/1294379290.fit.gz
+1188687551,2017-09-16 15:54:16,Watching cooldown,Run,"",1589,3111.8,false,,activities/1294379562.fit.gz
+1188688366,2017-09-17 14:31:05,Recovery run,Run,"",3898,14605.3,false,,activities/1294380362.fit.gz
+1188688540,2017-09-17 15:38:27,Y,Run,"",115,430.6,false,,activities/1294380565.fit.gz
+1207134541,2017-09-18 21:42:51,Afternoon Run,Run,,3984,13440.2,false,,activities/1313084379.fit.gz
+1207134573,2017-09-19 20:27:03,Afternoon Run,Run,,940,3469.7,false,,activities/1313084495.fit.gz
+1207134924,2017-09-19 20:52:30,Afternoon Run,Run,,3124,11805.2,false,,activities/1313084902.fit.gz
+1207135022,2017-09-19 21:51:29,Afternoon Run,Run,,730,2186.9,false,,activities/1313084994.fit.gz
+1207135392,2017-09-20 20:33:46,Afternoon Run,Run,,3605,12930.1,false,,activities/1313085313.fit.gz
+1207135690,2017-09-21 20:55:34,Afternoon Run,Run,,3869,13744.3,false,,activities/1313085631.fit.gz
+1207135776,2017-09-22 11:07:59,Morning Run,Run,,1140,4040.8,false,,activities/1313085733.fit.gz
+1207136113,2017-09-22 11:35:46,Morning Run,Run,,2581,10596.7,false,,activities/1313086074.fit.gz
+1207136219,2017-09-22 12:21:39,Morning Run,Run,,921,3226.7,false,,activities/1313086185.fit.gz
+1207136628,2017-09-23 14:22:01,Morning Run,Run,,5661,19320.7,false,,activities/1313086562.fit.gz
+1207136890,2017-09-24 14:23:57,Morning Run,Run,,3815,12988.0,false,,activities/1313086838.fit.gz
+1207136956,2017-09-25 20:30:22,Afternoon Run,Run,,929,3390.7,false,,activities/1313086920.fit.gz
+1207137464,2017-09-25 20:52:05,Afternoon Run,Run,,2790,12036.5,false,,activities/1313087306.fit.gz
+1207137522,2017-09-25 21:39:32,Afternoon Run,Run,,429,1626.6,false,,activities/1313087398.fit.gz
+1207137580,2017-09-25 21:54:25,Afternoon Run,Run,,987,3243.2,false,,activities/1313087492.fit.gz
+1207137812,2017-09-26 20:37:18,Afternoon Run,Run,,4044,13741.0,false,,activities/1313087764.fit.gz
+1207138105,2017-09-27 20:35:20,Afternoon Run,Run,,4326,16144.6,false,,activities/1313088079.fit.gz
+1207138331,2017-09-28 20:54:56,Afternoon Run,Run,,2559,7692.9,false,,activities/1313088331.fit.gz
+1207822700,2017-09-29 20:25:38,Afternoon Run,Run,,870,3202.9,false,,activities/1313782084.fit.gz
+1207822855,2017-09-29 21:14:41,Afternoon Run,Run,,1601,8094.4,false,,activities/1313782238.fit.gz
+1207822985,2017-09-29 22:00:39,Afternoon Run,Run,,1765,4831.6,false,,activities/1313782362.fit.gz
+1212663386,2017-09-30 14:40:24,Morning Run,Run,,4519,14121.6,false,,activities/1318694420.fit.gz
+1212663426,2017-10-01 14:19:53,Morning Run,Run,,5541,20284.3,false,,activities/1318694630.fit.gz
+1212663570,2017-10-02 20:58:17,Runny manure,Run,"",4038,14727.3,false,,activities/1318694814.fit.gz
+1218453621,2017-10-03 20:30:04,Afternoon Run,Run,,774,2901.3,false,,activities/1324542901.fit.gz
+1218453776,2017-10-03 20:52:45,Afternoon Run,Run,,2796,11681.6,false,,activities/1324543075.fit.gz
+1218453810,2017-10-03 21:46:35,Afternoon Run,Run,,715,1913.2,false,,activities/1324543099.fit.gz
+1218453942,2017-10-04 20:34:59,Afternoon Run,Run,,3678,13003.3,false,,activities/1324543236.fit.gz
+1218454103,2017-10-05 20:59:24,Afternoon Run,Run,,4360,15107.0,false,,activities/1324543394.fit.gz
+1218454127,2017-10-06 20:21:44,Afternoon Run,Run,,1046,3742.6,false,,activities/1324543432.fit.gz
+1218454235,2017-10-06 20:54:02,"When it rains, water comes from the sky",Run,"",2270,9489.5,false,,activities/1324543547.fit.gz
+1218454301,2017-10-06 21:47:15,This is a good ,Run,"",1244,3385.7,false,,activities/1324543608.fit.gz
+1224756430,2017-10-08 14:00:30,Morning Run,Run,,4858,17779.0,false,,activities/1330930580.fit.gz
+1224756550,2017-10-09 21:00:10,Afternoon Run,Run,,3085,11107.7,false,,activities/1330930704.fit.gz
+1224756616,2017-10-10 20:33:30,Afternoon Run,Run,,975,3402.0,false,,activities/1330930781.fit.gz
+1224756825,2017-10-10 21:03:02,Afternoon Run,Run,,2493,11359.3,false,,activities/1330930984.fit.gz
+1224756883,2017-10-10 21:51:29,Afternoon Run,Run,,1011,3496.9,false,,activities/1330931043.fit.gz
+1231460315,2017-10-07 20:30:00,Bike,Ride,,1800,0.0,false,,
+1247149657,2017-10-11 20:36:09,Afternoon Run,Run,,3184,11354.7,false,,activities/1353595168.fit.gz
+1247149781,2017-10-12 20:58:03,Afternoon Run,Run,,3615,13355.1,false,,activities/1353595301.fit.gz
+1247149845,2017-10-13 20:38:31,Afternoon Run,Run,,1710,5777.8,false,,activities/1353595364.fit.gz
+1247149876,2017-10-13 21:21:57,Afternoon Run,Run,,588,1219.5,false,,activities/1353595390.fit.gz
+1247149923,2017-10-14 14:41:37,Morning Run,Run,,976,3436.6,false,,activities/1353595438.fit.gz
+1247150016,2017-10-14 15:30:10,Morning Run,Run,,1635,8096.8,false,,activities/1353595552.fit.gz
+1247150071,2017-10-14 16:36:22,Lunch Run,Run,,973,2480.8,false,,activities/1353595600.fit.gz
+1247150160,2017-10-15 19:59:12,Afternoon Run,Run,,1564,4744.6,false,,activities/1353595679.fit.gz
+1247150247,2017-10-18 20:33:13,Afternoon Run,Run,,2569,9192.5,false,,activities/1353595778.fit.gz
+1247150363,2017-10-19 20:56:44,Afternoon Run,Run,,3107,11309.7,false,,activities/1353595891.fit.gz
+1247150430,2017-10-20 20:25:29,Afternoon Run,Run,,1335,3345.1,false,,activities/1353595943.fit.gz
+1247150497,2017-10-20 20:53:13,Afternoon Run,Run,,1533,6426.4,false,,activities/1353596022.fit.gz
+1247150531,2017-10-20 21:19:25,Afternoon Run,Run,,1160,2818.5,false,,activities/1353596066.fit.gz
+1247150579,2017-10-21 15:10:05,Morning Run,Run,,2203,8025.2,false,,activities/1353596126.fit.gz
+1247150956,2017-10-24 20:34:55,Afternoon Run,Run,,934,3499.2,false,,activities/1353596536.fit.gz
+1247151041,2017-10-22 20:35:19,Afternoon Run,Run,,3857,13009.9,false,,activities/1353596399.fit.gz
+1247151044,2017-10-24 21:03:13,Afternoon Run,Run,,954,4050.4,false,,activities/1353596595.fit.gz
+1247151046,2017-10-23 20:34:27,Afternoon Run,Run,,3807,13172.9,false,,activities/1353596501.fit.gz
+1247151086,2017-10-24 21:20:34,Afternoon Run,Run,,812,2916.5,false,,activities/1353596627.fit.gz
+1247151172,2017-10-25 20:34:34,Afternoon Run,Run,,2244,8128.0,false,,activities/1353596711.fit.gz
+1273039533,2017-10-26 20:56:13,Afternoon Run,Run,,935,3519.0,false,,activities/1379710237.fit.gz
+1273039736,2017-10-26 21:18:22,Afternoon Run,Run,,669,3014.5,false,,activities/1379710430.fit.gz
+1273039788,2017-10-26 21:33:56,Afternoon Run,Run,,702,2490.0,false,,activities/1379710489.fit.gz
+1273039894,2017-10-27 20:37:42,Afternoon Run,Run,,2110,6928.9,false,,activities/1379710586.fit.gz
+1273039954,2017-10-28 15:11:42,Morning Run,Run,,1007,3814.0,false,,activities/1379710653.fit.gz
+1273040093,2017-10-28 16:37:22,Lunch Run,Run,,1958,3946.9,false,,activities/1379710748.fit.gz
+1273040226,2017-10-29 20:35:38,Afternoon Run,Run,,3705,13243.8,false,,activities/1379710924.fit.gz
+1273040335,2017-10-30 21:23:16,Afternoon Run,Run,,2049,6870.0,false,,activities/1379711041.fit.gz
+1273040891,2017-10-31 20:41:38,Afternoon Run,Run,,4594,16448.3,false,,activities/1379711367.fit.gz
+1273041050,2017-11-01 20:38:16,Afternoon Run,Run,,3443,11617.9,false,,activities/1379711523.fit.gz
+1273041372,2017-11-02 20:16:21,Afternoon Run,Run,,4209,14664.6,false,,activities/1379711736.fit.gz
+1273041471,2017-11-03 20:48:14,Afternoon Run,Run,,950,3417.5,false,,activities/1379711815.fit.gz
+1273041548,2017-11-03 21:19:09,Afternoon Run,Run,,2369,10404.1,false,,activities/1379712042.fit.gz
+1273041580,2017-11-03 22:05:33,Afternoon Run,Run,,716,2348.6,false,,activities/1379712088.fit.gz
+1273041626,2017-11-04 20:31:48,Afternoon Run,Run,,2187,8017.4,false,,activities/1379712202.fit.gz
+1273041681,2017-11-05 21:35:38,Afternoon Run,Run,,2246,8058.6,false,,activities/1379712334.fit.gz
+1273041722,2017-11-06 21:37:06,Afternoon Run,Run,,742,2737.9,false,,activities/1379712383.fit.gz
+1273041833,2017-11-06 22:03:18,Afternoon Run,Run,,1092,4653.8,false,,activities/1379712537.fit.gz
+1273041895,2017-11-06 22:30:07,Afternoon Run,Run,,789,2728.2,false,,activities/1379712603.fit.gz
+1273041981,2017-11-07 21:33:19,Afternoon Run,Run,,2247,8177.6,false,,activities/1379712695.fit.gz
+1273042024,2017-11-08 21:35:41,Afternoon Run,Run,,722,2722.6,false,,activities/1379712757.fit.gz
+1273042104,2017-11-08 21:57:19,Afternoon Run,Run,,836,3639.8,false,,activities/1379712838.fit.gz
+1273042149,2017-11-08 22:20:25,Afternoon Run,Run,,798,2728.8,false,,activities/1379712891.fit.gz
+1273042546,2017-11-11 16:09:09,Morning Run,Run,,920,3331.3,false,,activities/1379713354.fit.gz
+1273042640,2017-11-11 17:53:45,Lunch Run,Run,,1129,3342.6,false,,activities/1379713437.fit.gz
+1273042736,2017-11-09 22:14:47,Afternoon Run,Run,,2192,8043.6,false,,activities/1379713176.fit.gz
+1273042814,2017-11-10 21:38:26,Afternoon Run,Run,,2093,6921.1,false,,activities/1379713288.fit.gz
+1274895767,2017-11-11 17:00:00,Regionals,Run,,1605,8046.74,false,,
+1283912287,2017-11-15 21:32:24,Afternoon Run,Run,,1202,4323.2,false,,activities/1390627232.fit.gz
+1283912428,2017-11-16 22:02:28,Afternoon Run,Run,,2016,6344.0,false,,activities/1390627384.fit.gz
+1283912471,2017-11-16 22:51:53,Afternoon Run,Run,,123,439.5,false,,activities/1390627449.fit.gz
+1283912614,2017-11-17 15:18:52,Morning Run,Run,,1706,6533.6,false,,activities/1390627566.fit.gz
+1283912649,2017-11-18 16:36:08,Morning Run,Run,,411,1411.2,false,,activities/1390627624.fit.gz
+1283912706,2017-11-18 18:44:37,Lunch Run,Run,,413,1694.4,false,,activities/1390627681.fit.gz
+1283912944,2017-11-19 21:37:37,Afternoon Run,Run,,3038,11074.8,false,,activities/1390627892.fit.gz
+1283913133,2017-11-20 21:33:43,Kook-Aid man,Run,Starting up the new training session for indoor. Planning on 40-50 this week. Felt like the kool-aid man full of juices. Uncomfortable but overall a nice run,3091,11483.6,false,,activities/1390628132.fit.gz
+1285206637,2017-11-21 17:24:08,Elite conversations ,Run,Ran with butters Pt meatsauce zaggy on upstairs track. Consistently increased pace. Further than what Strava said,2130,7949.4,false,,activities/1391923131.fit.gz
+1287308311,2017-11-23 14:16:09,NotMyTurkeyTrot,Run,"",3981,15317.9,false,,activities/1394041447.fit.gz
+1289258205,2017-11-25 02:32:25,70° and dark inside>60° sunny outside,Run,"10 min warm up
+10 min @5:30
+15 min cooldown
+Ran on treadmill and late ",2100,8690.47,false,,
+1292119253,2017-11-25 16:35:36,Watch had low battery,Run,Watch gave me low battery warning so I sped up. Felt good,3317,13150.3,false,,activities/1398896540.fit.gz
+1292119547,2017-11-26 20:45:34,Boys are back in town,Run,Says it all,3730,14581.3,false,,activities/1398896846.fit.gz
+1295495800,2017-11-27 21:37:36,Outnback,Run,"",3188,11328.0,false,,activities/1402313641.fit.gz
+1295496057,2017-11-28 21:38:08,Squads are better than solo,Run,"",3297,11269.5,false,,activities/1402313912.fit.gz
+1296174604,2017-11-29 21:32:31,Tempo but more important through holland,Run,Tempo was too fast but that’s fine. 10 min @5:15. Was hard but not overly so. Cut through holland to avoid stink tree. Was sick,3660,12876.1,false,,activities/1403005793.fit.gz
+1297322642,2017-11-30 21:57:27,New route,Run,Ran with Dustin on a new route in Arb. We saw a owl so that was cool,3874,13717.8,false,,activities/1404181101.fit.gz
+1298389047,2017-12-01 21:34:19,Wu,Run,"",1326,4831.4,false,,activities/1405270433.fit.gz
+1298389115,2017-12-01 22:12:43,Wo,Run,"2x4x4
+2x2
+
+All right on pace",1477,6121.8,false,,activities/1405270498.fit.gz
+1298389180,2017-12-01 22:44:43,Cd,Run,"",811,2596.1,false,,activities/1405270552.fit.gz
+1301768107,2017-12-02 20:45:49,Beer pills,Run,"Ole cup idea: pills that absorb alcohol in your stomach. 
+
+Sister idea: pills that give you just the side effects of alcohol",3830,13989.2,false,,activities/1408771859.fit.gz
+1301768374,2017-12-03 21:34:29,Cornhole2canada,Run,Too much pavement,4245,14950.2,false,,activities/1408772148.fit.gz
+1302581632,2017-12-04 21:34:59,Wu,Run,"",1268,4816.6,false,,activities/1409602945.fit.gz
+1302581646,2017-12-04 22:08:05,Wo,Run,"5x4
+All within a second. Last one was hard. Was good. ",647,2979.0,false,,activities/1409602967.fit.gz
+1302581685,2017-12-04 22:26:59,Cd,Run,"",1521,5288.8,false,,activities/1409603002.fit.gz
+1302610268,2017-12-05 05:28:33,It’s the most wonderful time of the year,Run,"",121,345.9,false,,activities/1409633682.fit.gz
+1305180031,2017-12-05 21:37:27,Jeff,Run,"",5172,16153.8,false,,activities/1412258300.fit.gz
+1305180072,2017-12-06 21:38:07,To the graveyard,Run,"",1600,5636.4,false,,activities/1412258357.fit.gz
+1305180090,2017-12-06 22:07:07,Searching for doot market of ole rolvag,Run,No luck. Next year,739,780.2,false,,activities/1412258374.fit.gz
+1305180178,2017-12-06 22:20:40,Back to campus,Run,"",1919,5037.5,false,,activities/1412258435.fit.gz
+1316048524,2017-12-14 22:25:30,Indoor 30 min,Run,"",1819,6053.4,false,,activities/1423387374.fit.gz
+1316048878,2017-12-15 21:35:41,7 on northwest,Run,Still have cough from being sick,3030,11272.9,false,,activities/1423387679.fit.gz
+1316049805,2017-12-07 21:55:43,Afternoon Run,Run,,1135,3903.9,false,,activities/1423386770.fit.gz
+1316049965,2017-12-07 22:28:43,Afternoon Run,Run,,357,1833.2,false,,activities/1423386964.fit.gz
+1316050109,2017-12-07 22:43:33,Afternoon Run,Run,,2130,7048.4,false,,activities/1423387095.fit.gz
+1316050222,2017-12-12 21:33:18,Indoor 30 min,Run,"",1822,6069.6,false,,activities/1423387248.fit.gz
+1316588928,2017-12-16 21:33:03,Landos ,Run,"Played catch up in middle, was fast. Hopefully I ran the cough out of me",4880,19322.1,false,,activities/1423946902.fit.gz
+1323027530,2017-12-22 03:00:00,Night Run,Run,,2400,9196.23,false,,
+1324983593,2017-12-17 21:38:44,Afternoon Run,Run,,2530,9719.3,false,,activities/1432584831.fit.gz
+1324983672,2017-12-20 21:57:45,Afternoon Run,Run,,2284,9045.6,false,,activities/1432584912.fit.gz
+1324983678,2017-12-23 00:43:32,Evening Run,Run,,469,1806.5,false,,activities/1432584929.fit.gz
+1324983726,2017-12-23 01:18:05,Grindfest,Run,"",2202,9248.4,false,,activities/1432584981.fit.gz
+1324983739,2017-12-23 02:23:55,Evening Run,Run,,123,454.5,false,,activities/1432584999.fit.gz
+1324983792,2017-12-23 21:46:48,Blister run,Run,"",2425,9003.6,false,,activities/1432585038.fit.gz
+1328218531,2017-12-26 18:33:48,Bad man,Run,"Have been a bad man. Not much running but now will increase this next week into interim. Less busy=more miles. Big toe was hurting, will monitor ",2700,10598.1,false,,
+1333505877,2017-12-29 17:07:48,Bad dog,Run,Had to turn around because the bad dogs were out,3229,12578.5,false,,activities/1441453018.fit.gz
+1333508888,2017-12-30 17:57:51,Lunch Run,Run,Don’t treadmill on me.  Toe isn’t hurting anymore,3600,14001.3,false,,
+1333510859,2017-12-27 18:59:00,No thick gloves,Run,,3000,11265.4,false,,
+1347947196,2018-01-09 05:50:12,Japan mountains,Run,Woof. Tokyo running not possible. Will be doing two shorter runs a day as best I can to fit around farm work. Saw some nice mountains but are out of reach. ,2100,7859.57,false,,
+1348327729,2018-01-09 12:40:53,Sketchiest run ever,Run,Ran to the 711 and back with Alex and John biking. Almost all on a Japanese highway with no light. Pounded a sake under a random street light in a back road then walked back through creepy murderer woods,900,2896.82,false,,
+1396956208,2018-01-01 21:06:55,Afternoon Run,Run,,1676,5244.1,false,,activities/1507212549.fit.gz
+1396956214,2018-01-01 21:48:38,Afternoon Run,Run,,886,3763.1,false,,activities/1507212654.fit.gz
+1396956248,2018-01-08 23:47:07,Morning Run,Run,,674,2077.3,false,,activities/1507212723.fit.gz
+1396956277,2018-01-10 23:50:22,Morning Run,Run,,1666,6454.2,false,,activities/1507212833.fit.gz
+1396956482,2018-01-16 22:24:23,Morning Run,Run,,4521,10862.2,false,,activities/1507213109.fit.gz
+1396956998,2018-01-18 23:44:48,Morning Run,Run,,2200,8251.1,false,,activities/1507213347.fit.gz
+1396957099,2018-01-25 03:01:11,Lunch Run,Run,,4152,13483.8,false,,activities/1507213619.fit.gz
+1396957353,2018-01-28 04:39:07,Afternoon Run,Run,,3407,12881.8,false,,activities/1507213897.fit.gz
+1396957395,2018-02-02 15:45:12,Morning Run,Run,,2211,8980.1,false,,activities/1507214010.fit.gz
+1396957552,2018-02-07 21:34:17,Jeff,Run,Felt good running with people again. Further than I probably should have gone but as long as it’s done carefully should be okay,4380,15370.7,false,,activities/1507214353.fit.gz
+1399694865,2018-02-08 21:52:24,X canpus,Run,"",2191,7562.8,false,,activities/1510326430.fit.gz
+1399697252,2018-02-08 22:20:00,Afternoon Run,Run,,920,3701.5,false,,
+1399699832,2018-02-09 21:47:30,"Tread mill, 2x3”",Run,"3” were at 5:20, second one felt better than first",2697,11265.4,false,,
+1401602115,2018-02-10 21:01:54,Short Bryce ,Run,Caught up after went easy. Less mileage to keep it safe,2898,10036.6,false,,activities/1512576651.fit.gz
+1406693578,2018-02-11 21:42:00,Short bryce,Run,"",2932,9917.5,false,,activities/1518284978.fit.gz
+1406693584,2018-02-12 21:31:13,Wu,Run,"",894,3229.9,false,,activities/1518285012.fit.gz
+1406693632,2018-02-12 21:57:28,1st workout,Run,"800, 4x4",951,3733.8,false,,activities/1518285052.fit.gz
+1406693650,2018-02-12 22:20:36,Cd,Run,Had 2 poop,371,1266.3,false,,activities/1518285079.fit.gz
+1406693768,2018-02-13 21:34:36,Short Bryce ,Run,"",3041,10218.5,false,,activities/1518285182.fit.gz
+1412660527,2018-02-17 19:29:17,Wu,Run,"",880,3232.8,false,,activities/1524738677.fit.gz
+1412660551,2018-02-16 21:36:57,X campus,Run,"",2165,7180.1,false,,activities/1524738605.fit.gz
+1412660634,2018-02-17 20:21:23,Post interim 3k,Run,"Was a race. It was where I expected to be time wise. Need to get fit and get back the spark for finishing strong. Felt good first k, “pushed” to really just maintain pace, then died last 800",566,2728.8,false,,activities/1524738769.fit.gz
+1412660650,2018-02-15 21:31:30,30 min indoors,Run,"",1803,6478.2,false,,activities/1524738344.fit.gz
+1412660670,2018-02-14 20:46:32,Afternoon Run,Run,,3443,12876.1,false,,activities/1524738225.fit.gz
+1412660724,2018-02-17 20:40:26,Cd,Run,"",794,2801.6,false,,activities/1524738850.fit.gz
+1412665913,2018-02-15 21:48:00,Indoor bike sim,Ride,203 watt average-harder than needed to be. Those damn simulated riders,1620,13840.4,false,,
+1417089964,2018-02-18 21:30:00,60 min eliptical,Run,,3600,13794.3,false,,
+1418071661,2018-02-19 21:33:40,Upstairs track,Run,Probably closer to 7.25,3031,11059.8,false,,activities/1530512498.fit.gz
+1418071861,2018-02-20 21:32:08,Upstairs track ,Run,Closer to 10. Was cruising with mike fin last 2.5,3894,14813.3,false,,activities/1530512668.fit.gz
+1419678309,2018-02-21 23:05:18,Tread,Run,,1800,6897.17,false,,
+1427925136,2018-02-23 19:56:22,Afternoon Run,Run,,1330,4985.3,false,,activities/1540767335.fit.gz
+1427925311,2018-02-25 21:39:20,Snipe,Run,"",2711,8875.9,false,,activities/1540767621.fit.gz
+1427925440,2018-02-26 21:43:03,Bryce,Run,"",3427,11697.1,false,,activities/1540767726.fit.gz
+1427925648,2018-02-24 16:09:15,Quiet morning,Run,"",2474,8108.1,false,,activities/1540767559.fit.gz
+1434858660,2018-02-27 21:36:27,Afternoon Run,Run,,3086,10282.8,false,,activities/1547881847.fit.gz
+1434858966,2018-02-28 21:50:38,Afternoon Run,Run,,4357,15400.4,false,,activities/1547882163.fit.gz
+1434859215,2018-03-01 21:38:08,Afternoon Run,Run,,3571,12089.3,false,,activities/1547882446.fit.gz
+1434859349,2018-03-02 21:37:58,Afternoon Run,Run,,2599,9714.9,false,,activities/1547882612.fit.gz
+1434859726,2018-03-03 21:32:04,W/O and LR,Run,Was super nice out. Super Jeff. With bill and PT. 10x1 at 5 or around. ,4624,17286.2,false,,activities/1547883004.fit.gz
+1440157426,2018-03-04 21:29:09,Afternoon Run,Run,,2855,10059.7,false,,activities/1553367760.fit.gz
+1440157507,2018-03-05 21:38:10,Hoth ,Run,"",2960,10011.5,false,,activities/1553367857.fit.gz
+1440157532,2018-03-05 22:29:24,Coloring book,Run,Luv 2 scribble with crayons,457,1301.7,false,,activities/1553367885.fit.gz
+1440157577,2018-03-06 21:32:10,Afternoon Run,Run,,1725,6061.5,false,,activities/1553367932.fit.gz
+1444094158,2018-03-07 21:30:00,Eliptical,Run,"",2700,9978.0,false,,
+1444095798,2018-03-08 21:30:00,Elliptical workout,Run,"10x1 2x2
+No idea paces, just was tiring",3600,11748.2,false,,
+1446404870,2018-03-10 21:22:30,Elliptical ,Run,Strong effort. Hopefully this will have gotten out any problems,3642,12874.8,false,"",
+1448655964,2018-03-11 20:34:32,Un-beave-able,Run,"Jeff with Joey and beave. Beave won at chairs and is now undefeated. Feeling good
+",4209,14994.7,false,,activities/1562173457.fit.gz
+1448658056,2018-03-09 21:33:16,Sloppy roads,Run,"",2705,9690.4,false,,activities/1562173080.fit.gz
+1452032124,2018-03-12 20:37:35,Bryce,Run,"",3470,12068.8,false,,activities/1565646974.fit.gz
+1452032237,2018-03-13 20:36:48,14:50 tempo,Run,"Stopped when we ran into a family in the city. Was with sid. First mile was slow, second and rest was good
+",3249,11711.3,false,,activities/1565647105.fit.gz
+1456733236,2018-03-15 20:35:57,Afternoon Run,Run,,3420,12908.1,false,,activities/1570468043.fit.gz
+1456733254,2018-03-14 21:49:30,Afternoon Run,Run,,2356,8865.6,false,,activities/1570467889.fit.gz
+1456733467,2018-03-16 20:35:43,Workout,Run,"6x2 4x30
+
+Was hard, felt pretty good
+",3600,12721.6,false,,activities/1570468227.fit.gz
+1460273367,2018-03-17 14:45:33,Morning Run,Run,,3545,13064.3,false,,activities/1574133355.fit.gz
+1460273591,2018-03-18 20:33:34,Long run with extended tempo,Run,Pushed with Derek at the end. Felt good. Stomach feels terrible now,4901,19361.5,false,,activities/1574133588.fit.gz
+1461732458,2018-03-19 20:37:39,Worst run in a while,Run,lunch was super heavy so i was feeling sick the whole run.  Legs were very sore from yesterday.  people were good,3415,11700.3,false,,activities/1575633384.fit.gz
+1463372475,2018-03-20 20:39:33,Tempo,Run,"First mile was fast and killed me, second two were very very slow. Was still sore/hurting from Sunday. Don’t do that",4219,15371.6,false,"",activities/1577372961.fit.gz
+1463372493,2018-03-20 21:51:10,Afternoon Run,Run,,327,1171.6,false,"",activities/1577373004.fit.gz
+1465170082,2018-03-21 20:37:47,"Too sore to run fast, not fast enough to feel good",Run,Sore from Sunday and tempo. Ran super slow so each step seemed like I was slamming the ground. Shins hurt,3795,12953.8,false,"",activities/1579250487.fit.gz
+1466536482,2018-03-22 20:57:01,Workout,Run,"3x3 and 3x2
+
+With turtle bill and Iron dog
+Good work 
+Got dropped at second 2 min
+Felt good and healthy sore",3429,12927.8,false,"",activities/1580656809.fit.gz
+1471419502,2018-03-23 20:36:30,Dog,Run,Nice dog. Dumb dog,5622,16559.8,false,"",activities/1585744756.fit.gz
+1471420157,2018-03-24 23:29:20,Boulder Bolorado,Run,Sick+10h drive+no sleep+altitude=not fun run. Doot at 2 miles. Get way better at the end of the run than the beginning ,3279,11277.1,false,"",activities/1585745401.fit.gz
+1472140226,2018-03-25 15:44:34,Resivoir,Run,Felt much better today. Still feel sore/doot from altitude. Will be a good week,4000,14493.0,false,"",activities/1586522346.fit.gz
+1475578477,2018-03-26 16:12:52,5 up 5 down ,Run,Felt pretty good. Took it easy. Looking forward to workout ,4757,16137.3,false,"",activities/1590089601.fit.gz
+1475578597,2018-03-27 21:16:41,Afternoon Run,Run,,1580,4837.3,false,"",activities/1590089735.fit.gz
+1475578891,2018-03-27 21:54:33,Workout ,Run,"2x1k.       10kDP
+4x800.    10kDP
+4x400.     5kGP
+
+5:30 pace for ks and first 2 8s
+5:20 for last two 8s
+5 for 4s",2581,10516.2,false,"",activities/1590090003.fit.gz
+1475579009,2018-03-27 22:40:14,Afternoon Run,Run,,943,2921.3,false,"",activities/1590090115.fit.gz
+1476607086,2018-03-28 15:43:31,Irish bub,Run,Ran into an Irish guy who runs for England. Was cool and easy run,4492,16086.3,false,"",activities/1591160227.fit.gz
+1478766193,2018-03-29 19:30:51,Rough tempo,Run,"Tempo was super slow, but high in effort. Definitely feeling the altitude ",4117,13384.5,false,"",activities/1593385102.fit.gz
+1480834313,2018-03-30 16:04:49,Magnolia road,Run,Long run on magnolia road. Was fun but a bit chilly in the beginning. Very hilly. With Justin turtle Paul Kieth ,6598,22549.7,false,"",activities/1595559493.fit.gz
+1481486969,2018-03-31 11:47:12,Moon run,Run,Pre car ride with Paul (kinda). Felt very sore but it was good to get out and run. Some pain around the ankles but could be due to going from sleeping to running without moving around much. ,2342,8151.0,false,"",activities/1596248734.fit.gz
+1486126699,2018-04-02 20:32:25,Burner,Run,"",1020,3792.3,false,"",activities/1601106143.fit.gz
+1486187713,2018-04-02 21:02:11,Workout ,Run,"8x800
+1 2:39
+Rest 2:41-2:41.7
+Got chilly dog after 2 so warmed up after 4
+
+Feel good",2473,9145.1,false,"",activities/1601168865.fit.gz
+1486527337,2018-04-02 21:58:17,Burner,Run,"",1204,3960.4,false,"",activities/1601520636.fit.gz
+1491806052,2018-04-03 20:34:29,Heff,Run,"",4509,16123.5,false,"",activities/1606955128.fit.gz
+1491806074,2018-04-04 20:37:24,Tempo,Run,2x10’ tempo with turtle. Felt hard. Long day,4677,16119.1,false,"",activities/1606955562.fit.gz
+1491806400,2018-04-05 20:37:18,R0ads,Run,"",4064,14606.4,false,"",activities/1606955839.fit.gz
+1493514101,2018-04-06 20:33:45,Easy jeff,Run,Just a jeff,3993,14189.1,false,"",activities/1608722797.fit.gz
+1495366058,2018-04-07 13:24:49,Wu,Run,"",1325,4849.2,false,"",activities/1610641192.fit.gz
+1495366179,2018-04-07 14:04:37,Workout,Run,"6x1k 
+At pace and got faster as it went ",1831,7646.9,false,"",activities/1610641303.fit.gz
+1495366247,2018-04-07 14:37:39,Cd,Run,"",955,3323.2,false,"",activities/1610641357.fit.gz
+1495366380,2018-04-07 21:01:46,Play in the snow ,Run,5k course. Super wet and snowy and muddy. Fun though ,1576,5062.9,false,"",activities/1610641487.fit.gz
+1497855590,2018-04-08 20:32:46,Sad Jeff ,Run,Snowing and grey sky’s. Pretty gloomy and wet. Just a run,3984,14169.4,false,"",activities/1613299536.fit.gz
+1499287636,2018-04-09 20:31:28,Many manly men,Run,"",1076,3940.1,false,"",activities/1614809173.fit.gz
+1499384291,2018-04-09 21:08:52,Big bessie,Run,"Big workout
+2x1600-10k pace
+4x1k-faster than 10k pace
+6x400-much faster than 10k pace
+4x200-juicin the legs
+
+Felt real good for most of it. Could have gone faster for miles and ks but didn’t know how it would end. Finished the 4s and 2s with the big boys. Last 2 2s were a piece of work. Very happy with the workout
+
+",3552,14826.9,false,"",activities/1614907952.fit.gz
+1499607206,2018-04-09 22:16:51,Oof ouch ow,Run,"",1062,3237.0,false,"",activities/1615139677.fit.gz
+1502399009,2018-04-10 20:37:12,Run with Carls,Run,They are nice. Weird but nice,3968,14129.0,false,"",activities/1618011329.fit.gz
+1503504335,2018-04-11 20:34:01,XCampus with carls ,Run,"",2228,7474.7,false,"",activities/1619144908.fit.gz
+1505953452,2018-04-12 23:38:14,Evening Run,Run,,985,3508.2,false,"",activities/1621676643.fit.gz
+1505953647,2018-04-13 00:23:18,Opener 5k,Run,"Felt good, a bit sore from Monday. Stuck with crispy for 3k or so then drifted. Gotta work on finishing strong",958,5083.3,false,"",activities/1621676852.fit.gz
+1505953799,2018-04-13 00:51:10,Evening Run,Run,,1204,4019.6,false,"",activities/1621676990.fit.gz
+1508560749,2018-04-14 18:36:59,Afternoon Run,Run,,641,2097.6,false,"",activities/1624398914.fit.gz
+1508561227,2018-04-13 20:35:49,Afternoon Run,Run,,2933,10372.6,false,"",activities/1624399408.fit.gz
+1508561310,2018-04-14 17:30:23,Lunch Run,Run,,942,3288.8,false,"",activities/1624399538.fit.gz
+1509033177,2018-04-15 02:12:12,Snowlex 1500,Run,"4:14 1500. Just followed Elliot. Happy with this race 
+",254,1500.0,false,"",
+1513013704,2018-04-14 20:08:12,Afternoon Run,Run,,1792,4805.2,false,"",activities/1629040887.fit.gz
+1513013771,2018-04-16 21:11:33,Sloppy seconds,Run,Got sloshed by the roads ,3941,14587.3,false,"",activities/1629041104.fit.gz
+1513015781,2018-04-15 19:20:00,1 hour bike,Ride,"",3600,0.0,false,,
+1514704572,2018-04-17 20:16:31,Afternoon Run,Run,,1128,3998.5,false,"",activities/1630785967.fit.gz
+1515940527,2018-04-17 20:47:54,Second big workout,Run,"1600: 5:18
+4x1k: 3:18, 3:17, 3:13, 3:12
+6x600: 1:55-1:53
+4x400: 3 74s 1 71
+
+Workout with mougli, he pushed me to keep a strong pace. Really happy with this workout ",3340,15080.4,false,"",activities/1632068476.fit.gz
+1515940652,2018-04-17 21:55:19,Afternoon Run,Run,,1059,3157.8,false,"",activities/1632068663.fit.gz
+1522387612,2018-04-19 20:35:05,Wh,Run,"",1166,4196.1,false,"",activities/1638767765.fit.gz
+1522388059,2018-04-19 21:03:14,Wo,Run,"2x4
+2x3
+2x2
+2x1
+Easy but sore from workout still",830,3565.3,false,"",activities/1638768098.fit.gz
+1522388288,2018-04-19 21:26:33,Afternoon Run,Run,,1088,3755.8,false,"",activities/1638768389.fit.gz
+1522388769,2018-04-20 20:32:56,Xcampus ,Run,"",1864,6169.6,false,"",activities/1638768781.fit.gz
+1522391883,2018-04-18 20:36:01,Toads,Run,"",4196,14721.4,false,"",activities/1638767480.fit.gz
+1526053239,2018-04-21 23:00:00,LaCrosse 1500,Run,"1500 race
+Felt good, perfect conditions, great day to race.
+Went out at a good clip and hung on as long as I could
+Reeled people in the whole race until 150 to go, then got swallowed by most of the field RIP.  All good, excited for MAC 5K",3853,1500.0,false,"",
+1528008211,2018-04-21 22:33:03,Afternoon Run,Run,"",986,3416.1,false,"",activities/1644669946.fit.gz
+1528008342,2018-04-22 00:02:01,Cd,Run,"",2178,7152.6,false,"",activities/1644670073.fit.gz
+1528008518,2018-04-22 20:32:45,Yo-yo roads,Run,"People bouncing in front and behind. Just want to run as a small group
+",3584,13033.3,false,"",activities/1644670301.fit.gz
+1528008575,2018-04-23 20:37:01,Wu,Run,"",1103,3936.9,false,"",activities/1644670369.fit.gz
+1528008832,2018-04-23 21:12:23,Workout,Run,"8xbroken k, 600@x, 200 off, 200@x-3
+400 between sets
+
+1:52.6, 33.9
+1:53.4, 35
+1:52.6, 35.7
+1:52.8, 35.8
+(Water break about 2 min)
+1:51.8, 34.9
+1:50.8, 34.9
+1:52, 34.8
+1:51.2, 34
+
+Took a longer break 2 min or so after the first 4, got water. Was a hot day. Happy with workout, careful on last two because my right ankle was twingy when landing on the heel",2723,10857.9,false,"",activities/1644670653.fit.gz
+1528008867,2018-04-23 22:07:05,Grass field cd,Run,"",817,2173.6,false,"",activities/1644670700.fit.gz
+1532142178,2018-04-24 20:39:02,Out n back arb,Run,Ankle was hurting so turned around early,3193,10886.3,false,"",activities/1648971829.fit.gz
+1532142365,2018-04-25 20:57:57,Beaches not open?,Run,"Waited at old main hill for 20 min. No one came, beaches were open but no one came. Did natural lands with cathy",1614,5636.2,false,"",activities/1648971997.fit.gz
+1534079625,2018-04-27 00:10:40,Evening Run,Run,"",1076,4003.8,false,"",activities/1650983740.fit.gz
+1534079700,2018-04-27 01:00:06,Mac twilight ,Run,"Bonk a donk. Went out really fast and felt good, but payed for it later. Grinded with PT till 1k to go and fell off. Legs tired before the race with right shin pain, probably mostly in my head and just need a few easy days. Still planning on pushing workouts but lowering mileage. Hoping for better time results next Saturday.  Maybe something for Rolex maybe not, depending on ankle and shin. 
+
+Doot doot 
+
+16 flat, opened in 4:50",962,5056.9,false,"",activities/1650983825.fit.gz
+1534079768,2018-04-27 01:24:48,Evening Run,Run,"",1257,2819.1,false,"",activities/1650983902.fit.gz
+1539963353,2018-04-27 20:28:38,Short arb,Run,"",2655,9350.5,false,"",activities/1657048299.fit.gz
+1540168066,2018-04-29 20:36:02,Iron bridge,Run,"Low and slow
+",3724,13046.3,false,"",activities/1657258895.fit.gz
+1551919027,2018-05-03 20:34:51,Afternoon Run,Run,,1056,3727.9,false,"",activities/1669304140.fit.gz
+1551919210,2018-05-03 21:08:52,Afternoon Run,Run,,877,3576.8,false,"",activities/1669304358.fit.gz
+1551919349,2018-05-03 21:30:44,Afternoon Run,Run,,1009,3386.4,false,"",activities/1669304510.fit.gz
+1551919663,2018-05-04 20:37:24,Afternoon Run,Run,,2088,7137.8,false,"",activities/1669304770.fit.gz
+1551919803,2018-05-05 17:14:47,Lunch Run,Run,,902,3282.4,false,"",activities/1669304915.fit.gz
+1551920016,2018-05-05 18:17:30,It was HOT,Run,"",1004,5074.3,false,"",activities/1669305142.fit.gz
+1551920132,2018-05-05 18:48:15,Afternoon Run,Run,,793,2200.7,false,"",activities/1669305236.fit.gz
+1551921209,2018-04-30 20:31:51,Afternoon Run,Run,,940,3401.9,false,"",activities/1669303053.fit.gz
+1551921479,2018-04-30 20:55:58,Afternoon Run,Run,,1611,6406.7,false,"",activities/1669303344.fit.gz
+1551921548,2018-04-30 21:25:33,Afternoon Run,Run,,1184,2537.4,false,"",activities/1669303479.fit.gz
+1551921714,2018-05-01 20:33:32,Afternoon Run,Run,,2499,8815.9,false,"",activities/1669303807.fit.gz
+1551921790,2018-05-02 22:18:13,Afternoon Run,Run,,950,3236.3,false,"",activities/1669303938.fit.gz
+1595691824,2018-05-06 20:35:13,Afternoon Run,Run,,2472,8593.1,false,"",activities/1714993965.fit.gz
+1595692087,2018-05-07 20:36:08,Afternoon Run,Run,,2246,8059.1,false,"",activities/1714994203.fit.gz
+1595692345,2018-05-08 20:35:22,Afternoon Run,Run,,2339,8164.6,false,"",activities/1714994518.fit.gz
+1595692431,2018-05-09 20:31:39,Afternoon Run,Run,,884,3320.9,false,"",activities/1714994618.fit.gz
+1595692776,2018-05-09 21:04:24,Afternoon Run,Run,,424,1861.8,false,"",activities/1714994929.fit.gz
+1595692827,2018-05-09 21:13:59,Afternoon Run,Run,,697,2420.7,false,"",activities/1714995040.fit.gz
+1595694990,2018-05-10 20:38:41,Afternoon Run,Run,,1726,5975.3,false,"",activities/1714996407.fit.gz
+1595695211,2018-05-11 19:44:42,Afternoon Run,Run,,1362,4900.9,false,"",activities/1714996618.fit.gz
+1595695319,2018-05-12 22:43:34,Afternoon Run,Run,,926,3178.0,false,"",activities/1714996751.fit.gz
+1595695567,2018-05-13 00:23:47,Evening Run,Run,,2065,5254.8,false,"",activities/1714997006.fit.gz
+1595695653,2018-05-14 20:35:11,Afternoon Run,Run,,638,2210.7,false,"",activities/1714997116.fit.gz
+1595695740,2018-05-14 21:01:00,Afternoon Run,Run,,852,2098.5,false,"",activities/1714997236.fit.gz
+1595695875,2018-05-19 20:32:19,Afternoon Run,Run,,450,1701.7,false,"",activities/1714997397.fit.gz
+1595695993,2018-05-24 14:52:08,Hot run,Run,"",1921,6733.8,false,"",activities/1714998745.fit.gz
+1595697854,2018-05-20 20:23:00,Short arb,Run,"",2748,9673.0,false,"",activities/1714997964.fit.gz
+1595698566,2018-05-21 20:34:00,Afternoon Run,Run,,2752,9667.7,false,"",activities/1714998260.fit.gz
+1595699226,2018-05-22 20:38:08,Afternoon Run,Run,,1479,5015.4,false,"",activities/1714998472.fit.gz
+1599786383,2018-05-26 20:05:35,Dog run in swim trunks,Run,"Ran with Sarah’s dogs to the cows and back, then went and actually ran. Was wearing swim trunks. It was around 90",3019,8313.7,false,"",activities/1719365149.fit.gz
+1599787190,2018-05-27 14:24:38,Squirrel fiesta,Run,Ran into a pack of squirrels that didn’t want to move. Maybe 7 or 8 of them. Hot run but so be it. Legs felt great cruising in the beginning but at like mile 5 for real hot and slowed a bit. Stopped for water to cool down.  Real summer running starts tomorrow,3656,12116.4,false,"",activities/1719365956.fit.gz
+1601772406,2018-05-28 14:31:30,Jelly legs,Run,"Legs felt like jelly today, but overall feel much better than last week and no longer get gassed after 4 miles. Looking forward to this week of running, plan on getting up earlier to run before the heat hits and to go longer. ",3674,10684.1,false,"",activities/1721492832.fit.gz
+1605010505,2018-05-30 02:15:14,I promise I’m not bill,Run,"Had interview this morning so had to go late at night. Was frustrated it was so late so did a short stint that was fast, the ribs and yogurt I had 10 min before running didn’t agree with me. 
+
+Not happy with the days volume but it’s better than doing nothing 
+",1641,5986.2,false,"",activities/1724938291.fit.gz
+1608976308,2018-05-30 12:51:31,Stormy,Run,Sprinkling when I started and was raining pretty good at the end. Was pretty fun in the rain. Nice and easy. Felt good. ,3713,12248.3,false,"",activities/1729164080.fit.gz
+1608976830,2018-05-31 13:44:17,Further than expected,Run,"Went out and it was warm, finished and it was hot. Had to stop for water 3 times. It was farther than anticipated as I went around the big loop, but it’s perfectly 10 miles so that’s good to know. Tired and hot at the end. Other than that it was good. ",5342,16101.4,false,"",activities/1729164683.fit.gz
+1611009212,2018-06-02 01:21:01,I h8 night runs,Run,"Ran way too late, was light out when I started but quickly got dark. Got spooked near the woods so picked it up back. Felt nice goin fast and wasn’t tired at the end which is a good sign. Have to run in the mornings though to be happy with temperature and overall feeling
+",2968,10984.9,false,"",activities/1731351486.fit.gz
+1615695536,2018-06-03 20:39:43,Remarkable,Run,I am a god of speed. I set records in every running event on a training run. 4 second mile! Lol,3386,12527.6,false,"",activities/1736322433.fit.gz
+1615695943,2018-06-02 23:37:22,Nice ‘n easy,Run,Just going for a jog,3864,12901.6,false,"",activities/1736322914.fit.gz
+1616929728,2018-06-04 15:34:46,There and back again,Run,"Feet felt heavy and like they were landing before they were supposed to, maybe just a bit tired. Other than that it was a pleasant run, not too hot considering the late departure. Felt a bit uncomfortable but that is a product of the heat and poor sleep from dog sitting. Looking forward to this week, maybe around 60? We will see. ",3727,13713.7,false,"",activities/1737649823.fit.gz
+1619343104,2018-06-05 16:11:33,Pullin back,Run,Wanted to take it really slow and did for the most part. Only was on the gas when going by dumb high schoolers around the school. Happy with this run. ,4503,15070.4,false,"",activities/1740253337.fit.gz
+1625166059,2018-06-06 22:14:06,#GlobalRunnersDay,Run,"Sped up at the end so I wasn’t late to training lol. Not happy with distance, will be okay though",2719,9114.5,false,"",activities/1746604125.fit.gz
+1625166685,2018-06-07 14:08:19,#RunnersDayOff,Run,Went longer today because I felt good and yesterday was lack-luster. Overall feeling good. ,6042,16632.4,false,"",activities/1746604782.fit.gz
+1625167112,2018-06-08 12:49:37,Out of bed in record time,Run,"Out of bed within 7 minutes. Nice and easy run didn’t want to go too far. Definitely back in the hang of running after the week off after track. Looking forward to doing a long run this weekend
+",3954,12295.3,false,"",activities/1746605257.fit.gz
+1627507674,2018-06-09 15:01:39,Run with dad,Run,Ran with my dad. We stopped at the farmers market halfway through. Took pictures at buckys along the way,4016,10336.8,false,"",activities/1749069337.fit.gz
+1630068071,2018-06-10 14:52:42,Long run 1 (route looks like sperm lol),Run,"It felt great, the weather was low 60s and cloudy. Rained last night and this morning so it was nice and cool and the trail was just a bit muddy. Really enjoyed this run. Started to feel tired at like 11.5 and got super hungry. Going to eat some chocolate doughnuts now. ",5912,21874.4,false,"",activities/1751771292.fit.gz
+1633667531,2018-06-11 23:56:28,Fyptodyo fsu tiff wrk,Run,"That was “first day of work” with sweat on my screen so it messed up the typing 
+",3784,11979.5,false,"",activities/1755554989.fit.gz
+1633668092,2018-06-12 12:09:28,Easy morning,Run,Little bit of tendon pain in front of my left ankle. Going to work on stretching it throughout the day,3241,11861.7,false,"",activities/1755555628.fit.gz
+1644688055,2018-06-16 14:43:49,Rip heel,Run,"Heel started bleeding everywhere, had to just elliptical with no shoes
+",812,2694.7,false,"",activities/1767091778.fit.gz
+1644689372,2018-06-17 13:33:01,D@ngerous,Run,Sooooo hot and muggy. Went faster in the beginning to “beat the heat by going faster” but got dicked on when I got to the sunny portion. Lol. Took water at the fountains and even with that I almost threw up at the end. Bad week but next should be better,5048,16936.1,false,"",activities/1767093146.fit.gz
+1644701222,2018-06-14 12:15:23,Don’t be late,Run,Running to beat the work clock,3489,12952.5,false,"",activities/1767090421.fit.gz
+1644701878,2018-06-15 12:12:11,Gravel sock,Run,"Wore the wrong socks, gravel got in the heel and tore up the back. F. Last 2 miles were hurty and now my shoe is bloody",3609,12729.3,false,"",activities/1767091396.fit.gz
+1644929995,2018-06-16 16:40:00,Ball buster,Run,"Barefoot elliptical, really made the balls of my feet sore due to the ridges and hard plastic, but needed something more than 1.6 and shoes were not an option. Also walked around for like 4 miles later in the day ",1800,6897.17,false,"",
+1656960352,2018-06-22 22:09:42,Pre dinner run,Run,Overall a pretty average run but the weather was cooperating ,4172,12964.5,false,"",activities/1779930319.fit.gz
+1656961142,2018-06-23 13:38:17,Branch was bumpin,Run,Perfect weather. There was something sort of tri or fun run in pheasant branch so there were lots of people. Great run,4393,16554.0,false,"",activities/1779931115.fit.gz
+1656976421,2018-06-21 01:00:00,"30 elliptical, 18 run",Run,"Ran after dinner and the salmon was fighting back, worst cramp I’ve ever had. My other runs aren’t loading but this week should be around 65 with a 14ish long run",2880,11035.5,false,"",
+1656984614,2018-06-18 11:53:03,Ehhh,Run,Nothing special here. Quite underwhelming but always hard to sleep when it’s boiling when you sleep,3345,10938.7,false,"",activities/1779927885.fit.gz
+1656985433,2018-06-19 12:06:13,Best run of the summer,Run,Started pouring when I got to the open part of the branch and I loved it. Went longer knowing I would be late to work. Run>work,4259,16428.1,false,"",activities/1779928702.fit.gz
+1656985847,2018-06-21 12:21:37,No summer is complete...,Run,Without pooping in the branch. Lol,3460,12064.0,false,"",activities/1779929451.fit.gz
+1660050358,2018-06-24 13:28:39,Long run,Run,Cut a little short due to the front tendon in my left ankle being bothersome. I think re-dedicating to eccentrics will solve the issue. A little warm but overall a nice effort. Happy with this and hoping for a 70ish week,5741,20934.1,false,"",activities/1783174497.fit.gz
+1664686495,2018-06-27 00:51:54,Treadmill,Run,There was absolutely no way I could have hit 60 min. Stomach had other plans than running for me. Treadmill run due to pouring rain. Overall was a good run but made a hasty departure to the facilities,3470,13840.4,false,"",
+1666787679,2018-06-25 16:34:01,Hynustus of bugs,Run,A dozen white haired dude bugs walking around in the branch. Up to no good I’m sure,3853,15014.9,false,"",activities/1790174551.fit.gz
+1666787974,2018-06-27 11:59:30,Dawdling ,Run,Just easy morning. Forgot my key so I’m SOL on work,4667,13791.4,false,"",activities/1790174930.fit.gz
+1666788147,2018-06-27 23:57:28,Dumba$$,Run,Ran back from work with a plastic bag of work clothes. Lol oh well,1037,2904.3,false,"",activities/1790175035.fit.gz
+1667635830,2018-06-28 12:02:29,Green chili Doritos are running suicide,Run,"All was taking it easy except when Doritos were making a break for it. Left front ankle tendons are still bugging me, hopeful they will go away with eccentrics",5041,16165.0,false,"",activities/1791053436.fit.gz
+1669590032,2018-06-29 12:05:41,Tempo,Run,Legs told me 🤨 “wat ya doing big boi?”  Had no sense of pacing during the tempo so relied on my watch but I was on the dot for 5:40 for 10 minutes. I felt like I could keep going but it definitely was not relaxed. Also saw an Olympian so that was cool,3962,14948.6,false,"",activities/1793072051.fit.gz
+1671770510,2018-06-30 12:28:44,Hot,Run,Heat index predicted 105-110 today so got out earlyish. Still 90 at 7:30. Just taking it really easy today and making sure to do eccentrics to feel good for tomorrow,5115,13766.2,false,"",activities/1795331606.fit.gz
+1674235969,2018-07-01 13:03:14,Roller coster of speed and emotion,Run,Long run was just plodding along tuned out when I remembered how this last cross season turned out team wise in performance. I don’t want that for this next season so I picked it up. Ran into Nathan rock lol. He’s staying like a mile from the apartment so I’ll probably see him again. Then I saw cole from dumb loras and I got frustrated again. Then I cooked it off at the end because there’s a long summer of training ahead and the worst thing to do is try to go HAM out of nowhere on a long run then break down the next week. Overall I feel good about this run. ,6232,23363.2,false,"",activities/1797902356.fit.gz
+1675962243,2018-07-02 12:13:29,Morning Run,Run,,2970,10170.4,false,"",activities/1799700041.fit.gz
+1680790383,2018-07-04 17:02:55,Nauseous ,Run,Too hot to run outside due to late start. Did 10 minute on elliptical and felt nauseous/felt like I was going to pass out whole time. Not great but this is a down week so not the end of the world. Happy 4th 🇺🇸,600,0.0,false,"",
+1682474002,2018-07-05 12:03:43,26x30,Run,"Did the 30 second workout. Not really sure what I was doing for pace but it felt hard and I was tired at the end. Glad I’m doing workouts earlier this year, hoping it will pay off",4379,15453.1,false,"",activities/1806420290.fit.gz
+1682475430,2018-07-03 12:00:43,Morning Run,Run,,5091,16789.7,false,"",activities/1806420841.fit.gz
+1691522587,2018-07-07 17:26:00,Setback (elliptical),Run,"Got concussed in Monday but didn’t have symptoms until Wednesday but I didn’t recognize them. Thursday run was fine but after I couldn’t see out of 30% of my vision. Took off Friday, elipticalled today and will do short run Sunday. Build from there",1800,6897.17,false,"",
+1693326940,2018-07-10 12:51:15,Hammer hill ,Run,"Hammered the pope farm hill, pretty sure I am #2 on it because it records going down so top people are like 9-10 minute people. Felt amazing this morning, really happt",4266,15331.2,false,"",activities/1817719562.fit.gz
+1693349742,2018-07-08 13:58:13,Morning Run,Run,,1999,6932.0,false,"",activities/1817719033.fit.gz
+1694646647,2018-07-11 02:11:38,Easy in slides,Run,East Treadmill while autumn ran,1800,5310.85,false,"",
+1695444509,2018-07-11 12:07:45,Morning Run,Run,,4305,16622.4,false,"",activities/1819917161.fit.gz
+1697521840,2018-07-12 12:02:10,Easy morning,Run,Just going out for a jog,3729,13552.3,false,"",activities/1822071192.fit.gz
+1699660824,2018-07-13 12:04:40,Old man status achieved: 15’ tempo,Run,"Old man = go to bed at 10:15 and 2 mile warm up at 7:45 pace. Started the tempo as soon as I got to the gravel of pheasant branch, there was a boardwalk and 2 hard turns in the first mile, but did 5:42, 5:32, and 5:40 pace for the end change. Felt pretty good for the first 8 min or so, then was tough for 4 min, then had the last 3 push. Overall harder than last tempo (duh) but I feel better about this one. Saw Finnel and Amex so that was cool. 
+
+Highlight of yesterday was conference call with turtle and birdo ",4102,15415.3,false,"",activities/1824289678.fit.gz
+1707395052,2018-07-14 19:17:04,Boil boil,Run,"Ran late when it humid and I had a black shirt on. Major sweat fest, not a huge fan but the run was fine",4614,14630.1,false,"",activities/1832336615.fit.gz
+1707395294,2018-07-16 12:44:48,This feels...,Run,"",2808,9964.0,false,"",activities/1832336890.fit.gz
+1707395611,2018-07-16 22:34:53,...filthy,Run,"Didn’t have enough time for a full run in the morning so did an afternoon run as well. Feels dirty getting miles without a run that is honest in length. This one felt pretty good and I just went with the flow for pacing. 
+
+A good start in mileage for the big week but not in a way that feels appropriate ",3293,12495.7,false,"",activities/1832337225.fit.gz
+1707403458,2018-07-15 14:30:00,Gearing up for 80,Run,"60 min elliptical, was really humid and wanted a low impact day before the big week. Not a huge fan of doing the elliptical instead of a run, but I think the alternative muscle workout will be beneficial in the future and certainly the low impact is nice. Let’s go ",3600,13196.6,false,"",
+1708436966,2018-07-17 12:05:36,Do you make beer or spegetios? Ft. 10x2’,Run,"Felt pretty good for the workout this morning, but it felt like a grind. I felt like I was going as fast as I could go and was only doing about 5:15 pace. Reps 1-8 were from 5:10-5:25 pace with 9 and 10 at 5:40 pace. The tree cover definitely threw off the watch, but I still feel like I shouldn’t be maxing out at 5 flat. I’m happy with the volume of this workout and overall with wearing pegs in gravel I’m happy with how it ended up. It’s still earlyish in terms of workouts so I’m not going to let the speed work parts get to me.  
+
+Almost vommed running by capitol brewery Bc their brewing smelled like rotting spaghettios. ",4767,17783.1,false,"",activities/1833412560.fit.gz
+1710757312,2018-07-18 12:08:55,Easy recovery,Run,Ran into Finnel and Matt Barrett who ran at the U when phil was head coach. He’s been telling me to call their mothers for years. It was nice to run with people and chatting makes the miles go by so much faster. Felt sore when I got up and the first few miles but felt really good at the end of the run. Looking forward to running with the boys again,3921,14551.1,false,"",activities/1835816170.fit.gz
+1713087344,2018-07-19 12:23:33,Probably one of the dumber things I’ve done this summer,Run,"Nice work torchlight boys! I was feeling the need for speed after those results so I wanted to do an uptempo mile, pushed it the whole way and ended up with 5:12. Wasn’t happy with that so I decided to do another mile on the track felt awesome and only felt like I was pushing it the last 250 and did 4:57. The first mile felt much harder so I’m happy with this and makes me feel more confident that my previous efforts in pheasant branch are up to par. I should just focus on the feel and not the watch. ",4513,16809.5,false,"",activities/1838222022.fit.gz
+1715723533,2018-07-20 12:24:18,Doot doot phone,Run,"Went for a nice run, light sprinkles the whole way. Last .5 mile went from light sprinkle to downpour. Phone now has water damaged screen. F. ",3503,12067.1,false,"",activities/1840947278.fit.gz
+1720494261,2018-07-21 13:35:59,Back to MN,Run,In LeRoy for the weekend at LeRoy days. Crazy as ever but making sure I get my workouts in. Not as fun this year as last year but the whole day was active,5281,17005.2,false,"",activities/1846600916.fit.gz
+1720494507,2018-07-21 19:42:40,LeRoy days pt 2,Run,Second run to just chill and prep for tomorrow,1794,6448.2,false,"",activities/1846601329.fit.gz
+1720495639,2018-07-22 13:00:59,Shooting star,Run,Do doo doot doot do doo doooooo do doot doot doo dooooo. Long run in LeRoy on the shooting star path. Hips are v sore but hit 80!,6243,22675.0,false,"",activities/1846602603.fit.gz
+1724479443,2018-07-23 12:26:55,Recovery,Run,Last week destroyed me. Hips were sore and could barely walk after yesterday.  Easy today ,3551,12086.4,false,"",activities/1850766293.fit.gz
+1724480371,2018-07-24 12:22:18,Wiped,Run,"Tried to do a 20 min tempo but cut it after 2 miles. 5:35, 5:50. Struggling to do a workout off pace and over effort isn’t how I want to set the standards for the upcoming year. Just going to make sure I get plenty of rest and food so I can stay healthy. Biggest mileage week last week so not going to be too hard on myself for this. ",4084,14956.0,false,"",activities/1850767124.fit.gz
+1728000163,2018-07-25 22:39:02,:/,Run,Probably the first run I’ve felt ashamed to post. Really disappointed with this. No part of me wanted to run this afternoon. Tomorrow will be different,2667,8526.0,false,"",activities/1854411702.fit.gz
+1728987267,2018-07-26 11:32:16,Cranes are pretty badass,Run,"The flying ones are cool but construction cranes are BEAST! Felt much better this morning. I’m just gonna chill this week, probably no workout just recover",4734,14970.9,false,"",activities/1855451048.fit.gz
+1731104565,2018-07-27 11:32:23,Bulldozer-train,Run,Train+bulldozer=braindozer,4186,15180.0,false,"",activities/1857639809.fit.gz
+1737759976,2018-07-29 20:24:41,Afternoon Run,Run,,4828,16593.1,false,"",activities/1864564490.fit.gz
+1737760522,2018-07-30 11:45:44,Owl city,Run,Lots of owls hooting this morning. Ready for a if werk,4548,16414.1,false,"",activities/1864565103.fit.gz
+1739963017,2018-07-31 11:56:03,Chasing ,Run,"Wanted a full court effort, pretty much all of my easy runs were more like jogging that left me mildly tired. I wanted something that was an extended effort of feeling like I was putting effort in. That meant pretty much 6:30-6:35 pace, but in the middle a fat kid on a bike passed me when I pulled over so he could go by without hitting other walkers but he didn’t say anything so I let him go then chased him down so there was 3-4 min of tempo speed. Overall happy with this run. 
+
+I didn’t run with spikes but I got new shoes and haven’t put them in Strava yet. 
+
+Hips are sore from starting to do pedestal again, but it will help ward off injury
+",4164,16766.6,false,"",activities/1866839317.fit.gz
+1744635121,2018-08-02 11:56:06,Nöp,Run,"Hip not having it. Limped all yesterday. Going to roll and massage so it’s a one day thing. Will try to bike or swim this evening. 
+
+Hip started hurting after doing pedestal again, but I don’t think popping and feeling it bump out every step is a muscle thing ",37,125.9,false,"",activities/1871873305.fit.gz
+1744635141,2018-08-01 12:08:25,Run with finnel ,Run,Ran with Finnel and his friend again. Really nice to run with people. Hip hurt real bad after,4363,15501.5,false,"",activities/1871873248.fit.gz
+1750339172,2018-08-05 02:20:10,Good then not,Run,25 on the eliptical and felt awesome then hip flared up so I shut it down. Hoping tomorrow won’t flare up,1500,5747.64,false,"",
+1751948839,2018-08-05 13:32:23,New beginnings,Run,Ran with Cole from loras. Was surprisingly not awkward. Hip was fine during the run but sore after. Hoping that it will stay away with stretches and strengthening. Pretty sure hip issues originated from sitting at work lol. It’s butt muscle soreness so I’m concerned about any IT band or joint issues which is really nice,3984,15073.2,false,"",activities/1879950089.fit.gz
+1758749958,2018-08-07 23:30:00,Need the boys,Run,"Hip was pretty much constantly noticeable but wasn’t at a stopping level. I think that it won’t cause any issues from running on it so that’s good. Getting sick which is terrible timing. 
+
+Definitely am looking forward to running with the boys again and hopefully can get back onto the mileage train before precamp",2100,8046.7,false,"",
+1762588960,2018-08-06 22:54:25,Afternoon Run,Run,,4533,13578.8,false,"",activities/1892494584.fit.gz
+1762590784,2018-08-09 12:36:09,Morning Run,Run,,3862,14932.0,false,"",activities/1892495340.fit.gz
+1762591155,2018-08-10 12:03:40,Back in buisness,Run,Back at it again. Had a rough patch with stuff going on at work and life and running suffered which didn’t help anything. Hoping to be posting every morning for the rest of the summer. ,4532,16812.1,false,"",activities/1892496008.fit.gz
+1764823385,2018-08-11 12:57:53,Humid,Run,"V humid, felt like a swamp when going through the trees",4155,14928.1,false,"",activities/1894802436.fit.gz
+1768160389,2018-08-12 19:31:07,We’re running we’re running we’re walking,Run,It was hot but there were water fountains so that was nice. The run was feeling great till I got to the library then something in my hip joint had super sharp pain so I stopped and walked the rest of the way home. Probably just cranky from camping last night ,3763,12724.0,false,"",activities/1898298025.fit.gz
+1769269467,2018-08-13 12:18:45,Morning 10,Run,No pains from yesterday which I’m very happy about. Wore bad socks so little rubbing. Hoping for 75 or so this week,4326,16180.7,false,"",activities/1899445619.fit.gz
+1771378027,2018-08-14 11:46:22,21x1,Run,"I can’t count so I did 21. 60 on 60 off, it was 5k effort but not 5k pace but it was definitely appropriate for where I’m at. First 7 felt good, last 8 were a grind so I think I got the essence of the workout. Glad I got it in early enough to stretch before work",4192,16761.1,false,"",activities/1901615008.fit.gz
+1773915870,2018-08-15 12:22:14,Cool things,Run,I saw some cool things and am gonna be super late to work!,5194,18021.8,false,"",activities/1904233986.fit.gz
+1776139515,2018-08-16 12:19:18,Dark run,Run,Cloudy and dark this morning. I h8 work. I need the boys. Hip hurt the whole time but didn’t get worse,4319,14942.0,false,"",activities/1906526633.fit.gz
+1778352013,2018-08-17 07:56:29,Hip repair,Run,Rain plus hip pain yesterday made today seem like a good choice for easy and hip strength. Hoping this will go away by precamp,1800,6897.2,false,"",
+1786492720,2018-08-21 01:35:48,Sweat lodge ,Run,70 min inside is a long ass time. Flash floods made outside impossible. Power went out for last 25 min so no fans or lights made the room a sweat lodge. Plus side was I looked beast in the mirror with only the red lights from the elliptical. Long hair is coming in,4200,16093.4,false,"",
+1787326905,2018-08-21 12:37:27,Morning 30,Run,Everything is still flooded so will try for an evening run outside. Did 30 inside before work. Going for 80 this week for 90 at precamp,1800,6897.17,false,"",
+1787329596,2018-08-19 19:13:56,Single track,Run,Found some cool single track trails behind the gold course. They had some sick banking turns which was new. Just had fun on this run and enjoyed it the most I could,3194,9702.2,false,"",activities/1918065384.fit.gz
+1787330014,2018-08-18 13:28:10,Active day,Run,There was a fun run in pheasant branch and a kids triathlon at the high school. Good to see people putside,3861,15130.0,false,"",activities/1918064895.fit.gz
+1788822387,2018-08-22 00:31:26,Carnage,Run,"Pheasant branch is absolutely destroyed. Completely gone. Bridges destroyed, trails non existent and huge landslides. Very sad to see as it will never be the same. Rip",3513,12082.2,false,"",activities/1919596775.fit.gz
+1789767847,2018-08-22 12:10:42,Road running from now on,Run,"Ran along university to Madison and back. It’s a nice bike path but still has stoplights and intersecting roads. Will have to do for the rest of the summer. This run felt really solid though, pace changes but I just did whatever felt good",4884,18695.4,false,"",activities/1920565344.fit.gz
+1792033976,2018-08-23 12:10:55,Wandering,Run,Wandering around middleton missing trails and hating roads. Hopefully it’s my last day of work today ,3943,14503.7,false,"",activities/1922885806.fit.gz
+1793188673,2018-08-23 22:37:27,Indoor 35,Run,Not long enough to get anywhere. Was a bit sore this morning but felt real good for this one,2100,8449.0,false,"",
+1794982264,2018-08-24 20:33:25,Misty,Run,"I rolled/stretched for a while before this run, which made the muscles feel relaxed and strong. Had some sharp hip pain in the first two miles but it seemed to go away when I picked up the pace. Maybe with the slower paces I have too much vertically and my foot placement seems more towards the heel so I’ll think about that more. Overall this run was quite nice despite the cold mist. Pumped for precamp",4212,16658.7,false,"",activities/1925923009.fit.gz
+1795127887,2018-08-24 23:48:13,Barefoot 1,Run,Barefoot 1 mile ,420,1609.34,false,"",
+1797489638,2018-08-26 00:30:40,Moving,Run,Moved my mom to new condo. Entirely drained don’t know what will help. Doot  doot 80 miles,1200,4828.0,false,"",
+1799796650,2018-08-26 20:24:30,A couple boys,Run,Run with sauce birdo ben Scott and bill. Was good,5172,18319.7,false,"",activities/1930894305.fit.gz
+1799815057,2018-08-26 22:04:43,Got bill to 1k,Run,1k miles for bills summer,666,2614.2,false,"",activities/1930912665.fit.gz
+1802013157,2018-08-27 14:23:15,Precamp day 1: lake ,Run,Boys! Started with everyone and was beast. Started easy but sped up throughout until 6:40. It was fun but a bit annoying as it’s just the first run but pace pushing has begun. Felt good and did a little extra ,4990,19260.6,false,"",activities/1933163567.fit.gz
+1802013263,2018-08-27 21:44:48,Second effort,Run,Dogs were barkin but they didn’t try to take me. That was the farm houses’ dog. Then he started to eat my yoga mat,1821,6344.6,false,"",activities/1933163728.fit.gz
+1803133954,2018-08-28 13:20:04,Wet n rainy,Run,"Rainy run but was perfect after like 2 miles. Easy going the whole way which was sweet. Thinking for a core double today to give shoes and socks time to dry. Feelin good. One bathroom stop with like .5 miles to go. 
+
+Course record for until someone else uploads in 10 min",4646,16102.9,false,"",activities/1934310757.fit.gz
+1805639895,2018-08-29 14:37:46,Wu,Run,"",1254,4863.3,false,"",activities/1936873169.fit.gz
+1805640345,2018-08-29 15:06:34,5 mile tempo,Run,"Really happy with this, wouldn’t have been possible without the boys.  Went to the pain pen after 2 miles",1635,8057.3,false,"",activities/1936873627.fit.gz
+1805640666,2018-08-29 15:35:39,Cd,Run,"",1976,6955.3,false,"",activities/1936874047.fit.gz
+1807954423,2018-08-30 16:12:08,Stringy boy,Run,"Easy recovery day, calves and quads were very sore. Hip was a bit problematic but worked on foot placement and was better. 
+
+Little wiggly snake",4440,16093.5,false,"",
+1809903505,2018-08-29 20:55:02,Dos ,Run,"",1839,6447.0,false,"",activities/1941241254.fit.gz
+1809904204,2018-08-31 14:12:40,Wandering,Run,"Dogs are bad, just wandered around. Beginning took forever but then it was pretty good when we slowed down ",5613,19358.0,false,"",activities/1941241967.fit.gz
+1812273706,2018-09-01 13:23:28,Chasing some tail,Run,"Long run. Ran with turtle and mike Finn for the first 4 but my left foot was numb so stopped to loosen my shoe. After that it was solo 12. Warmed up then cruised for the last 10 which felt awesome. I noticed some left Achilles pain midway through but slowing up for a bit made it go away. 
+
+Was constantly following someone in the distance so I didn’t ever get bored. ",6355,25760.3,false,"",activities/1943675482.fit.gz
+1814716235,2018-09-02 13:03:09,Showers,Run,Showered on us which was kinda bad fun but also sucky. Good quieter run. Got to 90. Nice,4482,16101.9,false,"",activities/1946198975.fit.gz
+1817403111,2018-09-03 13:36:07,Guam,Run,"Easy 10, legs felt much better than yesterday.  A good level of soreness. Need to figure out bathroom timing ",4381,16102.4,false,"",activities/1948964386.fit.gz
+1824440153,2018-09-03 20:35:53,Afternoon Run,Run,,1395,5064.1,false,"",activities/1956175792.fit.gz
+1824440388,2018-09-04 13:39:26,Lightning goes boom ⚡️,Run,Super thunder made us turn back. ,4189,14611.8,false,"",activities/1956176049.fit.gz
+1824440500,2018-09-04 20:34:33,Afternoon Run,Run,,1336,4956.2,false,"",activities/1956176140.fit.gz
+1824440582,2018-09-05 13:35:44,Morning Run,Run,,1193,4317.6,false,"",activities/1956176234.fit.gz
+1824440947,2018-09-05 14:09:04,Workout ,Run,First workout. Was with Elliot Bill turtle Justin crispy. Was tuckered out at the end but good overall,3119,13396.2,false,"",activities/1956176566.fit.gz
+1824440982,2018-09-05 15:09:42,Morning Run,Run,,746,2698.1,false,"",activities/1956176623.fit.gz
+1824441317,2018-09-06 21:03:51,Radio tower,Run,Takin a stroll down to the tower and back. Super nice day out,5167,17928.4,false,"",activities/1956176942.fit.gz
+1828187735,2018-09-07 20:34:43,Cross campus ,Run,Big group of bubs,3456,11636.4,false,"",activities/1960038434.fit.gz
+1828187799,2018-09-07 21:43:23,Stirde,Run,"",404,928.0,false,"",activities/1960038536.fit.gz
+1828188075,2018-09-08 14:11:41,Wu,Run,"",1261,4660.8,false,"",activities/1960038765.fit.gz
+1828188329,2018-09-08 15:01:20,Alumni 5k,Run,"So sick to see so many alumni come down. Joe was doing 5-5:10 pace so the whole front pack pretty much stuck with him. First mile felt relaxed, with sections feeling pretty easy. Second mile overall felt very smooth although was more taxing. Third mile was doot but knew I only had a mile left so grinded it out. 
+
+Running with all the boys packed up was dope. Hopefully we can pack it up at the beginning of races as well to push each other. Good start to the season
+
+5:08, 5:03, 5:17
+
+",965,5013.4,false,"",activities/1960039039.fit.gz
+1828188641,2018-09-08 15:41:09,Cd,Run,"",1816,6494.3,false,"",activities/1960039350.fit.gz
+1833454185,2018-09-09 14:07:10,Sunday upper arb,Run,With turtle and Justin. Woman tried to hit me with a bike when I was on the sidewalk. Shoes seemed off. Sore legs,4225,14834.8,false,"",activities/1965499878.fit.gz
+1833454269,2018-09-10 20:38:29,Wu,Run,"",1408,4693.3,false,"",activities/1965499988.fit.gz
+1833454506,2018-09-10 21:11:05,Hawt workout,Run,"3x1k, 6x2’, 3x1k
+Pretty much all at 5:10-5:20 pace. First 3ks were dead on. First 3 2’ were a touch slower which was perfect for me as I was dootin pretty hard from heat. The hill on the 4th and 6th 1k shredded me and got dropped. 
+
+Overall: I was hot and probably a little dehydrated coming into the workout and had some breathing problems, but want to continue to work on mental toughness at the ends of workouts. Ran with crispy turtle justin bill Elliot and primo. Overall a productive day. Don’t run with sand in your socks
+",2865,12248.2,false,"",activities/1965500216.fit.gz
+1833454554,2018-09-10 22:04:10,Cd,Run,"",778,2521.8,false,"",activities/1965500257.fit.gz
+1834207490,2018-09-11 11:38:40,Early owie,Run,"",3035,9850.4,false,"",activities/1966276698.fit.gz
+1837905627,2018-09-12 20:58:36,Wu,Run,"",952,3516.6,false,"",activities/1970072454.fit.gz
+1837906047,2018-09-12 21:24:12,Controlled workout,Run,"Hot and humid day for a workout. 
+1x1600, 2x3’, 3x2’, 4x1’, 6x30”
+
+Mile was 5:09, rest was 5:10-5:20 pace. Mile felt really strong and the rest was quite controlled. Workout was tougher than I imagined, the heat was probably a large factor in this. 
+
+Just me and turtle on this one as we had discussion, so late practice. Need larger flats as my big toes are completely bruised and I can feel every toe pushing at the fronts of the shoes on slightly downhill sections",2581,10816.4,false,"",activities/1970072817.fit.gz
+1837906124,2018-09-12 22:11:22,Cd,Run,"",898,3226.3,false,"",activities/1970072916.fit.gz
+1843568258,2018-09-15 16:58:56,Auggie invite,Run,"Packed it up in the beginning, all 7 of us were a Flying V for the first 2 miles. Don’t remember a ton else besides falling off the back a bit in the middle then starting my finishing kick 600m early Bc I had no idea where the end was. 
+
+5 guys in 3 seconds is dope and really helps keep everyone honest and working off each other. Should be a good year. 
+
+Was 80ish degrees and really humid. Definitely got overheated and dooted at the finish line. Got my first ice pool and post race yak. ",1679,8000.0,false,"",
+1853492158,2018-09-13 20:57:36,Afternoon Run,Run,,4183,14493.3,false,"",activities/1986193838.fit.gz
+1853492275,2018-09-14 20:36:36,Afternoon Run,Run,,2930,9671.2,false,"",activities/1986193974.fit.gz
+1853492500,2018-09-16 14:42:51,Landos ,Run,Landos with turtle and justin,5514,19581.9,false,"",activities/1986194191.fit.gz
+1853492658,2018-09-18 22:38:17,I luv lab,Run,"",3015,11064.1,false,"",activities/1986194355.fit.gz
+1853492739,2018-09-19 21:15:31,Wu ,Run,"",951,3519.3,false,"",activities/1986194418.fit.gz
+1853492985,2018-09-19 21:41:23,Workout,Run,Workout with primo and crispy. Was rainy and wet conditions but was a great workout. Keeping it rolling,3003,12857.3,false,"",activities/1986194673.fit.gz
+1853493081,2018-09-19 22:38:22,Cd,Run,"",931,3220.2,false,"",activities/1986194750.fit.gz
+1858588539,2018-09-20 20:55:43,10 on a highly disputed route and weather ,Run,"",4329,16276.3,false,"",activities/1991528369.fit.gz
+1858588771,2018-09-21 20:34:25,Wu,Run,"",1223,4515.8,false,"",activities/1991528686.fit.gz
+1858589498,2018-09-21 21:06:38,Workout ,Run,Workout with the boys. Got irritated. Other than that it was a great workout,2561,11201.6,false,"",activities/1991529564.fit.gz
+1858589708,2018-09-21 21:54:59,Cd,Run,"",958,3479.6,false,"",activities/1991529810.fit.gz
+1858590422,2018-09-22 12:58:41,4 and back,Run,Morning southwest roada,3602,12903.2,false,"",activities/1991530509.fit.gz
+1858604451,2018-09-17 20:30:00,Rain drops,Run,Inside and outside,4580,16898.1,false,"",
+1862829349,2018-09-23 20:36:41,Upper arb Sunday ,Run,"I wanted to go a bit slower, ran behind everyone for most of the run. Was a nice day out.
+
+Met a nice boy that goes by the name of Adam, a Carlton freshman. Good bub",4535,15602.4,false,"",activities/1995920218.fit.gz
+1863877100,2018-09-24 20:37:57,Wu,Run,"",1208,4416.5,false,"",activities/1996983128.fit.gz
+1863877331,2018-09-24 21:09:43,Pegs are bad,Run,"4xmile
+1xdoot mile
+4x200
+
+5:17, 5:12, 5:11, 5:15, 5:36(pulled) 
+
+Was thrown off by wearing pegs. Was expecting to be in flats but wore pegs and it got in my head that my shoes were really heavy. Workout was good in the beginning but the end was obviously less than ideal. Was looking to hit 5:05-10 for the last 4....
+
+Tomorrow is a new day",2837,11183.4,false,"",activities/1996983379.fit.gz
+1863877382,2018-09-24 22:11:12,Cd,Run,"",778,2704.0,false,"",activities/1996983442.fit.gz
+1866002043,2018-09-25 22:31:03,Running all the land,Run,Ran around most of the trails we have. Was kinda chilly and gloomy all alone. Legs hurt pretty good,2915,10463.3,false,"",activities/1999162242.fit.gz
+1869000088,2018-09-26 21:05:34,Ate,Run,Eight in the Arb with turtle. Took it easy,3748,12892.7,false,"",activities/2002246751.fit.gz
+1879926356,2018-09-27 20:58:01,Afternoon Run,Run,,2741,9172.9,false,"",activities/2013581807.fit.gz
+1879926543,2018-09-28 21:24:43,Afternoon Run,Run,,1014,3228.2,false,"",activities/2013582073.fit.gz
+1879927075,2018-09-28 22:14:42,Eau Claire ,Run,"",1570,8003.1,false,"",activities/2013582559.fit.gz
+1879927390,2018-09-28 23:02:16,Evening Run,Run,,894,3011.8,false,"",activities/2013582829.fit.gz
+1879927967,2018-09-29 14:21:23,Morning Run,Run,,3346,11430.1,false,"",activities/2013583442.fit.gz
+1879928430,2018-09-30 14:52:34,Morning Run,Run,,2389,8748.1,false,"",activities/2013583931.fit.gz
+1879928632,2018-10-01 20:38:28,Afternoon Run,Run,,955,3458.6,false,"",activities/2013584221.fit.gz
+1879929558,2018-10-01 21:07:37,workout,Run,"2400
+1600
+1200
+800
+800
+4x1
+4x30",2902,11367.5,false,"",activities/2013585062.fit.gz
+1879929774,2018-10-01 21:57:33,Afternoon Run,Run,,797,2716.0,false,"",activities/2013585260.fit.gz
+1881563509,2018-10-02 22:37:47,Trifecta of pain,Run,New pegs. Next edition in a different size and the day after a workout made the feet pretty crabby. They were sore until 4-5 then felt pretty good. Solo natural lands,3244,11776.7,false,"",activities/2015255509.fit.gz
+1887587928,2018-10-04 20:30:55,Maple house,Run,"",3840,14484.1,false,"",
+1887590862,2018-10-05 20:36:45,Afternoon Run,Run,,1173,4362.1,false,"",activities/2021445197.fit.gz
+1887591455,2018-10-05 21:07:22,Afternoon Run,Run,,2287,10027.8,false,"",activities/2021445850.fit.gz
+1887591755,2018-10-05 21:52:34,Afternoon Run,Run,,1373,4887.5,false,"",activities/2021446185.fit.gz
+1887596657,2018-10-03 21:19:59,Afternoon Run,Run,,3547,12889.7,false,"",activities/2021444924.fit.gz
+1887817781,2018-10-06 13:57:23,🌽2🇨🇦,Run,🚂 wuz here. D.U.C.K. ,3980,12877.0,false,"",activities/2021679696.fit.gz
+1890378615,2018-10-07 14:23:03,Sunday morning upper arb,Run,Rin ran zin zan ,4613,15980.2,false,"",activities/2024344108.fit.gz
+1895033842,2018-10-08 20:36:38,🎱,Run,"",3664,12986.5,false,"",activities/2029251410.fit.gz
+1895033969,2018-10-09 20:38:31,Afternoon Run,Run,,1118,3860.3,false,"",activities/2029251569.fit.gz
+1895034497,2018-10-09 21:11:46,Goat workout,Run,10’ on 2’ off 6’ on 2’ off 4’ on 2’ off 4x2’ on 1’ off 4x30”. With the boys was goat. A bit muddy but roads were pretty reliable. Felt surprisingly good and maintained pace throughout,2516,12051.6,false,"",activities/2029252141.fit.gz
+1895038570,2018-10-09 22:50:36,Shut shack plus cd,Run,,840,3218.69,false,"",
+1897333715,2018-10-11 00:55:20,8 arb,Run,Easy arb. Tried to dodge mike Finns splishy splashes. Worked marginally well. Left turtle behind in the beginning. Pirates code,3480,12874.8,false,"",
+1899000305,2018-10-11 20:56:11,One of the toughest yet,Run,"Killer workout. Bummed I didn’t have flats. I didn’t record half a mile but believe me,,, watch out!!!",3130,10328.3,false,"",activities/2033337823.fit.gz
+1906409737,2018-10-13 15:53:04,Wu,Run,"",1381,3421.6,false,"",activities/2041068234.fit.gz
+1906410004,2018-10-13 16:40:51,Lax,Run,"Lax bro. Tried to push it through the middle third and I think it worked out pretty well. Definitely hurt at the end so I’m happy with where this ended up. Boys are fit, let’s keep it rolling",1569,8052.8,false,"",activities/2041068554.fit.gz
+1906410200,2018-10-13 17:28:57,Cd,Run,"",1289,4035.6,false,"",activities/2041068739.fit.gz
+1906410518,2018-10-12 20:26:48,Xcampus ,Run,"",1913,6325.2,false,"",activities/2041067967.fit.gz
+1906410552,2018-10-12 21:08:48,Afternoon Run,Run,,309,723.8,false,"",activities/2041068071.fit.gz
+1906410578,2018-10-14 21:08:09,Bridge out,Run,Bridge was out so I had to turn around lol,2493,9498.5,false,"",activities/2041069076.fit.gz
+1907093504,2018-10-15 20:04:48,Run with dad,Run,"Ran around Madison’s campus and the lake with dad. Saw several of the UW women, makes me think that we need people to bike behind us so we have music while we run",3402,11526.9,false,"",activities/2041777097.fit.gz
+1911592434,2018-10-16 20:40:33,Wu,Run,"",1170,4394.3,false,"",activities/2046406847.fit.gz
+1911592653,2018-10-16 21:16:08,Workout,Run,Felt fit. Wasn’t gassed at the end and was never at the max. ,2715,11646.7,false,"",activities/2046407110.fit.gz
+1911592754,2018-10-16 22:08:31,Cd,Run,"",801,2723.1,false,"",activities/2046407200.fit.gz
+1911592907,2018-10-17 20:45:54,Beautiful day,Run,"Why do you build me up (build me up) Buttercup, baby
+Just to let me down (let me down) and mess me around
+And then worst of all (worst of all) you never call, baby
+When you say you will (say you will) but I love you still
+I need you (I need you) more than anyone, darlin'
+You know that I have from the start
+So build me up (build me up) Buttercup, don't break my heart
+
+""I'll be over at ten"", you told me time and again
+But you're late, I wait around and then (bah-dah-dah)
+I went to the door, I can't take any more
+It's not you, you let me down again
+
+(Hey, hey, hey!) Baby, baby, try to find
+(Hey, hey, hey!) A little time and I'll make you happy
+(Hey, hey, hey!) I'll be home
+I'll be beside the phone waiting for you
+Ooo-oo-ooo, ooo-oo-ooo
+
+Why do you build me up (build me up) Buttercup, baby
+Just to let me down (let me down) and mess me around
+And then worst of all (worst of all) you never call, baby
+When you say you will (say you will) but I love you still
+I need you (I need you) more than anyone, darlin'
+You know that I have from the start
+So build me up (build me up) Buttercup, don't break my heart
+
+To you I'm a toy, but I could be the boy you adore
+If you'd just let me know (bah-dah-dah)
+Although you're untrue, I'm attracted to you all the more
+Why do I need you so
+
+(Hey, hey, hey!) Baby, baby, try to find
+(Hey, hey, hey!) A little time and I'll make you happy
+(Hey, hey, hey!) I'll be home
+I'll be beside the phone waiting for you
+Ooo-oo-ooo, ooo-oo-ooo
+
+Why do you build me up (build me up) Buttercup, baby
+Just to let me down (let me down) and mess me around
+And then worst of all (worst of all) you never call, baby
+When you say you will (say you will) but I love you still
+I need you (I need you) more than anyone, darlin'
+You know that I have from the start
+So build me up (build me up) Buttercup, don't break my heart
+
+I-I-I need you-oo-oo more than anyone, baby
+You know that I have from the start
+So build me up (build me up) Buttercup, don't break my heart
+",3478,12166.3,false,"",activities/2046407404.fit.gz
+1915221341,2018-10-18 20:56:41,Afternoon Run,Run,,3567,12884.8,false,"",activities/2050145872.fit.gz
+1915221433,2018-10-19 20:34:02,Afternoon Run,Run,,1261,4678.6,false,"",activities/2050145981.fit.gz
+1915221905,2018-10-19 21:08:34,Workout,Run,Was cruisin with the boys until bathroom issues decided to destroy me. Started on the three minutes and eeked out the 1 minutes. Upset I didn’t finish with people but did essentially the whole thing with them so happy with tha,2655,11414.3,false,"",activities/2050146461.fit.gz
+1915221954,2018-10-19 21:58:07,Afternoon Run,Run,,689,2423.9,false,"",activities/2050146524.fit.gz
+1916416095,2018-10-20 13:55:05,Morning Run,Run,,2732,9744.6,false,"",activities/2051384869.fit.gz
+1924696583,2018-10-21 20:30:00,Chicken horse ,Run,Crispy got a game,4620,17702.8,false,"",
+1924698965,2018-10-22 20:30:00,I will never do NE again,Run,Nope,2940,11265.4,false,"",
+1930743369,2018-10-22 20:36:06,Afternoon Run,Run,,3105,11519.5,false,"",activities/2066190902.fit.gz
+1930743384,2018-10-23 22:16:32,Afternoon Run,Run,,748,2833.3,false,"",activities/2066191000.fit.gz
+1930743581,2018-10-23 22:35:15,Afternoon Run,Run,,1402,6280.9,false,"",activities/2066191213.fit.gz
+1930743706,2018-10-23 23:03:28,Evening Run,Run,,844,2980.0,false,"",activities/2066191316.fit.gz
+1930743852,2018-10-25 21:02:08,Afternoon Run,Run,,1253,4578.5,false,"",activities/2066191452.fit.gz
+1930743943,2018-10-25 21:33:09,Afternoon Run,Run,,682,3071.3,false,"",activities/2066191575.fit.gz
+1930744033,2018-10-25 21:51:47,Afternoon Run,Run,,934,3250.4,false,"",activities/2066191671.fit.gz
+1930744393,2018-10-26 20:35:35,Afternoon Run,Run,,3119,9359.2,false,"",activities/2066192052.fit.gz
+1930744491,2018-10-27 16:10:39,Lunch Run,Run,,992,3321.8,false,"",activities/2066192150.fit.gz
+1930744713,2018-10-27 17:00:19,Conference ,Run,Ups and downs for the boys today. Need to stay positive and keep believing in ourselves individually but more importantly as a team. We all have the same goal ,1571,8142.5,false,"",activities/2066192365.fit.gz
+1930744811,2018-10-27 17:49:12,Lunch Run,Run,,921,3074.0,false,"",activities/2066192466.fit.gz
+1930744888,2018-10-27 18:32:42,Afternoon Run,Run,,529,1764.2,false,"",activities/2066192549.fit.gz
+1930783838,2018-10-24 20:17:00,Run,Run,,2520,9656.08,false,"",
+1950448896,2018-10-28 20:39:57,Afternoon Run,Run,,2984,10350.8,false,"",activities/2086562238.fit.gz
+1950449215,2018-10-30 20:39:07,Afternoon Run,Run,,4664,16793.8,false,"",activities/2086562565.fit.gz
+1950449677,2018-10-31 21:06:13,Afternoon Run,Run,,3423,10689.3,false,"",activities/2086562833.fit.gz
+1950449762,2018-11-01 21:11:44,Afternoon Run,Run,,5224,16096.1,false,"",activities/2086563181.fit.gz
+1950449837,2018-11-02 20:31:46,Afternoon Run,Run,,1192,4438.3,false,"",activities/2086563277.fit.gz
+1950450090,2018-11-02 21:05:56,Afternoon Run,Run,,2326,10535.2,false,"",activities/2086563539.fit.gz
+1950450170,2018-11-02 21:52:21,Afternoon Run,Run,,662,2219.7,false,"",activities/2086563653.fit.gz
+1950450395,2018-11-03 16:01:10,Lunch Run,Run,,3195,10714.4,false,"",activities/2086563871.fit.gz
+1950450568,2018-11-04 15:25:33,Morning Run,Run,,2370,8428.2,false,"",activities/2086564040.fit.gz
+1950450639,2018-11-05 21:34:31,Afternoon Run,Run,,1066,3654.2,false,"",activities/2086564144.fit.gz
+1950450790,2018-11-05 22:03:47,Afternoon Run,Run,,997,4542.9,false,"",activities/2086564283.fit.gz
+1950450880,2018-11-05 22:28:20,Afternoon Run,Run,,957,3267.9,false,"",activities/2086564394.fit.gz
+1950451027,2018-11-06 23:22:53,Afternoon Run,Run,,2536,8634.1,false,"",activities/2086564555.fit.gz
+1954196880,2018-11-07 22:51:00,Afternoon Run,Run,,1174,3819.7,false,"",activities/2090417685.fit.gz
+1954196921,2018-11-07 23:20:25,Afternoon Run,Run,,878,3892.2,false,"",activities/2090417746.fit.gz
+1954196961,2018-11-07 23:40:59,Afternoon Run,Run,,922,2378.8,false,"",activities/2090417792.fit.gz
+1954197073,2018-11-08 21:59:34,Afternoon Run,Run,,2638,9206.8,false,"",activities/2090417898.fit.gz
+1970495780,2018-11-09 20:34:37,Afternoon Run,Run,,2135,6864.0,false,"",activities/2107176127.fit.gz
+1970495860,2018-11-10 17:07:35,Lunch Run,Run,,907,3227.3,false,"",activities/2107176241.fit.gz
+1970496118,2018-11-10 18:00:15,Lunch Run,Run,,1551,8154.6,false,"",activities/2107176465.fit.gz
+1970496171,2018-11-10 18:42:36,Lunch Run,Run,,971,2064.4,false,"",activities/2107176552.fit.gz
+1970496716,2018-11-12 21:33:03,Afternoon Run,Run,,2402,8290.6,false,"",activities/2107176864.fit.gz
+1970497022,2018-11-13 23:09:02,Afternoon Run,Run,,2307,7082.1,false,"",activities/2107177056.fit.gz
+1970497349,2018-11-16 16:34:15,Morning Run,Run,,1589,5543.2,false,"",activities/2107177792.fit.gz
+1970497452,2018-11-17 17:21:46,Lunch Run,Run,,912,3101.9,false,"",activities/2107177903.fit.gz
+1970497489,2018-11-17 18:15:26,Lunch Run,Run,,132,210.0,false,"",activities/2107177940.fit.gz
+1970497542,2018-11-14 22:04:47,Afternoon Run,Run,,2829,9854.8,false,"",activities/2107177381.fit.gz
+1970497644,2018-11-15 17:30:43,Lunch Run,Run,,2601,9206.0,false,"",activities/2107177625.fit.gz
+1970497729,2018-11-17 18:19:42,Lunch Run,Run,,1587,8174.5,false,"",activities/2107178194.fit.gz
+1970497808,2018-11-17 19:17:27,Afternoon Run,Run,,880,2669.5,false,"",activities/2107178285.fit.gz

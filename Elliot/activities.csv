@@ -1,0 +1,220 @@
+id,date,name,type,description,elapsed_time,distance,commute,gear,filename
+1812379168,2018-08-30 21:13:57,Afternoon Run,Run,,2092,8049.4,false,,activities/1943784085.fit.gz
+1812379173,2018-08-31 14:12:43,Morning Run,Run,,4403,16137.9,false,,activities/1943784079.fit.gz
+1812405561,2018-08-29 15:06:33,Morning Run,Run,,3430,14493.4,false,,activities/1943784072.fit.gz
+1812405587,2018-08-27 21:44:49,Afternoon Run,Run,,1825,6445.2,false,,activities/1943784071.fit.gz
+1812405591,2018-08-29 20:59:25,Afternoon Run,Run,,1314,4839.6,false,,activities/1943784074.fit.gz
+1812405686,2018-08-30 14:30:35,Morning Run,Run,,4642,17715.1,false,,activities/1943784078.fit.gz
+1812405693,2018-08-28 21:30:11,Afternoon Run,Run,,1687,6449.5,false,,activities/1943784083.fit.gz
+1812405713,2018-08-26 21:41:52,Afternoon Run,Run,,2937,11274.9,false,,activities/1943784075.fit.gz
+1812405735,2018-08-27 14:23:17,Morning Run,Run,,5269,19319.3,false,,activities/1943784084.fit.gz
+1812405774,2018-08-28 13:20:06,Morning Run,Run,,5156,17706.6,false,,activities/1943784081.fit.gz
+1824081928,2018-09-04 20:35:47,Afternoon Run,Run,,1791,6606.1,false,,activities/1955812116.fit.gz
+1824082117,2018-09-05 13:35:43,Morning Run,Run,,1226,4502.1,false,,activities/1955812311.fit.gz
+1824082475,2018-09-05 14:09:04,Morning Run,Run,,3142,13488.5,false,,activities/1955812711.fit.gz
+1824082591,2018-09-05 15:09:51,Morning Run,Run,,883,3165.1,false,,activities/1955812820.fit.gz
+1824082742,2018-09-05 20:41:40,Afternoon Run,Run,,1463,5312.8,false,,activities/1955812968.fit.gz
+1824090948,2018-09-03 13:36:08,Morning Run,Run,,5000,19318.6,false,,activities/1955811308.fit.gz
+1824091169,2018-09-03 20:35:54,Afternoon Run,Run,,2163,8057.4,false,,activities/1955811568.fit.gz
+1824091336,2018-09-04 13:37:41,Morning Run,Run,,4526,16901.5,false,,activities/1955811945.fit.gz
+1824420298,2018-09-06 21:03:57,Afternoon Run,Run,,5109,17887.9,false,,activities/1956155161.fit.gz
+1826433758,2018-09-07 20:34:46,Afternoon Run,Run,,3487,11790.7,false,,activities/1958230751.fit.gz
+1827566114,2018-09-08 14:11:48,Morning Run,Run,,1247,4668.5,false,,activities/1959399353.fit.gz
+1827744782,2018-09-08 15:01:20,Morning Run,Run,,970,5052.8,false,,activities/1959582035.fit.gz
+1827847652,2018-09-08 15:41:15,Morning Run,Run,,1957,7091.3,false,,activities/1959688762.fit.gz
+1831395539,2018-09-09 20:33:56,Afternoon Run,Run,,4426,16098.4,false,,activities/1963382064.fit.gz
+1833400211,2018-09-10 20:38:19,Afternoon Run,Run,,1328,4837.3,false,,activities/1965443026.fit.gz
+1833400474,2018-09-10 21:11:05,The 3K Sandwich,Run,Felt really good today.  Lot better than last week's workout.  Very pleased with the even pacing throughout.  Great to have such a large group of boys to workout with.  Smooth cardio throughout and solid cadence.  Did have some lactic build-up in the legs the final two Ks.  ,2854,12745.3,false,,activities/1965443281.fit.gz
+1833400552,2018-09-10 22:04:08,Afternoon Run,Run,,1011,3382.9,false,,activities/1965443405.fit.gz
+1834646796,2018-09-11 15:15:45,Morning Shakeout,Run,Started off slower and gradually worked down.  Felt pretty good.  Already quite warm outside.  ,1384,5311.9,false,,activities/1966730280.fit.gz
+1835507302,2018-09-11 20:37:48,Maple House,Run,Took it easier today.  Nice slow recovery pace.  4x80m strides after.  ,4580,16258.6,false,,activities/1967611895.fit.gz
+1837804236,2018-09-12 20:36:28,WU,Run,Felt a little off...some acid reflux stuff.,1211,4518.9,false,,activities/1969967664.fit.gz
+1837804638,2018-09-12 21:04:14,Mid-Week Workout,Run,"Felt pretty darn average today.  Mile was easy (5:12), but faster paces during the timed intervals made things a little tough.  Warmer weather didn't help, but honestly wasn't too bad.  Lactic acid hit a little on final 30 second bout.  ",2543,11307.3,false,,activities/1969968070.fit.gz
+1837804749,2018-09-12 21:53:12,Spooked by Snake,Run,Casual jaunt around ToT...other than stepping on snake. ,1104,3861.7,false,,activities/1969968236.fit.gz
+1840067903,2018-09-13 20:55:42,Solo on NW,Run,"Good recovery run.  Windy, but expected that going in.  4x80m strides afterwards...the last two barefoot, which felt great.",4650,17700.7,false,,activities/1972293178.fit.gz
+1841698836,2018-09-14 20:36:38,Afternoon Run,Run,,3088,10311.0,false,,activities/1973965821.fit.gz
+1843698773,2018-09-15 14:46:03,Pre-MIAC Warm Up,Run,"",1068,3864.8,false,,activities/1976032180.fit.gz
+1843698982,2018-09-15 15:30:03,First 8K of the Season,Run,"28:01.54 with brutal conditions of 85, 60% humidity, and sunny, making for a real feel above 90.  Felt pretty good through 3K but then the heat really hit.  Pushed through, which was made a lot easier by the pack of Oles.  Lot of fun listening to spectators mention this during the race.  Pretty fun and quick final straight-away.  Tough course for sure with lot of quick, steep uphills and no real portion of the course that was flat.  Certainly a grind of an 8K, but great starting point for the boys this season!  ",1682,8381.0,false,,activities/1976032405.fit.gz
+1843699216,2018-09-15 16:22:35,Cool Down ,Run,"With Crispy, Meatsauce, Justin.  Pretty tired for the first part, but felt better as progressed.  ",2022,5636.6,false,,activities/1976032649.fit.gz
+1846812350,2018-09-16 20:39:57,Lando's is GOAT,Run,"After a warm (though not that bad) and solo run on Lando's Mom today, have decided this is definitely my favorite of the routes we have.  Legs were pretty heavy today, but made sure to take things nice and slow to keep things easy on the cardio.  Think is my first ever long run the day after a race, so interested to see how my body fares tomorrow.  ",5751,20928.3,false,,activities/1979273829.fit.gz
+1848852275,2018-09-17 20:33:21,Avoiding 55 Laps,Run,4.5 miles upstairs and then headed out to natty lands after getting the okay from Phil.  Went by surprisingly quickly.  Good recovery pace.  Thankfully the rain and wind subsided pretty soon after heading outside.  Total mileage was actually 10.5,4590,16424.6,false,,activities/1981365170.fit.gz
+1851099920,2018-09-18 20:39:16,Workout WU,Run,"Legs felt a little tight and heavy.  Usually around mile 2 in WUs things feel better, but never felt all that great today.",1204,4512.8,false,,activities/1983667257.fit.gz
+1851100510,2018-09-18 21:10:45,Smaller Pack Smack(ed),Run,"2x1600m (3' rest): 5:04, 5:03
+2x1000m (3' & 2:30 rest): 3:09, 3:08
+4x2' (90"" rest): covered about 630m
+4x1' (60"" rest): covered about 330m
+
+Pretty darn tough workout for me today.  Miles went pretty smooth and easy, but legs started to feel some lactic acid during the Ks.  Everyone else in the group (Justin, Bill, Turtle) seemed to feel pretty good, so this thankfully helped pull me along.  4x2' was an absolute grind both cardio and leg wise and I started to fall of the back...but shoutout to Justin and Turtle for the reminders to push through and stay close. Really helped.  Thankfully the 4x1' were easier than expected, even though we went a little too fast.    ",2938,12970.6,false,,activities/1983667712.fit.gz
+1851100633,2018-09-18 22:07:33,Reverse Sherman's Cool-Down,Run,"",986,3491.3,false,,activities/1983667858.fit.gz
+1853200760,2018-09-19 20:36:22,Big Group 8-Balling,Run,"Felt surprisingly good today.  Thankfully didn't end up raining the whole time.  Pace started slow and got pretty fast near the end when it was just Bill and I adding on.  Fine with that though, as I was in the mood for a quicker pace today.  6x100m strides after...felt smooth on these.    ",4881,17868.3,false,,activities/1985896992.fit.gz
+1854518165,2018-09-20 14:31:09,First Effort,Run,"Rainy, yet real good morning run.  Felt smooth both cardio and leg wise.  Suburb run, but still managed to stick on soft surfaces for the first and last mile.  ",1884,7085.5,false,,activities/1987282827.fit.gz
+1855330747,2018-09-20 20:55:43,Science Experiment Gone Wrong,Run,Risked eating cucumbers at lunch...felt it on the run today.  Digestive system very uncomfortable with GI distress the last mile and a half or so.  Thankfully had a big group of boys on NW to make it somewhat tolerable.  4x100m strides afterwards.  ,4290,16098.3,false,,activities/1988112435.fit.gz
+1857158967,2018-09-21 20:34:25,Warm Up,Run,Sun came out just in time for the workout!,1211,4501.6,false,,activities/1989992667.fit.gz
+1857159300,2018-09-21 21:06:38,Scratchy Throat Season,Run,"Was not entirely looking forward to today's effort, as ever since last night I've had a pretty scratchy throat.  Workout was:
+3x3' (2' rest)
+4x2' (1' rest)
+5x1' (1' rest)
+6x30"" (30"" rest)
+
+Cardio honestly wasn't too bad, it was more the aching and soreness in my legs that got to me, especially when the faster reps hit.  Pine & Prairie Loop hills really started to grind on me for this reason.  Tried to shorten the stride a little when things got difficult.  Appropriate pacing for the first couple sets and then things got pretty darn fast to finish (maybe a little excessive).  Overall pretty frustrating to have two less than ideal WOs in a row, but glad I pushed through and got the work done. ",2562,11312.7,false,,activities/1989992972.fit.gz
+1857159342,2018-09-21 21:55:10,Cool Down ,Run,This felt surprisingly good and decent convo plus really nice weather helped brighten my mood a bit after the kinda rough WO.,954,3489.3,false,,activities/1989993067.fit.gz
+1858773610,2018-09-22 12:58:43,Easing into an Earlier Morning,Run,"Feeling better after a good night's sleep, but still not 100%.  Muscles feel pretty achy.  Did Lando's today before Ole Invite with Primo, Plumb, Turtle, Bill, and Justin.  Started off real low and slow, then after the hill, things felt a lot more smooth and natural, leading to a bit of a quicker pace.  Real solid way to get the day started!  ",5396,19356.5,false,,activities/1991723409.fit.gz
+1861922983,2018-09-23 20:36:41,An Exceptional Upper Arb,Run,"Gorgeous afternoon!  Sickness still lingers, but felt fantastic, both cardio and leg wise on the run.  Ran w/ guys for the first three, but was really feeling a solo effort today, so headed out by myself around the Upper Arb, back through town and then around Norway Valley and campus.",3871,14509.8,false,,activities/1994984164.fit.gz
+1863729174,2018-09-24 20:37:57,WU,Run,"Felt better as things progressed.  Was still feeling lingering effects of sickness throughout the day, but as was the case with yesterday's run, felt the best I had when I ran.  ",1208,4423.2,false,,activities/1996832869.fit.gz
+1863729678,2018-09-24 21:09:44,6xMile,Run,"Great workout today.  Really needed this after two less than ideal workouts last week.  Good confidence builder for Friday.  Things went:
+5:18
+5:12
+5:02
+5:06
+5:04
+5:07
+Backwards Prairie a bit harder today with wind.  Felt like I could control pace well, and smooth feel for the most part.  Last one was difficult, but never went to the well.  Appropriate effort on the miles followed by letting things rip a little on the 4x200s.  ",3249,14253.5,false,,activities/1996833310.fit.gz
+1863729753,2018-09-24 22:11:16,CD,Run,"Low and very, very slow.",945,3279.0,false,,activities/1996833460.fit.gz
+1865954260,2018-09-25 20:37:20,"Spooky, Scary September",Run,"Fall is definitely here, albeit a bit chilly.  Legs weren't too bad today, considering yesterday's workload.  Definitely a bit more heavy and sore than usual though, which lead to a clunky run in which I never really got into a rhythm.  Really disappointed in myself regarding the amount of sleep I got last night.  Thankfully didn't effect me today, but can't let this happen again...",3755,12946.5,false,,activities/1999113147.fit.gz
+1868084493,2018-09-26 20:37:11,Brysk Pace w/ Byll,Run,"Beautiful day out, but a pretty strong wind, so the Arb was the obvious choice.  Real good recovery run today.  Fine with the faster miles as I already went into today's effort with the hopes of keeping things a little more up tempo.  Felt smooth.  Afterwards 6x100m strides, last two barefoot.  ",4477,16753.3,false,,activities/2001299112.fit.gz
+1870096569,2018-09-27 20:58:03,Where's the Football Team?!,Run,"Cross Campus pre-Blugold.  Felt slower/easier than normal today, but pacing was actually pretty reasonable.  Cardio a little off, but legs felt really good.  2x100m strides w/ trainers, then 2x200m strides w/ spikes.  ",3048,10308.7,false,,activities/2003367525.fit.gz
+1872076406,2018-09-28 21:24:46,Blugold WU,Run,Started 50 minutes out.  Felt super crappy on this warm-up.  Legs and especially cardio wise.  ,1219,4515.3,false,,activities/2005410242.fit.gz
+1872076541,2018-09-28 22:14:42,Asleep at Eau Claire,Run,"A far from ideal day.  Stuck w/ the pack for 2.5K then fell asleep mentally for the next 4K...don't know what the heck happened, pretty much forgot I was racing.  Nothing could really get me out of it, 'til I realized there was less than a mile to go and still felt pretty darn good.  Had put myself in to much of a hole though to really be able to recover and was frustrated with myself at this point, not helping the mentality during the finish.  Overall, 26:08.  Need to take away the positive that ran a 40 second PR and still have so much more to offer, both physically and mentally, for the next race.  ",1569,8077.3,false,,activities/2005410330.fit.gz
+1872076610,2018-09-28 23:02:21,Good Cool-Down,Run,Nice and slow around the course with Crispy.  Always have loved the post race run at this meet.  Sun setting over the eastern ridge is quite beautiful.,1487,5208.6,false,,activities/2005410380.fit.gz
+1873928993,2018-09-29 18:17:55,NW Roads-ish,Run,"Fantastic solo run out there today.  Kinda just acted on impulse in regards to where I went...ended up going straight at Guam, plus a weird finish down Hwy 19.  Cruised along at a comfortable pace.  Very smooth.  Good mental recovery from yesterday.  ",3878,15300.5,false,,activities/2007327881.fit.gz
+1876749922,2018-09-30 20:35:42,Lando's Hill Packs,Run,Felt pretty good.  Smooth legs and cardio.  Some weird quad tightness developed the last half mile or so and continued on the walk up to dinner.  Lando's with Henrik and Bones after the group of ten boys turned into four separate ones after the hill.  Held back a little as 6:45 was fast enough for me today...wasn't really feeling 6 flat on the highway.    ,5442,20927.0,false,,activities/2010313410.fit.gz
+1878453875,2018-10-01 20:38:27,Definitely Not Doing 17x Pine,Run,"w/ Justin, Turtle, & Reuben.  Felt pretty good.  Slightly tired legs in the middle, but went away.  Cardio smooth.  Things went by pretty quickly and made for pretty enjoyable NW Roads on a gloomy day.    ",4531,17060.0,false,,activities/2012069975.fit.gz
+1880493943,2018-10-02 20:23:37,WU w/ Primo,Run,"",1174,4410.8,false,,activities/2014160843.fit.gz
+1880494405,2018-10-02 20:52:16,2400 Smack to Start,Run,"Pretty tough workout:
+1x2400m (3' rest): 7:40
+1x1600m (3' rest): 5:05
+1x1200m (3' rest): 3:45
+2x800m (2' rest): both 2:31
+4x1' (1' rest)
+4x30"" (30"" rest)
+
+Long rep kinda dooted me to start.  From there things were definitely a grind, but considering cardio didn't feel all that great (tight upper chest and lungs) a decent workout.  Fell off the back of the pack for most of things, but actually kinda glad I stuck to the 5:05 pace I was planning on.  ",2767,12335.9,false,,activities/2014161297.fit.gz
+1880494582,2018-10-02 21:46:59,Cool Down,Run,A very slow trot felt good on the legs and stomach.,1129,3709.2,false,,activities/2014161494.fit.gz
+1882751503,2018-10-03 20:37:55,Back to Iron Bridge,Run,"Wednesdays now seem to be just Bill and I through the Arb.  Nice & easy recovery run at a reasonable pace.  Upper legs very tight initially, but loosened up after a mile or so.  Ran past Carleton bubs working out...role reversal from yesterday's 1200!",3986,14171.6,false,,activities/2016471922.fit.gz
+1884749720,2018-10-04 20:58:53,You Can Dance,Run,"GOAT Arb Route of Maple House w/ Crispy, Bill, Justin, Plumb, Turtle, & Sid.  Very average run.  Pace remained easy, allowing for good recovery. ",4296,14485.4,false,,activities/2018522314.fit.gz
+1886428826,2018-10-05 20:36:42,Warm-Up,Run,"",1303,4840.8,false,,activities/2020247346.fit.gz
+1886429130,2018-10-05 21:07:22,"One Mile, Four Ways",Run,"Super cool checking out the pacing graph for this aesthetically pleasing workout of:
+1x1600m (3' rest) @ 4:58
+2x800m (2' rest) @ 2:28, 2:30
+4x400m (200 jog~1') @ 72, 72, 70, 70
+8x200m (200 jog~1') @ mostly 34s with a couple 35s and one 33
+
+Know it was a shorter workout, but felt really good today.  Could control pacing and cadence really well.  Never overly stressed cardio wise.  Strangely, legs felt it the most coming downhill on Prairie during 400s.  Big pack today had its positives and negatives.  
+",2478,10701.9,false,,activities/2020247635.fit.gz
+1886429244,2018-10-05 21:53:23,CD,Run,Long and solo.  Felt good to go a tad faster than usual cool down pace.  Carls working out on course.,1506,5559.3,false,,activities/2020247764.fit.gz
+1888162186,2018-10-06 13:57:24,Cornhole to Canada Debut,Run,"Always a fan of a Saturday morning run.  Big group of boys.  Unfortunately misjudged the train timing and ended up trailing for about three miles.  Lead to a slightly quicker pace.  Legs very tired to begin, great rhythm by end.  Fan of the route.",4620,16907.8,false,,activities/2022034379.fit.gz
+1888540073,2018-10-06 20:57:20,Last Second Effort For Awhile?,Run,Felt good.  Took it easy on the course.  Nice to hit the softer surfaces.  Solo.  ,1946,7243.5,false,,activities/2022430587.fit.gz
+1891103549,2018-10-07 21:21:51,Screw this Weather,Run,"Solo tempo effort.  It was misting, so decided to hit up roads instead of the slippery Upper Arb.  Did 2.78 miles in 15 minutes (5:21, 5:29) for 5:24 pace overall.  Was too used to workout pace, and took things out a little too quick.  Still felt pretty smooth today and overall things felt relatively easy.  Way back sucked with the wind and cold.  ",4132,16912.8,false,,activities/2025198571.fit.gz
+1892925088,2018-10-08 20:36:39,Oops! Overdressed.,Run,"8-Ball w/ Turtle, Bill, Birdo, Kojo, Plumb and Sid (until the porta potty called him at mile 5...rip).  Felt real good today.  Easy cardio and smooth legs.  Pace felt slower than it ended up being.  4x100m strides after.",3797,13534.2,false,,activities/2027087757.fit.gz
+1895162291,2018-10-09 20:34:52,WU,Run,Felt deceptively good.  ,1259,4570.1,false,,activities/2029384119.fit.gz
+1895162724,2018-10-09 21:07:00,Real Rough Workout,Run,"10' (2' rest): 5:07 pace
+6' (2' rest): 5:13 pace
+4' (2' rest): 5:07 pace
+4x2' (1' rest)
+4x30"" (30"" rest)
+
+Very tough day, both physically and mentally.  Stuck with the pack through first 1.25 miles or so, but after that, dropped real hard.  Incredibly frustrated with myself...nothing felt right today.  Legs were trashed as quads burned with lactic acid throughout.  Cardio was also terrible...couldn't breath at all through my nose, which really effected my normal patterns.  Mentality was all off, as well.  Pretty much ended up being a solo workout.  Pushed through and got it done, but not many positives after that.        ",2780,12660.1,false,,activities/2029384509.fit.gz
+1895215046,2018-10-10 00:55:58,CD,Run,Good to go blow off some steam on the upstairs track.  ,1066,3862.43,false,,
+1897142882,2018-10-10 20:36:47,7ish-Ball,Run,"Real solid run w/ Byv, Bing, and Kojo.  Took it easy on a modified eight ball that took us past Kwik Trip and Malt-O-Meal.  Legs felt a little tired for miles 4-6, but still felt smooth.  Good cadence and great cardio.  Goal these next three days is lay low and rest up for La Crosse.",3400,12236.5,false,,activities/2031424004.fit.gz
+1899093686,2018-10-11 20:56:11,Prepping with Pick-Ups,Run,"Overall, very good.  Achilles issue from yesterday thankfully gone.  Felt smooth w/ fresh legs.  8x30"" (30"" rest) w/ Reuben, Bill, Crispy, Butch, and Henrik felt real good.  Started around 5:15ish, with 7th one being the fastest around 4:30.  ",3672,13533.7,false,,activities/2033434236.fit.gz
+1900759024,2018-10-12 20:26:48,Heavens to the Ground,Run,"Classic Pre-Meet.  Got to hit the sign today...pretty fun.  Solid tradition of heavens to the ground...too bad the wind didn't fully cooperate.  Legs a little tired.  Cardio decent.  Very chill and easy effort on the day, hopefully will help me feel rested for tomorrow.  6x100m strides after.  ",3588,9661.3,false,,activities/2035150364.fit.gz
+1902759680,2018-10-13 15:50:43,WU,Run,Felt pretty good on warm-up.  Helped build a little confidence for race.,1143,4200.3,false,,activities/2037222290.fit.gz
+1902759989,2018-10-13 16:40:51,Confidence Booster at Lax,Run,Pretty good confidence booster after two very mediocre weeks of training.  Happy with mentality.  Glad to have kept pack in range for most part.  Not pleased w/ +39 seconds from first to second half.  26:17.1 official time.  About 33 seconds faster than last year.  ,1583,8153.0,false,,activities/2037222702.fit.gz
+1902760211,2018-10-13 17:28:59,CD,Run,"Course then town...nice little exploration with Justin, Bing, and Bill.",1401,4834.9,false,,activities/2037222920.fit.gz
+1905468103,2018-10-14 20:46:30,All the President's Men,Run,"Really fun run, though a little chilly at times.  With some other boys for first three, but than broke off so I could explore the suburbs of Northfield.  Legs felt very good and cardio was fine...made for a smooth and comfortable effort.  Surprised the pacing was so quick.  ",5092,19170.2,false,,activities/2040088146.fit.gz
+1907254995,2018-10-15 21:31:16,The Sun has Returned!,Run,"Ran on some less traveled trails in the Arb.  Nice fall weather, but solo since my nap went longer than expected.  Good even pacing.  Overall, pretty enjoyable, but things felt like they went by real slowly.  ",3584,13360.7,false,,activities/2041944676.fit.gz
+1909327676,2018-10-16 20:40:30,WU,Run,"",1182,4427.5,false,,activities/2044074869.fit.gz
+1909328099,2018-10-16 21:16:07,Excellent End to Fall Break,Run,"Great workout on a beautiful fall day.  Legs and cardio felt the best they have all season.  Think the lower mileage maintenance days are really starting to help with this.  Things went:
+
+2x6' (3' rest): about 5:04 pace
+3x3' (2' rest): 5:02 pace for first two, 5:09 for final
+3x pine loop hill (~2'rest): 2:31, 2:29, 2:30
+
+Very pleased with the prudent and consistent pacing throughout.  Excited that my max HR was only 163 (considering its usually mid-180s for WO days).  Still need to work on arms more.  ",2686,11733.7,false,,activities/2044075297.fit.gz
+1909328231,2018-10-16 22:08:28,CD,Run,Nice slow pace while enjoying the fall weather.  ,1152,4032.7,false,,activities/2044075466.fit.gz
+1911528932,2018-10-17 20:48:25,Bill & I Boil a Frog,Run,"Sun, yet again!  Fantastic!  Yet again, another Wednesday date with Bill in the Arb.  Didn't feel great on the way out, especially cardio wise, but as pace picked up on the return trip, things started to feel smoother.  Legs not too tired from yesterday, but definitely not much bounce in 'em.  Might also be due to shoes nearing 500 miles.     ",3835,14011.7,false,,activities/2046341797.fit.gz
+1913374564,2018-10-18 20:56:41,67?!!!! 67?!!!!,Run,"Good to get back on roads with some outstanding, unseasonally warm, weather!  Easy and slow pacing today had the legs feeling pretty good.  Ran w/ Justin, Plumb, & Butch, with Bill and Turtle joining us for the three and a half.  4x100m strides afterwards went very well.  Quick cadence and solid arms.  ",3608,13052.4,false,,activities/2048241070.fit.gz
+1915117430,2018-10-19 20:34:01,Sherman's + Prairie WU...Again,Run,Felt mediocre.  Some stomach jostling from bigger lunch.  ,1260,4681.2,false,,activities/2050037688.fit.gz
+1915117777,2018-10-19 21:08:35,Winds of November Came Early,Run,"Pretty tough workout, but pushed through the second big workout in four days.  Consisted of:
+
+1x8' (2' rest)
+1x5' (2' rest)
+1x3' (2' rest)
+6x1' (1' rest)
+8x30"" (30"" rest)
+
+Another good grind with the boys.  Gusts around corners were pretty strong, but soccer fields honestly weren't terrible.  Cardio was so-so and legs definitely started to have lactic-acid build up...last half of 30 second bouts burned.  Good arms today though and pretty decent cadence.  ",2496,11425.5,false,,activities/2050038000.fit.gz
+1915119799,2018-10-19 21:56:09,CD,Run,"Was feeling a very low and slow cool-down.  w/ Justin, Crispy, & Bing",1058,3544.9,false,,activities/2050040109.fit.gz
+1916540853,2018-10-20 14:10:41,"Pre-Todd, Pretty Windy",Run,"Ran w/ Crispy, Turtle, Bones, Arne (prospie), Primo, and Mike Finn.  Legs felt pretty trash to begin, but tolerable by end.  Took it slower through a cloudy Sharb.  ",3072,10365.7,false,,activities/2051512469.fit.gz
+1920793849,2018-10-21 20:36:05,Burrito Bowels,Run,"GI and stomach distress hit incredibly hard the second half of run.  Pretty miserable.  On a positive note, legs and cardio felt fine.  ",5011,17066.6,false,,activities/2055975328.fit.gz
+1921591266,2018-10-22 20:36:03,It's Harvest Season,Run,"Ran w/ Justin, Primo, Jackson, & Liam on new NE roads.  Really enjoyed this route...nice change of scenery.  Kept things cool, calm, and collected.  Legs and cardio felt great.  Hopefully this carries over into tomorrow's workout.  ",3460,12884.9,false,,activities/2056792189.fit.gz
+1923770845,2018-10-23 20:38:15,WU,Run,Broke out the fresh pair of Pure Flows 7s.,1209,4510.7,false,,activities/2059038318.fit.gz
+1923771026,2018-10-23 21:08:37,Bad Sleep Won't Stymie Me,Run,"Workout was:
+
+1x1600 @ 4:59 (1' rest) 
+2x800 @ 2:27 (1' rest)
+2x400 @ 1:13 (1' rest)
+6x30"" (30"" rest)
+
+Things went really well!  w/ Bill, Turtle, Crispy, & Justin.  Incredibly smooth with good cadence.  Cardio was never overly stressed.  Solid pacing paired with shorter rest allowed me to get into a great groove.  Necessary confidence builder for this Saturday. ",1384,6511.2,false,,activities/2059038500.fit.gz
+1923771146,2018-10-23 21:38:50,CD,Run,Reverse Windmill...crazy stuff!,1118,3802.1,false,,activities/2059038632.fit.gz
+1925674703,2018-10-24 20:34:15,HS Reflections,Run,"Surprisingly windy.  Short run distance wise, but mentally felt like it took a while.  Legs were tired and didn't have much bounce.  Cardio was alright, I guess.  No GS today per paper coach and captain Justin's orders.  ",2636,9665.5,false,,activities/2060994365.fit.gz
+1927453137,2018-10-25 21:02:10,WU,Run,"",1315,4828.4,false,,activities/2062813842.fit.gz
+1927453283,2018-10-25 21:33:11,Pre-Conference Prep,Run,"WO shorter than warm-up or cool-down...woof!  Things went:
+
+1x3' (90"" rest)
+1x2' (60"" rest)
+1x1' (60"" rest)
+2x30"" (30"" rest)
+
+Justin and I returned to our 2016 Karhu F-ups and had everyone do an extra 30 seconds of rest after the 1' rep.  Mega oops...prolly should just throw in the towel on the season.  Cadence was real good, but cardio was kinda tight.  First rep was done at a perfect 5:05 pace.  w/ Justin, Primo, Crispy, Plumb, Turtle, and Bill today.",675,3044.7,false,,activities/2062814007.fit.gz
+1927453456,2018-10-25 21:51:56,CD,Run,"",926,3249.5,false,,activities/2062814175.fit.gz
+1929249162,2018-10-26 20:35:35,Aggerbeck Ascends,Run,Pre-meet.  Kept things real easy.  Legs feel very good.  6x100m strides after.  Another great opportunity tomorrow!,2851,9331.4,false,,activities/2064654183.fit.gz
+1931066066,2018-10-27 16:10:39,WU,Run,"Wasn't feeling great to start.  For this reason extended until things were better, plus this allowed me to check out the condition of Pine Loop.",1240,4349.5,false,,activities/2066524555.fit.gz
+1931066184,2018-10-27 17:00:19,Mostly Good @ MIAC,Run,"Things started quick, but honestly felt pretty comfortable.  Really settled into a good rhythm and rode along with the pack of Oles.  By the time I hit 5K, felt like I could push things a bit more, and it seems like Plumb had the same thoughts, so we worked off each other well for the final 3K.  Would've been nice to reel in Lelinga at the end, but still managed to run 26:07.8, a .3 second PR!  Really happy with how I ran today.  Felt smooth in all aspects and my legs totally felt the taper.      ",1569,8168.1,false,,activities/2066524748.fit.gz
+1931066272,2018-10-27 17:49:11,CD,Run,Good breakdown of race w/ the boys.  Two weeks until regionals...,1366,4666.1,false,,activities/2066524868.fit.gz
+1933329577,2018-10-28 20:39:57,A Natural Feel,Run,"Little quicker than usual, but felt good cardio and leg wise.  Nice bounce in the step (might have been exaggerated by the newer shoes).  W/ Bill, Primo, Plumb, Crispy, Turtle, Sid, Reuben, and Butch.  Want to raise the miles back up a bit these next seven days or so (60-65) so as to maximize the taper feel come regionals (after a week of 45ish?).  ",4235,15293.3,false,,activities/2068888853.fit.gz
+1934947330,2018-10-29 20:39:01,Strung Out Along 8-Ball,Run,"Another quicker paced run today.  Need to make sure Wednesday and Thursday are more prudent and controlled...7:10-7:20 pace.  That being said, still felt pretty good, though not as much bounce as yesterday.  5x100 strides afterward.  ",3969,14507.2,false,,activities/2070563356.fit.gz
+1936798811,2018-10-30 20:39:04,Top 7 x Two 10' Tempos,Run,"Always a fan of the Upper Arb. Great place to workout.  Legs didn't feel great in warm-up...tired and tight.  First half of first bout was not great for that reason, plus restricted cardio.  For the second half of that rep, and the entirety of the second, things felt very controlled and easy.  Happy to have hit exactly 5:30 pace for both reps.  Weird going across Carleton's campus on way back w/ only six boys and no traditions.  ",4677,16908.1,false,,activities/2072468368.fit.gz
+1938606887,2018-10-31 20:39:25,Tracks and Back,Run,"Just Justin and I out on NE Roads...good route, don't @ me.  Felt mediocre.  Cardio a little restricted and legs tired in the middle.  Got better as things progressed though.  Another beautiful day weather wise...need to take advantage of this before Nov. 6th when it looks like the temp will permanently dip below 50.  ",3698,14003.1,false,,activities/2074322185.fit.gz
+1940378559,2018-11-01 21:11:45,Convoluted Karhu,Run,"Fun to go and cheer the boys on today.  Helped distract from the longer run.  Legs felt less tired today, and cardio was decent.  Gotta get rid of this sickness though...sleep, sleep, sleep!",5109,17390.1,false,,activities/2076143495.fit.gz
+1942223335,2018-11-02 20:31:44,WU,Run,plus run to snag flats,1608,4998.0,false,,activities/2078050564.fit.gz
+1942223542,2018-11-02 21:05:57,One Day 'Til the State Meet!,Run,"Last larger workout for the year:
+
+1x6' (2' rest)
+1x4' (2' rest)
+1x3' (2' rest)
+6x1' (1' rest)
+8x30"" (30"" rest)
+
+First rep was pretty speedy, coming through the mile in 4:56, but actually felt pretty good and smooth.  Longer reps were easier than the shorter ones today.  Lactic acid during the shorter stuff was accentuated by achy muscles due to cold.  Still pretty decent workout with the pack plus Soggy.  ",2325,10700.5,false,,activities/2078050784.fit.gz
+1942223633,2018-11-02 21:52:21,Cold Hands CD,Run,"",1089,3789.8,false,,activities/2078050890.fit.gz
+1943924732,2018-11-03 16:01:10,Mediocre at MSHSL,Run,Felt super crappy first half of this run.  Legs tired and achy with less than ideal cardio.  Eventually got into a decent rhythm which made add-on with Crispy pretty solid.  Almost over this cold...but not quite.  ,4184,14333.1,false,,activities/2079808044.fit.gz
+1946732112,2018-11-04 22:08:08,Arrival of Eternal Darkness,Run,"Great maintenance run today.  Went solo due to late laundry and most everyone else running in the morning.  Legs felt fresh, allowing for a nice bounce in the step.  Cardio was good as well, even though cold hasn't entirely dissipated.  4x100m strides after.  ",2546,9664.5,false,,activities/2082742517.fit.gz
+1948532940,2018-11-05 21:34:30,WU,Run,"",1017,3639.2,false,,activities/2084599546.fit.gz
+1948532999,2018-11-05 22:03:47,New Gear Repping,Run,"Taper week workout:
+
+1x4' (1' rest)
+1x3' (1' rest)
+2x1' (1' rest)
+4x30"" (30"" rest)
+
+Felt very good today.  Thankfully cardio wasn't affected by the slight cold that still lingers.  Biggest positive was the legs feeling fresh.  Great bounce in them had all the reps feeling quite easy.  Another re-enforcer that tapering works.  ",999,4622.7,false,,activities/2084599605.fit.gz
+1948533048,2018-11-05 22:28:19,CD,Run,slow and sloppy windmill,960,3278.5,false,,activities/2084599653.fit.gz
+1950337428,2018-11-06 21:39:52,First Cold Face Day,Run,Easy recovery run through Sharb w/ Top 7 minus Plumb plus Butch.  Felt like I wanted to go a little faster than the slower pace we were going...just gotta remember the difference between 7:05 and 7:20 is pretty much nothing.  Legs don't feel tired and cardio was just fine.  Feeling pretty loose and looking forward to Saturday.  ,3384,11599.6,false,,activities/2086447704.fit.gz
+1952287344,2018-11-07 21:36:27,WU,Run,Wind made things chilly on way out.  Quicker pace than usual.,957,3672.4,false,,activities/2088457128.fit.gz
+1952287448,2018-11-07 22:07:13,Where'd the Bounce Go?,Run,"Final pre-regionals prep workout.  Things went:
+
+2x1' (1' rest)
+1x5' (1' rest)
+4x30"" (30"" rest)
+
+Think I've figured out what to wear for Saturday after today's effort.  NB compressions look like the way to go.  Abbreviated squad of Bill, Primo, Justin, Crispy, and I.  Unfortunately didn't feel great today.  Was out of sync as the cardio was mediocre and legs a bit flat.  Don't know why...hopefully this is only a one day thing.  That being said, WO was still relatively easy.  ",817,3862.7,false,,activities/2088457215.fit.gz
+1952287506,2018-11-07 22:29:42,CD,Run,"",749,2753.6,false,,activities/2088457280.fit.gz
+1954128100,2018-11-08 21:59:33,An Intimate Cross Campus,Run,"Justin stole my title, but I'm still just gonna roll with it...after all, it sums up the run quite well.  Legs felt much better and I think the cold is officially gone.  Looking forward to starting up the post-season experience tomorrow!  ",2636,9180.0,false,,activities/2090347001.fit.gz
+1955349324,2018-11-09 20:34:36,This is the Course?,Run,"Like the back portion of this thing...front part and keyhole, not so much.  Didn't feel all that great during the first three miles, but might have just been due to strong gusts of wind.  Adding on, started to feel a lot lighter and smooth.  Strides indoors felt pretty darn good!  ",2503,8646.5,false,,activities/2091595897.fit.gz
+1956991496,2018-11-10 17:07:36,WU,Run,Didn't feel great.  Cardio pretty tight.  Somewhat out of sync.  Kinda better by the end of things.,1149,4190.9,false,,activities/2093289852.fit.gz
+1957102205,2018-11-10 18:00:16,Breaking the 26 Barrier,Run,"PRed by 28 seconds today with a time of 25:39.3.  Simply put, I felt 'on' today.  Legs were fresh and cardio felt good.  Lots of faster runners and tons of spectators helped be cruise along.  Got into a good rhythm.  Would've liked to push just a little more and caught some more guys at the end, but so it goes. Gotta make sure to leave everything on the course next week.  Happy to have snagged All-Region.  Team was a respectable third...don't really see anyway we could've made up the fifty points to second.  Good work boys!  Looking forward to likely toeing the line with you at Nats next Saturday.",1542,8274.5,false,,activities/2093402614.fit.gz
+1957231384,2018-11-10 18:42:41,CD,Run,"Was enjoying myself, so extended things a little.",1779,5156.9,false,,activities/2093537570.fit.gz
+1959775775,2018-11-11 21:40:43,Great Day to be an Ole,Run,"Team has officially qualified for Nats.  Looking forward to the great opportunity this upcoming Saturday.  Recovery run today.  Felt surprisingly good, especially considering no rolling or stretching after yesterday's grass track.  Felt pretty loose overall, though outer ankles felt a tad weird, but nothing crazy.  Was v cold by the end of things.  ",3757,13377.0,false,,activities/2096171400.fit.gz
+1961536969,2018-11-12 21:33:04,Conflicted on the Course,Run,"Frustrating effort today.  Sounds harsh & whiny, but I can't stand running slower than 7:30 pace.  Feels unnatural and much harder than  7:10-7:15 pace.  There was that side of me, but also the other half that felt like a dick for running ahead of the pack that wanted to go slower.  Wasn't sure what to do, but ended up staying a little ahead.  All that aside, legs feel very fresh.  Cardio incredibly smooth.  4x100m strides after.",3033,10787.1,false,,activities/2097966420.fit.gz
