@@ -1,0 +1,667 @@
+id,date,name,type,description,elapsed_time,distance,commute,gear,filename
+1028294699,2017-06-09 13:03:45,Morning Ride,Ride,,8817,52516.0,false,,activities/1028294699.gpx
+1030415227,2017-06-10 20:22:03,Afternoon Ride,Ride,30 mph winds,3591,22129.9,false,,activities/1030415227.gpx
+1032048064,2017-06-11 15:40:51,Morning Ride,Ride,,8387,51023.9,false,,activities/1032048064.gpx
+1038566097,2017-06-15 20:54:11,Afternoon Ride,Ride,,2931,19726.2,false,,activities/1038566097.gpx
+1039924207,2017-06-16 15:10:31,Morning Ride,Ride,,25036,97829.1,false,,activities/1039924207.gpx
+1046650835,2017-06-20 23:50:34,Evening Ride,Ride,,5936,35911.0,false,,activities/1046650835.gpx
+1050498144,2017-06-23 14:27:29,Morning Ride,Ride,Life in a nutshell,8311,49270.3,false,,activities/1050498144.gpx
+1052265133,2017-06-19 23:43:48,Afternoon Run,Run,"",3416,12874.8,false,,
+1052266215,2017-06-20 23:44:53,Afternoon Run,Run,"",2580,9656.06,false,,
+1052267371,2017-06-20 23:18:13,Afternoon Ride,Ride,"",5280,35405.6,false,,
+1052268774,2017-06-21 23:46:52,Afternoon Run,Run,"",3480,12874.8,false,,
+1052269695,2017-06-23 20:30:47,Afternoon Run,Run,"",2961,11265.4,false,,
+1052270755,2017-06-22 19:06:13,Afternoon Run,Run,"",2586,9656.06,false,,
+1052272445,2017-06-24 13:59:33,Afternoon Run,Run,"",4070,16093.4,false,,
+1053931175,2017-06-25 12:43:31,Morning Ride,Ride,"swedish rides w the old man, awesome ride but huge wind gusts from the west",19146,105036.0,false,,activities/1053931175.gpx
+1055149273,2017-06-26 12:00:04,Z,Run,"",2400,9656.06,false,,
+1055756714,2017-06-26 20:03:45,"20 wind gusting to 30, jeez",Ride,,9152,49820.4,false,,activities/1055756714.gpx
+1059502421,2017-06-28 12:00:35,Morning Run,Run,"",4270,16093.4,false,,
+1059502936,2017-06-29 12:07:07,Morning Run,Run,"",4200,16093.4,false,,
+1061101198,2017-06-30 12:39:52,"Super slow run, alone so no watch dont know the pace. Feel good tho",Run,"",10800,16093.4,false,,
+1063109931,2017-07-01 23:15:52,"First 4 @ 7:24, last 6 @ 6:15, awesome run",Run,"",4020,16093.4,false,,
+1063986192,2017-07-02 12:11:29,Slow ride take it easy,Run,"",120,16093.4,false,,
+1067277799,2017-07-04 14:44:10,"""4""",Run,"",5577,20921.5,false,,
+1069843594,2017-07-06 01:25:11,Owkdkjsis ,Run,"",355,8529.52,false,,
+1070380590,2017-07-06 12:00:02,Warmup,Run,"",854,3218.69,false,,
+1070382826,2017-07-06 12:15:57,"Workout ""Wednesday""",Run,"20x30""",1200,5310.83,false,,
+1070383934,2017-07-06 13:03:06,Cooldown,Run,"",2059,7563.92,false,,
+1071024883,2017-07-06 19:44:04,rust buster,Ride,,2629,19943.6,false,,activities/1071024883.gpx
+1072427851,2017-07-07 13:55:38,Argonne with the DUDES,Run,"",3757,13679.4,false,,
+1072624286,2017-07-07 22:57:36,Flat tire with 6 to go ,Ride,,7143,46082.4,false,,activities/1072624286.gpx
+1073372009,2017-07-08 12:14:09,float like a butterfly sting like a bee,Run,"",2634,9656.06,false,,
+1074101965,2017-07-08 20:02:13,"Fixed tube, then went flat again cuz lbs missed a piece of glass, got new tube, trying again 🖒🖒🖒",Ride,,655,3489.3,false,,activities/1074101965.gpx
+1074218855,2017-07-08 21:03:26,"prairie path, gravel is ok i guess",Ride,,8134,49353.2,false,,activities/1074218855.gpx
+1075197980,2017-07-09 12:24:07,Morning Run,Run,"",3496,12874.8,false,,
+1076804277,2017-07-10 12:15:06,Morning Run,Run,"",6292,23013.6,false,,
+1077584901,2017-07-10 23:43:24,Shakeout,Ride,,2735,18437.0,false,,activities/1077584901.gpx
+1078221393,2017-07-11 12:10:52,Morning Run,Run,"",2526,9656.06,false,,
+1079033216,2017-07-11 21:15:19,ok,Ride,,4660,33741.7,false,,activities/1079033216.gpx
+1079813873,2017-07-12 12:32:24,Muggy out,Run,"",3337,13035.7,false,,
+1082938156,2017-07-14 12:30:50,Morning shakeout,Run,"",1560,6437.38,false,,
+1083796972,2017-07-14 06:36:53,Night Run,Run,"",79200,3218.69,false,,
+1083797276,2017-07-15 04:32:32,"Nice even splits, alone the whole way but fun meet",Run,"",280,1609.34,false,,
+1084422576,2017-07-15 01:52:46,Cooldown,Run,"",46800,4828.03,false,,
+1086317341,2017-07-15 23:53:22,Excellent waterfall run with isaac! Alden and chris. Luckily alden biked next to me the last 6 miles,Run,"",5124,19312.1,false,,
+1086914320,2017-07-16 18:10:44,Afternoon Run,Run,"",4350,16093.4,false,,
+1087838169,2017-07-17 12:39:04,Surgery today,Run,"",3492,14484.1,false,,
+1093148661,2017-07-20 17:13:07,Real feel 100000 degrees,Run,"",1740,6437.38,false,,
+1093794795,2017-07-21 01:39:24,Systems check,Run,"",3448,12874.8,false,,
+1094359801,2017-07-21 12:46:42,Felt really hard,Run,"",3480,12874.8,false,,
+1094932989,2017-07-21 20:35:08,Operation: Dead Rat,Ride,,2819,17016.0,false,,activities/1094932989.gpx
+1095113340,2017-07-22 01:09:35,Rain,Run,"",21,4828.03,false,,
+1096203489,2017-07-22 13:00:38,"5x2' incorporated, went by quick cuz I actually ran with someone today !",Run,"",42861,20921.5,false,,
+1096682308,2017-07-22 20:58:32,live long and prosper,Ride,,6646,46365.9,false,,activities/1096682308.gpx
+1097826247,2017-07-23 13:54:40,Humidity plz,Run,"",4270,16093.4,false,,
+1099827400,2017-07-24 19:58:34,blazing saddles the movie,Ride,,4212,29122.4,false,,activities/1099827400.gpx
+1100102875,2017-07-25 01:11:12,"3x3', cut a little cuz I'm racing twice this week, felt v. good though",Run,"",4213,16093.4,false,,
+1100723525,2017-07-25 13:07:32,Recovery around the world,Run,"",17730,8046.72,false,,
+1102458631,2017-07-26 13:55:03,Morning Run,Run,"",2919,11265.4,false,,
+1103137151,2017-07-26 19:08:19,ok,Ride,,8805,60395.5,false,,activities/1103137151.gpx
+1103375206,2017-07-27 01:22:47,Evening Run,Run,"",1281,4828.03,false,,
+1104009668,2017-07-27 13:31:24,Shake,Run,"",1440,5310.83,false,,
+1104990322,2017-07-28 02:56:27,Warmup,Run,"",1269,4828.03,false,,
+1104990859,2017-07-28 03:13:36,"Out in 2:35 with owen, back in 2:13, always a fun race!",Run,"",288,1609.34,false,,
+1104991254,2017-07-28 02:48:10,"Cool down, detweiller tomorrow, feeling good",Run,"",1868,6437.38,false,,
+1105572402,2017-07-28 14:04:45,With high school guys,Run,"",1752,6437.38,false,,
+1106352713,2017-07-29 03:40:07,WU,Run,"",1338,4828.03,false,,
+1106354302,2017-07-29 03:48:41,"5:15 thru 2 miles, third mile it band sore. awesome event tho",Run,"",990,4828.03,false,,
+1106354429,2017-07-29 03:50:25,Cd,Run,"",974,3218.69,false,,
+1107220290,2017-07-29 13:59:05,Actually felt pretty good,Run,"",1748,6437.38,false,,
+1107780076,2017-07-29 20:42:43,re,Ride,,4102,29099.4,false,,activities/1107780076.gpx
+1107966396,2017-07-30 01:13:04,Easy with Erik. slow satis,Run,"",2676,9656.06,false,,
+1109245521,2017-07-30 13:39:42,Milkman evolves,Run,2x Glen falls,8056,30577.5,false,,
+1110518366,2017-07-31 15:14:15,Recovery week zz,Run,"",1,160.9,false,,
+1112175799,2017-08-01 14:02:55,Hometown,Run,"",4320,16093.4,false,,
+1113901384,2017-08-02 14:34:09,with bubs,Run,"",2526,9656.06,false,,
+1114383481,2017-08-02 18:53:18,With dad,Ride,,4216,29079.9,false,,activities/1114383481.gpx
+1114729450,2017-08-03 01:22:51,Evening Run,Run,"",1708,6437.38,false,,
+1115391031,2017-08-03 14:11:41,WU,Run,"",852,3218.69,false,,
+1115395950,2017-08-03 13:58:19,"30x30""",Run,"Felt really good, awesome workout",1785,8207.65,false,,
+1115396468,2017-08-03 14:22:38,CD,Run,"",471,1609.34,false,,
+1117340083,2017-08-04 18:35:08,Accidentally stopped watch partway through. Oops,Run,,4567,14519.4,false,,activities/1117340083.gpx
+1118464972,2017-08-05 13:13:19,Trail run,Run,"",4870,16093.4,false,,
+1120184950,2017-08-06 12:28:17,Some killer hills,Run,,5096,17155.1,false,,activities/1120184950.gpx
+1121942527,2017-08-07 13:18:53,STO vs NCC,Run,ran into ncc runner who was an oswego alum at mile 8. Immediately dropped the pace hard in a hammerfest for a few miles,4776,19312.1,false,,
+1123377770,2017-08-08 13:23:25,Highschool bubs,Run,"",3248,12874.8,false,,
+1124016349,2017-08-08 19:37:47,Ghost Wind,Ride,,4399,32404.2,false,,activities/1124016349.gpx
+1125922781,2017-08-09 01:49:07,Evening Run,Run,"",1708,6437.38,false,,
+1131479872,2017-08-13 12:58:41,"Scar tissue: fake news, fake injury",Run,"So i took the last 4 days off because i had a nagging glute pain, turns out it was just scar tissue so i beat the shit out of it with a croquet ball and my fingers. Gone the next day, dumb injury. ",1351,6437.38,false,,
+1133310615,2017-08-14 14:46:18,humid,Run,"",3280,12874.8,false,,
+1139130771,2017-08-18 01:14:47,"Minor injuries, back after 2 days rest. Eyes set on day 1 of xc",Run,"",1768,6437.38,false,,
+1139728412,2017-08-18 12:49:42,*heavy breathing intensifies*,Run,"",3416,12874.8,false,,
+1141405757,2017-08-19 13:05:31,"Waterfall glenn with CHRIS, a filthy CARL('09) yelled squish at us during the run",Run,"",3705,15288.8,false,,
+1144653161,2017-08-21 12:51:51,Ground pound,Run,"",4100,16093.4,false,,
+1146699710,2017-08-22 13:28:59,More later,Run,"",1736,6437.38,false,,
+1147349724,2017-08-23 01:17:50,Night Run,Run,"",3504,12874.8,false,,
+1148103683,2017-08-23 14:09:55,hroom hroom,Run,"",2115,8046.72,false,,
+1149841767,2017-08-24 14:12:09,Warmup,Run,"",848,3218.69,false,,
+1149843951,2017-08-24 15:14:29,"8x2' with 2' rest. Felt really good, great confidence boost after a sketchy two weeks",Run,"",1920,9088.06,false,,
+1149844622,2017-08-24 15:32:53,Cooldown,Run,"",862,3218.69,false,,
+1151820637,2017-08-25 14:23:25,Slow ride take it easy,Run,"",4400,16093.4,false,,
+1152928471,2017-08-26 12:22:52,Hometown 10 with hs guys,Run,"",4120,16093.4,false,,
+1154788595,2017-08-27 12:18:36,Penultimate Oswego run,Run,"",3464,12874.8,false,,
+1155872763,2017-08-28 01:52:24,Simon goes home devastated!!!! 2nd in the mileage boards!!!,Run,"",1776,6437.38,false,,
+1157441966,2017-08-28 21:39:46,"I made it to camp, dk pace",Run,"",5064,19312.1,false,,
+1158926858,2017-08-29 20:15:44,Death by Mowgli,Ride,"",3600,27358.8,false,,
+1160464375,2017-08-30 13:02:03,3 mile tempo at 16:50 or something,Run,"",4411,17702.8,false,,
+1161258018,2017-08-29 12:28:29,Morning Run,Run,"",3368,12874.8,false,,
+1161473534,2017-08-31 14:44:47,Morning Run,Run,"",2580,9656.06,false,,
+1162352320,2017-09-01 03:05:22,Indigenous people run,Run,"",1296,4828.03,false,,
+1163063734,2017-09-01 13:04:43,it bands finally not tight,Run,"",4020,16093.4,false,,
+1164587621,2017-09-02 13:26:11,Perfect run with Tay,Run,"",6577,26071.4,false,,
+1168893357,2017-09-04 13:13:55,Magic 8 ball.,Run,"",3256,12874.8,false,,
+1168893650,2017-09-05 03:47:54,Stitch cabin fever allergies.,Run,"",1266,4828.03,false,,
+1169378658,2017-09-03 12:45:10,Morning Run,Run,"",1281,4850.75,false,,
+1169772641,2017-09-05 13:55:10,"Change of scenery, very nice day",Run,"",4270,16093.4,false,,
+1170396097,2017-09-05 23:27:46,Cruising with isaac,Ride,"",5625,40233.6,false,,
+1171373128,2017-09-06 13:33:07,Fever chills and post WO exhaustion. WO itself was fine,Run,"",5201,21243.3,false,,
+1172518300,2017-09-07 12:02:50,Morning shakeout,Ride,,3522,22048.9,false,,activities/1172518300.gpx
+1173407224,2017-09-07 22:18:52,EZ,Run,"",3360,12874.8,false,,
+1174747143,2017-09-08 23:10:43,Across campus,Run,"",2135,8046.72,false,,
+1175927971,2017-09-09 15:29:49,alumni rip 5k,Run,"",4697,17702.8,false,,
+1178380237,2017-09-10 22:05:15,LR unknown pace,Run,"",5636,21243.3,false,,
+1178380573,2017-09-10 22:05:15,LR unknown pace,Run,"",5636,21243.3,false,,
+1179892468,2017-09-12 01:04:07,may b,Run,"",9070,16093.4,false,,
+1181535537,2017-09-13 03:36:30,zzz,Run,"",2562,9656.06,false,,
+1182953684,2017-09-13 23:49:52,Fake it til you make it,Run,"",4270,16093.4,false,,
+1183654665,2017-09-14 12:50:43,Fake it til you make it,Ride,,7478,44058.3,false,,activities/1183654665.gpx
+1184397323,2017-09-14 20:30:04,6 bats!,Run,"",2562,9656.06,false,,
+1185812066,2017-09-16 02:48:12,"Across campus, it's six I swear",Run,"",2562,9656.06,false,,
+1187492254,2017-09-16 21:05:13,Woat,Run,"",25051,20921.5,false,,
+1189346815,2017-09-17 23:48:03,Evening Run,Run,"",3416,12874.8,false,,
+1192403800,2017-09-20 01:20:40,Good workout today.,Run,"",4697,17702.8,false,,
+1195035368,2017-09-20 20:30:32,8 ball,Run,"",3416,12874.8,false,,
+1195357185,2017-09-21 20:30:13,W L M O G I  workout,Run,"",4270,16093.4,false,,
+1197528542,2017-09-22 20:36:37,Indoor upstairs track,Run,"",3416,12874.8,false,,
+1198021022,2017-09-23 16:21:31,Landos,Run,"",5124,19312.1,false,,
+1202779039,2017-09-25 20:30:29,goat workout,Run,"",5124,19312.1,false,,
+1202978727,2017-09-23 16:47:46,Nw 6 issak,Run,"",2562,9656.06,false,,
+1204875768,2017-09-27 20:03:43,Afternoon Ride,Ride,"",5722,38624.3,false,,
+1207813677,2017-09-28 23:26:32,Cross campus plus more,Run,"",2562,9656.06,false,,
+1207814432,2017-09-29 22:20:01,27:42 I'll take it. Good step in the right direction,Run,"",4050,16093.4,false,,
+1211181326,2017-09-30 21:54:55,Hard,Run,"",5124,19312.1,false,,
+1211182652,2017-10-01 20:59:20,Solo Sunday,Run,"",3416,12874.8,false,,
+1212725766,2017-10-03 03:28:51,Holyoke classic,Run,"",3501,13196.6,false,,
+1214301246,2017-10-03 20:30:12,5:20 pace is becoming easier,Run,"",5124,19312.1,false,,
+1215824467,2017-10-04 20:30:28,Practice is at 3:30.,Run,"",2989,11265.4,false,,
+1217920770,2017-10-05 20:30:00,the farmer always knows,Run,"",3416,12874.8,false,,
+1218439374,2017-10-06 20:30:26,The gift that keeps on giving.,Run,"",4270,16093.4,false,,
+1219687609,2017-10-07 14:00:30,Nw with alden,Run,"",2562,9656.06,false,,
+1221066989,2017-10-08 13:40:52,"2? Mile tempo, don't know pace but HR was going nuts",Run,"",4270,16093.4,false,,
+1222028483,2017-10-09 06:27:44,fire,Swim,"",2237,100.0,false,,
+1223159539,2017-10-09 20:30:32,8 ball,Run,"",3416,12874.8,false,,
+1224575981,2017-10-10 21:23:38,Workout,Run,"Great workout, around 5:20 for the 10 and 6, then down to 5:17 for the 4s and 2s, the 30 seconds we're about 4:38 pace",4345,17702.8,false,,
+1226210895,2017-10-11 20:30:10,REROLL,Run,"",2502,9656.06,false,,
+1227675957,2017-10-12 20:50:05,Ate ball,Run,"",3416,12874.8,false,,
+1228970979,2017-10-13 20:30:29,HELLFIRE,Run,"",2135,8046.72,false,,
+1230445044,2017-10-14 15:30:20,I'm just a bub 27:40,Run,"",3600,14484.1,false,,
+1231709242,2017-10-15 14:16:24,sore sore and sore,Run,"",3416,12874.8,false,,
+1233888007,2017-10-16 20:30:54,Esse,Run,"",2989,11265.4,false,,
+1234610612,2017-10-17 14:03:33,Workout is very hard,Run,"",4312,17702.8,false,,
+1236928649,2017-10-18 20:30:09,Day by day,Run,"",2904,10943.5,false,,
+1238226539,2017-10-19 20:54:45,Afternoon Run,Run,"",3207,11361.2,false,,activities/1344556955.tcx.gz
+1239519072,2017-10-20 21:25:22,Afternoon Run,Run,"",537,1673.0,false,,activities/1345867362.tcx.gz
+1239519149,2017-10-20 20:53:13,"Cut the 5, been feeling sick and being healthy is #1 priority",Run,"Having said that, some solid speed on the reps today, good stuff.",1378,6067.7,false,,activities/1345867419.tcx.gz
+1239519171,2017-10-20 20:29:54,Afternoon Run,Run,"",775,2694.5,false,,activities/1345867458.tcx.gz
+1242200454,2017-10-22 14:39:00,FIRED UP for conference,Run,"",3165,12906.3,false,,activities/1348595829.tcx.gz
+1242200805,2017-10-21 13:19:14,Super slow didn't want to crash. Was raining hard,Ride,"",1832,8343.4,false,,activities/1348596352.tcx.gz
+1243972369,2017-10-23 21:19:39,Afternoon Run,Run,"",474,1646.4,false,,activities/1350393664.tcx.gz
+1243990179,2017-10-23 20:57:45,Afternoon Run,Run,"",1121,5056.6,false,,activities/1350411572.tcx.gz
+1244048484,2017-10-23 20:35:22,Afternoon Run,Run,"",608,2372.3,false,,activities/1350470356.tcx.gz
+1245423126,2017-10-24 20:33:48,Nice and easy,Run,"",2344,8056.4,false,,activities/1351854398.tcx.gz
+1247099761,2017-10-25 20:34:33,Afternoon Run,Run,"",2337,8203.0,false,,activities/1353545087.tcx.gz
+1248523278,2017-10-26 20:56:05,Watch doesn't like inside...,Run,"",3557,9576.4,false,,activities/1354980979.tcx.gz
+1249608614,2017-10-27 21:16:31,Afternoon Activity,Workout,"",324,1042.9,,,activities/1356077054.tcx.gz
+1249608906,2017-10-27 20:37:43,Afternoon Run,Run,"",2097,6904.7,false,,activities/1356077307.tcx.gz
+1250999359,2017-10-28 16:00:06,Lunch Run,Run,"",1682,8145.5,false,,activities/1357482980.tcx.gz
+1250999580,2017-10-28 16:42:46,Lunch Activity,Workout,"",716,1808.4,,,activities/1357483195.tcx.gz
+1250999745,2017-10-28 15:16:08,Morning Run,Run,"",1029,3745.8,false,,activities/1357483385.tcx.gz
+1252256804,2017-10-29 15:03:38,I SAID NO! -rest day,Run,"",2,160.934,false,,
+1254280123,2017-10-30 20:37:17,don't question it GOD DAMNIT,Ride,"",1244,0.0,false,,activities/1360801997.tcx.gz
+1256533502,2017-11-01 13:38:52,suprisingly warm,Ride,"",3193,24066.6,false,,activities/1363077665.tcx.gz
+1259311374,2017-11-03 13:26:01,classic,Run,"",1676,6454.0,false,,activities/1365885686.tcx.gz
+1261415085,2017-11-04 15:42:47,muddy wet narrow rolling hills - so slow lol,Run,"",2866,8071.0,false,,activities/1368018157.tcx.gz
+1263280972,2017-11-05 20:35:36,"Of course, the coarse course",Run,"",2244,8151.1,false,,activities/1369922774.tcx.gz
+1263281054,2017-11-05 21:19:34,Nice plotting,Run,"",411,1595.9,false,,activities/1369922862.tcx.gz
+1264658903,2017-11-06 21:36:52,Afternoon Run,Run,"",1258,4862.3,false,,activities/1371295968.tcx.gz
+1264658956,2017-11-06 22:00:49,Oops,Run,"",623,3026.1,false,,activities/1371296025.tcx.gz
+1264659044,2017-11-06 22:12:21,Afternoon Run,Run,"",1251,5063.9,false,,activities/1371296102.tcx.gz
+1266080380,2017-11-07 21:34:06,Afternoon Run,Run,"",2223,8362.3,false,,activities/1372718837.tcx.gz
+1267444824,2017-11-08 21:35:42,Afternoon Run,Run,"",744,2742.4,false,,activities/1374081208.tcx.gz
+1267444889,2017-11-08 22:29:35,Afternoon Run,Run,"",581,1716.5,false,,activities/1374081276.tcx.gz
+1267445124,2017-11-08 22:00:13,Afternoon Run,Run,"",1533,6124.0,false,,activities/1374081503.tcx.gz
+1268718319,2017-11-09 21:58:24,kept it reeeeaal slow,Run,"",2051,6696.8,false,,activities/1375352583.tcx.gz
+1269865703,2017-11-10 21:31:42,Afternoon Run,Run,,3716,12895.2,false,,activities/1376499359.tcx.gz
+1270717746,2017-11-11 14:18:16,Morning Run,Run,"",546,1918.8,false,,activities/1377360221.tcx.gz
+1270717910,2017-11-11 15:06:43,Actually mile cd,Workout,"",389,1221.8,,,activities/1377360402.tcx.gz
+1270718355,2017-11-11 14:38:36,Watch goofing up a ton inside so had to turn off,Run,"73,70,74,72 then 67, 69, 68, 68 inside",1300,3764.8,false,,activities/1377360845.tcx.gz
+1270754385,2017-11-11 15:14:50,Miles watch missed for one reason or another,Run,"",854,3218.69,false,,
+1274333614,2017-11-13 21:35:46,Tempo,Run,"",3361,12902.6,false,,activities/1381009091.tcx.gz
+1275871664,2017-11-14 21:37:27,Rip,Run,"",2730,9748.6,false,,activities/1382545360.tcx.gz
+1277166601,2017-11-15 21:35:09,8x400,Run,"Ran on first 400 of prairie loop. 74, 71, 71, 71, rest 69, 68, 69, 69",3498,10466.2,false,,activities/1383844230.tcx.gz
+1277170665,2017-11-15 22:30:54,CD,Run,"",681,2414.02,false,,
+1278569335,2017-11-16 21:33:01,Afternoon Run,Run,"",1731,6461.5,false,,activities/1385248559.tcx.gz
+1279622103,2017-11-17 21:33:56,Han Solo 8 ball,Run,"",3619,12974.1,false,,activities/1386302103.tcx.gz
+1281081990,2017-11-18 21:38:58,Wu,Run,"",833,2850.9,false,,activities/1387779982.tcx.gz
+1281084674,2017-11-18 21:30:37,8x200,Run,"34 for the first one, 32s on the rest of them. Rest was 75s and 4 min between sets. Felt really good, just not acclimated to speed quite yet.",2178,8529.52,false,,
+1282718364,2017-11-19 19:02:41,Easy,Run,"",1652,6437.38,false,,
+1283398472,2017-11-19 18:12:03,Recovery,Run,"",1776,6839.1,false,,activities/1390117728.tcx.gz
+1283398860,2017-11-20 14:34:58,"Progression->tempo, felt super smooth",Run,"",3371,13082.6,false,,activities/1390118203.tcx.gz
+1285186569,2017-11-21 19:46:58,@5000 ft + running with sister+ recovery,Run,"",3809,11492.8,false,,activities/1391902955.tcx.gz
+1286585237,2017-11-22 14:23:28,"8x30""",Run,"",3042,11360.3,false,,activities/1393310658.tcx.gz
+1286586656,2017-11-22 18:54:58,"Hiking, forgot to stop when in car for a few mins",Workout,"",11797,29530.4,,,activities/1393312075.tcx.gz
+1288140588,2017-11-23 17:14:15,And now we play the waiting game,Workout,"",5809,4731.9,,,activities/1394876145.tcx.gz
+1288666810,2017-11-24 14:39:53,"I got new rules, I count them",Run,"",4435,16103.3,false,,activities/1395406898.tcx.gz
+1289940034,2017-11-24 17:41:27,"Whole trail was ice, rained the night before, made it a lot harder.",Workout,"",11902,9343.3,,,activities/1396690721.tcx.gz
+1289940870,2017-11-25 14:16:40,So much POWER!,Run,"",2890,9663.5,false,,activities/1396691625.tcx.gz
+1291862489,2017-11-26 17:47:56,"Assault on Landos + 8x60""",Run,"",5536,20920.9,false,,activities/1398636849.tcx.gz
+1293397119,2017-11-27 21:35:11,Windy,Run,"",2597,9671.9,false,,activities/1400179103.tcx.gz
+1294253178,2017-11-28 14:50:23,10x200,Run,"",3216,12874.8,false,,
+1296053202,2017-11-28 14:53:27,Morning Activity,Workout,,909,540.6,false,,activities/1402879235.tcx.gz
+1296053227,2017-11-29 21:32:15,skill is much more important than talent,Run,"",3717,13130.0,false,,activities/1402879140.tcx.gz
+1297329640,2017-11-30 21:55:00,15' tempo,Run,"",5112,19371.4,false,,activities/1404188534.tcx.gz
+1298318101,2017-12-01 21:33:32,Ummmmmmmmmmmmmmm,Run,"",3320,12889.3,false,,activities/1405197047.tcx.gz
+1299359758,2017-12-02 15:47:27,"6x60""",Run,"",2608,9724.3,false,,activities/1406270206.tcx.gz
+1301305051,2017-12-03 21:34:28,Relaxed 8 ball,Run,"",3766,12998.3,false,,activities/1408292350.tcx.gz
+1302509374,2017-12-04 21:34:45,"12x30""",Run,"",3415,12941.0,false,,activities/1409525111.tcx.gz
+1303891382,2017-12-05 21:33:47,Windy cold icy fun,Run,"",3522,12914.0,false,,activities/1410943811.tcx.gz
+1305078548,2017-12-06 21:38:06,stomach pain = good,Run,"",5288,14997.2,false,,activities/1412154747.tcx.gz
+1305080254,2017-12-06 23:20:10,Add on post Jeff,Run,"",697,2735.88,false,,
+1306322623,2017-12-07 22:53:09,ok,Run,"",2683,9542.9,false,,activities/1413420834.tcx.gz
+1306322724,2017-12-07 21:37:02,Reroll,Run,"",1299,4843.0,false,,activities/1413420935.tcx.gz
+1306322780,2017-12-07 22:26:30,Afternoon Run,Run,,735,886.4,false,,activities/1413420992.tcx.gz
+1306323781,2017-12-07 22:30:09,R a c e,Run,"",354,1931.21,false,,
+1309550447,2017-12-10 15:48:13,"6*60"" with 60"" rest",Run,"",5515,20389.4,false,,activities/1416738737.tcx.gz
+1309550869,2017-12-09 21:33:35,The starving games,Run,"",1712,6468.8,false,,activities/1416739251.tcx.gz
+1309551717,2017-12-08 21:33:56,easy on nw,Run,"",3665,12933.1,false,,activities/1416740081.tcx.gz
+1312189627,2017-12-12 22:07:24,Afternoon Run,Run,,1578,2708.0,false,,activities/1419461009.tcx.gz
+1312189920,2017-12-11 21:34:37,7.9 my ass,Run,"",3516,12872.9,false,,activities/1419461293.tcx.gz
+1312190089,2017-12-12 22:39:59,Afternoon Run,Run,"",1926,6485.0,false,,activities/1419461472.tcx.gz
+1312190194,2017-12-12 21:35:36,Afternoon Run,Run,"",1298,4956.1,false,,activities/1419461615.tcx.gz
+1312205215,2017-12-13 02:29:36,6*800,Run,"",1890,8046.72,false,,
+1313220522,2017-12-13 21:30:58,Landos,Run,"",5124,19312.1,false,,
+1314391771,2017-12-14 22:41:54,Afternoon Run,Run,,212,719.5,false,,activities/1421698001.tcx.gz
+1314392061,2017-12-14 21:45:13,Afternoon Run,Run,"",3331,12251.3,false,,activities/1421698297.tcx.gz
+1314393050,2017-12-14 22:45:12,3 laps inside,Run,"",163,643.738,false,,
+1315325236,2017-12-15 21:35:38,Afternoon Run,Run,"",4196,16250.6,false,,activities/1422646729.tcx.gz
+1316674396,2017-12-16 21:33:02,Afternoon Run,Run,"",2975,11291.7,false,,activities/1424038063.tcx.gz
+1317990963,2017-12-17 23:11:44,Afternoon Run,Run,,394,1417.2,false,,activities/1425396641.tcx.gz
+1317991310,2017-12-17 21:38:42,Chestnuts,Run,"",5345,19699.1,false,,activities/1425396950.tcx.gz
+1317997215,2017-12-17 23:12:53,Add on,Run,"",392,1609.34,false,,
+1319058078,2017-12-18 21:35:55,Recovery day,Run,"",3090,11300.0,false,,activities/1426495005.tcx.gz
+1319726667,2017-12-19 15:41:25,"20 mph wind from W, brutal, also did 12x30"" with 60"" rest",Run,"",4110,16159.9,false,,activities/1427185669.tcx.gz
+1321195108,2017-12-20 17:11:18,"ez with hs guys, gps wouldnt connect right...",Run,"",4683,16392.2,false,,activities/1428686335.tcx.gz
+1321195224,2017-12-20 18:38:32,"add on indoors, watch was almost right",Run,"",365,1522.5,false,,activities/1428686482.tcx.gz
+1321199005,2017-12-20 18:29:39,stuff watch missed,Run,"",113,482.8,false,,
+1323478623,2017-12-21 22:06:29,Afternoon Run,Run,"",1030,3942.1,false,,activities/1431027070.tcx.gz
+1323478820,2017-12-21 21:32:03,Afternoon Run,Run,"",1430,4839.6,false,,activities/1431027273.tcx.gz
+1323479067,2017-12-21 22:30:24,Afternoon Run,Run,"",1586,4830.4,false,,activities/1431027527.tcx.gz
+1323479613,2017-12-22 21:08:48,easy with brett,Run,"",3944,12912.6,false,,activities/1431028090.tcx.gz
+1325884979,2017-12-24 14:21:55,"loose snow is woat, fff. shortened tempo",Run,"",4326,15979.7,false,,activities/1433514998.tcx.gz
+1325886175,2017-12-23 21:30:42,4xhill,Run,"",4031,15386.8,false,,activities/1433516287.tcx.gz
+1327169281,2017-12-25 22:41:24,Afternoon Run,Run,,599,1864.6,false,,activities/1434867684.tcx.gz
+1327169733,2017-12-25 21:12:37,ok,Run,"",3559,13883.2,false,,activities/1434868151.tcx.gz
+1327169779,2017-12-25 22:24:48,Afternoon Run,Run,,903,124.4,false,,activities/1434868228.tcx.gz
+1327171537,2017-12-25 23:15:46,indoor addon,Run,"",1449,5632.7,false,,
+1328463170,2017-12-26 22:17:38,Afternoon Activity,Workout,,1942,5176.4,false,,activities/1436219272.tcx.gz
+1328463258,2017-12-26 22:54:37,Afternoon Activity,Workout,,846,0.0,false,,activities/1436219393.tcx.gz
+1328463653,2017-12-26 21:31:24,warm up,Run,"",1667,6493.7,false,,activities/1436219764.tcx.gz
+1328465929,2017-12-26 22:20:03,6x800,Run,"",1965,8046.72,false,,
+1328466291,2017-12-26 22:59:53,indoor cd,Run,"",924,3218.69,false,,
+1329715356,2017-12-27 21:04:18,easy w brett,Run,"",3749,12947.0,false,,activities/1437517225.tcx.gz
+1330708196,2017-12-28 16:06:12,damn unplowed sidewalks,Run,"",5091,19484.8,false,,activities/1438542284.tcx.gz
+1331866943,2017-12-29 15:15:14,"8x60', following in  the path of mike finn with a double later!",Run,"",2867,11266.7,false,,activities/1439754485.tcx.gz
+1332223657,2017-12-29 20:57:10,how is there so much more snow now,Run,"",2238,8048.2,false,,activities/1440123230.tcx.gz
+1333734888,2017-12-30 21:06:49,coold,Run,"",3337,11262.6,false,,activities/1441695100.tcx.gz
+1333734901,2017-12-30 22:08:15,Afternoon Activity,Workout,,469,0.0,false,,activities/1441695157.tcx.gz
+1333736420,2017-12-30 22:17:16,indoor track to 8,Run,"",498,1770.28,false,,
+1335163566,2017-12-31 15:00:52,rada rada,Run,"",5629,19350.0,false,,activities/1443186834.tcx.gz
+1338268155,2018-01-02 22:05:37,back on campus!,Run,"",4986,17998.4,false,,activities/1446407742.tcx.gz
+1339077352,2018-01-03 14:30:08,fiterim with mike finn,Run,"",1228,4828.03,false,,
+1339709527,2018-01-03 23:38:40,wu,Run,"",842,3218.69,false,,
+1339711000,2018-01-03 23:19:55,"4x4@66avg,4x3@50,4x2@30",Run,"",2010,8046.72,false,,
+1339711260,2018-01-03 23:39:30,cd,Run,"",884,3218.69,false,,
+1341409583,2018-01-05 02:58:08,upstairs track,Run,"",1165,4828.03,false,,
+1341852918,2018-01-03 22:41:44,Afternoon Activity,Workout,,882,0.0,false,,activities/1450079084.tcx.gz
+1341853259,2018-01-04 21:35:20,here i am,Run,"",2988,11365.5,false,,activities/1450079377.tcx.gz
+1341853312,2018-01-04 22:32:07,Afternoon Activity,Workout,,1194,0.0,false,,activities/1450079450.tcx.gz
+1341853438,2018-01-03 14:30:33,Morning Activity,Workout,,1238,0.0,false,,activities/1450079592.tcx.gz
+1341853560,2018-01-03 21:33:16,Afternoon Activity,Workout,,3665,0.0,false,,activities/1450079711.tcx.gz
+1342029719,2018-01-05 14:35:59,break fast,Run,"",1211,4828.03,false,,
+1342658416,2018-01-05 21:35:41,ke it h,Run,"",4303,15014.1,false,,activities/1450921067.tcx.gz
+1342658431,2018-01-05 14:38:46,Morning Activity,Workout,,1217,0.0,false,,activities/1450921144.tcx.gz
+1344198867,2018-01-06 19:00:31,"warm up, feels cold",Run,"",930,3295.5,false,,activities/1452509483.tcx.gz
+1344199848,2018-01-06 20:14:08,"there and back again, a cooldowns tale",Run,"",2856,9749.5,false,,activities/1452510560.tcx.gz
+1344203882,2018-01-06 19:50:14,Nice ice breaker,Run,"",272,1609.34,false,,
+1346299484,2018-01-07 23:33:28,Afternoon Activity,Workout,,191,0.0,false,,activities/1454754014.tcx.gz
+1346300313,2018-01-07 21:34:43,Recovery,Run,"",6865,23599.3,false,,activities/1454755002.tcx.gz
+1346302501,2018-01-08 00:36:20,upstairs track,Run,"",131,482.803,false,,
+1348569365,2018-01-08 21:36:35,with Thomas Lerdall,Run,"",4496,16093.5,false,,activities/1457211695.tcx.gz
+1349398570,2018-01-09 21:34:54,recovery,Run,"",5167,18710.0,false,,activities/1458047838.tcx.gz
+1349398606,2018-01-09 23:03:08,accidentally stopped run,Run,"",196,645.3,false,,activities/1458047931.tcx.gz
+1351109739,2018-01-10 21:35:34,WO,Run,"",5210,20442.2,false,,activities/1459804950.tcx.gz
+1352644375,2018-01-11 21:37:53,lol,Run,"",3792,11752.9,false,,activities/1461370762.tcx.gz
+1354033811,2018-01-12 22:13:54,warmup,Run,"",1371,4942.1,false,,activities/1462798126.tcx.gz
+1354034157,2018-01-12 23:51:40,cd,Run,"",2631,8051.7,false,,activities/1462798460.tcx.gz
+1354036520,2018-01-12 22:15:39,good place for a high volume week,Run,"",271,1609.34,false,,
+1355111282,2018-01-13 15:10:26,dubble,Run,"",1201,4828.03,false,,
+1357888633,2018-01-13 15:17:08,Morning Activity,Workout,,1200,0.0,false,,activities/1466788538.tcx.gz
+1357888769,2018-01-13 21:36:06,Afternoon Run,Run,"",5540,19421.3,false,,activities/1466788635.tcx.gz
+1357888829,2018-01-14 22:43:17,Afternoon Activity,Workout,,883,0.0,false,,activities/1466788756.tcx.gz
+1357888832,2018-01-14 21:31:08,Afternoon Run,Run,"",4158,14491.7,false,,activities/1466788726.tcx.gz
+1357894357,2018-01-14 23:00:00,upstairs track,Run,"",840,3218.69,false,,
+1359313771,2018-01-15 21:32:43,Afternoon Activity,Workout,,3944,0.0,false,,activities/1468257288.tcx.gz
+1359315138,2018-01-15 21:30:07,2x4x2,Run,"",2989,11265.4,false,,
+1361007531,2018-01-16 21:37:57,Afternoon Run,Run,,3881,14515.8,false,,activities/1469999310.tcx.gz
+1368850074,2018-01-17 22:33:37,Afternoon Activity,Workout,,432,0.0,false,,activities/1478193542.tcx.gz
+1368850104,2018-01-17 21:35:16,Afternoon Run,Run,,2624,9661.6,false,,activities/1478193455.tcx.gz
+1368850149,2018-01-17 22:43:43,Afternoon Activity,Workout,,1486,0.0,false,,activities/1478193621.tcx.gz
+1368850379,2018-01-18 21:36:07,Afternoon Run,Run,,2472,9717.5,false,,activities/1478193800.tcx.gz
+1368850384,2018-01-20 01:16:49,Evening Activity,Workout,,1165,0.0,false,,activities/1478193979.tcx.gz
+1368850481,2018-01-20 02:35:46,Evening Activity,Workout,,1727,0.0,false,,activities/1478194068.tcx.gz
+1368850580,2018-01-20 16:10:16,Morning Activity,Workout,,3092,0.0,false,,activities/1478194146.tcx.gz
+1376367299,2018-01-22 21:28:49,Afternoon Activity,Workout,,857,0.0,false,,activities/1485897327.tcx.gz
+1376367326,2018-01-21 21:36:00,Afternoon Run,Run,,3428,12898.8,false,,activities/1485897273.tcx.gz
+1376367396,2018-01-22 21:57:51,Afternoon Activity,Workout,,1302,0.0,false,,activities/1485897415.tcx.gz
+1376367466,2018-01-22 22:24:27,Afternoon Activity,Workout,,859,0.0,false,,activities/1485897487.tcx.gz
+1376367575,2018-01-23 21:35:32,Afternoon Activity,Workout,,3053,0.0,false,,activities/1485897588.tcx.gz
+1376367647,2018-01-24 21:32:14,Afternoon Activity,Workout,,848,0.0,false,,activities/1485897673.tcx.gz
+1376367729,2018-01-24 21:59:11,Afternoon Activity,Workout,,551,0.0,false,,activities/1485897761.tcx.gz
+1376367831,2018-01-24 22:12:51,Afternoon Activity,Workout,,1710,0.0,false,,activities/1485897843.tcx.gz
+1376368100,2018-01-25 22:34:35,Afternoon Activity,Workout,,75,0.0,false,,activities/1485898147.tcx.gz
+1376368157,2018-01-25 21:34:54,Afternoon Run,Run,,3385,11060.0,false,,activities/1485898056.tcx.gz
+1385711902,2018-01-26 23:41:15,Afternoon Activity,Workout,,1057,0.0,false,,activities/1495594538.tcx.gz
+1385712081,2018-01-29 21:33:48,Afternoon Activity,Workout,,885,0.0,false,,activities/1495594707.tcx.gz
+1385712535,2018-01-28 21:35:38,Afternoon Run,Run,,2759,9680.0,false,,activities/1495595156.tcx.gz
+1385712831,2018-01-26 22:33:55,Afternoon Activity,Workout,,945,0.0,false,,activities/1495595473.tcx.gz
+1385712908,2018-01-29 22:00:10,Afternoon Activity,Workout,,1270,0.0,false,,activities/1495595640.tcx.gz
+1385713220,2018-02-01 03:04:32,Night Run,Run,,2893,8319.9,false,,activities/1495595955.tcx.gz
+1385713693,2018-01-29 22:26:02,wat,Workout,"",1794,0.0,false,,activities/1495596541.tcx.gz
+1404224163,2018-02-01 22:18:37,Afternoon Run,Run,,3410,12675.1,false,,activities/1515545255.tcx.gz
+1404224358,2018-02-02 14:40:55,Morning Run,Run,,3203,12626.9,false,,activities/1515545485.tcx.gz
+1404224458,2018-02-04 02:22:08,Night Run,Run,,2168,8292.9,false,,activities/1515545594.tcx.gz
+1404224639,2018-02-04 15:31:21,Morning Run,Run,,3459,12874.9,false,,activities/1515545764.tcx.gz
+1404224802,2018-02-05 02:16:54,Night Run,Run,,3298,11391.2,false,,activities/1515545912.tcx.gz
+1404224897,2018-02-06 02:09:43,Night Run,Run,,2955,9661.9,false,,activities/1515546101.tcx.gz
+1404225036,2018-02-07 20:30:36,Afternoon Activity,Workout,,828,0.0,false,,activities/1515546299.tcx.gz
+1404225061,2018-02-06 14:11:12,Morning Run,Run,,2999,11267.9,false,,activities/1515546250.tcx.gz
+1404225118,2018-02-07 21:00:42,Afternoon Activity,Workout,,814,0.0,false,,activities/1515546387.tcx.gz
+1404225219,2018-02-07 21:20:17,Afternoon Activity,Workout,,895,0.0,false,,activities/1515546471.tcx.gz
+1404225314,2018-02-09 13:40:23,Morning Activity,Workout,,1206,0.0,false,,activities/1515546569.tcx.gz
+1404225433,2018-02-09 21:38:34,Afternoon Run,Run,,899,3303.5,false,,activities/1515546652.tcx.gz
+1404225627,2018-02-10 20:35:20,Afternoon Run,Run,,3316,12075.1,false,,activities/1515546821.tcx.gz
+1404225884,2018-02-11 20:40:34,Afternoon Run,Run,,5580,19318.2,false,,activities/1515547038.tcx.gz
+1427927912,2018-02-12 21:31:12,Afternoon Activity,Workout,,3970,0.0,false,,activities/1540770232.tcx.gz
+1427927975,2018-02-13 21:34:59,Afternoon Run,Run,,3623,12883.4,false,,activities/1540770279.tcx.gz
+1427928016,2018-02-14 14:24:26,Morning Run,Run,,2425,9654.3,false,,activities/1540770319.tcx.gz
+1427928019,2018-02-15 21:33:17,Afternoon Activity,Workout,,3,0.0,false,,activities/1540770345.tcx.gz
+1427928128,2018-02-15 22:32:49,Afternoon Activity,Workout,,402,0.0,false,,activities/1540770452.tcx.gz
+1427928138,2018-02-15 21:33:31,Afternoon Run,Run,,3416,12773.7,false,,activities/1540770412.tcx.gz
+1427928199,2018-02-16 21:41:46,Afternoon Run,Run,,2069,8047.1,false,,activities/1540770501.tcx.gz
+1427928211,2018-02-17 18:31:39,Lunch Activity,Workout,,903,0.0,false,,activities/1540770522.tcx.gz
+1427928237,2018-02-17 19:43:17,Afternoon Activity,Workout,,969,0.0,false,,activities/1540770542.tcx.gz
+1427928314,2018-02-18 21:35:18,Afternoon Run,Run,,3350,12340.4,false,,activities/1540770602.tcx.gz
+1427928379,2018-02-21 22:51:55,Afternoon Activity,Workout,,2013,0.0,false,,activities/1540770680.tcx.gz
+1427928384,2018-02-20 21:34:58,Afternoon Run,Run,,2852,9921.6,false,,activities/1540770657.tcx.gz
+1427928447,2018-02-22 21:37:22,Afternoon Run,Run,,2235,7142.6,false,,activities/1540770729.tcx.gz
+1427928466,2018-02-23 23:35:52,Afternoon Run,Run,,926,3303.0,false,,activities/1540770770.tcx.gz
+1427928507,2018-02-24 01:00:26,Evening Run,Run,,1205,3486.9,false,,activities/1540770798.tcx.gz
+1427928567,2018-02-24 21:30:44,Afternoon Run,Run,,3745,12724.6,false,,activities/1540770859.tcx.gz
+1427928644,2018-02-25 21:35:29,Afternoon Run,Run,,4716,16040.4,false,,activities/1540770931.tcx.gz
+1427928710,2018-02-26 21:41:04,Afternoon Run,Run,,4500,17365.9,false,,activities/1540771007.tcx.gz
+1439572944,2018-02-27 22:25:47,Afternoon Activity,Workout,,287,0.0,false,,activities/1552767689.tcx.gz
+1439572964,2018-02-27 21:36:21,Afternoon Run,Run,,2679,8644.9,false,,activities/1552767526.tcx.gz
+1439573297,2018-03-01 13:17:17,Morning Activity,Workout,,1268,0.0,false,,activities/1552768018.tcx.gz
+1439573352,2018-02-28 13:28:39,Morning Run,Run,,3255,11765.5,false,,activities/1552767942.tcx.gz
+1439573434,2018-03-01 14:04:45,Morning Activity,Workout,,655,0.0,false,,activities/1552768145.tcx.gz
+1439573712,2018-03-01 21:33:51,Afternoon Run,Run,,2120,8076.4,false,,activities/1552768361.tcx.gz
+1439573738,2018-03-02 13:14:28,Morning Activity,Workout,,1220,0.0,false,,activities/1552768443.tcx.gz
+1439573840,2018-03-02 14:12:42,Morning Activity,Workout,,598,0.0,false,,activities/1552768558.tcx.gz
+1439574253,2018-03-02 21:38:01,Afternoon Run,Run,,2598,9760.2,false,,activities/1552768828.tcx.gz
+1439574496,2018-03-05 13:18:16,Morning Activity,Workout,,1198,0.0,false,,activities/1552769148.tcx.gz
+1439574590,2018-03-03 21:33:44,Afternoon Run,Run,,3570,12970.8,false,,activities/1552769049.tcx.gz
+1439574612,2018-03-05 14:09:36,Morning Activity,Workout,,599,0.0,false,,activities/1552769240.tcx.gz
+1439574995,2018-03-06 13:28:26,Morning Activity,Workout,,1198,0.0,false,,activities/1552769579.tcx.gz
+1439575102,2018-03-05 21:36:53,Afternoon Run,Run,,3539,11187.0,false,,activities/1552769495.tcx.gz
+1439575139,2018-03-06 14:19:45,Morning Activity,Workout,,538,0.0,false,,activities/1552769700.tcx.gz
+1451841274,2018-03-07 13:49:27,Morning Activity,Workout,,1916,0.0,false,,activities/1565446492.tcx.gz
+1451841326,2018-03-06 21:34:26,Afternoon Run,Run,,4259,15000.1,false,,activities/1565446437.tcx.gz
+1451841351,2018-03-08 13:37:39,Morning Activity,Workout,,1240,0.0,false,,activities/1565446569.tcx.gz
+1451841415,2018-03-08 14:31:55,Morning Activity,Workout,,598,0.0,false,,activities/1565446647.tcx.gz
+1451841596,2018-03-08 21:33:49,Afternoon Run,Run,,2647,9829.6,false,,activities/1565446788.tcx.gz
+1451841621,2018-03-09 13:17:45,Morning Activity,Workout,,1231,0.0,false,,activities/1565446853.tcx.gz
+1451841680,2018-03-09 13:42:23,Morning Activity,Workout,,1408,0.0,false,,activities/1565446937.tcx.gz
+1451841762,2018-03-09 14:06:21,Morning Activity,Workout,,598,0.0,false,,activities/1565447018.tcx.gz
+1451842153,2018-03-09 21:33:19,Afternoon Run,Run,,4263,16093.7,false,,activities/1565447221.tcx.gz
+1451842154,2018-03-10 21:25:51,Afternoon Run,Run,,2544,9683.7,false,,activities/1565447329.tcx.gz
+1451842325,2018-03-12 13:17:18,Morning Activity,Workout,,1211,0.0,false,,activities/1565447558.tcx.gz
+1451842392,2018-03-12 13:40:40,Morning Activity,Workout,,1372,0.0,false,,activities/1565447617.tcx.gz
+1451842400,2018-03-11 21:33:52,Afternoon Run,Run,,5353,19398.4,false,,activities/1565447492.tcx.gz
+1451842468,2018-03-12 14:03:43,Morning Activity,Workout,,646,0.0,false,,activities/1565447702.tcx.gz
+1451842705,2018-03-12 21:35:42,Afternoon Run,Run,,3383,12875.2,false,,activities/1565447875.tcx.gz
+1451842759,2018-03-13 13:17:29,Morning Activity,Workout,,1234,0.0,false,,activities/1565447993.tcx.gz
+1451842840,2018-03-13 13:40:15,Morning Activity,Workout,,1419,0.0,false,,activities/1565448069.tcx.gz
+1451842905,2018-03-13 14:05:52,Morning Activity,Workout,,630,0.0,false,,activities/1565448146.tcx.gz
+1451843124,2018-03-13 22:40:17,Afternoon Activity,Workout,,168,0.0,false,,activities/1565448362.tcx.gz
+1451843153,2018-03-13 21:37:31,Afternoon Run,Run,,3535,12467.1,false,,activities/1565448314.tcx.gz
+1459841941,2018-03-15 12:19:40,Morning Activity,Workout,,1198,0.0,false,,activities/1573684125.tcx.gz
+1459842018,2018-03-14 12:22:02,Morning Run,Run,,3260,11383.3,false,,activities/1573684046.tcx.gz
+1459842060,2018-03-15 12:43:28,Morning Activity,Workout,,1196,0.0,false,,activities/1573684259.tcx.gz
+1459842198,2018-03-15 13:03:39,Morning Activity,Workout,,599,0.0,false,,activities/1573684394.tcx.gz
+1459842592,2018-03-16 12:42:47,Morning Activity,Workout,,1198,0.0,false,,activities/1573684880.tcx.gz
+1459842612,2018-03-15 20:35:55,Afternoon Run,Run,,4608,17434.4,false,,activities/1573684758.tcx.gz
+1459842742,2018-03-16 13:06:59,Morning Activity,Workout,,1374,0.0,false,,activities/1573684991.tcx.gz
+1459842839,2018-03-16 13:31:08,Morning Activity,Workout,,598,0.0,false,,activities/1573685104.tcx.gz
+1459843173,2018-03-16 20:34:00,Afternoon Run,Run,,3953,14572.8,false,,activities/1573685364.tcx.gz
+1459843424,2018-03-17 20:36:32,Afternoon Run,Run,,4437,15113.7,false,,activities/1573685627.tcx.gz
+1466594590,2018-03-18 20:33:28,Afternoon Run,Run,,2522,9666.7,false,,activities/1580716521.tcx.gz
+1466594599,2018-03-19 12:32:02,Morning Activity,Workout,,1198,0.0,false,,activities/1580716580.tcx.gz
+1466594672,2018-03-19 12:55:55,Morning Activity,Workout,,1262,0.0,false,,activities/1580716643.tcx.gz
+1466594735,2018-03-19 13:17:51,Morning Activity,Workout,,598,0.0,false,,activities/1580716706.tcx.gz
+1466594942,2018-03-20 12:11:42,Morning Activity,Workout,,1198,0.0,false,,activities/1580716892.tcx.gz
+1466594961,2018-03-19 20:35:59,Afternoon Run,Run,,3312,12730.0,false,,activities/1580716847.tcx.gz
+1466595013,2018-03-20 12:34:51,Morning Activity,Workout,,1287,0.0,false,,activities/1580716952.tcx.gz
+1466595059,2018-03-20 12:56:38,Morning Activity,Workout,,598,0.0,false,,activities/1580717022.tcx.gz
+1466595273,2018-03-20 20:37:34,Afternoon Run,Run,,4075,12879.2,false,,activities/1580717170.tcx.gz
+1466595386,2018-03-22 12:16:03,Morning Activity,Workout,,1198,0.0,false,,activities/1580717320.tcx.gz
+1466595407,2018-03-21 12:30:38,Morning Run,Run,,3176,11046.4,false,,activities/1580717276.tcx.gz
+1466595434,2018-03-22 12:39:01,Morning Activity,Workout,,1500,0.0,false,,activities/1580717384.tcx.gz
+1466595499,2018-03-22 13:05:30,Morning Activity,Workout,,598,0.0,false,,activities/1580717441.tcx.gz
+1466595748,2018-03-22 20:36:50,this ones for you justin,Run,"",4496,18039.7,false,,activities/1580717616.tcx.gz
+1480505874,2018-03-26 21:30:44,GPS watch is too tired to be uploaded,Run,"",3536,12874.8,false,,
+1480510144,2018-03-27 21:32:06,"3x4x200(75""), 3x12 cleans (55), squat(65), calf(10), deadlift(75), lunge(10)",Run,"31.8, 32.2, 32.1, 32.0, 32.3, 31.5, 31.6, 31.7, 31.1, 31.6, 31.7, 31.6",4254,16576.2,false,,
+1480510526,2018-03-28 20:50:51,Afternoon Run,Run,"",2697,9977.93,false,,
+1480513364,2018-03-29 21:35:55,"1x600, 4x300, 5x200 (90""). 3x10 Cleans (65), squat (75), deadlift(85), calf (30), lunges(30)",Run,"99.1, 49.6, 49.9, 49.2, 49.1, 31.8, 31.5, 31.3, 31.3, 31.0",4250,16093.4,false,,
+1480514879,2018-03-30 20:42:30,Afternoon Run,Run,"",3416,12874.8,false,,
+1481935357,2018-03-31 12:23:06,"Precursor to nobs. 15:00@5:28, 3x10 cleans (65), squat (75)",Run,"",2020,8046.72,false,,
+1482436586,2018-03-31 19:55:55,Waterfall Glen with Sean at unknown pace,Run,"",4270,16093.4,false,,
+1515051812,2018-03-23 12:27:13,Morning Run,Run,,3557,10596.4,false,,activities/1631147054.tcx.gz
+1515051942,2018-03-24 12:21:59,Morning Run,Run,,3671,14487.0,false,,activities/1631147182.tcx.gz
+1515052122,2018-03-25 20:26:53,Afternoon Run,Run,,4497,16714.3,false,,activities/1631147336.tcx.gz
+1515052310,2018-03-26 12:07:49,Morning Run,Run,,3696,13001.8,false,,activities/1631147508.tcx.gz
+1515052495,2018-03-27 12:09:06,Morning Run,Run,,5491,16580.2,false,,activities/1631147718.tcx.gz
+1515052677,2018-03-29 19:53:08,Afternoon Run,Run,,5223,15821.1,false,,activities/1631147908.tcx.gz
+1515052734,2018-03-31 12:59:28,Morning Run,Run,,2544,7952.4,false,,activities/1631148024.tcx.gz
+1515052902,2018-04-03 12:35:40,Morning Activity,Workout,,1198,0.0,false,,activities/1631148243.tcx.gz
+1515052947,2018-04-02 21:36:09,Afternoon Run,Run,,4924,16453.1,false,,activities/1631148191.tcx.gz
+1515053143,2018-04-03 20:34:52,Afternoon Run,Run,,2967,9868.4,false,,activities/1631148388.tcx.gz
+1515053305,2018-04-04 12:26:44,Morning Run,Run,,4152,14483.3,false,,activities/1631148538.tcx.gz
+1515053457,2018-04-05 20:39:23,Afternoon Run,Run,,4958,14364.2,false,,activities/1631148706.tcx.gz
+1515053619,2018-04-06 20:35:34,Afternoon Run,Run,,3181,11273.4,false,,activities/1631148886.tcx.gz
+1515053786,2018-04-07 22:18:39,Afternoon Run,Run,,100,368.4,false,,activities/1631149133.tcx.gz
+1515053801,2018-04-07 20:37:00,Afternoon Run,Run,,3689,14050.7,false,,activities/1631149050.tcx.gz
+1515054083,2018-04-08 20:33:18,Afternoon Run,Run,,4343,15611.8,false,,activities/1631149323.tcx.gz
+1515054300,2018-04-09 20:32:02,Afternoon Run,Run,,6829,20146.1,false,,activities/1631149519.tcx.gz
+1515054367,2018-04-11 12:47:07,Morning Run,Run,,2985,10401.9,false,,activities/1631149624.tcx.gz
+1515054464,2018-04-13 20:36:32,Afternoon Run,Run,,2240,7639.1,false,,activities/1631149742.tcx.gz
+1515054663,2018-04-15 20:35:22,Afternoon Run,Run,,3893,13989.2,false,,activities/1631149921.tcx.gz
+1515054797,2018-04-16 21:12:10,Afternoon Run,Run,,3027,10869.5,false,,activities/1631150063.tcx.gz
+1515054952,2018-04-17 20:34:57,Afternoon Run,Run,,4403,13920.5,false,,activities/1631150239.tcx.gz
+1525734576,2018-04-18 12:47:27,Morning Run,Run,,3086,10444.3,false,,activities/1642281490.tcx.gz
+1525735001,2018-04-19 20:35:06,Afternoon Run,Run,,5017,14394.9,false,,activities/1642281807.tcx.gz
+1525735215,2018-04-20 20:32:58,Activity,Run,,2937,10353.3,false,,activities/1642281971.tcx.gz
+1525735585,2018-04-22 15:49:12,30 mile sprint to keep up with mowgs and isaac - Watch completely wrong,Ride,"",6850,50505.5,false,,activities/1642282421.tcx.gz
+1540227568,2018-04-23 20:36:41,Afternoon Run,Run,,3905,14454.2,false,,activities/1657321917.tcx.gz
+1540227601,2018-04-24 20:37:50,Afternoon Run,Run,,2342,8301.1,false,,activities/1657321968.tcx.gz
+1540227652,2018-04-26 20:34:15,Afternoon Run,Run,,2839,10489.3,false,,activities/1657322011.tcx.gz
+1540227726,2018-04-27 20:28:47,Afternoon Run,Run,,4258,15903.3,false,,activities/1657322075.tcx.gz
+1540227809,2018-04-28 20:34:42,Afternoon Run,Run,,4429,16451.7,false,,activities/1657322144.tcx.gz
+1540227845,2018-04-29 20:36:14,Afternoon Run,Run,,3600,13008.2,false,,activities/1657322204.tcx.gz
+1551961414,2018-04-30 20:31:20,Afternoon Run,Run,,4359,11389.0,false,,activities/1669347512.tcx.gz
+1551961577,2018-05-02 22:10:58,Afternoon Run,Run,,935,3248.4,false,,activities/1669347756.tcx.gz
+1551961586,2018-05-01 20:33:33,Afternoon Run,Run,,2890,10290.8,false,,activities/1669347669.tcx.gz
+1551961704,2018-05-02 23:03:07,Evening Run,Run,,455,1659.2,false,,activities/1669347854.tcx.gz
+1551962011,2018-05-03 20:34:54,Afternoon Run,Run,,3408,12922.4,false,,activities/1669348100.tcx.gz
+1551962138,2018-05-04 21:25:45,Afternoon Run,Run,,2612,6752.6,false,,activities/1669348277.tcx.gz
+1551962258,2018-05-05 16:11:24,Lunch Run,Run,,1455,5466.3,false,,activities/1669348394.tcx.gz
+1578247052,2018-05-08 20:35:26,Afternoon Run,Run,,2114,7390.8,false,,activities/1696879914.tcx.gz
+1578247103,2018-05-10 20:48:22,Afternoon Run,Run,,427,1623.9,false,,activities/1696880068.tcx.gz
+1578247339,2018-05-14 20:35:24,Afternoon Run,Run,,2421,4290.2,false,,activities/1696880291.tcx.gz
+1578247635,2018-05-15 20:48:59,Afternoon Run,Run,,2423,9657.1,false,,activities/1696880572.tcx.gz
+1578247672,2018-05-15 22:02:37,Afternoon Run,Run,,116,381.8,false,,activities/1696880684.tcx.gz
+1578248196,2018-05-16 13:03:16,Morning Run,Run,,2373,8314.5,false,,activities/1696881115.tcx.gz
+1578248817,2018-05-17 14:49:59,Feeling good in faribault,Ride,"",8459,58351.1,false,,activities/1696881536.tcx.gz
+1591973167,2018-05-19 20:39:36,Afternoon Run,Run,,2337,7981.3,false,,activities/1711086435.tcx.gz
+1591973307,2018-05-20 13:26:16,Morning Ride,Ride,,2370,18470.6,false,,activities/1711086682.tcx.gz
+1591973418,2018-05-22 13:08:55,Morning Run,Run,,1920,6369.9,false,,activities/1711086785.tcx.gz
+1591973653,2018-05-23 16:01:08,Feeling light on my feet for the first time in a while,Run,"",3269,12923.1,false,,activities/1711087022.tcx.gz
+1595300914,2018-05-24 13:33:30,Morning Run,Run,,4344,16093.8,false,,activities/1714581983.tcx.gz
+1595301589,2018-05-25 12:21:31,We've got a long way to go,Ride,"",11352,75621.6,false,,activities/1714582507.tcx.gz
+1602660574,2018-05-27 13:28:37,Morning Run,Run,"",4241,16096.0,false,,activities/1722437198.tcx.gz
+1607106701,2018-05-31 01:19:53,With Pace Bike,Run,"",3889,14606.0,false,,activities/1727178140.tcx.gz
+1607106757,2018-05-29 00:28:02,I don't like the city,Run,"",1967,7820.7,false,,activities/1727178211.tcx.gz
+1610195860,2018-06-01 12:53:29,Demon Nazi Hell wind from outer space on way back,Ride,"",9493,67232.1,false,,activities/1730477758.tcx.gz
+1610196733,2018-05-31 13:32:06,body...broken,Run,"",2897,9657.7,false,,activities/1730478916.tcx.gz
+1610216979,2018-05-29 15:13:25,Hotel treadmill,Run,"",3416,12874.8,false,,
+1615563173,2018-06-02 13:34:31,Morning Run,Run,"",3474,12890.7,false,,activities/1736180158.tcx.gz
+1615940675,2018-06-04 00:18:36,This route is pure poetry,Run,"",4927,18172.6,false,,activities/1736589220.tcx.gz
+1620939993,2018-06-05 00:52:56,Evening Run,Run,"",2554,9655.8,false,,activities/1742056029.tcx.gz
+1620940952,2018-06-06 13:08:48,"As the Russians say, ""oops""",Run,"",4200,15775.5,false,,activities/1742057004.tcx.gz
+1620941609,2018-06-05 16:29:35,Trick,Run,"",3420,12884.9,false,,activities/1742057816.tcx.gz
+1623260063,2018-06-07 12:47:18,1st run with pegasus 35s,Run,"",4156,16076.1,false,,activities/1744573088.tcx.gz
+1630066796,2018-06-08 20:41:07,"Woat ride, wouldve gone longer but bad place to bike",Ride,"",5446,33887.6,false,,activities/1751769571.tcx.gz
+1630068307,2018-06-10 15:14:52,Water can flow or it can crash,Run,"",4053,16105.5,false,,activities/1751771397.tcx.gz
+1630068738,2018-06-10 02:07:54,Dank CD,Run,"",1159,3726.9,false,,activities/1751772061.tcx.gz
+1630069599,2018-06-10 00:41:30,"Warmup, head in washing machine all day",Run,"",1324,4870.0,false,,activities/1751772995.tcx.gz
+1630082358,2018-06-10 01:30:13,"Milk mile, 5:20 or 5:30 depending on who you ask. Had a ton of fun, slowed down a little on the chugs so i wouldnt puke. If i brought out the big ones i coulda got zach hird.",Run,"",325,1609.34,false,,
+1630084764,2018-06-09 13:20:15,Pre race jog out,Run,"",427,1609.34,false,,
+1632688323,2018-06-11 20:25:58,"Easy does it, cowboy",Run,"",4450,16101.8,false,,activities/1754526529.tcx.gz
+1633826645,2018-06-12 13:37:53,"Very humid, very sore",Run,"",2668,9663.7,false,,activities/1755720966.tcx.gz
+1637275486,2018-06-14 01:38:42,with pace bikes pretending im on landos,Run,"",4882,19567.6,false,,activities/1759326685.tcx.gz
+1638006793,2018-06-14 12:08:08,with mitch + joe for a bit,Run,"",3206,11282.0,false,,activities/1760093452.tcx.gz
+1642398546,2018-06-16 13:31:45,Red light green light red light green light,Ride,"",8099,57068.5,false,,activities/1764698312.tcx.gz
+1642399978,2018-06-15 15:12:07,felt ok,Run,"",5353,18804.4,false,,activities/1764700105.tcx.gz
+1644584010,2018-06-17 13:31:12,"Heat and week of training smacked me, fun and won by 40 odd seconds",Run,"",1066,5084.9,false,,activities/1766982936.tcx.gz
+1644584500,2018-06-17 14:07:53,Cd,Run,"",903,2771.6,false,,activities/1766983528.tcx.gz
+1644584948,2018-06-17 12:37:03,"Warmup, 80 degres and 70%humidity realfeel: 94 degrees",Run,"",1213,4052.9,false,,activities/1766984054.tcx.gz
+1648438648,2018-06-19 12:20:26,No watch just trotting,Run,"",3504,12874.8,false,,
+1653695821,2018-06-20 13:23:57,Lost track of surroundings,Run,"",5839,20925.5,false,,activities/1776517406.tcx.gz
+1653697404,2018-06-21 20:21:05,"The race goes not always to the swift,  but to those who keep on running",Run,also im really sore,4643,16126.0,false,,activities/1776518969.tcx.gz
+1655623890,2018-06-22 13:30:53,Forced hammer,Run,"",3734,15054.1,false,,activities/1778534302.tcx.gz
+1657235067,2018-06-23 13:31:50,When it rains it pours,Ride,"",7190,52947.6,false,,activities/1780215289.tcx.gz
+1660134040,2018-06-24 14:57:08,un,Run,"",5204,19336.3,false,,activities/1783262013.tcx.gz
+1662112816,2018-06-25 20:15:02,Title,Run,"",5220,19312.1,false,,
+1664367029,2018-06-26 20:42:28,ok,Run,"",4360,16093.4,false,,
+1666590849,2018-06-27 20:59:20,"got some biking shoes, almost broke all my PRs and was okayly casual",Ride,"",4440,36448.0,false,,activities/1789967206.tcx.gz
+1666879436,2018-06-28 01:40:55,late night excursion,Run,"",2616,9656.06,false,,
+1668627711,2018-06-28 21:38:11,one more,Run,"",4270,16093.4,false,,
+1669880356,2018-06-29 12:59:41,Morning shakeout,Ride,"",4351,32305.4,false,,activities/1793370803.tcx.gz
+1674861937,2018-07-01 14:09:48,Morning Swim,Ride,"",15485,80696.8,false,,activities/1674861937.gpx
+1677281754,2018-07-01 01:29:44,Evening Run,Run,"",3135,10967.4,false,,activities/1801059655.tcx.gz
+1677281836,2018-06-30 01:20:38,Evening Run,Run,"",3318,12088.7,false,,activities/1801059759.tcx.gz
+1677282031,2018-07-02 15:25:25,Oswego Secret Route: Spider Forest,Run,"",2438,6428.8,false,,activities/1801059976.tcx.gz
+1677282047,2018-07-01 14:13:32,Morning Ride,Ride,,10975,60435.1,false,,activities/1801059924.tcx.gz
+1677282213,2018-07-03 01:24:04,m debacle,Run,"",3723,13127.7,false,,activities/1801060136.tcx.gz
+1680655208,2018-07-04 15:01:49,go away jon storm,Run,"",3346,11969.9,false,,activities/1804537499.tcx.gz
+1680656332,2018-07-03 23:21:19,run with the boyz,Run,"",3203,9823.6,false,,activities/1804538945.tcx.gz
+1683775967,2018-07-06 01:33:42,CD,Run,"",902,2923.6,false,,activities/1807763956.tcx.gz
+1683775981,2018-07-06 00:44:09,"30""x30, warmup + WO",Run,"",2952,11871.5,false,,activities/1807763915.tcx.gz
+1684791486,2018-07-06 11:03:18,"""Sleep faster"" - Arnold Schwarzenegger",Run,"",5700,19314.6,false,,activities/1808813581.tcx.gz
+1686877426,2018-07-07 12:19:39,deshi basara,Run,"",3984,16102.6,false,,activities/1810974122.tcx.gz
+1690372530,2018-07-08 12:03:23,Fallasburg Covered Bridge Century,Ride,"Beautiful scenery and very nice people. lots of fun and a good grind throughout, 10/10 would do again.",28611,162552.0,false,,activities/1814627378.tcx.gz
+1693990519,2018-07-10 01:07:19,easy recovery,Run,"",1803,6437.8,false,,activities/1818405758.tcx.gz
+1693992181,2018-07-10 13:32:43,weigand with chris 👏👏👏,Run,"",4297,14371.0,false,,activities/1818407303.tcx.gz
+1696769637,2018-07-12 01:10:12,curse you acid reflux,Run,"",4765,18039.2,false,,activities/1821291976.tcx.gz
+1700031892,2018-07-12 13:02:44,Morning Run,Run,,2655,9672.9,false,,activities/1824674498.tcx.gz
+1700033668,2018-07-13 13:58:00,what can i say except,Ride,"",8930,58819.4,false,,activities/1824676145.tcx.gz
+1702574634,2018-07-14 15:48:55,15x1'. Average 5:28. First six on high grass rolling hills and super humid so pretty good. Reps got faster as workout went on,Run,"",3727,14154.7,false,,activities/1827324721.tcx.gz
+1706441119,2018-07-16 00:08:05,not even my real log,Run,"",5654,20125.7,false,,activities/1831356530.tcx.gz
+1706442165,2018-07-16 13:21:40,dumb watch its 8 miles,Run,"",3653,12853.4,false,,activities/1831357753.tcx.gz
+1709885028,2018-07-18 00:14:52,"Up and down on uneven sandy terrain, felt a lot better as the run went on",Run,Oh and me and chris drove up to michigan today. Route looks like a moose ?,4830,16153.0,false,,activities/1834902925.tcx.gz
+1713353167,2018-07-18 16:58:14,Lunch Run,Run,"",3524,12869.9,false,,activities/1838496392.tcx.gz
+1713353995,2018-07-19 15:02:21,got lost on CD too focused on workout and missed turns. luckily zach saved us from a 17.5 mile run lol,Run,"",3010,10432.5,false,,activities/1838497183.tcx.gz
+1713356359,2018-07-19 14:10:24,10x2' with chris. Dirt road with overhanging trees for shade. really nice. some rough hills out there,Run,"",3094,12622.3,false,,activities/1838499344.tcx.gz
+1716385483,2018-07-19 22:38:44,double in stalingrad,Run,"",1860,5098.5,false,,activities/1841636986.tcx.gz
+1716386124,2018-07-20 15:02:10,single track roots rolling hills uneven footing single step steep muddy winding soft surfaces fun waterfall swim midway fun far north run,Run,"",9521,15370.8,false,,activities/1841637555.tcx.gz
+1718195549,2018-07-21 14:42:10,fake news university download,Run,"",5080,19326.9,false,,activities/1844018114.tcx.gz
+1736996407,2018-07-22 13:09:35,Morning Run,Run,,4146,14616.9,false,,activities/1863768319.tcx.gz
+1736996657,2018-07-21 23:21:54,Evening Run,Run,,2110,8057.6,false,,activities/1863768592.tcx.gz
+1736997166,2018-07-30 00:36:20,4got how 2 run - first run since monday,Run,"",4304,14488.4,false,,activities/1863769117.tcx.gz
+1742730418,2018-07-31 13:43:42,Morning Run,Run,,2342,8052.3,false,,activities/1869692172.tcx.gz
+1747298210,2018-08-01 16:56:15,Lunch Run,Run,,4698,16219.1,false,,activities/1874627993.tcx.gz
+1747299591,2018-08-03 14:43:54,Morning Ride,Ride,"",8178,60110.0,false,,activities/1874629382.tcx.gz
+1761784457,2018-08-05 01:20:59,Relapse cd,Run,"",3694,12845.8,false,,activities/1891662432.tcx.gz
+1761785154,2018-08-06 11:51:57,bah,Run,"",4294,16103.0,false,,activities/1891663104.tcx.gz
+1761785787,2018-08-08 14:35:22,Morning Run,Run,"",3597,12875.4,false,,activities/1891663736.tcx.gz
+1761787145,2018-08-09 16:56:09,Rode to aldens house lol,Ride,"",16548,101944.0,false,,activities/1891664961.tcx.gz
+1761787426,2018-08-08 00:50:03,Evening Run,Run,"",3301,12224.7,false,,activities/1891665400.tcx.gz
+1765072812,2018-08-11 11:20:59,7 miler + girls team half marathon fundraiser,Run,"",9184,32190.1,false,,activities/1895063267.tcx.gz
+1765073003,2018-08-11 00:52:24,keeping it simple,Run,"",1621,6126.0,false,,activities/1895063898.tcx.gz
+1769373061,2018-08-13 13:36:53,Morning Run,Run,"",3675,13270.1,false,,activities/1899554413.tcx.gz
+1779012134,2018-08-14 00:57:35,Evening Run,Run,"",1475,5111.9,false,,activities/1909475194.tcx.gz
+1779013058,2018-08-17 14:30:46,Morning Run,Run,"",3438,12875.4,false,,activities/1909476090.tcx.gz
+1779013142,2018-08-17 01:05:51,Evening Run,Run,"",462,1619.8,false,,activities/1909476322.tcx.gz
+1779014890,2018-08-14 14:38:14,Morning Run,Run,"",4547,16092.4,false,,activities/1909478014.tcx.gz
+1779015672,2018-08-16 14:12:31,Morning Run,Run,"",4398,16097.1,false,,activities/1909478872.tcx.gz
+1779016086,2018-08-15 12:39:23,Morning Run,Run,"",2774,9374.9,false,,activities/1909479423.tcx.gz
+1780779869,2018-08-18 13:18:23,Morning Run,Run,"",5589,20935.4,false,,activities/1911302725.tcx.gz
+1784355116,2018-08-19 15:10:33,Morning Run,Run,"",2595,9676.5,false,,activities/1915012494.tcx.gz
+1784356281,2018-08-20 00:56:19,Evening Run,Run,"",2869,10796.9,false,,activities/1915013601.tcx.gz
+1784358317,2018-08-16 01:56:25,misc,Run,"",4480,16093.4,false,,
+1790113986,2018-08-21 14:03:40,Morning Run,Run,"",4444,16097.8,false,,activities/1920918464.tcx.gz
+1790114975,2018-08-21 00:53:16,Evening Run,Run,"",3898,14285.8,false,,activities/1920919547.tcx.gz
+1790116196,2018-08-22 14:26:18,"Hello Rob, apparently we ran together haha. 10x1' with 1' off",Run,"",3770,14492.3,false,,activities/1920920819.tcx.gz
+1791202272,2018-08-23 00:56:43,Evening Run,Run,"",1754,6438.3,false,,activities/1922028354.tcx.gz
+1791203206,2018-08-23 01:31:39,Pre wr,Run,"",446,1609.3,false,,
+1793199412,2018-08-23 20:15:23,landos plus one,Run,"",6024,21186.7,false,,activities/1924081356.tcx.gz
+1796649937,2018-08-25 13:01:29,Never doubt the advice of an old man(lost in elmhurst),Run,sister is taking test in Oak Park so found this good trail nearby. In lala land on the way back so missed my obscure turn. From 10 mile run to 15 haha. Saw a '16 ole alum too,5656,19331.0,false,,activities/1927651986.tcx.gz
+1796652072,2018-08-24 20:10:27,okok,Run,"",5544,19307.0,false,,activities/1927654339.tcx.gz
+1796652461,2018-08-25 14:45:11,accidentally stopped watch,Run,"",1571,4870.8,false,,activities/1927654867.tcx.gz
+1808486499,2018-08-26 01:08:31,Evening Run,Run,,1718,6238.6,false,,activities/1939792665.tcx.gz
+1808488513,2018-08-29 02:28:07,this ones called ship your watch from home and it turns on and off somehow in the mail,Run,Note the 400 pr and my hr,63020,9578.3,false,,activities/1939793347.tcx.gz
+1819176887,2018-08-31 22:46:53,Afternoon Run,Run,,883,3181.8,false,,activities/1950786695.tcx.gz
+1819178658,2018-09-03 13:36:11,Morning Run,Run,"",3372,12900.8,false,,activities/1950788468.tcx.gz
+1819180347,2018-09-01 14:07:02,Morning Run,Run,"",3599,12962.1,false,,activities/1950790137.tcx.gz
+1819180971,2018-08-31 23:33:04,Evening Run,Run,,1397,6502.8,false,,activities/1950790901.tcx.gz
+1819182004,2018-08-31 15:07:04,Morning Run,Run,,1634,4681.4,false,,activities/1950791937.tcx.gz
+1819184421,2018-09-02 19:23:06,Afternoon Run,Run,"",5614,19474.3,false,,activities/1950794330.tcx.gz
+1819185247,2018-09-01 00:08:23,Evening Run,Run,,469,1500.3,false,,activities/1950795567.tcx.gz
+1821283453,2018-09-05 13:35:40,warmup,Run,"",954,3501.9,false,,activities/1952944108.tcx.gz
+1821285502,2018-09-05 14:54:10,easy cd,Run,"",678,1671.1,false,,activities/1952946503.tcx.gz
+1821285708,2018-09-05 13:59:56,"6x200, 1x1k, 3x3', 3x2', 3x1', 4x200. Really smooth and controlled the whole way. Surprised i felt this good. Averaged 5:30 pace",Run,"",3192,12931.6,false,,activities/1952946631.tcx.gz
+1828054921,2018-09-06 20:35:07,Afternoon Run,Run,,2644,9668.0,false,,activities/1959900345.tcx.gz
+1828056178,2018-09-08 15:40:19,Cd with the gang,Run,"",2245,8076.1,false,,activities/1959901633.tcx.gz
+1828056550,2018-09-08 14:15:27,Wu,Run,"",798,2779.3,false,,activities/1959902024.tcx.gz
+1828057299,2018-09-08 15:01:25,"alumni 5k, lots of fun",Run,"",1041,5108.2,false,,activities/1959902740.tcx.gz
+1828058611,2018-09-07 20:34:45,Dumb chairs,Run,"",2819,8737.3,false,,activities/1959904059.tcx.gz
+1836988800,2018-09-11 20:36:12,Hunted,Run,"",3550,12883.5,false,,activities/1969134796.tcx.gz
+1840032864,2018-09-12 21:01:04,"Felt real good. Abbreviated per phil. 1x1600, 1x3', 2x2', 3x1', 5x30""",Run,"",1959,8092.7,false,,activities/1972257055.tcx.gz
+1840033515,2018-09-13 20:57:35,Recovery in arb,Run,"",3759,12596.8,false,,activities/1972257723.tcx.gz
+1840033668,2018-09-12 20:36:24,Shermans march to the sea,Run,"",926,3459.4,false,,activities/1972257948.tcx.gz
+1840033929,2018-09-12 21:37:35,Windmill cd,Run,"",497,1576.2,false,,activities/1972258216.tcx.gz
+1843518206,2018-09-15 14:46:14,GOOLES,Run,"",971,2845.6,false,,activities/1975845105.tcx.gz
+1843519244,2018-09-14 20:36:37,Afternoon Run,Run,,2564,8310.0,false,,activities/1975846154.tcx.gz
+1843520121,2018-09-15 15:30:05,hard mode engage,Run,"",1841,8408.2,false,,activities/1975847288.tcx.gz
+1843520408,2018-09-15 16:22:26,kenyan shuffle,Run,"",499,1196.1,false,,activities/1975847633.tcx.gz
+1848843738,2018-09-17 01:01:31,Solo night run - cross campus plus snipe,Run,"",3400,11242.9,false,,activities/1981356463.tcx.gz
+1848843751,2018-09-17 20:33:00,4 miles upstairs track rain delay,VirtualRun,"",1982,0.0,false,,activities/1981356566.tcx.gz
+1848844497,2018-09-17 21:06:53,One billion x pine loop,Run,"",2703,7891.9,false,,activities/1981357248.tcx.gz
+1848844509,2018-09-17 01:58:36,Evening Activity,Workout,,329,0.0,false,,activities/1981357333.tcx.gz
+1853484531,2018-09-19 20:36:23,hammering nw,Run,"",3533,12925.4,false,,activities/1986186325.tcx.gz
+1853484809,2018-09-18 21:03:40,"2x1600, 1x1k, 3x2', 4x1'",Run,"",2642,10945.6,false,,activities/1986186591.tcx.gz
+1853484854,2018-09-18 21:48:05,cool down,Run,"",766,1613.9,false,,activities/1986186660.tcx.gz
+1853485016,2018-09-18 20:39:05,Warm up,Run,"",953,3471.7,false,,activities/1986186809.tcx.gz
+1855175393,2018-09-20 19:27:18,WU - course is waterworld,Run,"",1056,3214.5,false,,activities/1987953893.tcx.gz
+1855175802,2018-09-20 19:51:15,"good workout, went early so solo. 2x3', 3x2', 4x1' @ 3k, 5x30"" @3k",Run,"big fan of doing workout back and forth. Pretty quick considering everything was so waterlogged, feeling great though",1889,7806.8,false,,activities/1987954333.tcx.gz
+1855185440,2018-09-20 20:45:05,Watch off for cd,Run,"",501,1609.3,false,,
+1863889752,2018-09-21 20:32:41,Afternoon Run,Run,,2488,8294.6,false,,activities/1996996076.tcx.gz
+1863889910,2018-09-22 16:54:02,CD,Run,"",1573,5092.1,false,,activities/1996996305.tcx.gz
+1863890362,2018-09-24 20:37:32,Recovery + damn wind,Run,"",3540,12857.6,false,,activities/1996996727.tcx.gz
+1863890505,2018-09-22 15:17:46,Wu,Run,"",851,3196.9,false,,activities/1996996917.tcx.gz
+1863890779,2018-09-22 16:00:43,Good race but lacking mental focus. Best ole invite time by a minute,Run,"",1685,8151.9,false,,activities/1996997193.tcx.gz
+1865883862,2018-09-25 20:36:23,"Warm up, cold out",Run,"",908,3454.5,false,,activities/1999040962.tcx.gz
+1865884620,2018-09-25 21:03:12,"very good workout with Sid. Felt real good even at the end. 3x1600, 3x5', 4x200",Run,"",3394,13781.1,false,,activities/1999041688.tcx.gz
+1865936652,2018-09-25 22:05:25,cd windmill,Run,"",513,1562.4,false,,activities/1999095012.tcx.gz
+1871824210,2018-09-28 22:14:45,bounds and leaps forward - blugold,Run,"",1629,8089.2,false,,activities/2005146945.tcx.gz
+1871824454,2018-09-28 21:34:40,WU,Run,"",880,2895.1,false,,activities/2005147246.tcx.gz
+1871824692,2018-09-28 22:59:47,is this even a kenyan shuffle?,Run,"",518,1330.2,false,,activities/2005147475.tcx.gz
+1873155917,2018-09-29 12:50:13,"recovery with sisters, 32 degrees",Run,"",6127,17733.9,false,,activities/2006529364.fit.gz
+1880165585,2018-09-27 20:58:02,Afternoon Run,Run,,2410,7889.0,false,,activities/2013827325.tcx.gz
+1880165721,2018-09-26 20:35:21,Afternoon Run,Run,,2645,9858.8,false,,activities/2013827483.tcx.gz
+1880167196,2018-10-01 20:38:30,One billion x pine loop,Run,"",3636,12017.9,false,,activities/2013828969.tcx.gz
+1880461773,2018-10-02 20:52:14,"1x2400, 1x1600, 1x1200, 1x800, 2x1', 4x30""",Run,"",2340,9692.8,false,,activities/2014127757.tcx.gz
+1880462069,2018-10-02 20:31:38,extended warm up,Run,"",1157,4340.0,false,,activities/2014128054.tcx.gz
+1880462292,2018-10-02 21:31:34,Afternoon Run,Run,"",802,1981.3,false,,activities/2014128342.tcx.gz
+1882789311,2018-10-03 20:35:18,yep,Run,"",3789,12879.4,false,,activities/2016511043.tcx.gz
+1885924138,2018-10-04 20:50:45,Went north with isaac and the orphan. Very pleasant route and conversation,Run,"",2989,11265.4,false,,
+1890624968,2018-10-06 13:57:27,Morning Run,Run,,3958,12810.2,false,,activities/2024624412.tcx.gz
+1890626120,2018-10-07 14:47:37,Mile 13 to 24 with sister.,Run,Im gonna pay for this one,7587,18116.6,false,,activities/2024626452.tcx.gz
+1890627337,2018-10-07 13:21:26,Marathon from 5k - mile 13. 2.5 mile tempo at the end,Run,With bakken and breadstick!!,3944,15788.3,false,,activities/2024627956.tcx.gz
+1890651176,2018-10-05 17:11:58,Workout,Run,"",3870,16093.4,false,,
+1915095945,2018-10-08 20:36:27,Afternoon Run,Run,,2010,6596.4,false,,activities/2050015645.tcx.gz
+1915096109,2018-10-19 21:49:05,Afternoon Run,Run,,472,1605.1,false,,activities/2050015840.tcx.gz
+1915096850,2018-10-19 21:01:59,Great workout with sid and prospby,Run,"",2512,10799.9,false,,activities/2050016573.tcx.gz
+1930802888,2018-10-27 17:00:13,One race doesnt define the season!!,Run,"Actually not too bad of a showing collectively, times were slow across the board. Isaac had a real good race. Personally my legs felt bad the first mile to the fifth but ive really improved my mental toughness this year and cleared out the doubts in my mind and held on for my life when my legs felt terrible! Good season, im in the best shape ive ever been in, and very excited to break through a lot of barriers in track. ",1689,8046.72,false,,
+1940336912,2018-10-23 20:38:21,Afternoon Run,Run,,895,3471.9,false,,activities/2076100857.tcx.gz
+1940337401,2018-10-29 16:43:42,"this was actually today. Perhaps the best race of the season, went out slow through 4k and started cruising, 4th overall",Run,"",1632,8069.3,false,,activities/2076101357.tcx.gz
+1955496540,2018-11-09 21:30:25,Reverse norway valley at an unknown pace. Felt pretty chipper,Run,"",1708,6437.38,false,,
+1977106074,2018-11-09 15:35:21,Morning Run,Run,,2994,11283.4,false,,activities/2114037472.tcx.gz
+1977106249,2018-11-10 15:35:06,Morning Run,Run,,2378,8060.9,false,,activities/2114037648.tcx.gz
+1977106467,2018-11-11 15:54:41,Morning Run,Run,,3460,12357.4,false,,activities/2114037859.tcx.gz
+1977106568,2018-11-12 15:21:01,Morning Run,Run,,1423,4859.3,false,,activities/2114038007.tcx.gz
+1977106745,2018-11-13 10:50:35,Morning Run,Run,,1198,4173.7,false,,activities/2114038198.tcx.gz
+1977106927,2018-11-15 15:34:11,Morning Run,Run,,2761,10177.5,false,,activities/2114038363.tcx.gz
+1978011823,2018-11-21 21:35:42,Tempo tuesday,Run,"",2185,8054.3,false,,activities/2114965381.tcx.gz
+1979881207,2018-11-23 00:05:35,with sisters,Run,"",3203,9656.0,false,,activities/2116907516.tcx.gz
+1981242948,2018-11-23 23:10:30,"8x60""",Run,"",2563,9623.2,false,,activities/2118332140.tcx.gz
