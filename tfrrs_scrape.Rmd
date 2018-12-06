@@ -6,6 +6,13 @@ output: html_document
 #final product - index.rmd - md_document output
 # _config.yml theme: "" title: ""
 
+#TO DO LIST
+#convert all fit files to csv (https://maxcandocia.com/article/2017/Sep/22/converting-garmin-fit-to-csv/)
+#take date off of meet column
+#create function matching activities to athlete 
+#match kudos id to activity id
+
+
 ```{r setup, include=FALSE}
 library(rvest)
 library(stringr)
@@ -64,9 +71,11 @@ iron_dog <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist
   #https://www.tfrrs.org/athletes/5990262/St_Olaf/Elliot_Kadrofske.html
 birdo <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
   #https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html
-billiam <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
-  #https://www.tfrrs.org/athletes/5492052.html
-
 billiam
+billiam <- data.frame(as.character(meet_name), as.character(distance), as.character(time), as.character(place)) %>% mutate_all(as.character)%>%
+  separate(as.character.meet_name., c("Meet", "Date"), sep = "   ")
+  #https://www.tfrrs.org/athletes/5492052.html
+billiam
+
 ```
 
