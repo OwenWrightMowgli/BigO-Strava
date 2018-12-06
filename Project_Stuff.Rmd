@@ -8,6 +8,7 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+install.packages("igraph")
 library(igraph)
 ```
 
@@ -101,13 +102,21 @@ Plumb_kudos<- read_csv("Plumb/kudos.csv")%>%
 all_kudos<-Finn_kudos%>%
   rbind(Justin_kudos, Jackson_kudos, Mowgli_kudos, Plumb_kudos)
 
-
-all_kudos%>%
+#merging all activities and kudos 
+#then we can mess around with grouping to create our network
+network<-all_kudos%>%
   inner_join(all_activities, by="id")%>%
   select(giver, person, elapsed_time, distance, miles, minutes, pace, name, description, count)%>%
   group_by(giver, person)%>%
-  summarise(number=n())
+  summarise(number=n())%>%
+  spread(person, number, drop=FALSE, fill=0)%>%
+  ungroup()%>%
+  select(-birdo, -ell,-giver)
+net_matrix<-as.matrix(network)
+net_matrix
 
+g<-graph.adjacency(net_matrix, mode="direct", weighted=NULL)
+plot(g)
 
 
 df <- function(giver, taker){
