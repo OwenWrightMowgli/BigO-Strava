@@ -36,4 +36,11 @@ Birdo_run<-activities%>%
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type)
+Jackson <- read_csv("~/Mscs 264 F18/Submit Section B/BigO-Strava/Jackson/activities.csv")
+Jackson_run<-Jackson%>%
+  filter(type=="Run")%>%
+  mutate(miles=distance/1609,
+         minutes=elapsed_time/60,
+         pace=minutes/miles)%>%
+  select(-type,-gear)
 ```
