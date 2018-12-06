@@ -8,8 +8,8 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
-install.packages("igraph")
 library(igraph)
+library(rgl)
 ```
 
 #activities imports, adding names as a column to aid in our kudos network
@@ -113,10 +113,8 @@ network<-all_kudos%>%
   ungroup()%>%
   select(-birdo, -ell,-giver)
 net_matrix<-as.matrix(network)
-net_matrix
 
 g<-graph.adjacency(net_matrix, mode="direct", weighted=NULL)
-plot(g)
 
 
 df <- function(giver, taker){
@@ -127,10 +125,13 @@ df <- function(giver, taker){
 }
 
 
-df(all_kudos, all_activities)
 
-mat <- matrix(1,5,5)
-g <- graph.adjacency(mat, mode="directed", weighted=NULL)
-plot(g)
+g<-graph.adjacency(net_matrix, mode="direct", weighted=NULL)
+
+plot.igraph(g, edge.arrow.size=.5, vertex.size = 15)
+#igraph_options(plot.layout=layout.lgl)
+
+layout <- layout.reingold.tilford(g, circular=T)
+ plot(g, layout=layout)
 ```
 
