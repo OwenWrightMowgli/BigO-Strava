@@ -13,57 +13,71 @@ library(tidyverse)
 #activities imports, adding names as a column to aid in our kudos network
 ```{r}
 Elliot_run<-read_csv("Elliot/activities.csv")%>% #Elliot's data messing
-  filter(type=="Run")%>%
+  filter(type=="Run",
+         date>"2018-6-01")%>%
   mutate(miles=distance/1609,
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type, -gear, -commute)%>%
-  mutate(person="ell")
+  mutate(person="ell",
+         count=131)
 Justin_run<-read_csv("Fursnatch/activities.csv")%>% #Justin's data messing
-  filter(type=="Run")%>%
+  filter(type=="Run",
+         date>"2018-6-01")%>%
   mutate(miles=distance/1609,
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type, -gear, -commute)%>%
-  mutate(person="justin")
+  mutate(person="justin",
+         count=936)
 Mowgli_run<-read_csv("Mowgli/activities.csv")%>% 
-  filter(type=="Run")%>%
+  filter(type=="Run",
+         date>"2018-6-01")%>%
   mutate(miles=distance/1609,
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type, -gear, -commute)%>%
-  mutate(person="mowg")
+  mutate(person="mowg",
+         count=335)
 Birdo_run<-read_csv("Birdo/activities.csv")%>%
-  filter(type=="Run")%>%
+  filter(type=="Run",
+         date>"2018-6-01")%>%
   mutate(miles=distance/1609,
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type, -gear, -commute)%>%
-  mutate(person="birdo")
-Jackson <- read_csv("~/Mscs 264 F18/Submit Section B/BigO-Strava/Jackson/activities.csv")
+  mutate(person="birdo",
+         count=642)
+Jackson <- read_csv("Jackson/activities.csv")
 Jackson_run<-Jackson%>%
-  filter(type=="Run")%>%
+  filter(type=="Run",
+         date>"2018-6-01")%>%
   mutate(miles=distance/1609,
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type,-gear, -commute)%>%
-  mutate(person="jack")
+  mutate(person="jack",
+         count=531)
 Finn_run<-read_csv("Finn/Finn/activities.csv")%>%
-  filter(type=="Run")%>%
+  filter(type=="Run",
+         date>"2018-6-01")%>%
   mutate(miles=distance/1609,
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type,-gear, -commute)%>%
-  mutate(person="finn")
+  mutate(person="finn",
+         count=370)
 Plumb_run<-read_csv("Plumb/activities.csv")%>%
-  filter(type=="Run")%>%
+  filter(type=="Run",
+         date>"2018-6-01")%>%
   mutate(miles=distance/1609,
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type,-gear, -commute)%>%
-  mutate(person="plumb")
+  mutate(person="plumb",
+         count=761)
 
-all_acitivites<-Elliot_run%>%
+all_activities<-Elliot_run%>%
   rbind(Justin_run, Birdo_run, Mowgli_run, Jackson_run, Finn_run, Plumb_run)%>%
   select(-filename)
 
@@ -83,10 +97,11 @@ Plumb_kudos<- read_csv("Plumb/kudos.csv")%>%
 all_kudos<-Finn_kudos%>%
   rbind(Justin_kudos, Jackson_kudos, Mowgli_kudos, Plumb_kudos)
 
-Jackson_kudos%>%
-  semi_join(Mowgli_run, by="id")%>%
-  count()
-
+all_kudos%>%
+  inner_join(all_activities, by="id")%>%
+  select(giver, person, elapsed_time, distance, miles, minutes, pace, name, description, count)%>%
+  group_by(giver, person)%>%
+  summarise(number=n())
 
 ```
 
