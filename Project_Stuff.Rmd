@@ -13,7 +13,8 @@ library(tm)
 library(SnowballC)
 library(wordcloud)
 library(RColorBrewer)
-
+library(visNetwork)
+library(networkD3)
 ```
 
 #activities imports, adding names as a column to aid in our kudos network
@@ -35,7 +36,7 @@ Justin_run<-read_csv("Fursnatch/activities.csv")%>% #Justin's data messing
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type, -gear, -commute)%>%
-  mutate(person="justin",
+  mutate(person="3",
          count=936)
 Mowgli_run<-read_csv("Mowgli/activities.csv")%>% 
   filter(type=="Run",
@@ -44,7 +45,7 @@ Mowgli_run<-read_csv("Mowgli/activities.csv")%>%
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type, -gear, -commute)%>%
-  mutate(person="mowg",
+  mutate(person="4",
          count=335)
 Birdo_run<-read_csv("Birdo/activities.csv")%>%
   filter(type=="Run",
@@ -64,7 +65,7 @@ Jackson_run<-Jackson%>%
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type,-gear, -commute)%>%
-  mutate(person="jack",
+  mutate(person="2",
          count=531)
 Finn_run<-read_csv("Finn/Finn/activities.csv")%>%
   filter(type=="Run",
@@ -73,7 +74,7 @@ Finn_run<-read_csv("Finn/Finn/activities.csv")%>%
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type,-gear, -commute)%>%
-  mutate(person="finn",
+  mutate(person="1",
          count=370)
 Plumb_run<-read_csv("Plumb/activities.csv")%>%
   filter(type=="Run",
@@ -82,7 +83,7 @@ Plumb_run<-read_csv("Plumb/activities.csv")%>%
          minutes=elapsed_time/60,
          pace=minutes/miles)%>%
   select(-type,-gear, -commute)%>%
-  mutate(person="plumb",
+  mutate(person="5",
          count=761)
 
 all_activities<-Elliot_run%>%
@@ -132,19 +133,21 @@ wordcloud(words = d$word, freq = d$freq, min.freq = 1,
 #Kudos imports, adding column with name to create network
 ```{r}
 Finn_kudos<- read_csv("Finn/Finn/kudos.csv")%>%
-  mutate(giver="finn")
+  mutate(giver="1")
 Justin_kudos<- read_csv("Fursnatch/kudos.csv")%>%
-  mutate(giver="justin")
+  mutate(giver="3")
 Jackson_kudos<- read_csv("Jackson/kudos.csv")%>%
-  mutate(giver="jack")
+  mutate(giver="2")
 Mowgli_kudos<- read_csv("Mowgli/kudos.csv")%>%
-  mutate(giver="mowg")
+  mutate(giver="4")
 Plumb_kudos<- read_csv("Plumb/kudos.csv")%>%
-  mutate(giver="plumb")
+  mutate(giver="5")
 all_kudos<-Finn_kudos%>%
   rbind(Justin_kudos, Jackson_kudos, Mowgli_kudos, Plumb_kudos)
-
 #merging all activities and kudos 
+kudos_match<-all_kudos%>%
+  inner_join(all_activities, by="id")%>%
+  select(giver, person, elapsed_time, distance, miles, minutes, pace, name, description, count)
 #then we can mess around with grouping to create our network
 network<-all_kudos%>%
   inner_join(all_activities, by="id")%>%
@@ -156,9 +159,31 @@ network<-all_kudos%>%
   select(-birdo, -ell,-giver)
 net_matrix<-as.matrix(network)
 
+g2<-from_adjacency(net_matrix)
+g2
+
+
 g<-graph.adjacency(net_matrix, mode="direct", weighted=NULL)
 
+visnet<-kudos_match%>%
+  filter(person!="birdo" & person!="ell")%>%
+  group_by(giver, person)%>%
+  mutate(number=n())%>%
+  ungroup()%>%
+  mutate(prop=number/count)%>%
+  group_by(giver, person)%>%
+  summarise(percentage=100*mean(prop))
+visnet
+  
+colnames(visnet)[colnames(visnet)=="giver"] <- "from"
+colnames(visnet)[colnames(visnet)=="person"] <- "to"
 
+nodes<-tibble(id=1:5,
+       label=c("finn", "jack", "justin", "mowg", "plumb"))  
+visNetwork(nodes, visnet)
+```
+
+```{r}
 df <- function(giver, taker){
   giver %>%
     inner_join(taker, by="id") %>%
