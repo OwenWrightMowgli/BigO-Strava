@@ -90,10 +90,12 @@ all_activities<-Elliot_run%>%
   select(-filename)
 
 
-
+count(Finn_run$name)[[1]]
 ## WORD CLOUD http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
-for(i in 1:1160){
-write(all_activities$name[i], file="out.txt", append=TRUE)
+word <- function(runner, runner_n, runner_des){
+for(i in 1:count(runner)[[1]]){
+  write(runner_n[i], file="out.txt", append=TRUE)
+  write(runner_des[i],file="out.txt",append=TRUE)
 }
 
 filePath <- "out.txt"
@@ -123,9 +125,13 @@ m <- as.matrix(dtm)
 v <- sort(rowSums(m),decreasing=TRUE)
 d <- data.frame(word = names(v),freq=v)
 set.seed(1234)
-wordcloud(words = d$word, freq = d$freq, min.freq = 1,
-          max.words=200, random.order=FALSE, rot.per=0.35, 
+wordcloud(words = d$word, freq = d$freq, min.freq = 5,
+          max.words=200, random.order=FALSE, rot.per=0.25, 
           colors=brewer.pal(8, "Dark2"))
+}
+
+word(Finn_run, Finn_run$name, Finn_run$description)
+
 ```
 
 
@@ -165,15 +171,8 @@ df <- function(giver, taker){
     count()
   
 }
+net_matrix
 
 
-
-g<-graph.adjacency(net_matrix, mode="direct", weighted=NULL)
-
-plot.igraph(g, edge.arrow.size=.5, vertex.size = 15)
-#igraph_options(plot.layout=layout.lgl)
-
-layout <- layout.reingold.tilford(g, circular=T)
- plot(g, layout=layout)
 ```
 
