@@ -91,7 +91,6 @@ all_activities<-Elliot_run%>%
   select(-filename)
 
 
-count(Finn_run$name)[[1]]
 ## WORD CLOUD http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
 word <- function(runner, runner_n, runner_des){
 for(i in 1:count(runner)[[1]]){
@@ -183,10 +182,23 @@ visnet
   
 colnames(visnet)[colnames(visnet)=="giver"] <- "from"
 colnames(visnet)[colnames(visnet)=="person"] <- "to"
+colnames(visnet)[colnames(visnet)=="percentage"] <- "weight"
+visnet$value = visnet$weight
+visnet$color = c("red","red","red","red","blue","blue","blue","blue","green","green","green","green","orange","orange","orange","orange","pink","pink","pink","pink")
+visnet$length = c(100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100)
+visnet$dashes = c(TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE)
 
+nodes$x <- c(1, 0, -1, 0, 1.5)*100
+nodes$y <- c(0, 1, 0, -1, 1.5)*100
 nodes<-tibble(id=1:5,
        label=c("finn", "jack", "justin", "mowg", "plumb"))  
-visNetwork(nodes, visnet)
+
+visNetwork(nodes, visnet) %>%
+    visEdges(arrows = 'to') %>%
+    visNodes(fixed=TRUE)
+
+
+visnet
 ```
 
 ```{r}
