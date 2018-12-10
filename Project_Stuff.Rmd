@@ -232,9 +232,22 @@ all_activities%>%
   group_by(name)%>%
   summarise(avg_pace=mean(pace),
             variability=sd(pace),
-            num_long=sum(miles>10),
+            tempo=sum(pace<6.01&pace>5.51),
+            fast=sum(pace<5.51),
+            medium=sum(pace>6.01&pace<6.31),
+            sixthirty=sum(pace>6.31&pace<7.01),
+            easy=sum(pace>7.01&pace<8.01),
+            real_easy=sum(pace>8.01),
+            num_long=sum(miles>14),
             pct_long=num_long/n(),
             avg_distance=mean(miles),
             total=sum(miles))
-```
 
+ggplot(data = all_activities, mapping = aes(x = pace)) +
+  geom_density(aes(fill=name))
+#If we do Shiny we could have the ability to click and unclick names since there is overlapping.
+
+
+
+```
+#turning what qualifies as "fast" into a statistic thats athlete specific?
