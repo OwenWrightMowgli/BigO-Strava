@@ -130,7 +130,7 @@ wordcloud(words = d$word, freq = d$freq, min.freq = 5,
           colors=brewer.pal(8, "Dark2"))
 }
 
-word(Finn_run, Finn_run$name, Finn_run$description)
+word(all_activities, all_activities$name, all_activities$description)
 
 ```
 
@@ -194,11 +194,11 @@ nodes<-tibble(id=1:5,
        label=c("finn", "jack", "justin", "mowg", "plumb"))  
 
 visNetwork(nodes, visnet) %>%
-    visEdges(arrows = 'to') %>%
-    visNodes(fixed=TRUE)
+  visEdges(smooth=TRUE) %>%
+    visNodes(fixed=FALSE, shape = "circle", color = c(highlight = "purple"))
 
 
-visnet
+
 ```
 
 ```{r}
