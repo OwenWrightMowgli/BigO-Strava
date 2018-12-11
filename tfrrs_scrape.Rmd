@@ -37,6 +37,8 @@ Freshmen
 
 https://maxcandocia.com/article/2017/Sep/22/converting-garmin-fit-to-csv/
 ```{r}
+
+scraper <- function(x){
 url <- "https://www.tfrrs.org/athletes/5990267/St_Olaf/Jackson_Simon.html" 
 
 web <- read_html(url)
@@ -45,6 +47,8 @@ data_strp <- str_replace_all(html_text(data), '\n','')
 data_strp <- str_replace_all(data_strp, '\t','')
 data_strp <- str_replace_all(data_strp, "\\.",'')
 data_strp <- str_replace_all(data_strp, ':', '\\.')
+data_strp
+
 
 # 1 = meet + date, 2 = distance, 3 = time, 4 = place 
 meet_name <- 0:4
@@ -59,6 +63,7 @@ for(i in seq(1, 42, by=4)){
   time[k] = data_strp[i+2]
   place[k] = data_strp[i+3]
 k <- k + 1  
+}
 }
 
 justin <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
@@ -77,7 +82,7 @@ birdo <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(pl
 
 jack <- data.frame(meet = meet_name,distance = distance,time = as.numeric(as.character(time)), place = place)
 
-jack
+
 
 times <- 1:8
 times[1] <- 27.520
