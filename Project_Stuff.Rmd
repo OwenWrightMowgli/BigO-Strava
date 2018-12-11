@@ -258,6 +258,87 @@ net_matrix
 
 ```
 
+Below is our attempt to scrape race performance data from tfrrs.  While it worked for viewing purposes, beyond that it was less not very useful, as we had an inability the meet name and date, and all times came as characters and numbers.  Attempts to change them into numeric vectors were unsuccessful.  
+
+```{r}
+
+scraper <- function(x){
+url <- "https://www.tfrrs.org/athletes/5990267/St_Olaf/Jackson_Simon.html" 
+
+web <- read_html(url)
+data <- html_nodes(web, ".xc .panel-heading-normal-text , .xc .panel-heading-text")
+data_strp <- str_replace_all(html_text(data), '\n','') 
+data_strp <- str_replace_all(data_strp, '\t','')
+data_strp <- str_replace_all(data_strp, "\\.",'')
+data_strp <- str_replace_all(data_strp, ':', '\\.')
+data_strp
+
+
+# 1 = meet + date, 2 = distance, 3 = time, 4 = place 
+meet_name <- 0:4
+distance <- 0:4
+time <- 0:4
+place <- 0:4
+date <- 0:4
+k <- 1
+for(i in seq(1, 42, by=4)){
+  meet_name[k] = data_strp[i]
+  distance[k] = data_strp[i+1]
+  time[k] = data_strp[i+2]
+  place[k] = data_strp[i+3]
+k <- k + 1  
+}
+}
+
+justin <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+#https://www.tfrrs.org/athletes/5492056/St_Olaf/Justin_Furcich.html
+mowg <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place)) #https://www.tfrrs.org/athletes/5990269/St_Olaf/Owen_Wright.html
+milk <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+#https://www.tfrrs.org/athletes/5990267/St_Olaf/Jackson_Simon.html
+finn <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+#https://www.tfrrs.org/athletes/6430274/St_Olaf/Michael_Finn.html
+plum <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+  #https://xc.tfrrs.org/athletes/5492067.html
+iron_dog <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+  #https://www.tfrrs.org/athletes/5990262/St_Olaf/Elliot_Kadrofske.html
+birdo <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+  #https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html
+
+jack <- data.frame(meet = meet_name,distance = distance,time = as.numeric(as.character(time)), place = place)
+
+
+
+times <- 1:8
+times[1] <- 27.520
+times[2] <- 27.15
+times[3] <- 25.4
+times[4] <- 27.33
+times[5] <- 25.67
+times[6] <- 28.91
+times[7] <- 25.65
+times[8] <- 25.11
+
+
+times2 <- 1:8
+times2[1] <- 29.020
+times2[2] <- 27.7
+times2[3] <- 26.3
+times2[4] <- 27.133
+times2[5] <- 26.25
+times2[6] <- 26.25
+times2[7] <- 26.88
+times2[8] <- 26.48
+#3 = justin, 4 = mowgli, 1 = finn, 2 = jackson, 5 = plumb
+
+
+PR <- tibble(person = c(1:5, "birdo", "ell", "bill"), best_2018 = times, best_2017 = times2)
+
+
+PR
+```
+
+
+Luckily there weren't too many runners who submitted their data, so we could enter the data manually.  Below we do that, as well as create a data set for some training summary statistics for each runner.  
 ```{r}
 
 pace_zones <- all_activities%>%
@@ -334,7 +415,7 @@ pace_by_date<-all_activities%>%
 
 
 ```
-#turning what qualifies as "fast" into a statistic thats athlete specific?
+
 
 ```{r}
 jj<-kudos_match%>%
@@ -344,7 +425,11 @@ jj<-kudos_match%>%
   ggplot()+
   geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
 ggplotly(jj)
+```
 
+
+
+```{r}
 jjj<-kudos_match%>%
   filter(Gname=="Jackson")%>%
   group_by(name)%>%
@@ -352,7 +437,12 @@ jjj<-kudos_match%>%
   ggplot()+
   geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
 ggplotly(jjj)
+```
 
+
+
+
+```{r}
 f<-kudos_match%>%
   filter(Gname=="Finn")%>%
   group_by(name)%>%
@@ -360,7 +450,11 @@ f<-kudos_match%>%
   ggplot()+
   geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
 ggplotly(f)
+```
 
+
+
+```{r}
 m<-kudos_match%>%
   filter(Gname=="Mowgli")%>%
   group_by(name)%>%
@@ -368,7 +462,10 @@ m<-kudos_match%>%
   ggplot()+
   geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
 ggplotly(m)
+```
 
+
+```{r}
 p<-kudos_match%>%
   filter(Gname=="Plumb")%>%
   group_by(name)%>%
@@ -376,7 +473,11 @@ p<-kudos_match%>%
   ggplot()+
   geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
 ggplotly(p)
+```
 
+
+
+```{r}
 b<-kudos_match%>%
   filter(Gname=="Bill")%>%
   group_by(name)%>%
@@ -384,8 +485,12 @@ b<-kudos_match%>%
   ggplot()+
   geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
 ggplotly(b)
-
-write_csv("kudos_match.csv", Home/Mscs264F18/SubmitSectionB/BigO-Strava) 
+```
+Bill possibly has a bit of a crush on Plumb, and clearly has never liked Finn much at all.  
+  
+  
+```{r}
+write_csv(Home/Mscs264F18/SubmitSectionB/BigO-Strava, file="kudos_match.csv")  # I can't write it
 ```
 
 
