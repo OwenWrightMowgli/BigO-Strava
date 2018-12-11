@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX iPhone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2017-05-29T18:39:36Z</time>
+ </metadata>
+ <trk>
+  <name>Fridge to couch </name>
+  <type>9</type>
+  <trkseg>
+   <trkpt lat="43.6111180" lon="-116.1789800">
+    <ele>831.3</ele>
+    <time>2017-05-29T18:39:36Z</time>
+   </trkpt>
+   <trkpt lat="43.6109860" lon="-116.1789710">
+    <ele>831.1</ele>
+    <time>2017-05-29T18:40:42Z</time>
+   </trkpt>
+   <trkpt lat="43.6110590" lon="-116.1789310">
+    <ele>831.1</ele>
+    <time>2017-05-29T19:13:07Z</time>
+   </trkpt>
+   <trkpt lat="43.6111320" lon="-116.1788900">
+    <ele>831.1</ele>
+    <time>2017-05-29T19:14:17Z</time>
+   </trkpt>
+   <trkpt lat="43.6112050" lon="-116.1788490">
+    <ele>831.1</ele>
+    <time>2017-05-29T19:14:18Z</time>
+   </trkpt>
+   <trkpt lat="43.6111940" lon="-116.1789200">
+    <ele>831.1</ele>
+    <time>2017-05-29T19:14:20Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

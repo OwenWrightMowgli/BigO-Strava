@@ -1,0 +1,604 @@
+id,date,name,type,description,elapsed_time,distance,commute,gear,filename
+986749737,2017-05-14 20:00:09,Afternoon Run,Run,"Day 1 of 7 mile week
+",425,1609.34,false,,
+1012035225,2017-05-29 05:00:32,Week 1,Run,"40 miles during the week of 5/22.
+",15680,64373.8,false,,
+1012116728,2017-05-29 23:29:33,Evening Run,Run,Oops. Probably too fast of a run. Also had a huge dump right after. 75 and sunny was part of why it was so fast tho,2527,11265.4,false,,
+1013591158,2017-05-30 22:37:10,Evening Run,Run,"Damn Minnesota has some hills - 55 cloudy and windy, actually ran w a shirt",2300,9656.06,false,,
+1015263522,2017-05-31 23:50:21,Call it 9 @ Battle Creek,Run,"Suuuuuper hilly. Still felt like I was going pretty hard so it probably was just sub 7 pace all things considered. Great weather, great trails on a bike. Would love to get back to mountain biking some time. ",3736,14484.1,false,,
+1016923146,2017-06-02 00:54:40,7 miles lmao kids,Run,Felt way better than I thought I would after crazy hills yesterday. Around mile 5 some kids tried to race me so that was about a 5:55. Still wasn't too tough though.,2644,11265.4,false,,
+1018375770,2017-06-03 04:34:37,"7 miles, kinda hot and felt sore",Run,"Ran a while ago actually, felt pretty sore. Milk mile tomorrow so we'll see how that goes.",2729,11265.4,false,,
+1019903507,2017-06-04 00:27:12,Milk mile and other stuff,Run,"2 mi wu, 1 mi cd, milk mile in 6:20. Honestly way better than I expected, finished ad threw up immediately after crossing the line and felt better instantly. Got kicked down by a New Trier bub though...",1716,6437.38,false,,
+1021551732,2017-06-04 20:13:03,8 miles v hot,Run,"With sauce and Chris Brenk, was about 90 degrees. Also my back is hurting like crazy, some sort of muscle soreness. ",3319,12874.8,false,,
+1023281746,2017-06-06 03:43:26,7:47 injury,Run,"Back is doing somewhat better, but my left hip is ridiculously tight. I can walk without falling over now but running is really painful and slow. Don't have any work obligations the next two days so my only plans are to keep my leg iced, run 1 mile and head to the doc tomorrow. At least this isn't during height mileage. ",467,1609.34,false,,
+1024703159,2017-06-07 04:30:10,1 mile 7:33 ,Run,"Almost forgot to post. Didn't do too much today, pretty bummed I wasn't able to do a long run or something. Hip is improving, just not fast enough. Maybe I can work on my glamour muscles in the mean time. ",453,1609.34,false,,
+1026022118,2017-06-07 23:30:23,"1 mile, about 50 percent better",Run,Actually took the slightest bit of aerobic effort today. Hip is notably better but definitely still needs to improve more. Should be fully better by Saturday or Sunday. Also did an hour bike ride this morning.,393,1609.34,false,,
+1027722242,2017-06-09 04:12:55,1 7:51,Run,"Hip actually felt way better walking around today. Pretty damn frustrating, feel like a caged dog. Can't wait to get back on the roads soon.",471,1609.34,false,,
+1028763655,2017-06-09 20:15:52,Afternoon Ride,Ride,"Somewhere between 26 and 27 miles. Hip felt way better, back hurting just a little bit but at least that's symmetrical pain. Going to run later when my quads stop killing me ",5846,42647.6,false,,
+1029009217,2017-06-10 03:50:21,Last day of 1,Run,"Probably not the greatest idea, but ramping it up a little felt easier on my hip. Quads are pretty sore, but hip is at about 80%. Plan to mix up biking and running tomorrow.",366,1609.34,false,,
+1030226577,2017-06-10 18:07:43,Afternoon Ride,Ride,"90 degrees and sunny, also weirdly windy. ",2563,19312.1,false,,
+1030698931,2017-06-11 04:04:21,Night Run,Run,"Hip really started to tighten up a little after a mile. Going into the trainer in a couple days, can't wait for that",638,2414.02,false,,
+1032606032,2017-06-12 03:46:41,1 7:06,Run,"Still super tight. Can't life my knees up without causing a lot of pain. Going to see the trainer on Tuesday, if anyone can fix my hip this trainer is probably it",426,1609.34,false,,
+1033979690,2017-06-13 03:19:19,1 6:43,Run,"Felt better, still not improving nearly fast enough.",403,1609.34,false,,
+1035656517,2017-06-14 04:37:51,1 6:39,Run,"Felt okay, also hammered a few miles on the bike so my quads are pretty fried. Trainer is in Thursday. I'm getting the feeling that this is fate's way of making me take time off whether I like it or not.",399,1609.34,false,,
+1037186553,2017-06-15 02:07:06,1 6:11,Run,"Pain level has pretty much stagnated. Going to the trainer soon. Whether I'm going 9 minus pace or 5 minute pace, my leg hurts the same, only difference is the aerobic value I get from what little running I am doing.",371,1609.34,false,,
+1037935062,2017-06-15 13:34:29,Morning Ride,Ride,The total time included stops. Did 7 with my dad at about 14-15mph. Then did about 12 alone at about 17mph and then did 3 with my mom at about 10-11mph. Not sure I'm even counting that last part lol.,6300,35405.6,false,,
+1038239000,2017-06-15 18:19:01,Afternoon Run,Run,"Hip felt way better, back felt somewhat worse. Also did 2 hours of yardwork in 85 degrees and 60% humidity. Ready to spend the rest of the day indoors.",352,1609.34,false,,
+1041866055,2017-06-17 04:16:27,1 6:11,Run,"",371,1609.34,false,,
+1041867068,2017-06-18 04:17:17,1 5:47,Run,"Went to the PT place today, already feeling somewhat better and have a number of exercises to do. In four years of running every day I've honestly never wanted to run a real distance so much. ",347,1609.34,false,,
+1044395829,2017-06-19 03:00:16,4 25:53 we back,Run,"Finally back at it. Felt decent, still painful but not quite bad enough to keep me from running. Asian kids wearing dank tees is now a thing.",1553,0.0,false,,
+1045101142,2017-06-20 03:21:13,8 52:17,Run,"Felt pretty great to get a real run in finally. Back felt much improved today, hammys were slightly better, but not imbalanced in terms of pain anymore. Overall felt much better than even yesterday. That being said, I'd still get my ass kicked into another dimension if I tried to race right now.",3137,12874.8,false,,
+1046548496,2017-06-20 22:50:10,Evening Run,Run,"On the dprt. The moment you cross over from Lake County to Cook County (where Chicago is) the trail turns into a complete mess. WOAT county in the US. Anyway, was a decent run, last mile was about 6:05, felt more like a 5:40 close but that's what returning from injury is like.",3203,12874.8,false,,
+1048160025,2017-06-21 23:21:41,38:14,Run,"Still improving every day. Closed sub 6, looking forward to continual improvement",2294,9656.06,false,,
+1049611936,2017-06-22 22:32:39,6 39:46,Run,"Forest preserve, windy but still 90 degrees so my calves were feeling pretty tight. Hammys were about the same and back is basically better. Also had some arch pain, so I guess it's time for new kicks",2386,9656.06,false,,
+1051077165,2017-06-24 03:55:17,5 34:20,Run,"Arch pain still present, calves and hammys felt better while back pain was slightly worse. Overall improved, arch pain was less noticeable when I picked up the pace a bit strangely",2060,8046.72,false,,
+1051992855,2017-06-24 15:29:19,10 LR 67:56,Run,"Didn't feel great, legs kinda ran out of gas part way thru. Planning to do 65-70 next week",4076,16093.4,false,,
+1054231354,2017-06-25 20:38:28,7 43:19,Run,"Felt a lot better than yesterday. Had a lot more energy in my legs, also was nice to run in sunny and 75 degrees.",2599,11265.4,false,,
+1055826105,2017-06-26 22:43:20,10 62:44,Run,"Finally had a day where I was feeling good. Did an impromptu fartlek on mile 8 of 2mins at run pace and 30secs try not to poop recovery. Got to the bathroom and it was kind of like the end of my milk mile, but the last 2 were at a comfortable 6:00 pace.",3764,16093.4,false,,
+1057604496,2017-06-28 03:27:21,8 53:36,Run,Finally back to consistently feeling good. Still plan to have the 4th run be my first workout/race since conference. Should be something to see.,3216,12874.8,false,,
+1058555210,2017-06-28 18:36:04,8 thru satan forest,Run,"Only ran through it for a mile, but the single track was super rough and muddy. Otherwise probably could have gone without the 6:10 pace but I wasn't pushing much either.",3058,13035.7,false,,
+1060239506,2017-06-29 21:30:30,Humid 13 LR,Run,"13 miles in 80 degrees and 70% humidity. Probably not the best idea to do my longest run in 8 or 9 months on such a hot humid day, but I did anyway. Also around mile 8 a tunnel was a few feet submerged under water so I had to climb across a fence. Pretty sketchy. ",5253,20921.5,false,,
+1061257907,2017-06-30 17:47:56,6.4 as humid but hotter,Run,Still super humid but 5-10 degrees warmer. Really not looking forward to running again tonight. Like really really don't want to.,2569,10299.8,false,,
+1063169840,2017-07-02 00:58:49,9 58:23,Run,"Felt super tired earlier today, wasn't even sure I'd be able to run today. 58:23 is also Tadese's WR half. 10k on Tuesday.",3503,14484.1,false,,
+1065020075,2017-07-03 02:22:59,10.5 1:05:14,Run,Felt a lot better. Was cruising around 6:00 pace for a few middle miles. 65 for the week in singles,3914,16898.1,false,,
+1066388223,2017-07-03 21:43:59,Pre race lol,Run,Had some IT band pain as well as arch pain. Hoping to feel better for the 10.3k in the morning.,2310,9656.06,false,,
+1067101366,2017-07-04 13:55:34,10k race disaster,Run,"1.5 WU. First couple miles felt hard but doable. Dropped out at 4.5 with bad arch pain, talked to the chiropractor after. V frustrating but also good I didn't injure myself today. Time to reevaluate my training, I think I've been trying to get back into it too quickly.",2220,9656.06,false,,
+1069847646,2017-07-06 03:09:19,3.3 super arch trouble,Run,"Felt great thru 2 miles, but my left IT and arch started hurting a lot. On the bright side, I couldn't walk yesterday due to a blister, but that's all better. Plan to hang around 40-50 miles per week until I'm fully healthy. Priority is health and then mileage. Still 4+ months to nats.",1253,5310.83,false,,
+1071407097,2017-07-07 03:33:06,Arch still hurts,Run,"Felt basically fine for the first 2. Around then I felt my left arch and IT flare up again and by 3 it wasn't worth continuing. The last 3 days whether I go fast or slow everything starts hurting at 2m and hurts a lot at 3m, so I figured I'd at least get a speed benefit today because I wasn't getting a distance benefit. Seeing trainer again soon. Haven't had any injuries for a while so I guess it's about time for me :/. Hopefully this means I'll be healthy all next year though.",1075,4828.03,false,,
+1073777776,2017-07-08 01:00:51,Arches still hurting,Run,"Felt somewhat better, didn't want to push it too much though.",1206,5149.9,false,,
+1073780900,2017-07-08 01:30:15,Hammer bike ride,Ride,Supplementary bike ride. Legs v tired afterwards,1466,12231.0,false,,
+1074371078,2017-07-09 01:37:40,Everything feeling better,Run,"Definetely still felt twinges in my arches and left IT, but felt night and day better than the last 3 days in general. 8 tomorrow would make 35, I'll probably do 50 next week with a workout. I'm hoping to get my mileage to 90 by the end of the summer, but my aggregate mileage won't be so high. Better to do fewer, quality, injury-free miles than to jump foolishly back into high mileage again. ",2199,9656.06,false,,
+1076302395,2017-07-10 02:46:06,Pretty sore :/,Run,"Went to the gym with a couple friends, super sore from that and my legs just felt gassed. Plan to do about 50-55 w a workout this coming week.",3023,12070.1,false,,
+1079328500,2017-07-12 03:00:17,Crazy thunderstorm run,Run,"Constant lightning going the whole time. Forts two in 13:11 and last two in 12:11. Felt okay the first two and kinda bad the next two, had some cramping in my right arch this time, but it cleared up for the last 4. Also did the whole run as 1 mile loops around my neighborhood.",3067,12874.8,false,,
+1080916981,2017-07-13 03:25:13,Post apocalyptic-flood run,Run,"Got going a bit for a couple bits, but I was generally able to hit 6:25-6:30 without breathing heavily at all. Enormous storm this morning, basement flooded, road flooded everywhere, so the humidity was off the chain. Sweatiest I've been in a while. ",2673,11265.4,false,,
+1082361966,2017-07-14 00:43:05,Should I w/out this week or not?,Run,"6:10 pace felt pretty easy for most of it. Right arch was hurting for about 10 mins from 2.5 to 4 miles, so that would be an argument not to workout. On the other hand, I'm way behind on workouts and am feeling good besides my right arch. ",2620,11265.4,false,,
+1083717029,2017-07-11 01:18:40,Forgot to post for Monday,Run,Forgot to post this before. Time is approximate.,2340,9656.06,false,,
+1083762151,2017-07-15 02:35:04,"Half mile tempo, need new flats",Run,"Most of the run was right at 7:00 pace. Was planning to do a 2 mile tempo, but my flats didn't feel great, probably had something to do with my bad 10k. My arch and IT were hurting before the 10k too, I think the flats just aggravated it. Wound up doing a half mile in 2:13. Probably too fast but I felt good, especially aerobically. Will do some sort of wout next week",2435,9656.06,false,,
+1085395446,2017-07-16 01:30:31,5.5 and then 2x400 in new streaks,Run,"5.5 in 34:58, like 6:22 pace. Calves felt a little tight but otherwise felt good especially once I got going. Got new Streak 6s today, ripped a couple of 400s in 63 and 60 in them, felt fast but I felt like I was only going like 67 pace. Maybe I have some track speed left after all. ",2223,9643.05,false,,
+1087396796,2017-07-17 00:40:44,Post hike LR,Run,"Felt pretty good, aside from the typical long run pains, looking forward to 60 next week. ",3908,16093.4,false,,
+1087399338,2017-07-16 17:00:12,Afternoon hike in Wisconsin,Hike,Went up to Kettle Moraine North with a couple friends. Nice day to go for a hike though.,10800,12874.8,false,,
+1088714580,2017-07-17 23:05:00,Sore 6,Run,"Felt p sore, no real sharp pains though, just soreness that will fell better in a day or two. Plan to do a double and a w out this week.",2338,9656.1,false,,
+1090683983,2017-07-19 03:00:23,Slow prog run,Run,"Felt decent at the start, got into feeling good and picked it up. Went from 6:34 down to 5:57,  probably doubling tomorrow.",3421,14645.0,false,,
+1092313902,2017-07-20 03:00:40,Crazy storm run,Run,"Just as I was leaving it started pouring rain. Between the weather and some painful stomach problems I cut it from 8 to 5, but otherwise felt solid. Grats to the boys at Torchlight.",1914,8046.72,false,,
+1093862877,2017-07-21 02:45:59,Northbrook Night LR,Run,Felt pretty solid. Slowly picked up from 6:35 to 6:20 w/out feeling like pushing. Am looking forward to running in daylight tho,4649,19312.1,false,,
+1095231444,2017-07-22 03:30:49,Huge storm night run,Run,"Pouring rain the whole time. Reasonably quick pace, especially given heavy shoes and shirt. Felt pretty easy though. Double and a workout to do this weekend.",3054,12874.8,false,,
+1096877953,2017-07-23 02:05:54,Super humid WU,Run,Felt more like 6:30 effort than 6:50. Didn't bode well for the workout. One of the humidest days so far this year.,821,3218.69,false,,
+1096880110,2017-07-23 02:26:18,30sec workout,Run,"Did 26 30sec bursts. Felt pretty solid actually. Previous years this workout averaged about 6:05-6:10, so 5:50 average is well improved. Good to see that even with all that injury crap I'm still in much better shape than last summer.
+",1540,7081.11,false,,
+1096881120,2017-07-23 03:25:52,Cool down with maximum chafing,Run,"Pretty quick for a cool down but wasn't really pushing. I think that shows that my workout didn't tax me all that much, which this workout really shouldn't. ",579,2414.02,false,,
+1098485009,2017-07-23 21:09:20,Afternoon Run,Run,"Unbelievably humid out, ran on the indoor track nearby. Didn't feel great on my arch, so I cut it from 8 to 6. Doing the remaining six in a couple hours.",2301,9656.06,false,,
+1098721617,2017-07-24 03:40:05,"Night Run, p sore",Run,"Way less humid and cooler, still felt sore and was super tired. Got through 60 this week tho.",2309,9656.06,false,,
+1099911949,2017-07-24 21:00:56,City bike with Dad,Ride,"All approximate, nice and slow. Checked out a new trail in the city with my dad. Tire popped 3 miles away from the car on the way back. Currently waiting for him to pick me up :/",4500,24140.2,false,,
+1100171154,2017-07-25 02:30:07,Sore again and now sick,Run,"Woke up with a bad headache, didn't feel it much of the day but was having trouble balancing on the run. Also calves were somehow even more sore than yesterday. I figure if I ran 25:35 at nats last year without working out 6 and 7 weeks out then an easy day in July won't make a difference. Mileage this summer is secondary to staying healthy. I'm already definitely in way better shape than last year, so I'm not too worried about keeping my mileage up as long as I'm always as healthy as I can be. ",2016,8046.72,false,,
+1101877988,2017-07-26 03:04:48,13 hour work day and 13 mile LR,Run,"Felt a lot better than yesterday, still not great. Decided to turn it into my LR anyway. Pretty sure that was just dehydration. Another long day tomorrow and then relaxing on Thursday. ",5011,20921.5,false,,
+1103500406,2017-07-27 03:06:19,9 miles kinda quick,Run,"Very humid, felt a little sore but otherwise pretty good. ",3389,14484.1,false,,
+1105074817,2017-07-28 02:35:09,Warm up,Run,"Felt okay, feeling pretty tired though. ",1175,4828.0,false,,
+1105078220,2017-07-28 03:03:46,60s workout,Run,Felt pretty solid. Did 12 of them and then did a 66 400 at the end. Averaged a little under 5 minute pace on the fast intervals. ,1603,7403.0,false,,
+1105081095,2017-07-28 06:10:58,2.4 cool down,Run,Started off kinda quick. Didn't feel great but when do cool downs feel good anyway. ,985,3862.43,false,,
+1106359975,2017-07-29 02:33:44,Pretty fast 9 miles,Run,Felt pretty solid. Did a 2:56 uphill after 2 miles and slowed it down to 6:15. 65 degrees felt awesome. ,3325,14484.1,false,,
+1107590046,2017-07-29 16:59:16,"Started at 11:59, counts as a morning run",Run,"Felt pretty sore, super nice day though. Good to have my run done this early for a change. ",3783,16093.4,false,,
+1109786612,2017-07-30 23:00:35,First run of the day,Run,Honestly thought I was going 6:30-6:40. In terms of aerobic ability I'm in about my best shape ever. However my legs have been super sore. I'm thinking about just doing a mile tomorrow and then doing 55 over the next 6 days. Definetely doing a cut back week either way. ,3142,13196.6,false,,
+1109795172,2017-07-30 20:00:16,Slow bike with parents,Ride,Nice and slow along the Prairie path with my parents. 80 degrees and shady so it was super nice. ,4582,22530.8,false,,
+1109933667,2017-07-31 02:01:06,Second run of the day,Run,"Felt better, I'm planning on just doing 1 tomorrow. Should be nice to have fresh legs on Tuesday.  ",2223,9334.2,false,,
+1111442384,2017-07-31 23:47:03,1 mile recovery,Run,"Definitely didn't feel great, glad I took an off day. 55 miles planned for the next 6 days. ",383,1609.34,false,,
+1113238183,2017-08-02 02:15:58,7 miles with the DFDC boys,Run,"First run over 7 of the summer. With Alex and Ben, good to finally run with then again. DPRT was super nice at night as always. ",2976,11265.4,false,,
+1114690465,2017-08-02 22:14:22,Cut back week LR,Run,"So bored that I ran on streets in Deerfield alphabetically. All on pavement, thought my IT was going to be a problem by mile 3 and 4 but it got better as I went along. Should try to hit slower paces but low 6:20s is feeling very natural in the last few weeks. ",4605,19312.1,false,,
+1116405433,2017-08-04 02:30:22,Easy run super humid,Run,"Very humid, didn't feel great. Hope to feel good enough to w out tomorrow. I might be able to win the alumni run this year which would be super sick",2714,11265.4,false,,
+1117488550,2017-08-04 17:30:26,60 degs and windy,Run,Definitely felt a little heavy-legged at the start but got going and felt good. At the start I was cold outside for the first time in months. ,2327,9977.93,false,,
+1117490828,2017-08-04 18:15:30,4x400 in flats (counts as wout),Run,"64.3 62.7 63.8 60.2. In my flats, felt really solid actually. Pushing a bit but I wasn't going so hard as to risk anything health-wise. Figured some shorter faster stuff would be more beneficial since my legs have been really heavy this week. Also counts as this weeks workout. ",251,1609.34,false,,
+1117491564,2017-08-04 18:45:34,Short cool down,Run,Yup,304,1287.48,false,,
+1119383819,2017-08-06 03:05:10,8 mile PR lol,Run,"Felt super good. 65 degrees, 9:23 thru 1.5, so the last 6.5 were pretty evenly at 5:45 pace. Definetely felt like I was pushing a bit but still felt very controlled. Even though Gatlin isn't the greatest guy to win it it was still pretty awesome that the US went 1-2. ",2804,12874.8,false,,
+1120310063,2017-08-06 14:05:25,6 miles with hs boys,Run,Started off at like 7:00 pace and closed in 6:06 alone. Felt okay considering it was actually a morning run for once.,2378,9656.06,false,,
+1121190302,2017-08-06 23:50:31,"7, crazy start to vacation",Run,Ran back home from a concert at Ravinia to meet back with my family to leave on vacation. Turned on the car to leave and the battery died. Tried to jump it but it was totally dead. My dad and I found a battery half an hour away so we got it and are now on the road. On to Michigan. ,2660,11265.4,false,,
+1122721774,2017-08-07 22:20:10,7.2 Petosky Michigan - lots of poop,Run,"Super nice run, pretty mad at my bowels though. Also felt sore and tired from car ride all day. ",2804,11587.3,false,,
+1124370058,2017-08-08 22:50:52,Canada - the USA with way more cigs,Run,"Felt really solid, both running-wise and bowel-wise. Ran around a couple islands on the St. Marie river in Sault Ste Marie, Ontario. So many people out walking while puffing darts. Pretty sick but also pretty smelly. ",3853,16415.3,false,,
+1126082356,2017-08-09 22:30:10,"Run in Grand Marais (Michigan, sorry Chemlik)",Run,"Felt good, found some super cool single track stuff too treacherous to run on so I walked it for a bit. ",3064,13035.7,false,,
+1127610874,2017-08-10 23:00:53,Last run in the UP,Run,"Ran around a state park, mostly trails but a few roads mixed in. The park was there for an abandoned 1860s iron processing town on the coast, so there were some old buildings to run around. Sketchy trails in other places though. Got to our hotel and I'm 85% sure it's haunted. ",4085,16898.1,false,,
+1128347540,2017-08-11 14:32:13,Actual last run in yooper country,Run,"In Escanaba MI along the shoreline. Felt pretty sore but I think it was mostly due to it being the morning. Didn't push it at all, have the alumni run tomorrow. Supposedly Alex G isn't running so I'm going for the win. Plan to tuck in for the first mile and let loose on the second. ",2387,9656.06,false,,
+1130117339,2017-08-12 17:29:02,Alumni run WU,Run,Felt pretty rough tbh. ,1057,4184.29,false,,
+1130128872,2017-08-12 17:35:40,Alumni run win and sub 10 for the 1st time,Run,"Ran 9:59.3, split 5:06.4 and then made a move and closed in 4:52.9. Obviously didn't feel awful but I've been having some gastrointestinal issues so I felt pretty queasy the second mile when I started racing harder. As a team the current guys won for the first time in 5 years so that wasn't great, so that was too bad, but taking the W and breaking 10 in the same race was pretty fun. Alex Gold or Jeff Bailey have always won this race since 2000, so this is the first time the trophy is leaving their houses this century, so that's also pretty cool. Will post a pic of the trophy soon. ",599,3218.7,false,,
+1130384712,2017-08-12 20:46:43,Nice and slow cd,Run,With some older alums. Fun to catch up with the boys. ,1080,3862.43,false,,
+1132529227,2017-08-13 22:08:59,B-day LR,Run,"Started off about 6:40 pace and wound up dropping the pace to the typical 6:20-6:25. Felt nice and easy the rest of it, though I did pick it up into the 6:10s for the last few miles. Ran thru the Botanic Gardens which were super nice today. ",5798,24140.2,false,,
+1134004867,2017-08-14 22:30:03,Quick but easy,Run,"Obviously felt a little quick but still definetely controlled. Out and back, 27:30 there and 26:45 back. ",3255,14484.1,false,,
+1135745380,2017-08-15 21:05:10,"DPRT p fast, p easy",Run,"Ran over to the DPRT, down it about 2 miles and down a road connection I've never been on. First and last mile splits were 6:04. Felt fast but not forced at all. ",4083,17702.8,false,,
+1137423524,2017-08-16 21:45:46,Rainy and sore,Run,"Rainstorm started around 3 miles. Second day in new shoes but started feeling a little calf pain. Nothing too surprisingly painful, but still didn't feel great. ",3069,12874.8,false,,
+1139220984,2017-08-18 02:08:43,Don't eat KFC before a run,Run,"Ate KFC at like 1pm but still felt it and had to make a pit stop. Also had some pretty bad congestion and felt super tired too, so overall felt pretty bad, not very sore tho. 
+
+Got some sweet new headlights you tie into your shoelaces for my bday, so I don't have to carry a light anymore. That's actually super cool. ",4151,17702.8,false,,
+1140063667,2017-08-18 16:10:17,Earliest run alone all summer,Run,"Felt pretty sore, not horrible though. Had to make another port o potty stop. ",3139,12874.8,false,,
+1140533749,2017-08-19 01:40:30,Second run,Run,"Felt much better. Might run tomorrow not ing or evening, but 15-16 LR is Sunday night. All weekend is LOTR @ Ravinia so we have some weird ass hobbit food at the buffet to celebrate. ",3201,13518.5,false,,
+1142283144,2017-08-20 02:35:33,New doggo,Run,"Felt alright, LR tomorrow. Parents got home after my run with our new puppy, so now we have two dogs in the house. Should be an interesting next week. ",3651,15449.7,false,,
+1144132225,2017-08-21 01:48:37,Long and fast night LR,Run,"Ran a roundabout way to Palatine HS, partly because I was running through parks and k got put half a mile out of my way once. Dad was there to pick me up. Overall fun run. ",6020,25749.5,false,,
+1145628934,2017-08-22 02:09:13,gold bond      i nurture my skin     foot powder spraaaaaay,Run,Felt pretty solid. Its kinda nice to have been doing these medium length runs at 6:00 pace or just over as I have been for the last few weeks. Haven't been doing many workouts but I have been running way faster than even last summer. Last week was 81 miles at 6:17 average. ,3344,14806.0,false,,
+1146830197,2017-08-22 18:45:33,1 mile so basically off day,Run,"Plan to make this a 70 mile week with this 1 mile day. Definetely felt pretty sore on that mile because of a number of things, nothing too serious but definitely glad I took this day. Doing a bunch of stretching now, double tomorrow. ",365,1609.34,false,,
+1148838197,2017-08-23 20:30:40,High School pre-meet,Run,"First day of school for the yungins, apparently there are 63 guys on the team so holy shit. There were about 40 when I was a senior. Ankle a little sore, did the last 4 alone and at like 6:15-6:20 pace.",3569,14484.1,false,,
+1149098853,2017-08-24 02:05:31,Second run,Run,"Ankle still felt a little off, but overall felt good. Also it was only like 65 degrees. HSers have a meet tomorrow so that'll be fun. ",2249,9656.06,false,,
+1150677239,2017-08-24 20:30:26,Sore ankle,Run,"Ran during the HS meet, felt decent but tried doing a couple later on and my ankle was feeling really off. Might do some more later tonight but probably not. Ice and hopefully long run tomorrow",3059,13196.6,false,,
+1152006524,2017-08-25 21:00:19,Last LR in Illinois,Run,"First 6 with Shore at about 6:35-6:40, alone last 9 at 6:20-6:25. Felt my ankle just a bit but icing it yesterday helped a lot. Obviously had some long run soreness the last couple and some pretty decent chafing, but felt nice and easy and went by relatively quickly. Always feels good to get the LR out of the way. ",5818,24140.2,false,,
+1153273848,2017-08-26 13:30:39,4 years of running every day - WU,Run,"WU for hills. Also today is my 4 year anniversary of running every day, 1461 days. ",1057,4023.36,false,,
+1153280857,2017-08-26 14:00:59,8 hills,Run,"6 of the hills with Gold, last two with Shore. Can't exactly say that up the hills felt good, esp since my last time doing hills was in hs, but definitely good to get in. ",1906,8046.72,false,,
+1153284130,2017-08-26 14:45:05,CD - last time running with HSers,Run,"Super slow CD with the guys, ran thru downtown HP and screamed the Deerfield fight song. Classic. ",1125,4023.36,false,,
+1155906618,2017-08-28 02:59:33,Pre camp starts tomorrow,Run,Started off slow and picked it up to about 6:00 pace. Felt v sore from hills. ,3111,13035.7,false,,
+1156761066,2017-08-28 14:08:51,Back with the BigO,Run,We back. Felt not great but it was pretty early. Picked it up as it went on. ,3961,15610.6,false,,
+1157138318,2017-08-28 20:40:31,2nd run,Run,Nice,1669,6437.38,false,,
+1158247290,2017-08-29 13:10:04,First morning run,Run,"With some boys, closed last mile with PT in around 6:05 feeling good. ",3935,16093.4,false,,
+1158908828,2017-08-29 20:30:24,2nd run,Run,✅,1442,5310.83,false,,
+1160639455,2017-08-30 23:40:34,WU,Run,"Felt kinda sore, not a great prep for the w/out. ",1276,4828.03,false,,
+1160648926,2017-08-30 23:43:23,W/out,Run,"Ran about 16:02 thru the 3 mile with Keith and Butters, got a bad side stitch around 3.5 and had to stop, but most of the other guys wound up stopping at 4 anyway. Obviously too bad not to finish but feeling good at 16 minutes for 3 was good news for the rest of the season. ",1301,6437.38,false,,
+1161508308,2017-08-30 15:22:52,4 sore CD,Run,Sore with Turtle. Woat. ,1880,6437.38,false,,
+1161525654,2017-08-31 13:00:20,Morning 10,Run,"Felt okay at the start, although way better than I thought I'd feel. Felt good to get going a bit by the end. ",3927,16093.4,false,,
+1162954880,2017-08-31 20:30:08,2nd run,Run,"With PT, felt pretty decent. ",1191,4828.03,false,,
+1162957233,2017-09-01 13:05:14,WOAT run,Run,"Got like 3-4 hours of sleep last night, felt and still feeling really sick. Tomorrow's going to be a 1 mile day unless I feel a lot better. Probably at least 60 secs per mile faster in terms of effort. Breathing was really hard. ",3364,12874.8,false,,
+1165361059,2017-09-02 20:30:25,Hard mile,Run,"Was laboring a lot, am not really able to take in enough air. Can't wait to get back to running. ",430,1609.34,false,,
+1166467980,2017-09-03 14:30:21,Ughhh,Run,Not fun,410,1609.34,false,,
+1321347115,2017-12-20 21:19:14,6 miles fast and easy,Run,"Split 17:16 out and 16:37 back. Felt pretty easy, pushed it somewhat on the way back. Looking forward to GrindFest in 2 days. 25 laps is the goal. ",2033,9656.06,false,,
+1322612909,2017-12-22 03:29:03,Short pre-meet,Run,"GrindFest tomorrow. Got new pegs, arches still felt sore but heel felt better. Ian LaMere - I'm coming for you...",1603,6437.38,false,,
+1323669649,2017-12-23 00:45:43,1.2 WU,Run,WU for Grind Fest,480,1931.21,false,,
+1323670819,2017-12-23 01:15:02,Grind Fest 17th place,Run,"17th place overall, 30 laps. Goal was 25 laps, so pretty happy overall. Also got a Christmas snowman for being top 20. 2nd U21 runner their, some sub-25 guy from Stevens Point beat me by like 2 laps. ",2801,13518.5,false,,
+1324320048,2017-12-23 14:08:24,The Yukon Boys - Loud and Proud,Run,"The Yukon Boys search for gold, the Yukon Boys they're not too old. The Yukon Boys they're not too young, the Yukon Boys they'll have some fun!",2460,8046.72,false,,
+1336529017,2017-12-31 16:30:59,50 mile week w/ lots of arch problems,Run,"Day by day: 6 4 8 11 9 3 9. Got new shoes for Christmas and took a few days to break them in, arches were very sore on Mon Tue and Sat, would have been 60-65 w/out those days. Tried to do workouts at the rec center but running on that track aggravated my arches even more. Yesterdays run progressed from 6:30 down to 5:45 through snow, which was the closest I got to a workout. Argentina here we come. ",19500,80467.2,false,,
+1339694365,2018-01-03 21:30:01,10 on treadmill: 85 degrees is hot,Run,Actually at mostly 4:06/km cause we're in BA now. Treadmill was inside but w/out AC so it was still 85 degrees. Cramped up some but not nearly as much as I could have considering it was so hot and I was on planes an in airports for 24 hours. ,3948,16093.4,false,,
+1342145508,2018-01-04 22:15:38,95 degrees... classic January,Run,"Super hot outside, should cool off in the next couple of days. No workouts this week, getting acclimated to the temperature is hard enough. ",2844,11265.4,false,,
+1342694205,2018-01-05 21:30:00,75 degrees felt pretty cool,Run,Ran along a bunch of beautiful paths through parks on the north coast. Best run so far (only good run so far). ,4653,19312.1,false,,
+1345325524,2018-01-06 23:00:32,Fast I guess,Run,Out and back along the day 1 route. Felt pretty good so decided to pick it up some. Short and slow tomorrow. ,2542,11587.3,false,,
+1345327657,2018-01-02 00:00:38,Hangover mile,Run,"Hangover mile, felt v bad and was like 10 or 15 below 0. ",330,1609.34,false,,
+1345330452,2018-01-02 14:00:27,Pre-flight run,Run,"Last run in the cold. Felt pretty decent, could have and should have run longer but didn't have the time too. Nest 5 days will be at 60mpw pace. ",1112,4828.03,false,,
+1346427264,2018-01-08 04:58:42,Hot and sore,Run,"Had a long bus ride, plus it was 90 degrees. Plan to get 60 in this week. ",1903,8046.72,false,,
+1347724015,2018-01-08 21:45:10,WU,Run,Warm up for tempo. ,1240,4828.03,false,,
+1347753741,2018-01-08 22:00:44,Treadmill Tempo,Run,"On the treadmill, so not quite as hard as outside, but still really happy I was able to run that in 80-85 degrees. Felt pretty easy, did the first 1.5 in 7:50 and the last 0.9 at 3:00/k (4:48/m). Felt fast but controlled. Might do some 400s or something later this week. ",728,3862.43,false,,
+1347754209,2018-01-08 22:15:15,CD,Run,Done,1148,4184.29,false,,
+1349511884,2018-01-09 23:00:36,7 tread,Run,Won the workout room. Was good. ,2780,11265.4,false,,
+1350835682,2018-01-10 20:20:03,Tread LR in 32 degrees,Run,"That's celsius, so about 90 degrees. 97 degrees in the sun tho. 1st mile 7:30, 2-10 in 7:00, 11 in 6:30 and 12 in 5:45 closing in 75 for the last quarter. Super hot but its done. ",4965,19312.1,false,,
+1352681360,2018-01-11 23:00:26,Tread again,Run,Ya,2847,11265.4,false,,
+1357222653,2018-01-13 02:00:13,Peanut allergy aftermath,Run,"Ate some snacks that apparently had peanut paste (peanut is mani instead of cacahuate here in Argentina apparently), so started getting covered in hives and made myself puke. Wound up going to the hospital with prof and got a corticosteroid shot. Not sure that it did much of anything, though. Waited as long as I could before getting my run in so as to not reaggravate my reaction. Run hurt a lot as my body was just exhausted from the reaction. ",453,1770.28,false,,
+1357404802,2018-01-13 22:00:03,Fast but tough,Run,"Dropped the hammer a little more than I should have, especially since I was still super tired from yesterday. Not going to be able to make it 60 cause of yesterday but still should be able to get well into the 50s. ",3384,14645.0,false,,
+1357778325,2018-01-14 21:00:39,Evening Run,Run,"Still pretty sore, ran through some of the slums of Santa Fe, but it was still light so I felt pretty safe. Without Friday this would have been well over 60 miles this week. Overall my fitness right now isn't great but should be back on track in a couple days. Really looking forward to coming back in a couple weeks and tearing it up at the Showcase. ",3921,15932.5,false,,
+1359429777,2018-01-15 22:00:51,10 p fast,Run,"Felt pretty decent, calf started tightening up around mile 6. The hotel here in Santa Fe has pretty bad beds so that's probably why. Switching to a less shitty bed tonight, hopefully calf is loosened up by tomorrow. Also found a track both here and in San Justo, hope to get at least one w out in this week on one of them. ",3833,16737.2,false,,
+1361557586,2018-01-16 20:30:34,90 and sunny,Run,"Was v hot. Ran on some nice paths, wish I could have run a little later tho. ",2883,12231.0,false,,
+1362556776,2018-01-17 22:00:11,2 short tempos,Run,"Two tempos: one for only about 0.9 but I hammered too much, like 4:45-4:50 pace. Closed in a 1.5 tempo in 7:48, or 5:12 pace. Second one felt better. Was having some pain in my left calf and lower achilles, so need to watch that. Overall pleasantly surprised that I got the second tempo in as easy as it was. ",3779,16093.4,false,,
+1365219394,2018-01-18 20:30:00,We out here more than ever before,Run,"90 and very sunny. Had to make a few stops in the shade to avert heat stroke. Ran through corn fields here in San Justo, Santa Fe, AR, far and away the most obscure place I've ever been. Town's actually super sick tho. ",4103,16254.4,false,,
+1365976795,2018-01-19 22:30:00,Thru the streets of San Justo,Run,"San Justo's actually a sick town. About 30,000 people, so just big enough where I can run around the town without getting bored. Was only about 85 since the sun was setting, so much nicer. ",3592,15288.8,false,,
+1367542237,2018-01-20 09:45:27,WU,Run,"Yup. Found a dirt track on the east side if San Justo. Should be good for a workout. Also some random family came up to me, sat down while I was tying my shoes and we talked for a while about what our group has been doing. This town is seriously pretty sick. Too bad we have to leave tomorrow morning. ",1200,4828.03,false,,
+1367554108,2018-01-21 09:57:34,Workout - crappy track 8x300,Run,"Worst quality track I've ever seen but better than nothing. Its really dry here so most of the track was literal piles of sand, much harder to run on than even the poorly kept up dirt roads. Still ran 48 for the first 6 and 47 for the last two. Felt decent, probably was more like 45-46 effort throughout if not faster because of the terrain. Was hoping to do an actual scripted workout but lane 1 in the home straight was really deteriorated. Was vvvvv tired afterwards, but pretty excited I was able to run close to mile pace given such difficult conditions. ",1064,4667.1,false,,
+1367606084,2018-01-20 22:45:10,CD,Run,"CD through the town of San Justo. Picked it up a bit the last couple of miles so the average pace was pretty fast. 
+
+The following section will simply be a diary of one of the greatest nights of my life. 
+
+Written starting at 7:21 am on a bus leaving San Justo for Mendoza (at least 13 hours of a bus ride away) (also still drunk and without having slept for about 25 hours). 
+
+So basically we went to a restaurant downtown for pizza (argentine pizza, kinda weird and not the greatest but ill take what I can get) and lisos (8.5 ounce glasses of unpasteurized argentine beer - delicious).  Meal was solid, brought a pretty hefty amount of crap vodka with me and chased it with free pops. After that me, Christian Beck and Mike Perry contacted an accordionist that we saw perform the night before to find out what the party scene was like in San Justo.
+
+After a while we met up with him and started walking to the apartment of some guy who he sang with in another group (who we met the night before. He looked just like an Argentine Mel Gibson, so literally only knew him as Mel even though hid name was something starting with a c). Turned out his day job was as a motorcycle mechanic, and his apartment was the second floor of his shop right along the main highway through town. Also btw this guy was 60 years old.
+
+So the four of us had picked up 4 liters of beer on our way there, and he had a table and benches out front where the five of us sat for 2 hours or so. The four of us yungins (the accordionist was only 19) drank 5 liters of beer over that time, just guys bein dudes talking about girls, trucks and what we liked about San Justo. 
+
+After a while Mel said he would take us in his truck to the north part of town where the party was happening. We got in the van and endured some sketchy argentine driving for a few minutes before getting to the club at about 2:30. At this point the party was just starting. We said goodbye to Mel, and just when we got there like 10 other Oles showed up that had been walking around for a while. 
+
+Me and Noah Johnson started boolin with some 30 year old dudes for a while and payed the cover fee. Next part was just a 2 hour blur. I got some super good fruit drink from the bar of the club (it was entirely outside) and left the group of oles entirely. Found a couple groups of Argentine dudes and a group of Argentine girls over the next couple hours, talked and exchanged social media.  Long story short, we left the club-thing at about 5:30 and headed back to the hotel. 
+
+The bus was leaving at 7:00 so I had a perfect ninety minutes to pack up. Now it's 7:40 and I'm chilling on the bus after the hotel breakfast, still feeling pretty drunk and ready for the bus ride. One of the greatest nights of my life. Good night you stupid runners.  ",1765,7081.11,false,,
+1369170896,2018-01-22 01:15:13,Mendoza night run,Run,Seems like there's some pretty good nightlife here. Felt pretty damn sore after a 14 hour bus ride. ,2596,11426.3,false,,
+1370618939,2018-01-22 23:00:12,run,Run,ran,3093,12874.8,false,,
+1372246503,2018-01-23 22:30:46,Decided that this should be a cut back week,Run,Decided that this is gonna be a cut back week since I've been hitting the mileage pretty hard the last 3-4 weeks. Still plan to go for 45-50. Feel like kind of a lazy bitch tho.,1519,6437.38,false,,
+1374581575,2018-01-24 23:00:42,Pre tempo run,Run,"Had to take a massive shit once I got to downtown Vista Flores, so had to walk a mile out of town to some bushes. Was woat. ",2450,9977.93,false,,
+1374584145,2018-01-25 00:00:43,Hammer tempo,Run,"From town along a bike path back go the hotel. Felt fast but def controlled, splits were like 4:57 to 5:06. Also had to deal with some pretty uneven paths in town, probably slowed me down a little bit. Overall was a really good confidence builder, hope to run under 8:40 at the opener depending on how the competition is. ",603,3218.69,false,,
+1375587812,2018-01-25 23:00:28,LR with many scary doggos,Run,"Felt alright, a little tight because of the tempo yesterday. Running through streets near Vista Flores, near where we're staying, but also around some 9 square block town called Los Sauces which is pretty sick. Pic below. Also had 2am incredible view of the Andes. Later on found a couple packs of dogs who I just let come up to me since I couldn't outrun them, they could have torn me apart if they wanted to. One pair lookedike complete wild dingos. Was vvvv scary. Next run will be one of my craziest ever. ",4051,16576.2,false,,
+1375598661,2018-01-26 04:06:36,Drunk 1 am run through Argentine vineyards,Run,"Yeah, so I did that. Still pretty drunk rn. Have a bus to catch in less than 6 hours, bus ride will be at least 15 hours so I wasn't sure I would have enough time to get the mile in after going to sleep. Hopefully ill have some time to get another 4-5 in on the treadmill tomorrow night but no guarantees. P.S. today is day 1614, almost 4.5 years of running every day. Doot doot folks. ",452,1770.28,false,,
+1378744084,2018-01-27 22:00:49,Back to the Atlantic side and its v humid,Run,"Technically Mendoza was a desert in terms of its yearly rainfall, plus its more humid than usual back here in BA so I turned into a liquid. Felt alright otherwise though",3085,12874.8,false,,
+1384085899,2018-01-29 22:00:29,8 miles fastish,Run,"Felt pretty good throughout. One thing I have been noticing is that my Achilles are hurting for the first mile or so, but that goes away pretty quick. Do have a couple of things to talk with Colton with when I get back but nothing that severe. Need to do more proper workouts though. ",2887,13196.6,false,,
+1384089542,2018-01-31 05:03:55,Almost 7 fasterish,Run,"Picked it up over the course of the run; last 3 were under 17 mins. Felt really good actually, going to count this as a long tempo, hope to get a track workout in later this week. ",2265,10460.7,false,,
+1386283980,2018-01-31 14:25:13,EZ 7,Run,On the treadmill at 4:09/k. Was good. ,2919,11773.6,false,,
+1388320418,2018-02-01 16:00:17,"Accidental long run, very haut",Run,Earliest run in weeks so that I could make it to the huge forest preserve downtown that closes at three. Everybody in this country runs at 7pm so that makes no sense. Was nice but I got lost and wound up doing my long run in 90 degs and sun. Ouch burn. ,4730,19312.1,false,,
+1388658683,2018-02-03 02:25:45,31st and final run in Argentina,Run,"On the treadmill, felt easy. Treadmill had internet connection so I could watch some dank races while running, plus it was hot out. Doot doot Argentina. ",3795,15288.8,false,,
+1390397432,2018-02-03 22:30:24,Memorial Joe Coffey run,Run,First day running in Santiago Chile. Calling this the Joe Coffey memorial not because it was fast but because I ran out of clean running clothes and smelled like a rotting animal carcass. Like literally gagged from the smell when I put it on. Maybe this will help me get All-American this track season though. ,3043,13035.7,false,,
+1392135428,2018-02-04 12:30:57,Earliest run since LaCrosse XC meet,Run,Found a nice bike path along the crappy river that runs through Santiago. It's a major river but it looks more like a drainage ditch.  Recorded a couple ks at 3:50-3:55 so it was probably a longer run than it says. ,3235,13518.5,false,,
+1393599627,2018-02-05 12:30:40,Last run in this hemisphere,Run,"Holy cow time to go back home, its crazy. Run was good, was stiff guy at the start but I picked it up down to 6min pace by the end. See y'all in the states",2283,9656.06,false,,
+1395508008,2018-02-07 05:18:43,Easy 8 upstairs,Run,"With Sauce and later Cathy. Middle miles were all around 6:30, felt easy. Short workout tomorrow. ",3165,12713.8,false,,
+1396833757,2018-02-07 21:30:22,First track workout back,Run,"WU was too fast on the second mile with PT. Workout was short and easy but felt really good. Cool down easy. Looking forward to the race Friday, just going to have some fun with it. ",2886,11426.3,false,,
+1398469262,2018-02-09 00:46:38,Premeet,Run,3k tomorrow yeet,2077,8046.72,false,,
+1399678642,2018-02-09 20:40:41,First race WU,Run,EZPZ. 3k here we come. ,843,3218.69,false,,
+1399861000,2018-02-09 21:20:46,Season debut 3k,Run,"Great to be back. Race went out in like 5:52 and I closed in 2:52. Happy overall, but I definetely could have gone faster with more race experience and speed workouts. Made a pretty dumb and funny move with 600 to go and realized I couldn't really hold that pace alone but I still held on for the win pretty safely. Good debut overall. ",520,3000.0,false,,
+1399862194,2018-02-09 22:00:05,Post-race tempo,Run,"Nice and easy on the treadmill, good day of work overall. 4 miles in sub-20 between this and the race lol",635,3218.69,false,,
+1399863010,2018-02-09 22:11:43,CD,Run,Time to watch this meet for literally 6 more hours,567,2102.53,false,,
+1401716527,2018-02-10 21:40:05,Cold run with Nobs+Pael,Run,Jeff tmrw,2876,11265.4,false,,
+1403539416,2018-02-11 21:30:16,Ouch oof ow my knee,Run,"Runners knee, rip. Was going to do Jefferson but did short Bryce instead and walked a bunch of it. Will go into trainer tmrw and ice and such. Workout not till wednesday, and then race sat. Here we go. ",2052,8046.72,false,,
+1473304752,2018-03-26 16:00:52,Into the Rockies,Run,"5 uphill didnt feel too bad, 5 downhill felt effortless. Beautiful place to run. ",4468,16093.4,false,,
+1474819724,2018-03-27 16:00:03,Easy shakeout,Run,"Saw Emma Coburn and Will Leer, was sick. Snowy but looking like it should melt off by afternoon wout. ",1354,4828.03,false,,
+1475484048,2018-03-27 21:15:47,WU,Run,"",1330,4828.03,false,,
+1475485722,2018-03-27 22:42:39,Lots of 2s,Run,"Felt good, not crazy fast but we're also at high alt",1244,5310.83,false,,
+1475486963,2018-03-27 22:38:42,CD,Run,Holy slow. Sick,1565,5310.83,false,,
+1476750412,2018-03-28 15:45:11,Butter tastes good but not good for a run,Run,"Put butter on a lot of foods last night, had to stop a few times on the run. Ran into this Irish runner here for training and ran with him for a couple miles. Also ran past Saarel and some other Buffs. Would have been a great run if not for the GI distress. ",4572,16737.2,false,,
+1478363699,2018-03-29 16:20:03,Back in the Field of Deer,Run,"Pushed a little too hard, felt pretty good but not actually so sure that the alt training made a difference, even first day back. Alaska run tomorrow. ",3403,14484.1,false,,
+1480991476,2018-03-31 06:42:30,Workout,Run,"Workout was pretty good. Ran it at West Anchorage HS, tons of snow on the ground but it was warm so the track was covered with ice and puddles. Ran all the way in lane 9 and mostly avoided all the crap. Did make lines a little confusing. 600m in 1:39, went out way too hard and fell off the back half. 300s were 47 up to 49 and the 200s were 31 down to 28. Felt hard but overall decent workout, esp with wind and trainers, not to mention a ton of traveling the last 2 days. ",4020,16093.4,false,,
+1482886268,2018-04-01 03:30:36,9 around Anchorage,Run,"Super nice day, warmer than Deerfield or Northfield lol. Found a super nice but icy trail so those miles were way slower. Otherwise fairly fast but very comfortable. Easter LR tomorrow. ",3480,14484.1,false,,
+1484802619,2018-04-02 02:45:29,Icy and muddy but still great LR,Run,"Was going to run on some packed ice trail but it was 45 degrees so the ice was real melty. Good ankle strengthening but miles 2-4 were 6:50-7:00. Aside from those miles it was 6:16 avg inc the last mile in a fast but easy 5:50. Overall really great run, didn't feel nearly as gassed at the end as I have the last 2 weeks. 75m week check. ",5414,22691.8,false,,
+1486320506,2018-04-02 21:50:34,Last day here - Anchorage sucks,Run,"Ran through some shitty parts of Anchorage, really windy today in like every direction. Some drunk homeless guy almost threw a bottle at me. Ready to get back to the better parts of the US. ",3189,13196.6,false,,
+1488149530,2018-04-03 20:30:52,Evening Run,Run,"Was hard. Super snowy, kinda sore from multiple plane trips and no sleep. Wout tomorrow",3865,14323.2,false,,
+1490250659,2018-04-05 06:51:23,WU,Run,Neato,1197,4828.0,false,,
+1490251649,2018-04-05 06:52:25,Broken 8s,Run,Felt good. Not crazy fast (2s in 29-30) but felt real easy. ,1152,4828.03,false,,
+1490252763,2018-04-05 06:53:41,CD,Run,Yup. Burner again,1260,4828.03,false,,
+1491801514,2018-04-05 20:30:22,Nice day but felt kinda iffy,Run,It was OK,4557,17059.0,false,,
+1493505574,2018-04-06 20:30:39,Jeff again,Run,"Left achilles was hurting a lot at the start, glad I didn't stop because it got to feeling way better by the end and it's just feeling better in general now. Light wout tomorrow, big one on Monday. ",3841,14645.0,false,,
+1495052581,2018-04-07 18:38:40,Cold and icy workout at Porter,Run,"3 up 2 wout 4 down. Ks were 32, 31, 29. Lots of ice on the track, kinda slippery. Hope its nicer on Monday. ",3864,14806.0,false,,
+1497791592,2018-04-08 20:30:22,10 ez,Run,"Was pretty good after all. Kimda cold and its snowing again, ran the last few under 7 nice and easy. ",4281,16093.4,false,,
+1499752048,2018-04-09 20:30:23,Workout day,Run,"Burner up, burner down, workout was just over 3. 6x4 in 64, 7th in 66 so I cut to 2x2 in 31. Really tough, didn't feel great even at the start, so pretty happy with it overall. Considering also that it was cold and kind of windy, running 4:00 or under in these conditions would bode really well for the rest of the season. We'll see Thursday. ",3402,13035.7,false,,
+1587928646,2018-05-21 20:30:11,Short arb w/ boys,Run,"Easy short arb, didn't feel great but it was humid and its my first real run in a week. 40mpw is gonna be real easy",2646,9656.06,false,,
+1591831013,2018-05-22 20:30:30,Hot and humid,Run,Kinda hard. F,1740,6437.38,false,,
+1592298177,2018-05-24 03:08:07,ABR,Run,Yeah. Was good. Is good. ,1800,6437.38,false,,
+1594417541,2018-05-25 05:36:55,"Rainy, was going to go more",Run,"Was super hot and humid earlier and started raining, so just ran in that. Dark and a lot of lightning, so I finished early. ",1302,4988.97,false,,
+1596077021,2018-05-26 01:00:09,6 in the jungle,Run,"Getting dark out and had just rained, so the natty lands were super green and humid, felt like a jungle. Got some pretty crazy pics on the run too. ",2501,9817.0,false,,
+1602791108,2018-05-27 03:30:05,Late run back home,Run,Packing and in the car all day. P sore. ,844,3218.69,false,,
+1602793284,2018-05-28 04:20:04,Fell ouch,Run,There are new pot holes that weren't here before and it was dark. Left leg is a little beat up for the race tomorrow. Lmao,1380,5310.83,false,,
+1602794668,2018-05-28 13:00:09,WU,Run,Knee is felling a bit better. Wont be too much competition in this one. ,871,3379.62,false,,
+1602808685,2018-05-28 13:45:31,Essence of Freedom 5k,Run,"Champ. Mapped it out and it was 3.24 miles. Also as an award I got a free pair of shoes from Fleet Feet which is dope. Some lady sent me this pic lol. 
+
+Race was dank, it was just me and my friend Spak the whole time, dropped him halfway and beat him by about a minute, probably about 5 flat pace on the second half. Paced by a bunch of old vets on motorcycles blasting Led Zeppelin and some lady standing up on one holding a huge flag. Crossed the line and got a water bottle from a fat old man wearing an NRA hat. Also the post-race snacks were just hot dogs. Dankest race ever fo sho. ",1018,5217.55,false,,
+1602809675,2018-05-28 14:15:29,CD,Run,Yeet,600,2253.08,false,,
+1605067934,2018-05-30 03:10:09,Slow Bill can get even slower,Run,"Aerobically felt real easy, legs felt pretty tired between my bruised knee and the race yesterday. 65 degrees out felt super nice. Also Ricardo (Berto) yelled my name from a car. ",3257,12874.8,false,,
+1607263821,2018-05-31 06:03:11,99% humidity,Run,"Super humid out, literally 99%. Aerobically felt fine, legs felt better, but obviously was super sweaty. Trying to run during the day tomorrow, should be a nice change of pace. ",2599,10138.9,false,,
+1610713208,2018-06-01 00:20:00,Nice to run during the day,Run,"Sun was set by the time I was done. Also we have a shit ton of really good left over fried chicken, so had a bunch of that. Will be eating chicken for the next several days. I will not want to eat fried chicken ever again by the end of this. ",3334,13357.6,false,,
+1612425052,2018-06-01 22:00:52,Cold LR,Run,"High of 65 today, but it was sunny so super nice. Wish every day of the summer could be like this. Easiest feeling run of the week so far. Pretty soon this will be the shortest run I do lol. Also probably need to keep it a little slower. ",4622,18507.5,false,,
+1613330942,2018-06-03 00:30:29,Getting slower...,Run,"Felt nice n' easy, worked from 7:15 down to 6:50. Also ran the last 800 in 2:30 to get a feel for 8k GP since no w/outs this week. That felt easy too. ",2982,11587.3,false,,
+1616013232,2018-06-04 00:00:39,Windy day,Run,"Felt like I was running into the wind the whole time. Felt alright, a little tightness but nothing too bad. ",2821,11265.4,false,,
+1617769743,2018-06-04 23:25:41,Run,Run, ran,3732,14645.0,false,,
+1619795506,2018-06-05 21:40:29,Best run yet,Run,"Drove over to the DPRT and did a loop down the trail and back up through Mount Prospect and Wheeling. 65 and sunny so perfect running weather, except for the windStarted off kinda slow, some of the middle miles were probably 6:20s. Only did that because it was a long run, slow Bill will be back in force tomorrow. 
+
+Also have been doing abs at least every other day. ",5611,22530.8,false,,
+1622084122,2018-06-06 22:30:34,Ran into some DFDC boys,Run,"Ran into Humlauf and a current runner. Slowed down to like 7:30 with them for a bit. Fun to hear some current team gossip and remember back to my hs days. Time to watch some D1 races, 1500 semis on now. ",3045,11587.3,false,,
+1624371411,2018-06-07 23:15:38,EZ downhill,Run,Minus the downhill cause it's the prairie state. Ran through Del-Mar woods (satanist place) and stepped in some turd. Nice. ,4099,15771.6,false,,
+1625857489,2018-06-08 21:26:53,6.9 miles in 69 degrees,Run,Planned on only running 6. I'm so deep in the memes that I even do it accidentally. ,2845,11104.5,false,,
+1628434310,2018-06-10 00:10:51,WU,Run,This will suck. F. ,1288,4828.03,false,,
+1628434990,2018-06-10 01:30:35,CD,Run,"",1350,4828.03,false,,
+1628437862,2018-06-10 01:30:04,Milk Mile championship heat,Run,"Felt way easier than last year, wasn't even aerobically tired when I finished. Got like 6th or 7th to last in a heat with mostly current and future D1 guys so that was pretty sweet. Crispy played Club TT over the speakers which was a good pump up. If I ever do this again I think I can at least go under 6 but this was still a PR lol. ",380,1609.34,false,,
+1630635198,2018-06-10 19:34:37,Easy run thru Lincolnshire,Run,"Asked my Dad where I should run and he said ""Go west, young man!"" so that's what I did. It's been a nice easy week but that was probably the easiest feeling run of all. 63 on the week, going for 70 next week. ",3645,14484.1,false,,
+1632580810,2018-06-11 19:00:28,Run to Old School,Run,"Felt easy, p humid out tho. Dad picked me up at Old School to go on a bike ride up the DPRT. ",4905,19473.1,false,,
+1632588625,2018-06-11 20:50:55,DPRT w Dad,Ride,Felt easy. Nice,2400,15020.5,false,,
+1635261850,2018-06-13 00:30:36,Humid day,Run,"Felt pretty good and wound up running a little fast. 86% humidity was not great, hope that drops soon. ",3782,15127.8,false,,
+1637144513,2018-06-13 23:00:15,Hotter but dryer,Run,"Through Riverwoods, kinda buggy and 80 degs but only 45% humidity so felt nice. Decent run, feeling a bit of pain in my left heel but I have before and it's never been a big problem. Will watch out though and stick to soft surfaces. ",3763,14966.9,false,,
+1639122241,2018-06-14 23:00:44,Kinda sore,Run,"Heel felt better but felt kinda heavy. LR tomorrow, should be good",3687,14001.3,false,,
+1640383836,2018-06-15 15:15:52,LR with the boys,Run,"On the DPRT by Maine South. Felt pretty good, hamstrings started hurting after a while but nothing too bad. Heel is better after icing it. ",5917,22530.8,false,,
+1642893215,2018-06-16 19:11:08,Cranky Old Bastard,Run,Saw an old guy wearing a cycling team shirt with that across the front. Pretty dank. Was hot and humid but actually felt pretty good. Also congrats on the 70 min half Juggz!,3774,14966.9,false,,
+1645763804,2018-06-18 03:45:46,F,Run,"Waited till night to run but it was still hellishly hot and humid, made worse by my not expecting it. Also was v dehydrated even though I've been drinking water pretty regularly. Mother Nature can be a colossal bitch sometimes. ",3113,11587.3,false,,
+1647325735,2018-06-18 21:15:50,70 and sunny indoors,Run,"At HP rec center. Ran same pace the whole way. Felt pretty good, aside from the expected stiffness from running 120 laps inside. High of 70 tomorrow, gonna fell amazing. ",4063,16093.4,false,,
+1649770453,2018-06-20 00:30:30,US Champs will be sick,Run,"A little sore as aftermath of indoor run yesterday, some brief knee pain and otherwise typical hamstring pain, need to continue strengthening those young men. Felt good otherwise despite 90% humidity. ",4487,17863.7,false,,
+1652051545,2018-06-21 02:15:50,Pretty neat run,Run,"Still a little sore from it being my 5th consecutive mileage increase week and the indoor track, but felt much better. Especially not worried since the next 2 weeks are another 75 and then down to a 65. I ahould be feeling super fresh that next week moving into the 80s and above. ",3798,14806.0,false,,
+1653898542,2018-06-21 22:20:33,Resisting the urge to hammer,Run,"Felt super good, tried to keep it as slow as I could after dropping to 6:20s for a couple middle miles. Also had some unfortunte encounters with bigass puddles. ",3840,15449.7,false,,
+1655847293,2018-06-22 22:15:52,Cold but humid,Run,"Ran around Northbrook for a while, felt really easy, but I guess it kinda should this early in the summer. USATF is gettin bumpin, just in time for the boys to show up. ",4495,18024.7,false,,
+1657882413,2018-06-23 23:18:22,Des Moines - the T&F capital of the US,Run,"Nice and easy with Crispy and Aids. Found a pretty nice path, also have never felt this slow because of all the pro runners around. ",3834,14645.0,false,,
+1659612095,2018-06-24 13:20:55,Humid and hilly,Run,This is not what I was told Iowa would be like. Felt pretty decent though. ,6042,23818.3,false,,
+1662456709,2018-06-26 01:00:33,Stinky run,Run,"Had to poop in the middle or the run and immediately after almost got sprayed by a skunk. Almost got the legendary double stink lol. Route got messed up by flooding. 
+
+Also because of early long run followed by sitting in the stands at USATF and driving for 7 hours had some bad soreness in my IT bands all day, but it felt better on the run and now after. Good run overall, can't wait for dry season. ",4026,16093.4,false,,
+1664444872,2018-06-26 22:00:49,Meteorology is a fake science,Run,Hourly weather called for a 35% chance of scattered showers starting 45 mins into my run. It turned out to be a flash flood starting 10 mins into my run. Will only be using weather radar from now on because it's clear I have a better idea how to read a radar map than most meteorologists. Will be running more as soon as this damn rain lets up,1358,5436.54,false,,
+1666019314,2018-06-26 23:15:49,Got rained on again,Run,"Brand new set of clothes and shoes, got poured on yet again. Should be dry tomorrow. ",2458,9864.76,false,,
+1666755688,2018-06-27 23:33:04,Nice day and new shoes,Run,"Wearing some new green and white pegs, felt just a little rough at the start but they should feel perfect tomorrow. Ran slow and easy for most of it, decided to run the last mile comfortably fast, ended up being 5:03 which was quicker than I thought I was going. July 4th 10k is one week from today, planning on racing with the pack for the first lap (no slower than 5:35) and then dropping it the second, hopefully like 5:15s. Based off today that shouldn't be too unreasonable. ",3418,13679.4,false,,
+1668463733,2018-06-28 19:20:14,Run #1,Run,Pretty hot out today but still a nice run. There was something else I was gonna write but i forgot it. Lol,3242,12874.8,false,,
+1668949413,2018-06-29 03:35:54,Run #2,Run,"Legs were pretty tired after a 5 hour serving shift, good to get this one done though. I am the only person working at the restaurant who was born in the US and doesn't speak with an accent so it's gonna be kind of a trippy rest of summer. ",2706,10460.7,false,,
+1669793930,2018-06-29 13:20:39,Nobs Shippin' Up to Boston,Run,"I'm a sailor peg
+And I've lost my leg
+Climbing up the top sails
+I lost my leg!
+
+I'm shipping up to Boston whoa
+I'm shipping up to Boston whoa
+I'm shipping up to Boston whoa
+I'm shipping off...to find my wooden leg
+
+I'm a sailor peg
+And I've lost my leg
+Climbing up the top sails
+I lost my leg!
+
+I'm shipping up to Boston whoa
+I'm shipping up to Boston whoa
+I'm shipping up to Boston whoa
+I'm shipping off...to find my wooden leg",3942,15449.7,false,,
+1672608282,2018-06-30 20:12:00,Inside kid,Run,"98 degs outside so inside it was. 12 laps to a mile can hurt sometimes but I don't feel so bad fortunately, dont know when I'm going to fit in this LR tomorrow but we'll figure it out. ",3653,14323.2,false,,
+1675377956,2018-07-02 02:20:06,Post 10hr shift LR,Run,"10 hours of serving at a restaurant completely without sitting immediately followed by a 14 miler in 90% humidity has left my legs sufficiently zonked. Got dropped off in Libertyville, ran east towards the lake, south to HP and back west home. Picked it up a bit at the end closing in 5:47 and 2:46 feeling pretty comfortable. Looking forward to cutting back next week, esp with a race on Wednesday. ",5666,22530.8,false,,
+1677369670,2018-07-03 00:40:32,Run from Botanic Gardens,Run,"Calves a little tight from yesterday, otherwise a pretty good run. ",3679,14484.1,false,,
+1677370669,2018-07-02 16:30:51,Independance Grove with dad,Ride,DPRT was flooded so we biked through some other areas. Nice day out. ,3780,21967.5,false,,
+1679332921,2018-07-03 23:20:06,Pre-race,Run,"Felt fairly sore to start off, was pretty hot and humid ",2481,9656.06,false,,
+1681332859,2018-07-04 12:30:05,WU,Run,Nice n easy,602,2253.08,false,,
+1681334193,2018-07-04 14:00:52,CD,Run,Holy slow. Was crazy hot. Race post to follow,528,1770.28,false,,
+1683443023,2018-07-04 13:00:40,7/4 10k winner - on my 7th year,Run,"I guess you could say I'm like the Des Linden of this race. Course was super long as always, also it was 85 degs with 90% humidity. I've been thinking about it and this was my hottest race since at least high school, but probably ever. Split 18:04 to 17:40 for 3.25 halves, was completely alone and out in front on the second half. Definetely had more gears to shift into but didn't because I didn't need to and didn't want to pass out. Happy with it overall. ",2144,10460.7,false,,
+1683813065,2018-07-05 23:05:23,Holy humid,Run,"Was absolutely soaked by the ens of the run. Didn't feel that great between the weather and post-race, probably going to count the race as my workout for the week. ",3251,12950.4,false,,
+1685266688,2018-07-06 19:48:38,Promoted - McDonald's Mobile App,Run,"Got a buttermilk chicken sandwich, a mcchicken and a medium fries all for $2.18 with the app today so waa pretty psyched about that. Weather was perfect today, 75 and dry. Felt much better but still a little heavy, short day tomorrow. ",5272,21082.4,false,,
+1686795513,2018-07-07 13:00:40,Early day,Run,"Got up early to run before 12hrs of work. Beautiful morning for it, felt good considering how early it was",3194,12552.9,false,,
+1690156720,2018-07-08 22:09:08,Hot and easy,Run,"is how D-Wreck likes his girls. Also the run was hot but easy. 85 degrees but dry felt surprisingly smooth, hit a 6:30 in the middle feeling like just under 7 pace. ",2956,11748.2,false,,
+1690408910,2018-07-09 02:20:12,Second run,Run,"First night run in a while, so I felt super fast. Nice and easy down the Green Bay Trail. ",1974,7724.85,false,,
+1692506579,2018-07-10 02:30:18,Tired and sore,Run,"Hamstrings were both really sore, felt way harder than it should have. Not gonna worry about this too much but it's still never fun having a bad run. ",4233,16576.2,false,,
+1694700778,2018-07-11 00:30:09,Ty-ty LR,Run,"Ran up to Century Park in Vernon Hills where we used to do hills, then ran around VH for a while. Was really tired before the run, but got more awake as it went and maintained a pretty low level of soreness. Only my right glute was hurting, planning to ramp up the glute bridges to help with that. Easiest LR of the summer so far. ",6124,24462.0,false,,
+1696747599,2018-07-11 23:30:31,"Sore run, body still wanted to run fast",Run,"Didnt feel great, both glutes pretty sore. Still had trouble slowing down for some reason tho. ",4266,17059.0,false,,
+1698938947,2018-07-13 00:30:01,Nice easy run,Run,"Felt a lot better than the days prior, probably will be set for the workout tomorrow. Kept it easy as planned, plank ladder and rolling out afterwards. ",4033,15610.6,false,,
+1700904734,2018-07-14 03:20:06,WU,Run,Feeling good despite just finishing a work shift. ,1498,5793.64,false,,
+1700908246,2018-07-14 03:45:53,15x1' - damn good workout,Run,"Hit all the fast minutes at or under 5' pace, felt pretty easy even by the end. Probably could have picked the slow minutes up a little bit, but this was really positive for a first workout overall, much faster and easier than previous years. Super excited for this fall. ",1787,8046.72,false,,
+1700912690,2018-07-14 04:20:35,CD,Run,"Actually pretty fast. Felt good, again probably could have hit the slows on that workout a little harder but there's plenty more workouts to fix that. ",640,2574.95,false,,
+1703274893,2018-07-15 03:40:35,EZ,Run,Post - 12 hours of work and was really humid. Felt really comfortable though. This'll def be the easiest 80 mile week I've ever done. Good I guess considering there's still a lot of mileage to work into. ,4094,16093.4,false,,
+1705622619,2018-07-15 20:15:22,Run #1,Run,Hot,2411,9656.06,false,,
+1705678477,2018-07-16 03:50:32,Second run,Run,"Not as hot but more humid. Still tough, high in the 70s every day this week, excited for that.",3327,12874.8,false,,
+1707660737,2018-07-17 01:10:49,2sp00ky,Run,"Ran well farther than I was planning on, really didn't get to feeling the long run pains though. Ran through the DPRT in the dark, a little spooky so I went out on the roads instead. Destination was farther than I thought which is why it was so long. ",5734,22852.7,false,,
+1709084635,2018-07-17 17:00:58,Libertyville run,Run,"Parked at Adler Park, a course I ran a bunch in HS. The course ends with a hill straight up from the DPR so that was always a pain in the ass, decided to hammer the hill to finish off the run for old time's sake. Overall felt pretty sore, might see if I can get 7 in tonight. ",4114,16093.4,false,,
+1710035716,2018-07-18 04:20:43,Finally a cool run,Run,"Second run, 65 degrees felt super nice. Real easy run. ",2935,11587.3,false,,
+1712303466,2018-07-18 20:05:04,Cool new loop,Run,Felt really easy and wasn't pushing at all to run 6:40s. Weather was perfect so ig it makes sense. Prolly will do this loop from Deerfield to Half Day along the DPRT a few more times. ,4617,18507.5,false,,
+1714064629,2018-07-19 18:25:14,Hot and sunny,Run,"Ran around Glenview, 85+ degrees and sunny but it was dry, so felt pretty good. Did feel pretty sore even at the start, but got through the run nonetheless. ",6702,26393.2,false,,
+1716220021,2018-07-20 22:45:48,Not often I do less than 10 a day anymore,Run,Definitely felt a little sore throughout but worked in to feeling good by the end. 100 mpw might not be as hard as I thought it was going to be :D,3997,15610.6,false,,
+1719098669,2018-07-22 03:49:14,Rainy and dark,Run,But felt good. Workout tomorrow but in terms of mileage rolling back to ~10 a day is feeling really easy. ,4736,18668.4,false,,
+1721572669,2018-07-23 03:40:03,WU,Run,"Nice and slow. 70 degrees and 100% humidity so nice but not perfect. Prolly gonna try to do some more runs at this same slow pace, esp at the start. ",1546,5793.64,false,,
+1721613884,2018-07-23 04:23:06,Holy fast workout,Run,"Probably hit it a little too hard, really tired by the end but with just a short cool down I felt very comfortable, so the humidity probably did have a fair bit to do with making it harder. Overall though I'm pretty stunned that I could hit a workout that hard at the end of my highest mileage week ever. 
+
+Based on the time, if my slows were 7min pace average (a slightly conservative guess w/ accel/decel factored in) that means the fasts averaged 4:45. That probably makes sense given that my quarter split at the start was 69 and by the end they were 73-74. Last few fasts and slows were a lot slower. Mile splits were 5:15-5:28-5:34-5:40-5:43-73(1/4), fast pace per mile was 4:00-3:43-3:34-3:40-3:43, which more or less suggests that the pace was actually pretty even throughout. 
+
+Overall really proud of this workout, best solo summer workout in college. Doing 20 mins of work under 5k pace on the road suggests I'm actually in pretty damn good shape; it was hard but not completely exhausting. Racing at Detweiller Friday, hoping to break 15 and going for the win. Sorry for the long post, this log is my only training partner at this point :P",1740,8485.63,false,,
+1721615113,2018-07-23 04:53:45,CD,Run,Lmao. Just getting to 90 before midnight. ,235,879.5,false,,
+1723238659,2018-07-23 18:50:28,Dehydrated guy,Run,Definitely was pretty dehydrated between the humidity and just not drinking enough. Felt good otherwise. ,4937,19634.0,false,,
+1725582287,2018-07-24 19:10:01,Hot but felt really fresh,Run,"85 and sunny so kinda hot, but was plenty hydrated so legs felt good. Coming back for #2 later. ",3744,14966.9,false,,
+1726056686,2018-07-25 03:30:45,Nice night,Run,"Ran in Riverwoods, felt even easier than earlier. Excited to be back running in Peoria this Friday.",3586,14162.2,false,,
+1728319359,2018-07-26 05:12:27,Glad to be done with that one,Run,"Quads in particular felt really sore. Time was just creeping by, I swear that felt longer than my 16 milers. Yesterday's runs both felt great, kinda starting to believe in a good run-bad run type of karma. Lol. ",4152,16254.4,false,,
+1730432079,2018-07-27 02:00:42,Burp guy,Run,Ate too many tacos at dinner. Felt really easy other than incessant burps and feeling like Juggz after Saturday sundaes at carlington.  ,3946,15610.6,false,,
+1732208762,2018-07-27 23:20:16,Detweiller at Dark warm up,Run,Felt p easy. Good to be back for one last glory run. ,1269,4828.03,false,,
+1732246539,2018-07-28 00:30:13,CD,Run,"First two miles were well over 9 minutes in the hills behind the park with Crispy Yuji and Scott. Sped up to 6:33 and 6:11 with Crispy for the last 2, surprised it was that fast. ",2765,9656.1,false,,
+1732251466,2018-07-28 00:00:41,Detweiller at Dark - 2nd place in a new PR,Run,"Felt pretty good, no major pains or anything, just some general soreness from all the mileage. Splits were 4:52-4:59-5:04. Definetely wasn't pushing it as much as I should have been the last mile, but I did outkick a guy to get second. Three of us broke away just after the mile, the other two were both D1 guys so pretty happy with that. Gotta focus on running that pace for an 8k - that would put me at 24:42. Happy overall, although I was looking for the win. Going for a big 2 mile PR at the Deerfield alumni run. ",895,4828.0,false,,
+1734173364,2018-07-28 19:20:36,Not bad not great,Run,Felt okay at parts and kinda weak at others. Hopefully this means the LR tomorrow will feel good. ,4430,17541.8,false,,
+1736937973,2018-07-29 22:45:28,New longest run,Run,"Felt pretty easy, closed the last 6 in good old 6:22 pace after staying close to 7 for the first 11. Felt good the whole time, last half mile was sub 3, didn't think it was nearly that fast. Esp good since I raced two days ago and spent all day today in a car. Excited for the season to start. ",6857,27358.8,false,,
+1738897085,2018-07-30 22:10:58,Ouchy,Run,"Faster you run faster you're done, and boy was I ready to be done. Nothing in particular hurts, just soreness. Not a good run but I do want to remind myself how great it is that I haven't had any specific and asymmetric pains in over a month. Ready for this cutback week. ",3303,13196.6,false,,
+1741571405,2018-08-01 02:50:31,T-bone steak,Run,"Ran past a t-bone crash at 41 and Park so all the trucks were getting rerouted down a sidestreet. One truck got stuck on a curb and this woman was yelling ""you can do it"" at the driver for a good couple minutes. Pretty trippy to see that at 10:30pm. Also my dog got skunked so that's a fun thing to come home to. 
+
+(Long text for my reference to follow) Gonna try out a new system of general race ratings with a simple 0-5 rating. I figure this can help me mentally categorize every race I do to better understand how to react to them in relation to previous races, for better and worse:
+0: effectively N/A - DNF for an obvious and physically treatable reason (7/4/2017 10k - arch and shin problems, DNF
+1: Very disappointing - need for training reevaluation and major refocus (XC regionals 2017, Indoor conference 2018)
+
+2: Dissatisfying - indicative of some need to refocus (LaX and Eau Claire 2017)
+
+3: Satisfying - headed in the right direction, need to focus in on racing tactics and other minor details (XC conference 2017)
+
+4: Motivating - right in line with the trajectory towards my biggest goals (DKM2KCR 2017, Tommie Showcase 2018)
+
+5: Unprecedented improvement - ""what just happened"" moment (MIAC Outdoor 1500 2016, MIAC Indoor 3000 2017) 
+
+This summer I've hit 3's on the Memorial day 5k and the Fourth of July 10k, and a 4 on Detweiller at Dark. I'm due for a 5 at some point this season, but if I continue to hit 4's I think I'll be in position to get AA without even needing a 5. 
+
+Anyway that's enough of that, hopefully I'll remember this post and the rating system throughout the next 3.5 months. ",4258,16898.1,false,,
+1743953714,2018-08-02 02:10:29,Okay workout,Run,"Only 24x30"". It was p humid out and I was wearing shoes that I'm now done running in, so the balls of my feet were sore before the wu was even over. Otherwise just felt kinda heavy. Workout got done satisfactorily, although I would have liked to finish all 30, but I can't expect to light the world on fire with every race and workout I do.  ",3904,16093.4,false,,
+1745910814,2018-08-02 22:21:36,Looks like someone's pretty bad at paving roads,Run,"This dumbo paved his road with grass. 
+
+Anyway a pretty good day, first time under 6:40 for a while but it felt super easy to do it. Picked up a new free pair of Peg 35s today with my certificate, definetely would recommend. Had some arch pain the first few miles but they feel fully broken in by now. Otherwise I just felt tired, not sore or anything, just like I need a nap. Might do that. ",3721,15127.8,false,,
+1746193269,2018-08-03 03:35:12,Running again,Run,This running thing's gettin kinda old lol,2202,8690.46,false,,
+1748120655,2018-08-04 03:55:54,Peg 35s are dope,Run,"Nike took a really good shoe in the 34 and made it a little lighter and faster. Also the pair was free so the price was right. Really late run and felt a little tired, but no soreness otherwise. Doing 75mpw is making me start to feel like kind of a lazy ass haha",3738,14966.9,false,,
+1750433396,2018-08-05 04:00:25,Stiff where I should be stiff and stiff where I should be limber,Run,"Got started super late, was at work from 10 to 10 and it was also miserably hot out earlier. Listened to a podcast w Ben Flanagan and wouldn't ya guess, the first fan question was Bradley Brodsky asking about a damn pair of jeans. Felt a little stiff at the start but really good for the second half of the run. ",3294,13196.6,false,,
+1753015381,2018-08-06 01:20:55,Pre-LR tacos,Run,"Busy all day, up at a resort in Wisconsin for a few days. Didn't get the chance to run until after a late dinner, got some spicy tacos which really came back to bite in those middle miles. Pretty hot and humid outside and the AC was broken in the fitness room, so kinda hot but felt fine other than GI stuff. 
+
+Super pretty up here, gonna try to frontload some miles for this week of 95. ",5726,22530.8,false,,
+1754898206,2018-08-06 22:05:13,Wisconsin is flat = fake news,Run,"Ran on some country roads, super hilly. Actually felt pretty good considering, last mile was probably 6:15. ",4852,19312.1,false,,
+1756059583,2018-08-06 19:15:34,Morning Ride,Ride,w family ,4200,22530.8,false,,
+1756587074,2018-08-07 17:05:03,Afternoon Run,Run,First run of the day done,4070,16093.4,false,,
+1757233075,2018-08-07 23:00:56,Back at it,Run,"Felt a lot better than earlier. Already over 30 miles this week, as planned, that 100 next week is looking less and less intimidating. ",3454,13679.4,false,,
+1759763095,2018-08-08 15:45:40,Final day in Wisco,Run,"Now I've run 30 miles in 24 hours, def getting a little boring. Arms were kinda sore from jet skiing but otherwise felt good. ",4704,18507.5,false,,
+1761853621,2018-08-10 01:45:30,Dark again,Run,Was busy all day so didn't run until after a combo from Portillos at dinner. Somehow managed to feel good even with all that Italian beef and sausage in me. Legs were a little sore but felt stronger than expected aerobically. ,4865,19312.1,false,,
+1763797143,2018-08-11 03:55:25,Race tomorrow I guess,Run,"Field of Deer alumni run tomorrow, assuming I feel good I'm going to take it from the gun and see how low I can go. Course is ostensibly 2 miles but it's never super accurate. Ran over on the course tonight and it was pretty rough terrain, but I should be able to go under 9:50 without too much issue. ",3772,14966.9,false,,
+1765425796,2018-08-11 14:20:25,WU,Run,"",1273,4828.03,false,,
+1765449392,2018-08-11 15:00:08,2018 Deerfield Alumni run - a close call but got the W,Run,"First off time doesn't matter even a little bit, the coach who always measures the course is notoriously inaccurate. Also the course went on more pavement than ever and we got sent around a tree in some deep brush and almost tripped going around both times. 
+
+The field was much deeper than ever, 13x winner Jeff Bailey was back and gave me a run for my money, he was 5 seconds back. He won it his first time in 2000 and has won every year that he has raced since, so this was his first time not winning, including against many D1 athletes. 
+
+Alumni won the race finishing 1-2-4-5-6 which was good, also the women's winner was the 2002 FootLocker HS champ Erika Odlaug. Overall reasonably happy, a more impressive run than last year but not as good as Det@dark. 
+
+I'll give this baby a 3 - not bad but not great. ",615,3218.7,false,,
+1765790569,2018-08-11 20:30:15,Afternoon Run,Run,"",3961,15610.6,false,,
+1768396325,2018-08-12 21:30:45,North by Northwestern,Run,"Started on Sheridan road at the beach south of Northwestern and ran north on that same road all the way to Westleigh in Lake Forest. 
+
+Whole run felt really good and easy, didn't sweat very much despite it being 85 degrees. Picked it up a little for the last few, clocked my last mile around 6:20. If anything I might have gone a little over 17 but no biggie. Also song recommendation is The Remedy by Polaris. That shit is a banger. ",6849,27358.8,false,,
+1770155003,2018-08-13 19:42:43,21st bday recovery drink,Run,"90 degrees, doesn't even feel that ridiculously hot anymore. Ran through Ryerson because it's finally been dry enough out. Was good. ",4920,19634.0,false,,
+1772442820,2018-08-14 19:40:43,T-13 days till precamp,Run,"",3789,14966.9,false,,
+1772981367,2018-08-15 03:00:52,Night Run,Run,"",3688,14001.3,false,,
+1775130709,2018-08-15 22:37:50,Lake and bake,Run,"Tryna do a tracks and back equivalent but doesn't really work. 80 degrees felt pretty cool compared to what it's been.
+
+In the last 24 hours I've developed a fair bit of congestion, very cognizant of that and will call the doc tomorrow first thing. However, the run felt really good, maybe I'll wake up feeling 100% again. If I'm gonna get a slight cold though now wouldn't be the worst time. Still holding out for best case scenario though",4839,19312.1,false,,
+1777251847,2018-08-16 20:55:14,Sickness day 2,Run,"Feeling marginally better. Basically only have sinus congestion, no respiratory problems and no signs of actual sickness. Felt less achy too. Seeing the doc next week to be safe, but it's looking like this'll pass on it's own. Doubling back tonight. ",4658,18507.5,false,,
+1777577915,2018-08-17 03:50:46,Late night,Run,Feeling a little better...?,2720,10460.7,false,,
+1779090734,2018-08-17 19:20:25,Less sick but not fun,Run,"Ultimately it's really positive that my congestion is much better, but for some other reason I just felt tired and crazy sweaty on that run even without much heat or humidity. Oh well, hopefully the LR tomorrow will be better",4356,17380.9,false,,
+1781659591,2018-08-18 22:11:03,D@nk LR,Run,"""That was beast""- every cool guy ever. Actually was a pretty good run, started out in 6:30 and worked down to 6:00 by around halfway, then worked it down further. Mapped out the course beforehand, but the only milesplit I got was ~mile 15 in 5:46. Also new longest run ever. 
+
+Didn't feel that good going in to it, and honestly didn't feel amazing throughout, but it's good to know I can run 18 sub 6 on an average day. My cold is subsiding, excited for my fitness heading into the season. 
+
+Edit: half splits were about 54:45- 51:48, so second half was about 5:47 pace avg. Neato",6403,28968.2,false,,
+1784455311,2018-08-20 02:50:38,👌💯💯💯👌,Run,And that's a wrap. Ran around all the schools in town so it was kind of a nostalgic way to end a landmark week. Also I'm kinda feeling like if I can run 100mpw while doing 50+ hours of miserable work per week that anyone can lol. ,4467,17702.8,false,,
+1786601010,2018-08-21 04:00:26,EZ day,Run,Between getting off a 100 mile week and some work difficulties that I won't get into here it's probably good to take a light day. ,428,1609.34,false,,
+1788953670,2018-08-22 03:10:40,Meesa gonna be sick,Run,"Ate a really late and big dinner after getting off work. A little too much wine too. Felt really good aerobically and soreness-wise, but almost threw up a few times and decided to call it. 
+
+Been feeling a little like Centro after the Olympics, since running 100mpw was always a big goal if mine, plus I just finished my horrendous job today. Getting back into it with a double tomorrow, planning on hitting 65-70 in the next 5 days, pace for a 90 mile week. I will say that even this little bit of time easy has really put the pop back in my stride. ",2904,11426.3,false,,
+1791061204,2018-08-22 23:03:10,First 3 with some HS frosh vvv slow,Run,"First 3 were at 9 min pace, made the rest of the run feel not great. I'm figuring out that running really slow kinda screws me up for a little while, generally better to keep it where I'm comfortable, like under 7:15. In general I always feel good on the first mile tho. ",4389,16093.4,false,,
+1791283676,2018-08-23 03:54:20,Night Run,Run,"",2476,9977.93,false,,
+1793237003,2018-08-23 21:00:46,Evening Run,Run,"",1964,8046.72,false,,
+1793495963,2018-08-24 03:29:47,Night Run,Run,"Classic Bill where my two runs are titled ""Evening run"" and ""Night run"". Going to the doc tomorrow morning to refill my albuterol prescription so that should fix some of my breathing troubles. ",2694,10782.6,false,,
+1795091980,2018-08-24 20:15:39,Middle 6 w hs bubs,Run,"Geez some of these young guys know a lot about runners, like even collegiates and pros from years ago. Felt good today, emerging from the general slump I've been in so far this week. LR tomorrow morning, will do the last 6 miles as part of an HS 6min pace workout. Should be fun and not too hard. ",4592,17702.8,false,,
+1796475732,2018-08-25 12:25:00,Last 10k @5:55 as a part of HS workout,Run,Felt good considering I haven't run this early in months or years. Ran 10k at 6:00 pace but wound up running 37:00 with the last two around 11:40. Some soreness but it's good to be done. ,6481,27358.8,false,,
+1799920002,2018-08-26 20:30:50,Back with boys,Run,"Run felt alright, although it was pretty humid and all around the hills of Northfield, but it's great to be back in town. ",5491,20921.5,false,,
+1801125159,2018-08-27 14:30:59,Fully back with the boys,Run,"Started off p slow but worked down to 6:40 for the second half. Felt decent, ran with Joe starting around mile 9. ",4905,19312.1,false,,
+1802003655,2018-08-27 21:30:14,With some of the boys,Run,Almost got rained on. Nice n' slow. ,1781,6437.38,false,,
+1803273050,2018-08-28 13:20:17,State park run,Run,"Nice and easy. Light rain the whole time, so it was nice and cool. ",4380,16093.4,false,,
+1805548765,2018-08-29 14:20:05,WU,Run,Various tightness and soreness and also some breathing trouble. Beautiful day and trail though. ,1249,4828.03,false,,
+1805596816,2018-08-29 14:45:53,Tempo,Run,"Ouch. Most soreness was absolved except for some right arch pain. Probably going to avoid doing fast stuff in the pegs from now on, also was because I was walking around barefoot a bunch yesterday. 
+
+A bigger problem were asthma induced breathing difficulties that started last night. Have gotten all the medicine to deal with it but forgot to bring my rescue inhaler this morning. Was alright all things considered. ",1635,8046.72,false,,
+1805598159,2018-08-29 15:20:34,CD,Run,"",1683,6437.38,false,,
+1806663485,2018-08-29 21:00:08,Night Run,Run,Lets go. Nice n slo.  ,1838,6437.38,false,,
+1807753833,2018-08-30 14:30:33,Post wine night - ugh,Run,Actually felt pretty good. Ran a pretty cool loop around an airport and thru town. Need to check out the map to find where the dirt roads are around here. ,4619,17702.8,false,,
+1808557047,2018-08-30 20:30:59,Afternoon Run,Run,"",1270,4828.03,false,,
+1809991683,2018-08-31 14:30:06,Lunch Run,Run,"",4712,17702.8,false,,
+1810725445,2018-08-31 21:00:31,Evening Run,Run,"",1990,7242.05,false,,
+1812341951,2018-09-01 13:30:17,Well at least it's done,Run,Felt pretty good for a while but legs were gassed by around mile 12. Still managed to average under 6:05 pace for the past 10. Just glad to have this one in the books. ,6782,28968.2,false,,
+1814573863,2018-09-02 13:00:04,Another💯💯💯,Run,"With Turtle and Plumb. Last precamp run ever, ready to start the week of traditions. Felt fairly tight in my left Achilles (has been a minor issue for a while now) and right quad. Plan to go see the trainer later today or tomorrow to address those. ",4541,16898.1,false,,
+1816854218,2018-09-03 13:45:09,Misty boy,Run,"Super humid out, breathing was really heavy so I'll be paying extra close attention to that the next couple days. Went to the trainer to get my Achilles evaled and have some exercises that should remedy it. Light run and core this afternoon. ",4120,16093.4,false,,
+1817601544,2018-09-03 21:39:04,W some boys,Run,4 I guess,1660,6437.38,false,,
+1819145031,2018-09-04 13:45:58,Thundery boy,Run,"With a whole bunch of boys. Ran through a torrential tstorm during mile 3 which was pretty cool. Breathing feels noticeably better, still not 100% tho. ",3780,14484.1,false,,
+1820899860,2018-09-04 20:40:54,Inside kids,Run,Pouring rain out so did it inside. ,1310,4828.03,false,,
+1821651946,2018-09-05 13:45:07,WU,Run,"",1190,4345.23,false,,
+1821660774,2018-09-05 14:20:25,W/out,Run,"Sarisfactory workout, definitely felt like I was breathing through a straw at points, and had some general soreness from high mileage. Worked from 5:15 down close to 5:00 and below for some of the shorter intervals. Very controlled effort, probably will hit upcoming workouts a little harder than this one. ",3071,13357.6,false,,
+1821663496,2018-09-05 18:08:35,CD,Run,"",870,3218.69,false,,
+1822325074,2018-09-05 21:30:26,fOoD MaChInE 🅱️roke,Run,killing flies ,1,0.89408,false,,
+1824339178,2018-09-06 21:00:42,Day was gonk,Run,Might have actually been the nicest day of the year and felt good too. Arrrrb. ,4694,18024.7,false,,
+1826187106,2018-09-07 20:30:33,X-campus and strides,Run,"Some of these young bucks need to learn how cross campus works. Felt alright, excited to race tomorrow. Hoping to go well under 16. Strides after, grass 200s barefoot in 33 feeling easy. ",3180,12070.1,false,,
+1828274351,2018-09-08 14:10:23,WU,Run,"",1260,4828.03,false,,
+1828275324,2018-09-08 16:00:59,CD,Run,"",2220,8368.59,false,,
+1828280041,2018-09-08 15:00:41,Alumni - 3rd on a less than great day,Run,"Had some asthma problems and threw up the apple I ate which was a huge mistake. Pretty even paced but never felt particularly good. 
+
+My race wasn't great but we had a 13.4sec 1-7 split which was crazy good. Gotta get that kinda spread starting at 25:15 and we'll be looking good by nats.
+
+Rating this one a 3 out of 5 - not the worst but showing a lot of need for improvement. ",955,4989.0,false,,
+1831361643,2018-09-09 20:30:23,Evening Run,Run,"",3380,12874.8,false,,
+1833363294,2018-09-11 00:29:42,WU,Run,"",1320,4828.03,false,,
+1833363840,2018-09-11 00:37:10,CD,Run,F,900,3218.69,false,,
+1833437932,2018-09-10 21:15:38,Workout - totally bonked,Run,"Super dehydrated, although lungs felt better. 3:14, 12, 12 (all on pond loop so hillier than usual), 6x2' at 5:05-5:15, 3:11, 3:24 (bonk time), dropped the last one. Absolutely exhausted after. Just gotta make sure I'm hydrated like Saturday and have good breathing like today and I'll be ready to snack some of those Lax bubs this weekend. ",2562,11265.4,false,,
+1835546231,2018-09-11 20:30:43,Another bub run,Run,"With cathy and some other bubs. Felt like hot trash. Another wout tomorrow, should be better. ",4280,16093.4,false,,
+1837854315,2018-09-12 20:40:41,WU,Run,"",919,3540.6,false,,
+1837860596,2018-09-12 21:05:31,Workout with most of the boys,Run,"1xmile in 5:11, 2x3' 5:10-5:00, 3x2' 5:00-4:50, 4x1' faster, 6x30"" faster. Felt easy throughout, especially that mile. The heat certainly had an impact, I should be able to run this kind of pace for workouts the rest of the season. Glutes and hammies felt weak by the end with all the acceleration. Here's to hoping 5:05 pace feels this easy in the heat on Saturday. ",2536,11265.4,false,,
+1837861661,2018-09-12 22:00:02,CD,Run,"",766,2896.82,false,,
+1840077581,2018-09-13 20:30:17,Arrrb,Run,"",3928,14484.1,false,,
+1841937004,2018-09-14 20:30:00,EZ pre meet - was haut,Run,"",2645,9656.06,false,,
+1843808602,2018-09-15 15:30:38,"Go Oles, right? 8th overall, 2nd team",Run,"Way long for an 8k, plus it was 85 w 70 dew point and a really rough course. The nationally #10 ranked runner ran 26:48. Should be closer to him than 44 seconds, and definetely had a fair bit left at the end.
+
+Team race was really good. Went in unranked and finished 43-49 against No. 3 UW-Lax. Our 3-7 split was 2.9 seconds and near 15th place.  All 7 beat every other MIAC runner in the race (8/11 teams represented). Ole women turned some heads in their race too. Great day to be an Ole, but we need to stay vigilant because we're no longer flying under the radar. 
+
+4 on the scale. ",1652,8368.6,false,,
+1843982617,2018-09-15 15:00:52,WU,Run,"",900,3218.69,false,,
+1843982904,2018-09-15 16:15:36,CD,Run,"",450,1609.34,false,,
+1846752817,2018-09-16 20:40:36,2x course 2m upstairs,Run,"Back and forth on the 8k course with Primo at 7:00 pace, then alone upstairs the last 2, picked it up to 6:08-5:37 feeling v easy. A pretty good run, esp after a solid race yesterday. ",4923,19312.1,false,,
+1848797458,2018-09-17 20:30:38,Evening Run,Run,"",4288,16254.4,false,,
+1851152958,2018-09-18 20:40:22,WU,Run,"",1168,4345.23,false,,
+1851154672,2018-09-18 21:40:29,CD,Run,"",984,3540.56,false,,
+1851174651,2018-09-18 21:00:48,Workout - 4/7 boys,Run,"Other guys are doing it tomorrow. Felt pretty solid. 2x16 in 04 and 59, 2xk in 07 and 05, 2 mins at 5min effort, 1mins at 4:45 or so, possibly faster. A good and solid mid-season workout. ",2935,13035.7,false,,
+1853488570,2018-09-19 20:30:18,8ball with boys +3 w/ Elliot,Run,"",4604,17702.8,false,,
+1855543498,2018-09-20 20:35:20,Rainy roads,Run,"With a bunch of guys today. Achilles flared up a bit, will go to the trainer tomorrow morning to figure that out before the workout. Should be a good one. ",4186,16093.4,false,,
+1857075509,2018-09-21 20:35:37,WU,Run,"",1192,4506.16,false,,
+1857075510,2018-09-21 21:50:14,CD,Run,Surprisingly easy,949,3540.56,false,,
+1857080416,2018-09-21 21:00:15,W/out - all timed,Run,"3mins at 5:05, 2s a little under 5, 1s and 30s 4:40 and faster. Definetely not a great one, not bad tho. Achilles pain is better than yesterday, but still near a local min. Got a new regimen of stretches to address it. Interestingly, it didn't really affect me on the fast intervals cause I wasn't landing on my heel. Hoping it's somewhat improved by Monday for the big one. ",2559,11265.4,false,,
+1859151507,2018-09-22 20:44:13,Sore Landos,Run,Super sore from how early it was. Glad to have this one does. ,5171,19312.1,false,,
+1862063892,2018-09-23 20:35:26,Upper arb,Run,"Didn't feel great, excited for the w/out tomorrow tho. ",4249,15932.5,false,,
+1863903822,2018-09-24 20:35:53,WU,Run,"",1184,4345.23,false,,
+1863907182,2018-09-24 21:00:14,6xmile,Run,"Definetely not my best day, but not bad for 75 degs windy and humid. First two slower in 5:14 5:08, the GP for the last 4 - 4:57 5:00 58 58. Aerobically pretty easy but legs felt halfway dead. A decent workout overall. Followed by 4x200 at 34 33 32 30. ",3232,14484.1,false,,
+1863907629,2018-09-24 22:00:09,CD,Run,"",762,2735.88,false,,
+1866023171,2018-09-25 20:35:59,EZ,Run,"",3569,13196.6,false,,
+1867917640,2018-09-26 20:35:03,More than iron bridge but less than radio tower,Run,With Elliot. 60 and sunny made for a great day for a run. ,4223,16737.2,false,,
+1871263715,2018-09-27 08:55:14,X-campus,Run,"",2467,9173.26,false,,
+1871856430,2018-09-28 22:15:25,Blugold Invite - 9th ind 2nd team,Run,"Sick of losing to WIAC teams by <10 points. Individually happy, 4/5. Lots of A-As in front of me but not too many behind me. Had a little too much left, should have pushed the middle Ks more and I could have broken 25, but that'll come in time. ",1507,8046.7,false,,
+1871857384,2018-09-28 21:25:56,WU,Run,"",900,3379.62,false,,
+1871857979,2018-09-28 23:00:25,CD,Run,"",854,3218.69,false,,
+1874104568,2018-09-29 19:20:40,Upper lower arb,Run,With Pael and Crispy for a bit. Felt pretty good. LR tomorrow. ,3556,13518.5,false,,
+1876652392,2018-09-30 20:40:39,Landos,Run,Big crew out there today. Kennelled Butch's pecker with a couple ~5:40s miles 9 and 10. Felt good to roll a bit. ,4644,19312.1,false,,
+1878512206,2018-10-01 20:30:28,Pine Loop only - A mistake,Run,"",3702,14001.3,false,,
+1880656740,2018-10-02 20:20:56,WU,Run,"",1290,4988.97,false,,
+1880657354,2018-10-02 21:45:28,CD,Run,Nice n slo ,740,2574.95,false,,
+1880686040,2018-10-02 20:50:36,Workout - a solid one,Run,"1x2400 in 7:33, 1600 in 4:57, 1200 in 3:38 (oops), 2x800 in 2:29, 4x1', 4x30"" at 5k pace and faster. Def wasn't too bad, felt smooth the whole way. Some filthy Carls showed up during the 12 tho, F. ",2821,12552.9,false,,
+1882709014,2018-10-03 20:30:44,Reversal on the Carls,Run,"Passed some bub Carls during their workout, after the opposite happened yesterday. Mostly with Elliot, felt fairly easy despite the humidity. ",3716,14001.3,false,,
+1884618249,2018-10-04 20:50:46,My legs are garbage,Run,"Violin Place (aka Maple House) with a bunch of boys. Felt v sore the whole time, should be a good one tomorrow though. ",3881,14484.1,false,,
+1886478596,2018-10-05 20:35:04,WU,Run,"",1163,4506.16,false,,
+1886480774,2018-10-05 21:30:49,CD,Run,With Crispo. Nice and slow,1598,5632.7,false,,
+1886488041,2018-10-05 21:10:27,Workout - perfect math,Run,"1x16, 2x8, 4x4, 8x2. Pretty short workout but works out well mathematically. 4:54, 2:27, 2:28, 70s and 34s. ",2768,10138.9,false,,
+1888796900,2018-10-06 20:30:12,All over the place,Run,Practice with the 3:30 boys. Felt alright at the beginning but felt the soreness coming on throughout. ,4373,16737.2,false,,
+1890416905,2018-10-07 14:30:16,W 15min tempo,Run,"Tempo at about 5:30 pace in the upper arb. Felt kinda crappy, but saw that coming given I'd just woken up. ",3960,16093.4,false,,
+1892958015,2018-10-08 20:30:35,8 ball kinda day,Run,Nice and easy,3422,12958.1,false,,
+1895179723,2018-10-09 20:40:47,WU,Run,Felt pretty solid actually given that it's pouring rain windy and super muddy. ,1409,5471.77,false,,
+1895180311,2018-10-09 21:30:50,CD,Run,Updoors track cause I'm not about to run outside again,594,2092.15,false,,
+1895184373,2018-10-10 00:05:41,Workout - killed it in the rain and mud,Run,"Felt pretty solid the whole way. 10', 6', 4', 4x2', 4x30s. Longer reps were at or under 5 min pace mostly on very muddy and windy roads. 2mins were getting quick, down close to 4:40 probably. 30s were maybe a smidge faster. A good day esp given how horrible the conditions were. ",2492,12153.0,false,,
+1897189537,2018-10-10 20:35:58,Nice and slow,Run,Arrrb,3092,11265.4,false,,
+1899054361,2018-10-11 20:55:57,The winds of November came early,Run,8 ball with some 30s incorporated. Hit em a little too fast but felt comfortable. Wind chill was <30. Should be a little warmer for Lax on Saturday. ,3405,13518.5,false,,
+1901052882,2018-10-12 20:30:45,X-campus and strides,Run,"Actually felt pretty solid. Lots of traditions today, was fun. ",2615,9656.06,false,,
+1902828819,2018-10-13 20:23:53,WU,Run,"",900,3379.62,false,,
+1905075260,2018-10-13 16:40:01,"""If this is the new Bill Anderson blowup, that's fine by me"" - Bretscher",Run,"Definetely pretty disappointed with this effort. Finished 15th overall and behind 3 LaX guys which absolutely shouldn't be happening. Felt mentally disengaged even before the race started, so this was purely a showcase of physical fitness, which is pretty good. Therefore it wasn't surprising that I felt less winded by the end than I have in any race for months or years. Have a big ol' chip on my shoulder tho heading into conference. ",1542,8046.72,false,,
+1905077746,2018-10-13 17:25:18,CD,Run,"",867,3218.69,false,,
+1906803389,2018-10-14 20:30:05,Adventure run,Run,"Run around the roads by the HS. Felt pretty solid, nice to get to some different places. Also it snowed in early October, damn...",3906,14806.0,false,,
+1907374055,2018-10-15 20:30:27,8 ball again,Run,"",3321,13035.7,false,,
+1909659513,2018-10-16 20:40:10,WU,Run,"",1270,4988.97,false,,
+1909659669,2018-10-16 21:55:22,CD,Run,"",793,2735.9,false,,
+1909661160,2018-10-16 21:05:32,Workout - looks like winter only lasted 2 days,Run,"Felt pretty lethargic from the long weekend of rest. 2x6', 3x3', 3xhill. All at or under 5:00 pace (hills were just a bit over). Really windy today so that pace was proper effort. ",2679,11748.2,false,,
+1911649118,2018-10-17 20:30:17,Arb Wednesdays,Run,"",3596,14001.3,false,,
+1913348216,2018-10-18 20:50:09,Slorthwest Roads,Run,Nothing notable about this one. Lol. ,3048,11265.4,false,,
+1915199047,2018-10-19 20:30:48,WU,Run,"",1233,4667.1,false,,
+1915199699,2018-10-19 21:30:32,CD,Run,"",740,2735.88,false,,
+1915202367,2018-10-19 21:00:55,Windy and Lonely,Run,"""Lonely Day""
+
+Such a lonely day
+And it's mine
+The most loneliest day of my life
+
+Such a lonely day
+Should be banned
+It's a day that I can't stand
+
+The most loneliest day of my life
+The most loneliest day of my life
+
+Such a lonely day
+Shouldn't exist
+It's a day that I'll never miss
+Such a lonely day
+And it's mine
+The most loneliest day of my life
+
+And if you go, I wanna go with you
+And if you die, I wanna die with you
+
+Take your hand and walk away
+
+The most loneliest day of my life
+The most loneliest day of my life
+The most loneliest day of my life
+Life
+
+Such a lonely day
+And it's mine
+It's a day that I'm glad I survived
+
+",2490,11587.3,false,,
+1916654061,2018-10-20 14:55:16,Pre-Todd run,Run,"",2588,10299.8,false,,
+1920045615,2018-10-21 20:30:14,Afternoon Run,Run,"",4203,15932.5,false,,
+1921583512,2018-10-22 20:30:36,Thinkin bout Conference...,Run,"",2964,11587.3,false,,
+1923778330,2018-10-23 20:30:12,WU,Run,"",899,3540.56,false,,
+1923779848,2018-10-23 21:00:00,Workout - short and fast,Run,"Mile 4:49, 8s in 23 and 22, quarters in 72 and 30s a bit faster. Felt pretty solid, a beautiful day. ",1376,6598.31,false,,
+1923780453,2018-10-23 21:30:04,CD,Run,"",733,2574.95,false,,
+1925841665,2018-10-24 20:30:52,Oh yeah,Run,Almost forgot I did this lol,2558,9656.06,false,,
+1927523606,2018-10-25 21:00:51,WU,Run,"",1261,4667.1,false,,
+1927667147,2018-10-25 21:30:02,Workout lol,Run,"",660,3057.75,false,,
+1927667804,2018-10-25 21:50:36,CD,Run,"",935,3379.62,false,,
+1929187077,2018-10-26 20:30:02,X-campus,Run,A good one. Prospy visit day at Carleton so it might be a repeat of last time we got banned haha. ,2625,9656.06,false,,
+1930682502,2018-10-27 16:10:26,WU,Run,"",921,3379.62,false,,
+1930873555,2018-10-27 17:00:15,Afternoon Run,Run,"",1549,8046.72,false,,
+1930875897,2018-10-27 17:27:02,CD,Run,"",704,2735.88,false,,
+1933230264,2018-10-28 20:30:34,Feeling good in the arb,Run,Time to start the grind in preparation for the natty tournament. ,2908,11265.4,false,,
+1935055438,2018-10-29 20:30:10,8 ball with a good squad,Run,"",3275,12874.8,false,,
+1936840238,2018-10-30 20:30:55,2x10min tempo in the Carl's Arb,Run,"Honestly didn't feel great, esp on the first one, but still kept the pace solid without pushing. First one started out around 5:20 and slowed, second one started at 5:40 on the slowest section of the course and ramped it up, close to 5' pace for the last couple minutes. ",4176,16898.1,false,,
+1940012308,2018-10-31 20:30:11,Karhu cross campus plus 3,Run,"",3043,11587.3,false,,
+1940555923,2018-11-01 21:10:00,Run around Karhu and the classic lib run,Run,"",4362,16254.4,false,,
+1942283297,2018-11-02 20:40:36,WU,Run,"",1008,3862.43,false,,
+1942289332,2018-11-02 21:00:40,Workout,Run,"Lots of high school bubs on the course for the state meet tomorrow. 6' 4' 3' 6x1' 8x30"". Longer stuff was about 4:55, minutes and 30s 4:40 -> 4:30. ",2320,10782.6,false,,
+1942289656,2018-11-02 21:45:51,WU,Run,"",941,3379.62,false,,
+1944046428,2018-11-03 18:50:47,State meet day,Run,"",2414,9656.06,false,,
+1946690573,2018-11-04 21:30:36,Another solo,Run,Felt solid. 6 more days. ,2877,11265.4,false,,
+1948712285,2018-11-05 21:30:04,Workout total,Run,"4', 3', 2x1', 4x30"". Felt real good, the taper's starting to really kick in just in time. Starting to realize how small my time capsule is. Need to savor every one of these last days and live them to the fullest. ",2819,11587.3,false,,
+1950579974,2018-11-06 21:30:09,Shlort arb,Run,"",2919,10782.6,false,,
+1952465749,2018-11-07 21:30:54,Pre-regions workout,Run,Includes warm up and cool down. Felt really easy. ,2480,10299.8,false,,
+1955000691,2018-11-08 09:30:52,Cross campus 2 days out,Run,"",2505,9173.26,false,,
+1955503879,2018-11-09 20:20:26,Pre race,Run,"",1853,6920.18,false,,
+1957652250,2018-11-10 17:10:10,WU/CD,Run,"",1740,6437.38,false,,
+1957656131,2018-11-10 06:00:55,F.,Run,"It's good to be in a place where 25:30 is disappointing, but only one xc race left ever. First runner for the Oles again, but only got 22nd which is p embarrassing. Got out way too hard and had some asthma issues so lost all motivation from about a mile to 400 to go. 3/5. 
+
+Did have some semblance of ye old Bill kick with passing like 8 guys in the last 400, but I'm planning on kicking my way right the hell into AA seven days from now. It has to be the greatest race of my life. ",1530,8046.72,false,,
+1959903991,2018-11-11 21:40:28,Night Run,Run,"",3060,11265.4,false,,
+1963370761,2018-11-12 21:30:53,Short run szn,Run,Nothing makes ya feel fast like 4 miles at 7:30 pace,1786,6437.38,false,,
+1963373492,2018-11-13 21:30:06,Last cross country workout ever,Run,"5x45"", 3x90"", 3'. All a bit fast, last minute was way faster. I intend for the last minute of this weekend to be at least that fast. Lots of recovery so felt very easy. ",2581,10460.7,false,,
+1965369991,2018-11-14 21:30:15,Sharb,Run,"",2798,10460.7,false,,
+1966885108,2018-11-15 21:29:10,Singing to no one,Run,"Cross campus in the morning, sang to the football team but of course nobody was there. No sleep till Oshkosh. ",2505,9173.26,false,,
+1968843845,2018-11-16 17:00:44,Pre - last XC race ever,Run,Here we go. ,1820,6598.31,false,,
+1979153246,2018-11-22 14:00:47,"Well, finally got the W",Run,Really slow time but it was a slow course and ran alone from 800 meters. As it turns out the guy who was second by 20 seconds ran 24:55 this season and beat me by 7 seconds at nats. ,972,4989.0,false,,
+1979182800,2018-11-22 16:43:31,Other mileage lol,Run,"Won a second ""turkey trot"" at another DF alum's house with a ton of other Deerfield runners and alumni. Also WU and a few more miles with some guys. ",3784,13840.4,false,,
+1988008659,2018-11-26 21:30:32,Back to mileage,Run,"",2798,10621.7,false,,
+1988859598,2018-11-27 21:30:15,Haven't run an hour straight in a while :/,Run,"",3695,14484.1,false,,
+1990470903,2018-11-28 21:30:44,Winter routes szn,Run,Quick pre-SOCCMBPR run through the snow on Bryce with Plumb. Been feeling easy all week so far. ,3027,12070.1,false,,
+1992003582,2018-11-29 21:50:40,Bryce again,Run,A little underdressed but nothing too bad. A good n' fun week of running so far. ,3166,12231.0,false,,
+1993567113,2018-11-30 21:30:33,NW roads this time,Run,"With Primo and Butters, kinda dripped the hammer on the way back, felt nice to get the legs moving below 6:30 for a while. ",2394,9656.06,false,,
+1998231719,2018-12-01 21:30:19,Pre-Christmas Fest ABR,Run,Forgot to post before. Drunk dinner with fam was tons of fun lol. ,3600,12874.8,false,,
+1998234005,2018-12-02 09:30:36,Short Bryce,Run,"",2627,10138.9,false,,
+1998935840,2018-12-03 21:30:25,Bryce followed by a brutal bell lap,Run,"The winter standard. Nice and slow for most of it. Bell lap upstairs with Primo and Crispy, all out the whole thing, did an upstairs lap in 40, 55sec quarter pace. ",3478,13035.7,false,,
+2000931372,2018-12-04 21:30:17,Ole Rolvaag's grave and first tempo this cycle,Run,"Search for Ole Rolvaag today, nobody new found it this year haha. All that standing around got me kinda cold for the tempo w/ Turtle, 15 mins at 5:17 pace. A solid effort, especially given the ice and snow and how tight I was at the start, but definitely apparent that it was my first tempo in at least a month. ",3603,14806.0,false,,
+2002607516,2018-12-05 21:30:23,New route (Dunderson?),Run,"Run through Dundas and back along Jefferson. Brand new Pegs looked pretty fly, but arches did hurt a bit for the first few miles as I expected. ",3754,14484.1,false,,
+2004206489,2018-12-06 21:30:17,Nibs!,Run,"Run was fine, did Bryce again. Saw Nibs beforehand, was gud. ",3331,12874.8,false,,
