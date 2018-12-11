@@ -230,21 +230,21 @@ colnames(visnet)[colnames(visnet)=="giver"] <- "from"
 colnames(visnet)[colnames(visnet)=="person"] <- "to"
 colnames(visnet)[colnames(visnet)=="percentage"] <- "weight"
 visnet$value = visnet$weight
-visnet$color = c("red","red","red","red","blue","blue","blue","blue","green","green","green","green","orange","orange","orange","orange","pink","pink","pink","pink")
-visnet$length = c(100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100)
-visnet$dashes = c(TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE)
+visnet$color = c("red","red","red","red","red","blue","blue","blue","blue","blue","green","green","green","green","green","orange","orange","orange","orange","orange","pink","pink","pink","pink","pink", "black", "black","black","black","black")
+visnet$length = c(100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100)
+visnet$dashes = c(TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE)
 
 nodes$x <- c(1, 0, -1, 0, 1.5)*100
 nodes$y <- c(0, 1, 0, -1, 1.5)*100
-nodes<-tibble(id=1:5,
-       label=c("finn", "jack", "justin", "mowg", "plumb"))  
+nodes<-tibble(id=1:6,
+       label=c("finn", "jack", "justin", "mowg", "plumb", "bill"))  
 
 visNetwork(nodes, visnet) %>%
   visEdges(smooth=TRUE) %>%
     visNodes(fixed=FALSE, shape = "circle", color = c(highlight = "purple"))
 
-
-
+write.csv(nodes, "nodes.csv")
+write.csv(visnet, "visnet.csv")
 ```
 
 ```{r}
