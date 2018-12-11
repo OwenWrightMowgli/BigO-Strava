@@ -99,9 +99,20 @@ Plumb_run<-read_csv("Plumb/activities.csv")%>%
   mutate(person="5",
          name="Plumb",
          count=761)
+Bill_run<-read_csv("Bill/activities.csv")%>%
+  filter(type=="Run",
+         date>"2018-6-01")%>%
+  mutate(miles=distance/1609,
+         minutes=elapsed_time/60,
+         pace=minutes/miles)%>%
+  filter(pace<10)%>%
+  select(-type,-gear, -commute)%>%
+  mutate(person="Bill",
+         name="Bill",
+         count=253)
 
 all_activities<-Elliot_run%>%
-  rbind(Justin_run, Birdo_run, Mowgli_run, Jackson_run, Finn_run, Plumb_run)%>%
+  rbind(Justin_run, Birdo_run, Mowgli_run, Jackson_run, Finn_run, Plumb_run, Bill_run)%>%
   select(-filename)
 
 
@@ -276,6 +287,7 @@ PR <- PR %>%
   )
 
 PR
+
 ggplot(data = all_activities, mapping = aes(x = pace)) +
   geom_density(aes(fill=name))
 #If we do Shiny we could have the ability to click and unclick names since there is overlapping.
@@ -296,16 +308,8 @@ ggplot(pr_zones) +
 ggplot(pr_zones) +
   geom_point(aes(x=total, y = best_time)) 
 
-ggplot()+
-  geom_smooth(aes(x = Jackson_run$date, y=Jackson_run$pace, color = "red")) +
-  geom_smooth(aes(x = Justin_run$date, y=Justin_run$pace, color = "blue")) +
-geom_smooth(aes(x = Elliot_run$date, y=Elliot_run$pace, color="green")) +
-  geom_smooth(aes(x = Finn_run$date, y=Finn_run$pace, color = "purple")) +
-  geom_smooth(aes(x = Mowgli_run$date, y=Mowgli_run$pace)) 
-  
 
-
-all_activities%>%
+pace_by_date<-all_activities%>%
   group_by(name)%>%
   ggplot(aes(x=date, y=pace, color=name))+
   geom_smooth(se=FALSE)
