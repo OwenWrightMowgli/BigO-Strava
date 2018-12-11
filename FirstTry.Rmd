@@ -1,0 +1,63 @@
+---
+title: "Shiny"
+author: "Owen Wright"
+date: "12/11/2018"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(igraph)
+library(tm)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+library(visNetwork)
+library(networkD3)
+library(plotly)
+```
+
+```{r, echo=FALSE}
+all_activities <- read_csv("All_Activities.csv")
+all_kudos <- read_csv("AllKudos.csv")
+paces_prs <- read_csv("Paces_PRs.csv")
+
+```
+
+
+```{r, echo=FALSE}
+inputPanel(
+  selectInput("variable", label = "x-axis variables:",
+    choices = c("Mileage" = "total",
+                "Average Pace" = "avg_pace",
+                "Average Distance" = "avg_distance",
+                "# of 12+ mi runs" = "num_long",
+                "# of easy runs" = "real_easy",
+                "# of fast runs" = "tempo"), selected="total")
+)
+
+renderPlotly(
+    ggplot(data=paces_prs, mapping=aes_string(x=input$variable, y="improvement", color="name")) + 
+      geom_point())
+```
+
+```{r, echo=FALSE}
+g <- ggplot(data = all_activities, mapping = aes(x = pace)) +
+  geom_density(aes(fill=name))
+ggplotly(g)
+```
+
+```{r, echo=FALSE}
+d<-all_activities%>%
+  group_by(name)%>%
+  ggplot(aes(x=date, y=pace, color=name))+
+  geom_smooth(se=FALSE)
+ggplotly(d)
+```
+
+```{r}
+
+```
+
