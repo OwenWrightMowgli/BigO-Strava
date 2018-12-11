@@ -15,6 +15,7 @@ library(wordcloud)
 library(RColorBrewer)
 library(visNetwork)
 library(networkD3)
+library(plotly)
 ```
 
 #activities imports, adding names as a column to aid in our kudos network
@@ -266,7 +267,7 @@ times[5] <- 25.67
 times[6] <- 28.91
 times[7] <- 25.65
 times[8] <- 25.11
-
+times[9] <- 28.2
 
 times2 <- 1:8
 times2[1] <- 29.020
@@ -277,36 +278,33 @@ times2[5] <- 26.25
 times2[6] <- 26.25
 times2[7] <- 26.88
 times2[8] <- 26.48
+times2[9] <- 28.83
 #3 = justin, 4 = mowgli, 1 = finn, 2 = jackson, 5 = plumb
 
 
-PR <- tibble(name = c("Finn","Jackson","Justin","Mowgli","Plumb", "Birdo", "Elliot", "Bill"), best_2018 = times, best_2017 = times2)
+PR <- tibble(name = c("Finn","Jackson","Justin","Mowgli","Plumb", "Birdo", "Elliot", "Bill", "Liam"), best_2018 = times, best_2017 = times2)
 PR <- PR %>%
   mutate(
     improvement = best_2017 -best_2018
   )
 
+left_join(pace_zones, PR)
+
+
 PR
 
-ggplot(data = all_activities, mapping = aes(x = pace)) +
+g <- ggplot(data = all_activities, mapping = aes(x = pace)) +
   geom_density(aes(fill=name))
 #If we do Shiny we could have the ability to click and unclick names since there is overlapping.
+ggplotly(g)
 
 
-ggplot(data = pace_zones, mapping = aes(x=person)) +
-  geom_point(aes(y= avg_pace))
-
-ggplot(pace_zones, aes(x = person, y = num, fill = easy)) + 
-  geom_bar(stat = "identity")
 
 pr_zones <- left_join(pace_zones, PR)
-pr_zones
-
-ggplot(pr_zones) +
-  geom_point(aes(x=avg_pace, y = best_time))
 
 ggplot(pr_zones) +
   geom_point(aes(x=total, y = best_time)) 
+
 
 
 pace_by_date<-all_activities%>%
@@ -315,8 +313,6 @@ pace_by_date<-all_activities%>%
   geom_smooth(se=FALSE)
 
 
-left_join(all_activities, )
-  
-plot(Jackson_run$miles ~ Jackson_run$date, xaxt = "n", type = "l") 
+
 ```
 #turning what qualifies as "fast" into a statistic thats athlete specific?
