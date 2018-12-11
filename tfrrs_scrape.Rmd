@@ -16,6 +16,7 @@ output: html_document
 ```{r setup, include=FALSE}
 library(rvest)
 library(stringr)
+library(tidyverse)
 ```
 Justin  !
 Jackson !
@@ -39,16 +40,13 @@ https://maxcandocia.com/article/2017/Sep/22/converting-garmin-fit-to-csv/
 ```{r}
 
 scraper <- function(x){
-url <- "https://www.tfrrs.org/athletes/5990267/St_Olaf/Jackson_Simon.html" 
-
+url <- x
 web <- read_html(url)
 data <- html_nodes(web, ".xc .panel-heading-normal-text , .xc .panel-heading-text")
 data_strp <- str_replace_all(html_text(data), '\n','') 
 data_strp <- str_replace_all(data_strp, '\t','')
 data_strp <- str_replace_all(data_strp, "\\.",'')
 data_strp <- str_replace_all(data_strp, ':', '\\.')
-data_strp
-
 
 # 1 = meet + date, 2 = distance, 3 = time, 4 = place 
 meet_name <- 0:4
@@ -64,52 +62,29 @@ for(i in seq(1, 42, by=4)){
   place[k] = data_strp[i+3]
 k <- k + 1  
 }
+val <- data.frame(meet_name, distance, time, place)
+return(val)
 }
+justin <- scraper("https://www.tfrrs.org/athletes/5492056/St_Olaf/Justin_Furcich.html")
+owen <- scraper("https://www.tfrrs.org/athletes/5990269/St_Olaf/Owen_Wright.html")
+jack <- scraper("https://www.tfrrs.org/athletes/5990267/St_Olaf/Jackson_Simon.html")
+finn <- scraper("https://www.tfrrs.org/athletes/6430274/St_Olaf/Michael_Finn.html")
+elliot <- scraper("https://www.tfrrs.org/athletes/5990262/St_Olaf/Elliot_Kadrofske.html")
+plumb <- scraper("https://xc.tfrrs.org/athletes/5492067.html")
+birdo <- scraper("https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html")
 
-justin <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
 #https://www.tfrrs.org/athletes/5492056/St_Olaf/Justin_Furcich.html
-mowg <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place)) #https://www.tfrrs.org/athletes/5990269/St_Olaf/Owen_Wright.html
-milk <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
+#https://www.tfrrs.org/athletes/5990269/St_Olaf/Owen_Wright.html
 #https://www.tfrrs.org/athletes/5990267/St_Olaf/Jackson_Simon.html
-finn <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
 #https://www.tfrrs.org/athletes/6430274/St_Olaf/Michael_Finn.html
-plum <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
-  #https://xc.tfrrs.org/athletes/5492067.html
-iron_dog <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
-  #https://www.tfrrs.org/athletes/5990262/St_Olaf/Elliot_Kadrofske.html
-birdo <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
-  #https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html
+#Plumb
+#https://xc.tfrrs.org/athletes/5492067.html
+#https://www.tfrrs.org/athletes/5990262/St_Olaf/Elliot_Kadrofske.html
+#https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html
 
-jack <- data.frame(meet = meet_name,distance = distance,time = as.numeric(as.character(time)), place = place)
-
-
-
-times <- 1:8
-times[1] <- 27.520
-times[2] <- 27.15
-times[3] <- 25.4
-times[4] <- 27.33
-times[5] <- 25.67
-times[6] <- 28.91
-times[7] <- 25.65
-times[8] <- 25.11
-
-
-times2 <- 1:8
-times2[1] <- 29.020
-times2[2] <- 27.7
-times2[3] <- 26.3
-times2[4] <- 27.133
-times2[5] <- 26.25
-times2[6] <- 26.25
-times2[7] <- 26.88
-times2[8] <- 26.48
-#3 = justin, 4 = mowgli, 1 = finn, 2 = jackson, 5 = plumb
-
-
-PR <- tibble(person = c(1:5, "birdo", "ell", "bill"), best_2018 = times, best_2017 = times2)
-
-
-PR
+sca <- list(justin, owen, jack, finn, elliot, plumb, birdo)
+write.csv(sca,"test.csv")
+test <- read.csv("test.csv")
+test
 ```
 

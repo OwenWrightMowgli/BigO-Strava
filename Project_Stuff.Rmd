@@ -119,6 +119,7 @@ all_activities<-Elliot_run%>%
 
 ## WORD CLOUD http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
 word <- function(runner, runner_n, runner_des){
+file.remove("out.txt")
 for(i in 1:count(runner)[[1]]){
   write(runner_n[i], file="out.txt", append=TRUE)
   write(runner_des[i],file="out.txt",append=TRUE)
@@ -243,7 +244,7 @@ net_matrix
 
 pace_zones <- all_activities%>%
   filter(pace < 10) %>%
-  group_by(person)%>%
+  group_by(name)%>%
   summarise(avg_pace=mean(pace),
             variability=sd(pace),
             tempo=sum(pace<6.01&pace>5.51),
@@ -288,10 +289,11 @@ PR <- PR %>%
     improvement = best_2017 -best_2018
   )
 
-left_join(pace_zones, PR)
+paces_PR <- left_join(pace_zones, PR)
 
-
-PR
+write.csv(paces_PR, file = "Paces_PRs.csv")
+write.csv(all_activities, file = "All_Activities.csv")
+write.csv(all_kudos, file = "AllKudos.csv")
 
 g <- ggplot(data = all_activities, mapping = aes(x = pace)) +
   geom_density(aes(fill=name))

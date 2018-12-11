@@ -40,7 +40,9 @@ all_activities%>%
 
 
 ```{r}
+## WORD CLOUD http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
 word <- function(runner, runner_n, runner_des){
+file.remove("out.txt")
 for(i in 1:count(runner)[[1]]){
   write(runner_n[i], file="out.txt", append=TRUE)
   write(runner_des[i],file="out.txt",append=TRUE)
@@ -77,7 +79,9 @@ wordcloud(words = d$word, freq = d$freq, min.freq = 5,
           max.words=200, random.order=FALSE, rot.per=0.25, 
           colors=brewer.pal(8, "Dark2"))
 }
-
-word(all_activities, all_activities$name, all_activities$description)
+t <- function(x){
+  all_activities %>%
+  word(all_activities, all_activities$name, all_activities$description)
+}
 ```
 
