@@ -37,7 +37,7 @@ Freshmen
 
 https://maxcandocia.com/article/2017/Sep/22/converting-garmin-fit-to-csv/
 ```{r}
-url <- "https://xc.tfrrs.org/athletes/5492067.html" 
+url <- "https://www.tfrrs.org/athletes/5990267/St_Olaf/Jackson_Simon.html" 
 
 web <- read_html(url)
 data <- html_nodes(web, ".xc .panel-heading-normal-text , .xc .panel-heading-text")
@@ -75,27 +75,36 @@ iron_dog <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist
 birdo <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
   #https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html
 
-plum <- data.frame(meet = as.character(meet_name),distance = as.character(distance),time = as.numeric(as.character(time)), place = as.character(place))
+jack <- data.frame(meet = meet_name,distance = distance,time = as.numeric(as.character(time)), place = place)
 
-billiam
-billiam$meet <- as.character(billiam$meet)
-billiam$time <- as.numeric(billiam$time)
-billiam$date <- as.character(as.vector(billiam$date))
-typeof(billiam$date)
-separate(billiam, meet, into = date, by="|||")
+jack
 
-plum
+times <- 1:8
+times[1] <- 27.520
+times[2] <- 27.15
+times[3] <- 25.4
+times[4] <- 27.33
+times[5] <- 25.67
+times[6] <- 28.91
+times[7] <- 25.65
+times[8] <- 25.11
 
-improvement <- max(billiam[[3]][7]) - min(billiam[[3]][7:12])  #lets just do it manually...
-test <- 1:7
-test[7] <- 25.39
 
+times2 <- 1:8
+times2[1] <- 29.020
+times2[2] <- 27.7
+times2[3] <- 26.3
+times2[4] <- 27.133
+times2[5] <- 26.25
+times2[6] <- 26.25
+times2[7] <- 26.88
+times2[8] <- 26.48
 #3 = justin, 4 = mowgli, 1 = finn, 2 = jackson, 5 = plumb
-test
-
-PR <- tibble(person = c(1:5, "birdo", "ell"), best_time = test)
 
 
+PR <- tibble(person = c(1:5, "birdo", "ell", "bill"), best_2018 = times, best_2017 = times2)
 
+
+PR
 ```
 

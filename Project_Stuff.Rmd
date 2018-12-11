@@ -246,10 +246,40 @@ pace_zones <- all_activities%>%
             total=sum(miles),
             num = n())
 
+
+times[1] <- 27.520
+times[2] <- 27.15
+times[3] <- 25.4
+times[4] <- 27.33
+times[5] <- 25.67
+times[6] <- 28.91
+times[7] <- 25.65
+times[8] <- 25.11
+
+
+times2 <- 1:8
+times2[1] <- 29.020
+times2[2] <- 27.7
+times2[3] <- 26.3
+times2[4] <- 27.133
+times2[5] <- 26.25
+times2[6] <- 26.25
+times2[7] <- 26.88
+times2[8] <- 26.48
+#3 = justin, 4 = mowgli, 1 = finn, 2 = jackson, 5 = plumb
+
+
+PR <- tibble(name = c("Finn","Jackson","Justin","Mowgli","Plumb", "Birdo", "Elliot", "Bill"), best_2018 = times, best_2017 = times2)
+PR <- PR %>%
+  mutate(
+    improvement = best_2017 -best_2018
+  )
+
+PR
 ggplot(data = all_activities, mapping = aes(x = pace)) +
   geom_density(aes(fill=name))
 #If we do Shiny we could have the ability to click and unclick names since there is overlapping.
-pace_zones
+
 
 ggplot(data = pace_zones, mapping = aes(x=person)) +
   geom_point(aes(y= avg_pace))
@@ -271,9 +301,17 @@ ggplot()+
   geom_smooth(aes(x = Justin_run$date, y=Justin_run$pace, color = "blue")) +
 geom_smooth(aes(x = Elliot_run$date, y=Elliot_run$pace, color="green")) +
   geom_smooth(aes(x = Finn_run$date, y=Finn_run$pace, color = "purple")) +
-  geom_smooth(aes(x = Mowgli_run$date, y=Mowgli_run$pace))
+  geom_smooth(aes(x = Mowgli_run$date, y=Mowgli_run$pace)) 
   
-Jackson_run
+
+
+all_activities%>%
+  group_by(name)%>%
+  ggplot(aes(x=date, y=pace, color=name))+
+  geom_smooth(se=FALSE)
+
+
+left_join(all_activities, )
   
 plot(Jackson_run$miles ~ Jackson_run$date, xaxt = "n", type = "l") 
 ```
