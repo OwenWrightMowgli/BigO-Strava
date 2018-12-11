@@ -492,7 +492,7 @@ Bill possibly has a bit of a crush on Plumb, and clearly has never liked Finn mu
   
   
 ```{r}
-write_csv(Home/Mscs264F18/SubmitSectionB/BigO-Strava, file="kudos_match.csv")  # I can't write it
+write.csv(kudos_match, file="kudos_match.csv")  # I can't write it
 ```
 
 
