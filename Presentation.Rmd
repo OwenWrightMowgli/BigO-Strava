@@ -1,0 +1,83 @@
+---
+title: "Presentation"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(igraph)
+library(tm)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+library(visNetwork)
+library(networkD3)
+library(plotly)
+```
+
+```{r}
+all_activities <- read_csv("All_Activities.csv")
+all_kudos <- read_csv("AllKudos.csv")
+paces_prs <- read_csv("Paces_PRs.csv")
+```
+
+
+
+```{r}
+g <- ggplot(data = all_activities, mapping = aes(x = pace)) +
+  geom_density(aes(fill=name))
+ggplotly(g)
+```
+
+
+```{r}
+all_activities%>%
+  group_by(name)%>%
+  ggplot(aes(x=date, y=pace, color=name))+
+  geom_smooth(se=FALSE)
+```
+
+
+```{r}
+word <- function(runner, runner_n, runner_des){
+for(i in 1:count(runner)[[1]]){
+  write(runner_n[i], file="out.txt", append=TRUE)
+  write(runner_des[i],file="out.txt",append=TRUE)
+}
+
+filePath <- "out.txt"
+text <- readLines(filePath)
+docs <- Corpus(VectorSource(text))
+toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+docs <- tm_map(docs, toSpace, "/")
+docs <- tm_map(docs, toSpace, "@")
+docs <- tm_map(docs, toSpace, "\\|")
+# Convert the text to lower case
+docs <- tm_map(docs, content_transformer(tolower))
+# Remove numbers
+docs <- tm_map(docs, removeNumbers)
+# Remove english common stopwords
+docs <- tm_map(docs, removeWords, stopwords("english"))
+# Remove your own stop word
+# specify your stopwords as a character vector
+docs <- tm_map(docs, removeWords, c("blabla1", "blabla2")) 
+# Remove punctuations
+docs <- tm_map(docs, removePunctuation)
+# Eliminate extra white spaces
+docs <- tm_map(docs, stripWhitespace)
+# Text stemming
+# docs <- tm_map(docs, stemDocument)
+dtm <- TermDocumentMatrix(docs)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+set.seed(1234)
+wordcloud(words = d$word, freq = d$freq, min.freq = 5,
+          max.words=200, random.order=FALSE, rot.per=0.25, 
+          colors=brewer.pal(8, "Dark2"))
+}
+
+word(all_activities, all_activities$name, all_activities$description)
+```
+
