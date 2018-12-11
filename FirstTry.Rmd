@@ -17,6 +17,7 @@ library(RColorBrewer)
 library(visNetwork)
 library(networkD3)
 library(plotly)
+library(tidyr)
 ```
 
 ```{r, echo=FALSE}
@@ -222,7 +223,61 @@ plotOutput("myp",height=500,width = 600)
 
 
 ```{r}
+jus_type<-paces_prs%>%
+  filter(name=="Justin")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+jus_type
 
+jac_type<-paces_prs%>%
+  filter(name=="Jackson")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+jac_type
+
+mow_type<-paces_prs%>%
+  filter(name=="Mowgli")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+ow_type
+
+bil_type<-paces_prs%>%
+  filter(name=="Bill")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+bil_type
+
+ell_type<-paces_prs%>%
+  filter(name=="Elliot")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+ell_type
+
+bir_type<-paces_prs%>%
+  filter(name=="Birdo")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+bir_type
+
+plu_type<-paces_prs%>%
+  filter(name=="Plumb")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+plu_type
+
+fin_type<-paces_prs%>%
+  filter(name=="Finn")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+fin_type
 ```
 
 
