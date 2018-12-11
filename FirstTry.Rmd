@@ -266,7 +266,11 @@ mow_type<-paces_prs%>%
   gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
   ggplot()+
   geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+<<<<<<< HEAD
 
+=======
+mow_type
+>>>>>>> 0b5c864bcbfb39eaafa0a1a1a3c38bfdf46fd60f
 
 bil_type<-paces_prs%>%
   filter(name=="Bill")%>%
