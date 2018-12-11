@@ -37,17 +37,21 @@ Freshmen
 
 https://maxcandocia.com/article/2017/Sep/22/converting-garmin-fit-to-csv/
 ```{r}
-url <- "https://www.tfrrs.org/athletes/5492052.html" 
+url <- "https://xc.tfrrs.org/athletes/5492067.html" 
 
 web <- read_html(url)
 data <- html_nodes(web, ".xc .panel-heading-normal-text , .xc .panel-heading-text")
 data_strp <- str_replace_all(html_text(data), '\n','') 
-data_strp <- str_replace_all(data_strp, '\t','') 
+data_strp <- str_replace_all(data_strp, '\t','')
+data_strp <- str_replace_all(data_strp, "\\.",'')
+data_strp <- str_replace_all(data_strp, ':', '\\.')
+
 # 1 = meet + date, 2 = distance, 3 = time, 4 = place 
-meet_name = list() 
-distance = list() 
-time = list() 
-place = list() 
+meet_name <- 0:4
+distance <- 0:4
+time <- 0:4
+place <- 0:4
+date <- 0:4
 k <- 1
 for(i in seq(1, 42, by=4)){
   meet_name[k] = data_strp[i]
@@ -56,7 +60,6 @@ for(i in seq(1, 42, by=4)){
   place[k] = data_strp[i+3]
 k <- k + 1  
 }
-
 
 justin <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
 #https://www.tfrrs.org/athletes/5492056/St_Olaf/Justin_Furcich.html
@@ -71,11 +74,28 @@ iron_dog <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist
   #https://www.tfrrs.org/athletes/5990262/St_Olaf/Elliot_Kadrofske.html
 birdo <- data.frame(unlist(meet_name), unlist(distance), unlist(time), unlist(place))
   #https://www.tfrrs.org/athletes/5492064/St_Olaf/Alec_Kirtley.html
+
+plum <- data.frame(meet = as.character(meet_name),distance = as.character(distance),time = as.numeric(as.character(time)), place = as.character(place))
+
 billiam
-billiam <- data.frame(as.character(meet_name), as.character(distance), as.character(time), as.character(place)) %>% mutate_all(as.character)%>%
-  separate(as.character.meet_name., c("Meet", "Date"), sep = "   ")
-  #https://www.tfrrs.org/athletes/5492052.html
-billiam
+billiam$meet <- as.character(billiam$meet)
+billiam$time <- as.numeric(billiam$time)
+billiam$date <- as.character(as.vector(billiam$date))
+typeof(billiam$date)
+separate(billiam, meet, into = date, by="|||")
+
+plum
+
+improvement <- max(billiam[[3]][7]) - min(billiam[[3]][7:12])  #lets just do it manually...
+test <- 1:7
+test[7] <- 25.39
+
+#3 = justin, 4 = mowgli, 1 = finn, 2 = jackson, 5 = plumb
+test
+
+PR <- tibble(person = c(1:5, "birdo", "ell"), best_time = test)
+
+
 
 ```
 

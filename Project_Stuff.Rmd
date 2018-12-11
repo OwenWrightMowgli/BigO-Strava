@@ -228,8 +228,10 @@ net_matrix
 ```
 
 ```{r}
-all_activities%>%
-  group_by(name)%>%
+
+pace_zones <- all_activities%>%
+  filter(pace < 10) %>%
+  group_by(person)%>%
   summarise(avg_pace=mean(pace),
             variability=sd(pace),
             tempo=sum(pace<6.01&pace>5.51),
@@ -241,13 +243,38 @@ all_activities%>%
             num_long=sum(miles>14),
             pct_long=num_long/n(),
             avg_distance=mean(miles),
-            total=sum(miles))
+            total=sum(miles),
+            num = n())
 
 ggplot(data = all_activities, mapping = aes(x = pace)) +
   geom_density(aes(fill=name))
 #If we do Shiny we could have the ability to click and unclick names since there is overlapping.
+pace_zones
 
+ggplot(data = pace_zones, mapping = aes(x=person)) +
+  geom_point(aes(y= avg_pace))
 
+ggplot(pace_zones, aes(x = person, y = num, fill = easy)) + 
+  geom_bar(stat = "identity")
 
+pr_zones <- left_join(pace_zones, PR)
+pr_zones
+
+ggplot(pr_zones) +
+  geom_point(aes(x=avg_pace, y = best_time))
+
+ggplot(pr_zones) +
+  geom_point(aes(x=total, y = best_time)) 
+
+ggplot()+
+  geom_smooth(aes(x = Jackson_run$date, y=Jackson_run$pace, color = "red")) +
+  geom_smooth(aes(x = Justin_run$date, y=Justin_run$pace, color = "blue")) +
+geom_smooth(aes(x = Elliot_run$date, y=Elliot_run$pace, color="green")) +
+  geom_smooth(aes(x = Finn_run$date, y=Finn_run$pace, color = "purple")) +
+  geom_smooth(aes(x = Mowgli_run$date, y=Mowgli_run$pace))
+  
+Jackson_run
+  
+plot(Jackson_run$miles ~ Jackson_run$date, xaxt = "n", type = "l") 
 ```
 #turning what qualifies as "fast" into a statistic thats athlete specific?
