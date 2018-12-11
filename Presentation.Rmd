@@ -1,6 +1,7 @@
 ---
 title: "Presentation"
 output: html_document
+runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
@@ -16,10 +17,31 @@ library(networkD3)
 library(plotly)
 ```
 
+
+
+
 ```{r}
 all_activities <- read_csv("All_Activities.csv")
 all_kudos <- read_csv("AllKudos.csv")
 paces_prs <- read_csv("Paces_PRs.csv")
+everything<-all_activities%>%
+  group_by(name)
+```
+
+```{r}
+all_activities%>%
+  filter(name=Justin)%>%
+  group_by(month)
+  
+```
+
+
+```{r}
+d<-paces_prs%>%
+  ggplot()+
+  geom_point(aes(x=total, y=improvement, color=name))
+ggplotly(d)
+
 ```
 
 

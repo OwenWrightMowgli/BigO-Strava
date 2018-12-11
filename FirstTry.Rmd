@@ -1,0 +1,146 @@
+---
+title: "Shiny"
+author: "Owen Wright"
+date: "12/11/2018"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(igraph)
+library(tm)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+library(visNetwork)
+library(networkD3)
+library(plotly)
+```
+
+```{r, echo=FALSE}
+all_activities <- read_csv("All_Activities.csv")
+all_kudos <- read_csv("AllKudos.csv")
+paces_prs <- read_csv("Paces_PRs.csv")
+
+```
+
+
+```{r, echo=FALSE}
+inputPanel(
+  selectInput("variable", label = "x-axis variables:",
+    choices = c("Mileage" = "total",
+                "Average Pace" = "avg_pace",
+                "Average Distance" = "avg_distance",
+                "# of 12+ mi runs" = "num_long",
+                "# of easy runs" = "real_easy",
+                "# of fast runs" = "tempo"), selected="total")
+)
+
+renderPlotly(
+    ggplot(data=paces_prs, mapping=aes_string(x=input$variable, y="improvement", color="name")) + 
+      geom_point())
+```
+There weren't enough athletes to make any true statistical inferences, but we can see even in this limited graph that generally those who put in greater miles, had more runs at faster pace, and everything else that would be expected to be correlated to improvement, did improve the most from one season to the next.  
+
+
+```{r, echo=FALSE}
+g <- ggplot(data = all_activities, mapping = aes(x = pace)) +
+  geom_density(aes(fill=name))
+ggplotly(g)
+```
+Here we can see the distribution of paces for each runner.  It is generally thought that those who spend more time at very easy paces and hard paces, see the greatest training benefit.  Again, there isn't enough data to make statistical inferences, but it is cool to be able to compare athlete to athlete and their pace distributions.  
+
+
+```{r, echo=FALSE}
+d<-all_activities%>%
+  group_by(name)%>%
+  ggplot(aes(x=date, y=pace, color=name))+
+  geom_smooth(se=FALSE)
+ggplotly(d)
+```
+Here we can see each runner's average pace over time from the summer through the fall.  We can see easily who was running hard early in the summer.  
+
+
+Clicking on each runner above will show you some more athlete-specific stats, where we can see reasons for why their data may seem curious
+
+
+```{r}
+juM<-all_activities%>%
+  mutate(month=as.numeric(str_sub(date, 6, 7)))%>%
+  filter(name=="Justin")%>%
+  group_by(month)%>%
+  summarise(total=sum(miles))%>%
+  ggplot(aes())+
+  geom_bar(aes(x=month, y=total), stat="identity")
+```
+
+```{r}
+all_activities%>%
+  mutate(month=as.numeric(str_sub(date, 6, 7)))%>%
+  filter(name=="Jackson")%>%
+  group_by(month)%>%
+  summarise(total=sum(miles))%>%
+  ggplot(aes())+
+  geom_bar(aes(x=month, y=total), stat="identity")
+```
+
+```{r}
+all_activities%>%
+  mutate(month=as.numeric(str_sub(date, 6, 7)))%>%
+  filter(name=="Mowgli")%>%
+  group_by(month)%>%
+  summarise(total=sum(miles))%>%
+  ggplot(aes())+
+  geom_bar(aes(x=month, y=total), stat="identity")
+```
+Here we have some insight as to why Mowgli's pace distribution graph was sinusoidal.  His mileage dropped significantly during this time perriod when his average pace dropped.  This indiciates some sort of injury, so it's possible that he was still trying to run on hard days while taking easy days off entirely.
+
+
+```{r}
+all_activities%>%
+  mutate(month=as.numeric(str_sub(date, 6, 7)))%>%
+  filter(name=="Elliot")%>%
+  group_by(month)%>%
+  summarise(total=sum(miles))%>%
+  ggplot(aes())+
+  geom_bar(aes(x=month, y=total), stat="identity")
+``` 
+It can be seen here that Elliot did not begin using Strava until the summer was over.  This tells us both that his count for total miles is low, and that his pace distribution is skewed to be a little fast, since most athletes do the bulk of their training above 7:00 per mile during the summer months
+
+
+```{r}
+all_activities%>%
+  mutate(month=as.numeric(str_sub(date, 6, 7)))%>%
+  filter(name=="Bill")%>%
+  group_by(month)%>%
+  summarise(total=sum(miles))%>%
+  ggplot(aes())+
+  geom_bar(aes(x=month, y=total), stat="identity")
+``` 
+
+```{r}
+all_activities%>%
+  mutate(month=as.numeric(str_sub(date, 6, 7)))%>%
+  filter(name=="Plumb")%>%
+  group_by(month)%>%
+  summarise(total=sum(miles))%>%
+  ggplot(aes())+
+  geom_bar(aes(x=month, y=total), stat="identity")
+```
+
+```{r}
+all_activities%>%
+  mutate(month=as.numeric(str_sub(date, 6, 7)))%>%
+  filter(name=="Finn")%>%
+  group_by(month)%>%
+  summarise(total=sum(miles))%>%
+  ggplot(aes())+
+  geom_bar(aes(x=month, y=total), stat="identity")
+```
+
+
+
+The goal was to create heatmaps for each runner for everywhere that they ran using the gps files, but the files were simply too big to handle on the R server.  Once converted from gps to csv file, they were simply massive.  
+#Proof of concept here
