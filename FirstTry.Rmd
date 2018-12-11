@@ -42,12 +42,16 @@ renderPlotly(
     ggplot(data=paces_prs, mapping=aes_string(x=input$variable, y="improvement", color="name")) + 
       geom_point())
 ```
+There weren't enough athletes to make any true statistical inferences, but we can see even in this limited graph that generally those who put in greater miles, had more runs at faster pace, and everything else that would be expected to be correlated to improvement, did improve the most from one season to the next.  
+
 
 ```{r, echo=FALSE}
 g <- ggplot(data = all_activities, mapping = aes(x = pace)) +
   geom_density(aes(fill=name))
 ggplotly(g)
 ```
+Here we can see the distribution of paces for each runner.  It is generally thought that those who spend more time at very easy paces and hard paces, see the greatest training benefit.  Again, there isn't enough data to make statistical inferences, but it is cool to be able to compare athlete to athlete and their pace distributions.  
+
 
 ```{r, echo=FALSE}
 d<-all_activities%>%
@@ -56,8 +60,21 @@ d<-all_activities%>%
   geom_smooth(se=FALSE)
 ggplotly(d)
 ```
+Here we can see each runner's average pace over time from the summer through the fall.  We can see easily who was running hard early in the summer.  
+
+
+Clicking on each runner above will show you some more athlete-specific stats
+
 
 ```{r}
-
+all_activities%>%
+  filter(name=="Justin")%>%
+  group_by(month)%>%
+  summarise(total=sum(miles))%>%
+  ggplot(aes())+
+  geom_bar(aes(x=month, y=total), stat="identity")
 ```
 
+
+
+The goal was to create heatmaps for each runners if for no reason other than it would be neat, but the files were simply too big to handle on the R server.  Once converted from gps to csv file, they were simply massive.  

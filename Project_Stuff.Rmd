@@ -175,21 +175,29 @@ word(all_activities, all_activities$name, all_activities$description)
 #Kudos imports, adding column with name to create network
 ```{r}
 Finn_kudos<- read_csv("Finn/Finn/kudos.csv")%>%
-  mutate(giver="1")
+  mutate(giver="1",
+         Gname="Finn")
 Justin_kudos<- read_csv("Fursnatch/kudos.csv")%>%
-  mutate(giver="3")
+  mutate(giver="3",
+         Gname="Justin")
 Jackson_kudos<- read_csv("Jackson/kudos.csv")%>%
-  mutate(giver="2")
+  mutate(giver="2",
+         Gname="Jackson")
 Mowgli_kudos<- read_csv("Mowgli/kudos.csv")%>%
-  mutate(giver="4")
+  mutate(giver="4",
+         Gname="Mowgli")
 Plumb_kudos<- read_csv("Plumb/kudos.csv")%>%
-  mutate(giver="5")
+  mutate(giver="5",
+         Gname="Plumb")
+Bill_kudos<- read_csv("Bill/kudos.csv")%>%
+  mutate(giver="6",
+         Gname="Bill")
 all_kudos<-Finn_kudos%>%
-  rbind(Justin_kudos, Jackson_kudos, Mowgli_kudos, Plumb_kudos)
+  rbind(Justin_kudos, Jackson_kudos, Mowgli_kudos, Plumb_kudos, Bill_kudos)
 #merging all activities and kudos 
 kudos_match<-all_kudos%>%
   inner_join(all_activities, by="id")%>%
-  select(giver, person, elapsed_time, distance, miles, minutes, pace, name, description, count)
+  select(giver, person, count, elapsed_time, distance, miles, minutes, pace, name, description, count, Gname, name)
 #then we can mess around with grouping to create our network
 network<-all_kudos%>%
   inner_join(all_activities, by="id")%>%
@@ -327,3 +335,57 @@ pace_by_date<-all_activities%>%
 
 ```
 #turning what qualifies as "fast" into a statistic thats athlete specific?
+
+```{r}
+jj<-kudos_match%>%
+  filter(Gname=="Justin")%>%
+  group_by(name)%>%
+  summarise(Given=n())%>%
+  ggplot()+
+  geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
+ggplotly(jj)
+
+jjj<-kudos_match%>%
+  filter(Gname=="Jackson")%>%
+  group_by(name)%>%
+  summarise(Given=n())%>%
+  ggplot()+
+  geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
+ggplotly(jjj)
+
+f<-kudos_match%>%
+  filter(Gname=="Finn")%>%
+  group_by(name)%>%
+  summarise(Given=n())%>%
+  ggplot()+
+  geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
+ggplotly(f)
+
+m<-kudos_match%>%
+  filter(Gname=="Mowgli")%>%
+  group_by(name)%>%
+  summarise(Given=n())%>%
+  ggplot()+
+  geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
+ggplotly(m)
+
+p<-kudos_match%>%
+  filter(Gname=="Plumb")%>%
+  group_by(name)%>%
+  summarise(Given=n())%>%
+  ggplot()+
+  geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
+ggplotly(p)
+
+b<-kudos_match%>%
+  filter(Gname=="Bill")%>%
+  group_by(name)%>%
+  summarise(Given=n())%>%
+  ggplot()+
+  geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
+ggplotly(b)
+
+write_csv("kudos_match.csv", Home/Mscs264F18/SubmitSectionB/BigO-Strava) 
+```
+
+
