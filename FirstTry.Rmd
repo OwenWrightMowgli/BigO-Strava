@@ -1,6 +1,6 @@
 ---
-title: "Shiny"
-author: "Owen Wright"
+title: "Strava Data Analysis"
+author: "Owen Wright, Jackson Simon"
 date: "12/11/2018"
 output: html_document
 runtime: shiny
@@ -17,15 +17,16 @@ library(RColorBrewer)
 library(visNetwork)
 library(networkD3)
 library(plotly)
-<<<<<<< HEAD
 library(gridExtra)
+library(grid)
+library(gridBase)
 options(warn = -1)
-=======
-library(tidyr)
->>>>>>> 70d21020fc37818537d3c47772a03412e3cd1460
+
+
 ```
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, include=FALSE }
+
 all_activities <- read_csv("All_Activities.csv")
 all_kudos <- read_csv("AllKudos.csv")
 paces_prs <- read_csv("Paces_PRs.csv")
@@ -33,6 +34,18 @@ kudos_match <- read_csv("kudos_match.csv")
 
 nodes <- read_csv("nodes.csv")
 visnet <- read_csv("visnet.csv")
+
+tfrrs <- read_csv("test.csv")
+
+#tables for tfrrs
+jus_table <- read_csv("jus_table.csv")[-1]
+jac_table <- read_csv("jac_table.csv")[-1]
+mow_table <- read_csv("mow_table.csv")[-1]
+fin_table <- read_csv("fin_table.csv")[-1]
+plu_table <- read_csv("plu_table.csv")[-1]
+bir_table <- read_csv("bir_table.csv")[-1]
+bil_table <- read_csv("bil_table.csv")[-1]
+ell_table <- read_csv("ell_table.csv")[-1]
 
 
 ```
@@ -61,7 +74,13 @@ g <- ggplot(data = all_activities, mapping = aes(x = pace)) +
   geom_density(aes(fill=name))
 ggplotly(g)
 ```
-Here we can see the distribution of paces for each runner.  It is generally thought that those who spend more time at very easy paces and hard paces, see the greatest training benefit.  Again, there isn't enough data to make statistical inferences, but it is cool to be able to compare athlete to athlete and their pace distributions.  
+Here we can see the distribution of paces for each runner.  It is generally thought that those who spend more time at very easy paces and hard paces, see the greatest training benefit.  Again, there isn't enough data to make statistical inferences, but it is cool to be able to compare athlete to athlete and their pace distributions.  The same is done for distance down below.  If nothing else this was something cool for the athletes to have at their disposal.
+
+```{r, echo = FALSE}
+miles_all <- ggplot(data = all_activities, mapping = aes(x = miles)) +
+  geom_density(aes(fill=name))
+ggplotly(miles_all)
+```
 
 
 ```{r, echo=FALSE}
@@ -74,7 +93,7 @@ ggplotly(d)
 Here we can see each runner's average pace over time from the summer through the fall.  We can see easily who was running hard early in the summer.  
 
 
-Clicking on each runner above will show you some more athlete-specific stats, where we can see reasons for why their data may seem curious
+Clicking on each runner below will show you some more athlete-specific stats.  We can see race performance and whose activities each athlete "likes" the most frequently.  We can also deduce reasons for why their data may seem curious
 
 
 ```{r, echo = FALSE}
@@ -106,7 +125,7 @@ moM <- all_activities%>%
   ggplot(aes())+
   geom_bar(aes(x=month, y=total), stat="identity")
 ```
-Here we have some insight as to why Mowgli's pace distribution graph was sinusoidal.  His mileage dropped significantly during this time perriod when his average pace dropped.  This indiciates some sort of injury, so it's possible that he was still trying to run on hard days while taking easy days off entirely.
+
 
 
 ```{r, echo = FALSE}
@@ -118,7 +137,9 @@ elM <- all_activities%>%
   ggplot(aes())+
   geom_bar(aes(x=month, y=total), stat="identity")
 ``` 
-It can be seen here that Elliot did not begin using Strava until the summer was over.  This tells us both that his count for total miles is low, and that his pace distribution is skewed to be a little fast, since most athletes do the bulk of their training above 7:00 per mile during the summer months
+For example, we have some insight as to why Mowgli's pace distribution graph was sinusoidal.  His mileage dropped significantly during this time perriod when his average pace dropped.  This indiciates some sort of injury, so it's possible that he was still trying to run on hard days while taking easy days off entirely.
+
+Additionally, we seen here that Elliot did not begin using Strava until the summer was over.  This tells us both that his count for total miles is low, and that his pace distribution is skewed to be a little fast, since most athletes do the bulk of their training above 7:00 per mile during the summer months
 
 
 ```{r, echo = FALSE}
@@ -226,6 +247,73 @@ biK<-kudos_match%>%
   geom_bar(aes(x=name, y=Given, fill=name), stat="identity", show.legend=FALSE)
 ```
 
+```{r, echo = FALSE}
+jus_type<-paces_prs%>%
+  filter(name=="Justin")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+
+
+jac_type<-paces_prs%>%
+  filter(name=="Jackson")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+
+mow_type<-paces_prs%>%
+  filter(name=="Mowgli")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+
+
+bil_type<-paces_prs%>%
+  filter(name=="Bill")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+
+
+ell_type<-paces_prs%>%
+  filter(name=="Elliot")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+
+
+bir_type<-paces_prs%>%
+  filter(name=="Birdo")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+
+
+plu_type<-paces_prs%>%
+  filter(name=="Plumb")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+
+fin_type<-paces_prs%>%
+  filter(name=="Finn")%>%
+  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
+  ggplot()+
+  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
+
+jus_grob <- tableGrob(jus_table)
+jac_grob <- tableGrob(jac_table)
+bil_grob <- tableGrob(bil_table)
+fin_grob <- tableGrob(fin_table)
+plu_grob <- tableGrob(plu_table)
+ell_grob <- tableGrob(ell_table)
+mow_grob <- tableGrob(mow_table)
+bir_grob <- tableGrob(bir_table)
+```
+
+
+
+
 
 ```{r, echo = FALSE}
 inputPanel(
@@ -234,115 +322,61 @@ inputPanel(
 
 output$myp <- renderPlot({
   if(input$runner =="justin"){
-    grid.arrange(juK,juM)
+    grid.arrange(juK,juM, jus_type, jus_grob)
 
   }
   else if(input$runner=="jackson"){
-  grid.arrange(jaK,jaM)
+  grid.arrange(jaK,jaM, jac_type, jac_grob)
     
   }
   
   else if(input$runner=="bill"){
-      grid.arrange(biK,biM)
+      grid.arrange(biK,biM, bil_type, bil_grob)
 
   }
   else if(input$runner =="finn"){
-     grid.arrange(fiK,fiM)
+     grid.arrange(fiK,fiM, fin_type,  fin_grob)
 
   }
   else if(input$runner == "plumb"){
-     grid.arrange(plK,plM)
+     grid.arrange(plK,plM,plu_type, plu_grob)
 
   }
   else if(input$runner == "elliot"){
-     grid.arrange(elM)
+     grid.arrange(elM, ell_type, ell_grob)
 
   }
   else if(input$runner == "mowgli"){
-     grid.arrange(moK,moM)
+     grid.arrange(moK,moM, mow_type, mow_grob)
 
   }
   else if(input$runner == "birdo"){
-    grid.arrange(birM)
+    grid.arrange(birM, bir_type,  bir_grob)
   }
   
 })
 
-plotOutput("myp",height=500,width = 600)
+plotOutput("myp",height=1000,width = 1400)
 
 
 ```
 
+Here we have a full network for kudos given between athletes
 
-<<<<<<< HEAD
-=======
-```{r}
-jus_type<-paces_prs%>%
-  filter(name=="Justin")%>%
-  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
-  ggplot()+
-  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
-jus_type
 
-jac_type<-paces_prs%>%
-  filter(name=="Jackson")%>%
-  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
-  ggplot()+
-  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
-jac_type
-
-mow_type<-paces_prs%>%
-  filter(name=="Mowgli")%>%
-  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
-  ggplot()+
-  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
-ow_type
-
-bil_type<-paces_prs%>%
-  filter(name=="Bill")%>%
-  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
-  ggplot()+
-  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
-bil_type
-
-ell_type<-paces_prs%>%
-  filter(name=="Elliot")%>%
-  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
-  ggplot()+
-  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
-ell_type
-
-bir_type<-paces_prs%>%
-  filter(name=="Birdo")%>%
-  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
-  ggplot()+
-  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
-bir_type
-
-plu_type<-paces_prs%>%
-  filter(name=="Plumb")%>%
-  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
-  ggplot()+
-  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
-plu_type
-
-fin_type<-paces_prs%>%
-  filter(name=="Finn")%>%
-  gather('tempo':'real_easy', key="run_type", value="num_runs")%>%
-  ggplot()+
-  geom_bar(aes(x=run_type, y=num_runs, fill=run_type), stat="identity", show.legend=FALSE)
-fin_type
+```{r, echo = FALSE}
+visNetwork(nodes, visnet) %>%
+  visEdges(smooth=TRUE) %>%
+    visNodes(fixed=FALSE, shape = "circle", color = c(highlight = "purple"))
 ```
 
-
->>>>>>> 70d21020fc37818537d3c47772a03412e3cd1460
 
 The goal was to create heatmaps for each runner for everywhere that they ran using the gps files, but the files were simply too big to handle on the R server.  Once converted from gps to csv file, they were simply massive.  
-#Proof of concept here
+
+What we did as an extra feature instead was create a word network for run descriptions based on frequency of words.  
 
 
-#Word cloud function
-```{r, echo = FALSE}
+```{r, echo=FALSE}
 word <- function(runner, runner_n, runner_des){
 file.remove("out.txt")
 for(i in 1:count(runner)[[1]]){
@@ -382,15 +416,11 @@ wordcloud(words = d$word, freq = d$freq, min.freq = 5,
           colors=brewer.pal(8, "Dark2"))
 }
 
-word(all_activities, all_activities$name, all_activities$description)
+output$myc <- renderPlot({word(all_activities, all_activities$name, all_activities$description)})
 
-
+plotOutput("myc",height=600,width = 800)
+                  
 ```
 
-```{r}
-visNetwork(nodes, visnet) %>%
-  visEdges(smooth=TRUE) %>%
-    visNodes(fixed=FALSE, shape = "circle", color = c(highlight = "purple"))
-```
 
 
